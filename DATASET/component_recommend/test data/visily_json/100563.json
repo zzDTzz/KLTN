@@ -1,0 +1,524 @@
+[{
+    "type": "BUTTON",
+    "data": {
+        "size": "XL",
+        "text": "Buy Now",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 0,
+        "height": null,
+        "iconSize": null,
+        "position": {
+            "x": 1147,
+            "y": 1041
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 156,
+        "height": 182,
+        "position": {
+            "x": 48,
+            "y": 380
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "For anyone who has ever been inspired by a TED Talk… this is an insider’s guide to creating talks that are unforgettable.",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 1808,
+        "height": 59,
+        "position": {
+            "x": 45,
+            "y": 244
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "XL",
+        "text": "Buy Now",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 0,
+        "height": null,
+        "iconSize": null,
+        "position": {
+            "x": 187,
+            "y": 1041
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "size": "S",
+        "text": "$230",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "height": 50,
+        "position": {
+            "x": 2165,
+            "y": 520
+        },
+        "textAlign": "LEFT"
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "XL",
+        "text": "Buy Now",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 0,
+        "height": null,
+        "iconSize": null,
+        "position": {
+            "x": 648,
+            "y": 1041
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "size": "M",
+        "text": "4.5/5",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 35,
+        "position": {
+            "x": 2188,
+            "y": 647
+        },
+        "textAlign": "LEFT"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "TED Talks: The Official TED Guide to Public Speaking\nby Chris Anderson, curator of TED\n\nNow in paperback\nSince taking over TED in the early 2000s, Chris Anderson has shown how carefully crafted short talks can be the key to unlocking empathy, stirring excitement, spreading knowledge, and promoting a shared dream. Done right, a talk can electrify a room and transform an audience’s worldview. Done right, a talk is more powerful than anything in written form.\n\nThis book explains how the miracle of powerful public speaking is achieved, and equips you to give it your best shot. There is no set formula; no two talks should be the same. The goal is for you to give the talk that only you can give. But don’t be intimidated. You may find it more natural than you think.",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 1690,
+        "height": null,
+        "position": {
+            "x": 230,
+            "y": 334
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "IndieBound",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 206,
+        "height": 48,
+        "position": {
+            "x": 1560,
+            "y": 984
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1920,
+        "height": 66,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "ICON",
+            "data": {
+                "size": "XS",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 16,
+                "height": 16,
+                "position": {
+                    "x": 1786,
+                    "y": 20
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "M",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": null,
+                "height": null,
+                "iconSize": null,
+                "position": {
+                    "x": 1653,
+                    "y": 10
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "XL",
+                "text": "Membership",
+                "color": {
+                    "type": "TERTIARY3"
+                },
+                "width": 0,
+                "height": null,
+                "iconSize": null,
+                "position": {
+                    "x": 741,
+                    "y": 7
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Jack Ma",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 74,
+                "height": 22,
+                "position": {
+                    "x": 1703,
+                    "y": 17
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "M",
+                "text": "",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 52,
+                "height": null,
+                "position": {
+                    "x": 1816,
+                    "y": 10
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 73,
+                "height": 43,
+                "position": {
+                    "x": 45,
+                    "y": 6
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "HEADER_MENU",
+            "data": {
+                "size": "XL",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 553,
+                "height": null,
+                "position": {
+                    "x": 160,
+                    "y": 2
+                }
+            },
+            "children": [
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "size": null,
+                        "text": "Attend",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "size": null,
+                        "text": "Watch",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "size": null,
+                        "text": "Participate",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "icon": null,
+                        "size": null,
+                        "text": "Discover",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "size": null,
+                        "text": "About",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+},
+{
+    "type": "ICON",
+    "data": {
+        "size": "M",
+        "color": {
+            "type": "WARNING"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 2164,
+            "y": 646
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Books-a-Million",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 259,
+        "height": 57,
+        "position": {
+            "x": 1075,
+            "y": 984
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 1864,
+            "y": 891
+        },
+        "from": {
+            "x": 56,
+            "y": 891
+        },
+        "position": {
+            "x": 56,
+            "y": 891
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "TED Talks: The Official TED Guide to Public Speaking",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 1053,
+        "height": 61,
+        "position": {
+            "x": 48,
+            "y": 166
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "About > ",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 48,
+            "y": 111
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Amazon",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 180,
+            "y": 984
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "XL",
+        "text": "Buy Now",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 0,
+        "height": null,
+        "iconSize": null,
+        "position": {
+            "x": 1605,
+            "y": 1041
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Barnes & Noble",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 587,
+            "y": 984
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Where to buy",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 56,
+            "y": 920
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+}
+]

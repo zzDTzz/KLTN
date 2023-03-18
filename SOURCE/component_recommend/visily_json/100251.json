@@ -1,0 +1,392 @@
+[{
+    "type": "TEXT",
+    "data": {
+        "text": "Verification Code ",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 343,
+        "height": 48,
+        "position": {
+            "x": 49,
+            "y": 137
+        },
+        "textAlign": "CENTER",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "8",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 68,
+        "height": 56,
+        "position": {
+            "x": 180,
+            "y": 698
+        },
+        "textAlign": "CENTER",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "2",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 68,
+        "height": 56,
+        "position": {
+            "x": 180,
+            "y": 561
+        },
+        "textAlign": "CENTER",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Please type the verification code sent to +123456789",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 270,
+        "height": 78,
+        "position": {
+            "x": 79,
+            "y": 185
+        },
+        "textAlign": "CENTER",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "5",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 68,
+        "height": 56,
+        "position": {
+            "x": 180,
+            "y": 630
+        },
+        "textAlign": "CENTER",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "6",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 68,
+        "height": 56,
+        "position": {
+            "x": 332,
+            "y": 630
+        },
+        "textAlign": "CENTER",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Resend code in 14:07",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 270,
+        "height": 78,
+        "position": {
+            "x": 86,
+            "y": 362
+        },
+        "textAlign": "CENTER",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "4",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 68,
+        "height": 56,
+        "position": {
+            "x": 28,
+            "y": 630
+        },
+        "textAlign": "CENTER",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "7",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 68,
+        "height": 56,
+        "position": {
+            "x": 28,
+            "y": 698
+        },
+        "textAlign": "CENTER",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "4",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 68,
+        "height": 56,
+        "position": {
+            "x": 145,
+            "y": 306
+        },
+        "textAlign": "CENTER",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "position": {
+            "x": 16,
+            "y": 50
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "0",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 68,
+        "height": 56,
+        "position": {
+            "x": 214,
+            "y": 306
+        },
+        "textAlign": "CENTER",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "3",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 68,
+        "height": 56,
+        "position": {
+            "x": 332,
+            "y": 561
+        },
+        "textAlign": "CENTER",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "1",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 68,
+        "height": 56,
+        "position": {
+            "x": 28,
+            "y": 561
+        },
+        "textAlign": "CENTER",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "9",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 68,
+        "height": 56,
+        "position": {
+            "x": 332,
+            "y": 698
+        },
+        "textAlign": "CENTER",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "7",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 68,
+        "height": 56,
+        "position": {
+            "x": 281,
+            "y": 306
+        },
+        "textAlign": "CENTER",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "0",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 68,
+        "height": 56,
+        "position": {
+            "x": 179,
+            "y": 770
+        },
+        "textAlign": "CENTER",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "Confirm",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 321,
+        "position": {
+            "x": 52,
+            "y": 456
+        },
+        "backgroundColor": {
+            "type": "INFO"
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "1",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 68,
+        "height": 56,
+        "position": {
+            "x": 77,
+            "y": 306
+        },
+        "textAlign": "CENTER",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "position": {
+            "x": 354,
+            "y": 786
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 428,
+        "height": 40,
+        "position": {
+            "x": -9,
+            "y": -2
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 96,
+                "height": 40,
+                "position": {
+                    "x": 328,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 72,
+                "height": 40,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+}
+]

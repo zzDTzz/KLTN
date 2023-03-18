@@ -1,0 +1,546 @@
+[{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1269,
+        "height": 1155,
+        "position": {
+            "x": 85.5,
+            "y": 81
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "1000 ratings",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 83,
+                "height": 22,
+                "position": {
+                    "x": 1027,
+                    "y": 611
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "RATING",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "CUSTOM"
+                },
+                "shape": "REGULAR",
+                "width": 100,
+                "position": {
+                    "x": 1124,
+                    "y": 612
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 705,
+                "height": 520,
+                "position": {
+                    "x": 30,
+                    "y": 126
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Incididunt cillum magna anim do eiusmod excepteur aliquip elit. Incididunt proident deserunt id duis nulla commodo. Nisi occaecat cillum ullamco et cillum cupidatat.Pariatur excepte",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 454,
+                "height": 180,
+                "position": {
+                    "x": 770,
+                    "y": 126
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "400"
+            },
+            "children": []
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 564,
+                "height": 368,
+                "position": {
+                    "x": 353.5,
+                    "y": 744
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "GROUP",
+                    "data": {
+                        "width": 489,
+                        "height": 79,
+                        "position": {
+                            "x": 10,
+                            "y": 142
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "AVATAR",
+                            "data": {
+                                "size": "M",
+                                "text": "A",
+                                "color": {
+                                    "type": "PRIMARY"
+                                },
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "M",
+                                "text": "Exercitation duis con",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": null,
+                                "height": 22,
+                                "position": {
+                                    "x": 50,
+                                    "y": 7
+                                },
+                                "textAlign": "LEFT"
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "M",
+                                "text": "Irure nulla ullamco nisi tempor eu ipsum do. Adipisicing minim qui labore sint in enim et occaecat nulla proident excepteur qui conse",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": 439,
+                                "height": 44,
+                                "position": {
+                                    "x": 50,
+                                    "y": 35
+                                },
+                                "textAlign": "LEFT"
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "GROUP",
+                    "data": {
+                        "width": 489,
+                        "height": 79,
+                        "position": {
+                            "x": 10,
+                            "y": 270
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "AVATAR",
+                            "data": {
+                                "size": "M",
+                                "text": "A",
+                                "color": {
+                                    "type": "PRIMARY"
+                                },
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "M",
+                                "text": "Irure nulla ullamco nisi tempor eu ipsum do. Adipisicing minim qui labore sint in enim et occaecat nulla proident excepteur qui conse",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": 439,
+                                "height": 44,
+                                "position": {
+                                    "x": 50,
+                                    "y": 35
+                                },
+                                "textAlign": "LEFT"
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "M",
+                                "text": "Exercitation duis con",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": null,
+                                "height": 22,
+                                "position": {
+                                    "x": 50,
+                                    "y": 7
+                                },
+                                "textAlign": "LEFT"
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "DIVIDER",
+                    "data": {
+                        "to": {
+                            "x": 536,
+                            "y": 123
+                        },
+                        "from": {
+                            "x": 28,
+                            "y": 122
+                        },
+                        "position": {
+                            "x": 28,
+                            "y": 122
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "DIVIDER",
+                    "data": {
+                        "to": {
+                            "x": 536,
+                            "y": 246
+                        },
+                        "from": {
+                            "x": 28,
+                            "y": 245
+                        },
+                        "position": {
+                            "x": 28,
+                            "y": 245
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "GROUP",
+                    "data": {
+                        "width": 489,
+                        "height": 79,
+                        "position": {
+                            "x": 10,
+                            "y": 19
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "M",
+                                "text": "Exercitation duis con",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": null,
+                                "height": 22,
+                                "position": {
+                                    "x": 50,
+                                    "y": 7
+                                },
+                                "textAlign": "LEFT"
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "M",
+                                "text": "Irure nulla ullamco nisi tempor eu ipsum do. Adipisicing minim qui labore sint in enim et occaecat nulla proident excepteur qui conse",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": 439,
+                                "height": 44,
+                                "position": {
+                                    "x": 50,
+                                    "y": 35
+                                },
+                                "textAlign": "LEFT"
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "AVATAR",
+                            "data": {
+                                "size": "M",
+                                "text": "A",
+                                "color": {
+                                    "type": "PRIMARY"
+                                },
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Comments",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 353,
+                    "y": 702
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Dolor ut qui qui",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 30.5,
+                    "y": 27
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1440,
+        "height": 56,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "M",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1384,
+                    "y": 10
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "HEADER_MENU",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 309,
+                "height": null,
+                "position": {
+                    "x": 140,
+                    "y": 2
+                }
+            },
+            "children": [
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Settings",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Home",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Projects",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "icon": null,
+                        "text": "Browse",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 96,
+                "height": 36,
+                "position": {
+                    "x": 20,
+                    "y": 10
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1264,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1304,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1344,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Search...",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [
+                    {
+                        "alignment": "LEFT",
+                        "useBorderColor": false
+                    }
+                ],
+                "width": 256,
+                "height": null,
+                "position": {
+                    "x": 992,
+                    "y": 10
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        }
+    ]
+}
+]

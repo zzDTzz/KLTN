@@ -1,0 +1,2026 @@
+[{
+    "type": "IMAGE",
+    "data": {
+        "width": 36,
+        "height": 36,
+        "position": {
+            "x": 1054,
+            "y": 212
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 36,
+        "height": 36,
+        "position": {
+            "x": 332,
+            "y": 95
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Haha . 8h",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 126,
+        "height": 25,
+        "position": {
+            "x": 105,
+            "y": 627
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "DROPDOWN_BUTTON",
+    "data": {
+        "icon": null,
+        "size": "M",
+        "text": "Media, files and links",
+        "color": {
+            "type": "GRAY"
+        },
+        "label": "Label",
+        "width": 284,
+        "height": null,
+        "position": {
+            "x": 1131,
+            "y": 389
+        },
+        "labelTextSize": null,
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 36,
+        "height": 36,
+        "position": {
+            "x": 330,
+            "y": 731
+        }
+    },
+    "children": []
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 208,
+        "height": 30,
+        "position": {
+            "x": 846,
+            "y": 484
+        },
+        "backgroundColor": {
+            "type": "SECONDARY"
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 16,
+        "height": 17,
+        "position": {
+            "x": 275,
+            "y": 618
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Okie . 4h",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 126,
+        "height": 25,
+        "position": {
+            "x": 105,
+            "y": 366
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Phúc Long",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 105,
+            "y": 775
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 266,
+        "height": 30,
+        "position": {
+            "x": 781,
+            "y": 319
+        },
+        "backgroundColor": {
+            "type": "SECONDARY"
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 36,
+        "height": 36,
+        "position": {
+            "x": 332,
+            "y": 134
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 36,
+        "height": 36,
+        "position": {
+            "x": 332,
+            "y": 411
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 36,
+        "height": 36,
+        "position": {
+            "x": 332,
+            "y": 807
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "SECONDARY"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 402,
+            "y": 865
+        }
+    },
+    "children": []
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 266,
+        "height": 30,
+        "position": {
+            "x": 781,
+            "y": 215
+        },
+        "backgroundColor": {
+            "type": "SECONDARY"
+        }
+    },
+    "children": []
+},
+{
+    "type": "DROPDOWN_BUTTON",
+    "data": {
+        "icon": null,
+        "size": "M",
+        "text": "Customize Chat",
+        "color": {
+            "type": "GRAY"
+        },
+        "label": "Label",
+        "width": 284,
+        "height": null,
+        "position": {
+            "x": 1131,
+            "y": 196
+        },
+        "labelTextSize": null,
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Alex Nguyen",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 105,
+            "y": 257
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 16,
+        "height": 17,
+        "position": {
+            "x": 275,
+            "y": 357
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 36,
+        "height": 36,
+        "position": {
+            "x": 1061,
+            "y": 481
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Nguyen Minh Thu",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 399,
+            "y": 14
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 67,
+        "height": 30,
+        "position": {
+            "x": 980,
+            "y": 364
+        },
+        "backgroundColor": {
+            "type": "SECONDARY"
+        }
+    },
+    "children": []
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 1104,
+            "y": 900
+        },
+        "from": {
+            "x": 1104,
+            "y": 0
+        },
+        "position": {
+            "x": 1104,
+            "y": 0
+        }
+    },
+    "children": []
+},
+{
+    "type": "GROUP",
+    "data": {
+        "width": 282,
+        "height": 690,
+        "position": {
+            "x": 21,
+            "y": 151
+        }
+    },
+    "children": [
+        {
+            "type": "RECTANGLE",
+            "data": {
+                "width": 282,
+                "height": 81,
+                "position": {
+                    "x": 0,
+                    "y": 435
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "RECTANGLE",
+            "data": {
+                "width": 282,
+                "height": 81,
+                "position": {
+                    "x": 0,
+                    "y": 174
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "RECTANGLE",
+            "data": {
+                "width": 282,
+                "height": 81,
+                "position": {
+                    "x": 0,
+                    "y": 348
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "RECTANGLE",
+            "data": {
+                "width": 282,
+                "height": 81,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": {
+                    "type": "SECONDARY"
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 0,
+                    "y": 1
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "RECTANGLE",
+            "data": {
+                "width": 282,
+                "height": 81,
+                "position": {
+                    "x": 0,
+                    "y": 87
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "RECTANGLE",
+            "data": {
+                "width": 282,
+                "height": 81,
+                "position": {
+                    "x": 0,
+                    "y": 522
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "RECTANGLE",
+            "data": {
+                "width": 282,
+                "height": 81,
+                "position": {
+                    "x": 0,
+                    "y": 261
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "SECONDARY"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 367,
+            "y": 865
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 36,
+        "height": 36,
+        "position": {
+            "x": 332,
+            "y": 282
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Chats",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 154,
+        "height": 28,
+        "position": {
+            "x": 21,
+            "y": 15
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 303,
+        "height": 30,
+        "position": {
+            "x": 375,
+            "y": 248
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": []
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 67,
+        "height": 30,
+        "position": {
+            "x": 987,
+            "y": 619
+        },
+        "backgroundColor": {
+            "type": "SECONDARY"
+        }
+    },
+    "children": []
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 113,
+        "height": 30,
+        "position": {
+            "x": 375,
+            "y": 377
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 16,
+        "height": 17,
+        "position": {
+            "x": 275,
+            "y": 441
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "SECONDARY"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 437,
+            "y": 865
+        }
+    },
+    "children": []
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 303,
+        "height": 30,
+        "position": {
+            "x": 375,
+            "y": 810
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Ok . 10h",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 126,
+        "height": 25,
+        "position": {
+            "x": 105,
+            "y": 797
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 284,
+        "height": 161,
+        "position": {
+            "x": 1131,
+            "y": 237
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "SIDEBAR_MENU",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 176,
+                "height": 227,
+                "position": {
+                    "x": 8,
+                    "y": 8
+                }
+            },
+            "children": [
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "size": null,
+                            "alignment": "LEFT"
+                        },
+                        "size": "S",
+                        "text": "Change theme",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": null,
+                        "size": "S",
+                        "text": "Aa   Edit nicknames",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "size": null,
+                            "alignment": "LEFT"
+                        },
+                        "size": "S",
+                        "text": "Search in conversation",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "size": null,
+                            "alignment": "LEFT"
+                        },
+                        "size": "S",
+                        "text": "Change emoji",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 122,
+        "height": 30,
+        "position": {
+            "x": 925,
+            "y": 170
+        },
+        "backgroundColor": {
+            "type": "SECONDARY"
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "SECONDARY"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 966,
+            "y": 25
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 30,
+        "height": 30,
+        "position": {
+            "x": 263,
+            "y": 24
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 284,
+        "height": 152,
+        "position": {
+            "x": 1131,
+            "y": 587
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "SIDEBAR_MENU",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 176,
+                "height": 227,
+                "position": {
+                    "x": 8,
+                    "y": 8
+                }
+            },
+            "children": [
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "size": "S",
+                        "text": "Mute notifications",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "size": "S",
+                        "text": "Ignore messages",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "size": "S",
+                        "text": "Block",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "size": "S",
+                        "text": "Report",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+},
+{
+    "type": "GROUP",
+    "data": {
+        "width": 776,
+        "height": 73,
+        "position": {
+            "x": 241,
+            "y": 141
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Search Messenger",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 120,
+                "height": 22,
+                "position": {
+                    "x": -170,
+                    "y": -48
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "RECTANGLE",
+            "data": {
+                "width": 282,
+                "height": 38,
+                "position": {
+                    "x": -220,
+                    "y": -56
+                },
+                "backgroundColor": {
+                    "type": "NEUTRAL"
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 26,
+                "height": 26,
+                "position": {
+                    "x": -207,
+                    "y": -50
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Active 40m ago",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 90,
+        "height": 25,
+        "position": {
+            "x": 1228,
+            "y": 172
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Phúc Long",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 105,
+            "y": 692
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Gong Cha",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 105,
+            "y": 605
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 50,
+        "height": 50,
+        "position": {
+            "x": 191,
+            "y": 14
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 68,
+        "height": 67,
+        "position": {
+            "x": 27,
+            "y": 506
+        }
+    },
+    "children": []
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 266,
+        "height": 30,
+        "position": {
+            "x": 788,
+            "y": 574
+        },
+        "backgroundColor": {
+            "type": "SECONDARY"
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "You: Ok. That time.... 7h",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 126,
+        "height": null,
+        "position": {
+            "x": 105,
+            "y": 540
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 50,
+        "height": 50,
+        "position": {
+            "x": 253,
+            "y": 14
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "SECONDARY"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 1022,
+            "y": 865
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 273,
+            "y": 182
+        }
+    },
+    "children": []
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 311,
+        "height": 30,
+        "position": {
+            "x": 743,
+            "y": 773
+        },
+        "backgroundColor": {
+            "type": "SECONDARY"
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "You: So surprise . 9h",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 126,
+        "height": 25,
+        "position": {
+            "x": 105,
+            "y": 714
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 68,
+        "height": 67,
+        "position": {
+            "x": 27,
+            "y": 767
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 36,
+        "height": 36,
+        "position": {
+            "x": 1054,
+            "y": 361
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 284,
+        "height": 116,
+        "position": {
+            "x": 1131,
+            "y": 430
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "SIDEBAR_MENU",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 176,
+                "height": 227,
+                "position": {
+                    "x": 8,
+                    "y": 8
+                }
+            },
+            "children": [
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "size": "S",
+                        "text": "Media",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "size": "S",
+                        "text": "Links",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "size": "S",
+                        "text": "Files",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 36,
+        "height": 36,
+        "position": {
+            "x": 332,
+            "y": 374
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 68,
+        "height": 67,
+        "position": {
+            "x": 27,
+            "y": 680
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 30,
+        "height": 30,
+        "position": {
+            "x": 201,
+            "y": 24
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Nguyen Minh Thu",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 105,
+            "y": 170
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 136,
+        "height": 136,
+        "position": {
+            "x": 1205,
+            "y": 11
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "You: Okie . 47m",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 126,
+        "height": 25,
+        "position": {
+            "x": 105,
+            "y": 192
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 16,
+        "height": 17,
+        "position": {
+            "x": 275,
+            "y": 698
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 16,
+        "height": 17,
+        "position": {
+            "x": 275,
+            "y": 270
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 36,
+        "height": 36,
+        "position": {
+            "x": 332,
+            "y": 448
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 36,
+        "height": 36,
+        "position": {
+            "x": 1061,
+            "y": 770
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 36,
+        "height": 36,
+        "position": {
+            "x": 330,
+            "y": 692
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Okie . 50m",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 126,
+        "height": 25,
+        "position": {
+            "x": 105,
+            "y": 279
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 325,
+            "y": 853
+        },
+        "from": {
+            "x": 1104,
+            "y": 853
+        },
+        "position": {
+            "x": 325,
+            "y": 853
+        }
+    },
+    "children": []
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 303,
+        "height": 30,
+        "position": {
+            "x": 375,
+            "y": 414
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": []
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 113,
+        "height": 30,
+        "position": {
+            "x": 373,
+            "y": 658
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 68,
+        "height": 67,
+        "position": {
+            "x": 27,
+            "y": 419
+        }
+    },
+    "children": []
+},
+{
+    "type": "DROPDOWN_BUTTON",
+    "data": {
+        "icon": null,
+        "size": "M",
+        "text": "Privacy & support",
+        "color": {
+            "type": "GRAY"
+        },
+        "label": "Label",
+        "width": 284,
+        "height": null,
+        "position": {
+            "x": 1131,
+            "y": 546
+        },
+        "labelTextSize": null,
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 303,
+        "height": 30,
+        "position": {
+            "x": 375,
+            "y": 98
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Active 40m ago",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 126,
+        "height": 25,
+        "position": {
+            "x": 399,
+            "y": 39
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 188,
+        "height": 30,
+        "position": {
+            "x": 375,
+            "y": 137
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": []
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 580,
+        "height": 30,
+        "position": {
+            "x": 468,
+            "y": 862
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 36,
+        "height": 36,
+        "position": {
+            "x": 1054,
+            "y": 167
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 68,
+        "height": 67,
+        "position": {
+            "x": 27,
+            "y": 332
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 332,
+            "y": 4
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 68,
+        "height": 67,
+        "position": {
+            "x": 27,
+            "y": 245
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 68,
+        "height": 67,
+        "position": {
+            "x": 27,
+            "y": 593
+        }
+    },
+    "children": []
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 122,
+        "height": 30,
+        "position": {
+            "x": 932,
+            "y": 529
+        },
+        "backgroundColor": {
+            "type": "SECONDARY"
+        }
+    },
+    "children": []
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 188,
+        "height": 30,
+        "position": {
+            "x": 375,
+            "y": 285
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 36,
+        "height": 36,
+        "position": {
+            "x": 1061,
+            "y": 616
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 36,
+        "height": 36,
+        "position": {
+            "x": 1054,
+            "y": 316
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "The Alley",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 105,
+            "y": 431
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 36,
+        "height": 36,
+        "position": {
+            "x": 1061,
+            "y": 571
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 36,
+        "height": 36,
+        "position": {
+            "x": 1061,
+            "y": 526
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Aa",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 484,
+            "y": 866
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 188,
+        "height": 30,
+        "position": {
+            "x": 375,
+            "y": 451
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "You: Yes I accept . 6h",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 126,
+        "height": 25,
+        "position": {
+            "x": 105,
+            "y": 453
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 36,
+        "height": 36,
+        "position": {
+            "x": 330,
+            "y": 655
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 16,
+        "height": 17,
+        "position": {
+            "x": 275,
+            "y": 788
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 36,
+        "height": 36,
+        "position": {
+            "x": 332,
+            "y": 245
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "SECONDARY"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 1054,
+            "y": 26
+        }
+    },
+    "children": []
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 303,
+        "height": 30,
+        "position": {
+            "x": 373,
+            "y": 695
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "SECONDARY"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 332,
+            "y": 865
+        }
+    },
+    "children": []
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 188,
+        "height": 30,
+        "position": {
+            "x": 373,
+            "y": 734
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 16,
+        "height": 17,
+        "position": {
+            "x": 275,
+            "y": 531
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Koi Thé",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 105,
+            "y": 518
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 1104,
+            "y": 69
+        },
+        "from": {
+            "x": 325,
+            "y": 69
+        },
+        "position": {
+            "x": 325,
+            "y": 69
+        }
+    },
+    "children": []
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 325,
+            "y": 900
+        },
+        "from": {
+            "x": 325,
+            "y": 0
+        },
+        "position": {
+            "x": 325,
+            "y": 0
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "SECONDARY"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 1010,
+            "y": 25
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Nguyen Minh Thu",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 1187,
+            "y": 140
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Jenny Pham",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 105,
+            "y": 344
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "SECONDARY"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 1066,
+            "y": 865
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Today, 15h30",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 70,
+        "height": 25,
+        "position": {
+            "x": 685,
+            "y": 72
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+}
+]

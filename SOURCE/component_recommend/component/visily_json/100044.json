@@ -1,0 +1,547 @@
+[{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 359,
+            "y": 297
+        },
+        "from": {
+            "x": 16,
+            "y": 296
+        },
+        "position": {
+            "x": 16,
+            "y": 296
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 375,
+        "height": 82,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Cart",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 171,
+                    "y": 43
+                },
+                "textAlign": "CENTER",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "M",
+                "text": "",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 36,
+                "height": null,
+                "position": {
+                    "x": 10,
+                    "y": 40
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 343,
+        "height": 94,
+        "position": {
+            "x": 16,
+            "y": 299
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Nguyen Van C",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 199,
+                "height": 18,
+                "position": {
+                    "x": 108,
+                    "y": 36
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "$10",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 199,
+                "height": 26,
+                "position": {
+                    "x": 109,
+                    "y": 56
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "400"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "M",
+                "text": "",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 36,
+                "height": null,
+                "position": {
+                    "x": 307,
+                    "y": 0
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 94,
+                "height": 94,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "XS",
+                "text": "Thit ga",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 199,
+                "height": 22,
+                "position": {
+                    "x": 108,
+                    "y": 12
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "x5",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 318,
+                    "y": 58
+                },
+                "textAlign": "RIGHT",
+                "fontWeight": ""
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 343,
+        "height": 94,
+        "position": {
+            "x": 16,
+            "y": 200
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "XS",
+                "text": "Thit heo",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 199,
+                "height": 22,
+                "position": {
+                    "x": 108,
+                    "y": 12
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "$10",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 199,
+                "height": 26,
+                "position": {
+                    "x": 108,
+                    "y": 56
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "400"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Nguyen Van B",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 199,
+                "height": 18,
+                "position": {
+                    "x": 108,
+                    "y": 36
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 94,
+                "height": 94,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "M",
+                "text": "",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 36,
+                "height": null,
+                "position": {
+                    "x": 307,
+                    "y": 0
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "x5",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 319,
+                    "y": 58
+                },
+                "textAlign": "RIGHT",
+                "fontWeight": ""
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "icon": {
+            "alignment": "RIGHT"
+        },
+        "size": "M",
+        "text": "Next",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 343,
+        "height": 36,
+        "position": {
+            "x": 16,
+            "y": 622
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 343,
+        "height": 94,
+        "position": {
+            "x": 16,
+            "y": 101
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "M",
+                "text": "",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 36,
+                "height": null,
+                "position": {
+                    "x": 307,
+                    "y": 0
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "XS",
+                "text": "Thit bo",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 199,
+                "height": 22,
+                "position": {
+                    "x": 108,
+                    "y": 12
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "$10",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 199,
+                "height": 26,
+                "position": {
+                    "x": 108,
+                    "y": 56
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "400"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Nguyen Van A",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 199,
+                "height": 18,
+                "position": {
+                    "x": 108,
+                    "y": 36
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "x5",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 318,
+                    "y": 58
+                },
+                "textAlign": "RIGHT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 94,
+                "height": 94,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 359,
+            "y": 198
+        },
+        "from": {
+            "x": 16,
+            "y": 197
+        },
+        "position": {
+            "x": 16,
+            "y": 197
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 375,
+        "height": 812,
+        "position": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "TOTAL",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 16,
+            "y": 584
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "$150",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 315,
+            "y": 580
+        },
+        "textAlign": "RIGHT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 359,
+            "y": 396
+        },
+        "from": {
+            "x": 16,
+            "y": 395
+        },
+        "position": {
+            "x": 16,
+            "y": 395
+        }
+    },
+    "children": []
+}
+]

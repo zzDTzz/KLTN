@@ -1,0 +1,286 @@
+[{
+    "type": "TEXT",
+    "data": {
+        "text": "Incididunt est ea irur",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 117,
+            "y": 140
+        },
+        "textAlign": "CENTER",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Proident aliquip molli?",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 110,
+            "y": 406
+        },
+        "textAlign": "CENTER",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "L",
+        "text": "Submit",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 378,
+        "height": null,
+        "position": {
+            "x": 18,
+            "y": 834
+        }
+    },
+    "children": []
+},
+{
+    "type": "CHECKBOX",
+    "data": {
+        "size": "L",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "label": "Label",
+        "width": 366,
+        "height": 236,
+        "position": {
+            "x": 24,
+            "y": 448
+        }
+    },
+    "children": [
+        {
+            "type": "CHECKBOX_ITEM",
+            "data": {
+                "text": "Ad nostrud est est",
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "CHECKBOX_ITEM",
+            "data": {
+                "text": "Cupidatat incididunt",
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "CHECKBOX_ITEM",
+            "data": {
+                "text": "Ad nostrud est est",
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "CHECKBOX_ITEM",
+            "data": {
+                "text": "Ad nostrud est est",
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "CHECKBOX_ITEM",
+            "data": {
+                "text": "Cupidatat incididunt ",
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "CHECKBOX_ITEM",
+            "data": {
+                "text": "Nostrud",
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Duis ipsum enim quis velit laboris dolore aliqua dolore incididunt laboris non non. Et in qui aliquip pariatur",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 296,
+        "height": null,
+        "position": {
+            "x": 59,
+            "y": 174
+        },
+        "textAlign": "CENTER",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 414,
+        "height": 104,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 414,
+                "height": 40,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 72,
+                        "height": 40,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 96,
+                        "height": 40,
+                        "position": {
+                            "x": 318,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "L",
+                "text": "",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 47,
+                "height": null,
+                "position": {
+                    "x": 367,
+                    "y": 50
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Rating",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 284,
+                "height": null,
+                "position": {
+                    "x": 65,
+                    "y": 54
+                },
+                "textAlign": "CENTER",
+                "fontWeight": "700"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "How was everything?",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 115,
+            "y": 286
+        },
+        "textAlign": "CENTER",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "RATING",
+    "data": {
+        "size": "XL",
+        "color": {
+            "type": "CUSTOM"
+        },
+        "shape": "REGULAR",
+        "width": 251,
+        "height": 36,
+        "position": {
+            "x": 82,
+            "y": 324
+        }
+    },
+    "children": []
+}
+]

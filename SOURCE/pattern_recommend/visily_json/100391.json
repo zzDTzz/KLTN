@@ -1,0 +1,946 @@
+[{
+    "type": "TEXTBOX",
+    "data": {
+        "size": "M",
+        "text": "Search",
+        "color": {
+            "type": "GRAY"
+        },
+        "icons": [
+            {
+                "alignment": "LEFT"
+            }
+        ],
+        "label": "Label",
+        "width": 388,
+        "height": null,
+        "position": {
+            "x": 20,
+            "y": 96
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 428,
+        "height": 80,
+        "position": {
+            "x": 0,
+            "y": 233
+        },
+        "backgroundColor": {
+            "type": "PRIMARY"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "9:30 AM",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 353,
+                    "y": 40
+                },
+                "textAlign": "RIGHT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Ad ullamco",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 269,
+                "height": null,
+                "position": {
+                    "x": 84,
+                    "y": 40
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "L",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 48,
+                "height": 48,
+                "position": {
+                    "x": 20,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Kristin Watson",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 312,
+                "height": null,
+                "position": {
+                    "x": 84,
+                    "y": 16
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "OVAL",
+            "data": {
+                "width": 12,
+                "height": 12,
+                "position": {
+                    "x": 396,
+                    "y": 22
+                },
+                "backgroundColor": {
+                    "type": "PRIMARY"
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 428,
+        "height": 83,
+        "position": {
+            "x": 0,
+            "y": 728
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "1w ago",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 360,
+                    "y": 42
+                },
+                "textAlign": "RIGHT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Kiran Glaucus",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 321,
+                "height": null,
+                "position": {
+                    "x": 87,
+                    "y": 16
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "400"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Proident cillum",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 273,
+                "height": null,
+                "position": {
+                    "x": 87,
+                    "y": 42
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "L",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 51,
+                "height": 51,
+                "position": {
+                    "x": 20,
+                    "y": 16
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 428,
+        "height": 83,
+        "position": {
+            "x": 0,
+            "y": 645
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Nostrud eiusmod",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 271,
+                "height": null,
+                "position": {
+                    "x": 87,
+                    "y": 42
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "L",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 51,
+                "height": 51,
+                "position": {
+                    "x": 20,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "3d ago",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 358,
+                    "y": 42
+                },
+                "textAlign": "RIGHT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Jaye Inga",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 321,
+                "height": null,
+                "position": {
+                    "x": 87,
+                    "y": 16
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "400"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 428,
+        "height": 80,
+        "position": {
+            "x": 0,
+            "y": 846
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TABBAR_MENU",
+            "data": {
+                "size": "L",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 343,
+                "height": 48,
+                "position": {
+                    "x": 54,
+                    "y": 16
+                }
+            },
+            "children": [
+                {
+                    "type": "TABBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "People",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TABBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Calls",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TABBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Messages",
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TABBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Settings",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 428,
+        "height": 83,
+        "position": {
+            "x": 0,
+            "y": 396
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Guy Hawkins",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 321,
+                "height": null,
+                "position": {
+                    "x": 87,
+                    "y": 16
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "400"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Aliquip incididunt",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 291,
+                "height": null,
+                "position": {
+                    "x": 87,
+                    "y": 42
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "L",
+                "text": "G",
+                "color": {
+                    "type": "TERTIARY1"
+                },
+                "width": 51,
+                "height": 51,
+                "position": {
+                    "x": 20,
+                    "y": 16
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Mon",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 378,
+                    "y": 42
+                },
+                "textAlign": "RIGHT",
+                "fontWeight": ""
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 428,
+        "height": 96,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Messages",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 284,
+                "height": null,
+                "position": {
+                    "x": 67,
+                    "y": 54
+                },
+                "textAlign": "CENTER",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "L",
+                "text": "",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 47,
+                "height": null,
+                "position": {
+                    "x": 381,
+                    "y": 46
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 428,
+                "height": 40,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 96,
+                        "height": 40,
+                        "position": {
+                            "x": 332,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 72,
+                        "height": 40,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 428,
+        "height": 83,
+        "position": {
+            "x": 0,
+            "y": 313
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Darrell Steward",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 321,
+                "height": null,
+                "position": {
+                    "x": 87,
+                    "y": 16
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "400"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Nostrud eius",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 291,
+                "height": null,
+                "position": {
+                    "x": 87,
+                    "y": 42
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "L",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 51,
+                "height": 51,
+                "position": {
+                    "x": 20,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Mon",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 378,
+                    "y": 42
+                },
+                "textAlign": "RIGHT",
+                "fontWeight": ""
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 428,
+        "height": 83,
+        "position": {
+            "x": 0,
+            "y": 479
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Sun",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 381,
+                    "y": 42
+                },
+                "textAlign": "RIGHT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Irure inci",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 294,
+                "height": null,
+                "position": {
+                    "x": 87,
+                    "y": 42
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Kayley Tess",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 321,
+                "height": null,
+                "position": {
+                    "x": 87,
+                    "y": 16
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "400"
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "L",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 51,
+                "height": 51,
+                "position": {
+                    "x": 20,
+                    "y": 16
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 428,
+        "height": 83,
+        "position": {
+            "x": 0,
+            "y": 562
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Sun",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 381,
+                    "y": 42
+                },
+                "textAlign": "RIGHT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "L",
+                "text": "S",
+                "color": {
+                    "type": "SECONDARY"
+                },
+                "width": 51,
+                "height": 51,
+                "position": {
+                    "x": 20,
+                    "y": 16
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Aute ullamco",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 294,
+                "height": null,
+                "position": {
+                    "x": 87,
+                    "y": 42
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Sara Giona",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 321,
+                "height": null,
+                "position": {
+                    "x": 87,
+                    "y": 16
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "400"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 428,
+        "height": 81,
+        "position": {
+            "x": 0,
+            "y": 152
+        },
+        "backgroundColor": {
+            "type": "PRIMARY"
+        }
+    },
+    "children": [
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "L",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 49,
+                "height": 49,
+                "position": {
+                    "x": 20,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Jane Cooper",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 311,
+                "height": null,
+                "position": {
+                    "x": 85,
+                    "y": 16
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "OVAL",
+            "data": {
+                "width": 12,
+                "height": 12,
+                "position": {
+                    "x": 396,
+                    "y": 22
+                },
+                "backgroundColor": {
+                    "type": "PRIMARY"
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Enim excepteur",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 268,
+                "height": null,
+                "position": {
+                    "x": 85,
+                    "y": 40
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "11:00 AM",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 353,
+                    "y": 40
+                },
+                "textAlign": "RIGHT",
+                "fontWeight": ""
+            },
+            "children": []
+        }
+    ]
+}
+]

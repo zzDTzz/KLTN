@@ -1,0 +1,454 @@
+[{
+    "type": "TEXT",
+    "data": {
+        "text": "Devops",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 102,
+        "height": 22,
+        "position": {
+            "x": 237,
+            "y": 737
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "type": "IMAGE",
+        "width": 110,
+        "height": 96,
+        "position": {
+            "x": 42,
+            "y": 592
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXTBOX",
+    "data": {
+        "size": "M",
+        "text": "Truong Hai",
+        "color": {
+            "type": "GRAY"
+        },
+        "icons": [
+            {
+                "size": null,
+                "alignment": "LEFT"
+            }
+        ],
+        "label": "Label",
+        "width": 129,
+        "height": null,
+        "position": {
+            "x": 231,
+            "y": 495
+        },
+        "labelTextSize": null,
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Popular",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 180,
+            "y": 380
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXTBOX",
+    "data": {
+        "size": "M",
+        "text": "Thao Ha",
+        "color": {
+            "type": "GRAY"
+        },
+        "icons": [
+            {
+                "size": null,
+                "alignment": "LEFT"
+            }
+        ],
+        "label": "Label",
+        "width": 129,
+        "height": null,
+        "position": {
+            "x": 231,
+            "y": 628
+        },
+        "labelTextSize": null,
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Course",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 11,
+            "y": 12
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "$1000",
+        "color": {
+            "type": "TERTIARY1"
+        },
+        "width": null,
+        "height": null,
+        "heihgt": 22,
+        "position": {
+            "x": 237,
+            "y": 803
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "type": "IMAGE",
+        "width": 110,
+        "height": 96,
+        "position": {
+            "x": 42,
+            "y": 459
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 167,
+        "height": 162,
+        "position": {
+            "x": 13,
+            "y": 129
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "XL",
+                "text": "Language",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 99,
+                "height": 28,
+                "position": {
+                    "x": 37,
+                    "y": 126
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 115,
+                "height": 93,
+                "position": {
+                    "x": 24,
+                    "y": 16
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Python 101",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 237,
+            "y": 602
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "New",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 31,
+        "height": 22,
+        "position": {
+            "x": 293,
+            "y": 380
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Choice your course",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 31,
+            "y": 326
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "600"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Product Design",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 237,
+            "y": 469
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXTBOX",
+    "data": {
+        "size": "M",
+        "text": "Find Course",
+        "color": {
+            "type": "GRAY"
+        },
+        "icons": [
+            {
+                "size": null,
+                "alignment": "LEFT"
+            }
+        ],
+        "label": "Label",
+        "width": 364,
+        "height": null,
+        "position": {
+            "x": 11,
+            "y": 77
+        },
+        "labelTextSize": null,
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "TEXTBOX",
+    "data": {
+        "size": "M",
+        "text": "Long Nguyen",
+        "color": {
+            "type": "GRAY"
+        },
+        "icons": [
+            {
+                "size": null,
+                "alignment": "LEFT"
+            }
+        ],
+        "label": "Label",
+        "width": 134,
+        "height": null,
+        "position": {
+            "x": 231,
+            "y": 763
+        },
+        "labelTextSize": null,
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "$1000",
+        "color": {
+            "type": "TERTIARY1"
+        },
+        "width": null,
+        "height": null,
+        "heihgt": 22,
+        "position": {
+            "x": 237,
+            "y": 668
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "type": "IMAGE",
+        "width": 110,
+        "height": 96,
+        "position": {
+            "x": 42,
+            "y": 727
+        }
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "All",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 113,
+        "height": null,
+        "iconSize": null,
+        "position": {
+            "x": 36,
+            "y": 372.5
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 338,
+            "y": 83
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 167,
+        "height": 162,
+        "position": {
+            "x": 208,
+            "y": 129
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Painting",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 99,
+                "height": 28,
+                "position": {
+                    "x": 43,
+                    "y": 126
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 115,
+                "height": 93,
+                "position": {
+                    "x": 24,
+                    "y": 16
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "$1000",
+        "color": {
+            "type": "TERTIARY1"
+        },
+        "width": null,
+        "height": null,
+        "heihgt": 22,
+        "position": {
+            "x": 237,
+            "y": 535
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+}
+]

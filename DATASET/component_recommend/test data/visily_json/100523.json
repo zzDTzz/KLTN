@@ -1,0 +1,1004 @@
+[{
+    "type": "CONTAINER",
+    "data": {
+        "width": 375,
+        "height": 40,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 72,
+                "height": 40,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 375,
+                "height": 40,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": {
+                    "type": "NEUTRAL"
+                }
+            },
+            "children": [
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 72,
+                        "height": 40,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 96,
+                        "height": 40,
+                        "position": {
+                            "x": 279,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 96,
+                "height": 40,
+                "position": {
+                    "x": 279,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 375,
+        "height": 76,
+        "position": {
+            "x": 0,
+            "y": 152
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "11:00 AM",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 294,
+                    "y": 38
+                },
+                "textAlign": "RIGHT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "L",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 40,
+                "height": 40,
+                "position": {
+                    "x": 20,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Tôi phản bội đây",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 218,
+                "height": 22,
+                "position": {
+                    "x": 76,
+                    "y": 38
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Vũ Ngọc Tuấn",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 266,
+                "height": null,
+                "position": {
+                    "x": 76,
+                    "y": 16
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "OVAL",
+            "data": {
+                "width": 12,
+                "height": 12,
+                "position": {
+                    "x": 342,
+                    "y": 21
+                },
+                "backgroundColor": {
+                    "type": "TERTIARY1"
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 375,
+        "height": 76,
+        "position": {
+            "x": 0,
+            "y": 608
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "3d ago",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 308,
+                    "y": 38
+                },
+                "textAlign": "RIGHT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "L",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 20,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Never gonna give you up",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 228,
+                "height": null,
+                "position": {
+                    "x": 80,
+                    "y": 38
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Suma D",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 275,
+                "height": null,
+                "position": {
+                    "x": 80,
+                    "y": 16
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "400"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 375,
+        "height": 76,
+        "position": {
+            "x": 0,
+            "y": 456
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Vũ Ngọc Tuấn clone",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 275,
+                "height": null,
+                "position": {
+                    "x": 80,
+                    "y": 16
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "400"
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "L",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 20,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Sun",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 329,
+                    "y": 38
+                },
+                "textAlign": "RIGHT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Tôi không phản bội đâu",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 249,
+                "height": null,
+                "position": {
+                    "x": 80,
+                    "y": 38
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 375,
+        "height": 76,
+        "position": {
+            "x": 0,
+            "y": 304
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Mon",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 326,
+                    "y": 38
+                },
+                "textAlign": "RIGHT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "á",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 246,
+                "height": null,
+                "position": {
+                    "x": 80,
+                    "y": 38
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "L",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 20,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Nguyễn Lâm Vĩnh Phú",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 275,
+                "height": null,
+                "position": {
+                    "x": 80,
+                    "y": 16
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "400"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 375,
+        "height": 80,
+        "position": {
+            "x": 0,
+            "y": 732
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TABBAR_MENU",
+            "data": {
+                "size": "L",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 343,
+                "height": 48,
+                "position": {
+                    "x": 30,
+                    "y": 16
+                }
+            },
+            "children": [
+                {
+                    "type": "TABBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "People",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TABBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Settings",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TABBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Calls",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TABBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Messages",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 375,
+        "height": 56,
+        "position": {
+            "x": 0,
+            "y": 40
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Messages",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 284,
+                "height": null,
+                "position": {
+                    "x": 44,
+                    "y": 14
+                },
+                "textAlign": "CENTER",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "L",
+                "text": "",
+                "color": {
+                    "type": "BLACK"
+                },
+                "width": 47,
+                "height": null,
+                "position": {
+                    "x": 328,
+                    "y": 6
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "M",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 18,
+                    "y": 10
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 375,
+        "height": 76,
+        "position": {
+            "x": 0,
+            "y": 684
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "L",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 20,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Mike Oxlong",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 275,
+                "height": null,
+                "position": {
+                    "x": 80,
+                    "y": 16
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "400"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "1w ago",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 308,
+                    "y": 38
+                },
+                "textAlign": "RIGHT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "stop",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 228,
+                "height": null,
+                "position": {
+                    "x": 80,
+                    "y": 38
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 375,
+        "height": 76,
+        "position": {
+            "x": 0,
+            "y": 228
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "yis",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 223,
+                "height": null,
+                "position": {
+                    "x": 76,
+                    "y": 38
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "L",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 40,
+                "height": 40,
+                "position": {
+                    "x": 20,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Võ Khương Duy",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 267,
+                "height": null,
+                "position": {
+                    "x": 76,
+                    "y": 16
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "OVAL",
+            "data": {
+                "width": 12,
+                "height": 12,
+                "position": {
+                    "x": 343,
+                    "y": 21
+                },
+                "backgroundColor": {
+                    "type": "TERTIARY1"
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "9:30 AM",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 299,
+                    "y": 38
+                },
+                "textAlign": "RIGHT",
+                "fontWeight": ""
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 375,
+        "height": 76,
+        "position": {
+            "x": 0,
+            "y": 532
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "L",
+                "text": "M",
+                "color": {
+                    "type": "BLACK"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 20,
+                    "y": 16
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Sun",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 329,
+                    "y": 38
+                },
+                "textAlign": "RIGHT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "bruh",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 249,
+                "height": null,
+                "position": {
+                    "x": 80,
+                    "y": 38
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Mike Oxmall",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 275,
+                "height": 22,
+                "position": {
+                    "x": 80,
+                    "y": 16
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "400"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 375,
+        "height": 76,
+        "position": {
+            "x": 0,
+            "y": 380
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Mon",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 326,
+                    "y": 38
+                },
+                "textAlign": "RIGHT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Alexa",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 275,
+                "height": null,
+                "position": {
+                    "x": 80,
+                    "y": 16
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "400"
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "L",
+                "text": "A",
+                "color": {
+                    "type": "BLACK"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 20,
+                    "y": 16
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Play Despacito",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 246,
+                "height": null,
+                "position": {
+                    "x": 80,
+                    "y": 38
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXTBOX",
+    "data": {
+        "size": "M",
+        "text": "Search",
+        "color": {
+            "type": "GRAY"
+        },
+        "icons": [
+            {
+                "alignment": "LEFT"
+            }
+        ],
+        "label": "Label",
+        "width": 335,
+        "height": null,
+        "position": {
+            "x": 20,
+            "y": 96
+        },
+        "backgroundColor": null
+    },
+    "children": []
+}
+]

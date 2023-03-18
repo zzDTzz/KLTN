@@ -1,0 +1,274 @@
+[{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 176,
+            "y": 742
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Rating: 4,5/5",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 97,
+        "height": 26,
+        "position": {
+            "x": 29,
+            "y": 321
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Comic Hub",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 129,
+        "height": 37,
+        "position": {
+            "x": 123,
+            "y": 18
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 325,
+            "y": 717
+        },
+        "from": {
+            "x": 50,
+            "y": 717
+        },
+        "position": {
+            "x": 50,
+            "y": 717
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 375,
+        "height": 178,
+        "position": {
+            "x": 0,
+            "y": 83
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Status: Completed",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 29,
+            "y": 286
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Chapter 5",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 28,
+            "y": 521
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Chapter 1",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 29,
+            "y": 367
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 54,
+            "y": 740
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Chapter 6",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 28,
+            "y": 561
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Chapter 2",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 29,
+            "y": 407
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 329,
+            "y": 358
+        },
+        "from": {
+            "x": 54,
+            "y": 358
+        },
+        "position": {
+            "x": 54,
+            "y": 358
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Chapter 3",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 29,
+            "y": 444
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Chapter 4",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 28,
+            "y": 481
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 293,
+            "y": 740
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Chapter 7",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 29,
+            "y": 601
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+}
+]

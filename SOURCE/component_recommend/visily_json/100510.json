@@ -1,0 +1,1368 @@
+[{
+    "type": "CONTAINER",
+    "data": {
+        "width": 768,
+        "height": 313,
+        "position": {
+            "x": 162,
+            "y": 1007
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "XL",
+                "text": "Action History",
+                "color": {
+                    "type": "SECONDARY"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 32,
+                    "y": 18
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 736,
+                    "y": 184
+                },
+                "from": {
+                    "x": 32,
+                    "y": 183
+                },
+                "position": {
+                    "x": 32,
+                    "y": 183
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Show more history",
+                "color": {
+                    "type": "SECONDARY"
+                },
+                "width": 0,
+                "height": null,
+                "position": {
+                    "x": 33,
+                    "y": 261
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "L",
+                "text": "Closer",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": 26,
+                "position": {
+                    "x": 32,
+                    "y": 201
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Feedback \"This song is like an old wine. Getting finer and finer by years.\"",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 704,
+                "height": 29,
+                "position": {
+                    "x": 32,
+                    "y": 137
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Feb 2021",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 704,
+                "height": 20,
+                "position": {
+                    "x": 32,
+                    "y": 227
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "L",
+                "text": "Perfect",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": 26,
+                "position": {
+                    "x": 32,
+                    "y": 83
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "RIGHT"
+                },
+                "size": "S",
+                "text": "Sort by: Newest",
+                "color": {
+                    "type": "BLACK"
+                },
+                "width": 0,
+                "height": null,
+                "position": {
+                    "x": 613,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "color": {
+                    "type": "SECONDARY"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 675,
+                    "y": 201
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 12,
+                "height": 313,
+                "position": {
+                    "x": 756,
+                    "y": 0
+                },
+                "backgroundColor": {
+                    "type": "NEUTRAL"
+                }
+            },
+            "children": [
+                {
+                    "type": "RECTANGLE",
+                    "data": {
+                        "width": 12,
+                        "height": 124,
+                        "position": {
+                            "x": 0,
+                            "y": 130
+                        },
+                        "backgroundColor": {
+                            "type": "NEUTRAL"
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Mar 2021",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 704,
+                "height": 20,
+                "position": {
+                    "x": 32,
+                    "y": 109
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 736,
+                    "y": 74
+                },
+                "from": {
+                    "x": 32,
+                    "y": 72
+                },
+                "position": {
+                    "x": 32,
+                    "y": 72
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 768,
+        "height": 373,
+        "position": {
+            "x": 162,
+            "y": 601
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Suggest post",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": 26,
+                "position": {
+                    "x": 32,
+                    "y": 94
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 736,
+                    "y": 225
+                },
+                "from": {
+                    "x": 32,
+                    "y": 223
+                },
+                "position": {
+                    "x": 32,
+                    "y": 223
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "I think Meotube should have a forum to discuss \nI have some problems needed to get a surrvey",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 704,
+                "height": null,
+                "position": {
+                    "x": 32,
+                    "y": 305
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Mar 2021",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 704,
+                "height": 20,
+                "position": {
+                    "x": 32,
+                    "y": 271
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Post",
+                "color": {
+                    "type": "SECONDARY"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 32,
+                    "y": 26
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 736,
+                    "y": 82
+                },
+                "from": {
+                    "x": 32,
+                    "y": 80
+                },
+                "position": {
+                    "x": 32,
+                    "y": 80
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "L",
+                "text": "Sharing post",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": 26,
+                "position": {
+                    "x": 32,
+                    "y": 239
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Mar 2021",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 704,
+                "height": 20,
+                "position": {
+                    "x": 32,
+                    "y": 126
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 12,
+                "height": 373,
+                "position": {
+                    "x": 756,
+                    "y": 0
+                },
+                "backgroundColor": {
+                    "type": "NEUTRAL"
+                }
+            },
+            "children": [
+                {
+                    "type": "RECTANGLE",
+                    "data": {
+                        "width": 12,
+                        "height": 124,
+                        "position": {
+                            "x": 0,
+                            "y": 130
+                        },
+                        "backgroundColor": {
+                            "type": "NEUTRAL"
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "RIGHT"
+                },
+                "size": "S",
+                "text": "Sort by: Newest",
+                "color": {
+                    "type": "BLACK"
+                },
+                "width": 0,
+                "height": null,
+                "position": {
+                    "x": 613,
+                    "y": 24
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "I think Meotube should have a forum to discuss \nI have some problems needed to get a surrvey",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 704,
+                "height": null,
+                "position": {
+                    "x": 32,
+                    "y": 160
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 296,
+        "height": 588,
+        "position": {
+            "x": 951,
+            "y": 77
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Send Message",
+                "color": {
+                    "type": "SECONDARY"
+                },
+                "width": 256,
+                "height": null,
+                "position": {
+                    "x": 32,
+                    "y": 86
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 282,
+                    "y": 322
+                },
+                "from": {
+                    "x": 26,
+                    "y": 321
+                },
+                "position": {
+                    "x": 26,
+                    "y": 321
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "S",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 126,
+                    "y": 148
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Report",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 47,
+                "height": 20,
+                "position": {
+                    "x": 147,
+                    "y": 146
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Available\nAs Needed - Open to Offers",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 256,
+                "height": 44,
+                "position": {
+                    "x": 26,
+                    "y": 253
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Add friend",
+                "color": {
+                    "type": "SECONDARY"
+                },
+                "width": 256,
+                "height": null,
+                "position": {
+                    "x": 32,
+                    "y": 32
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 282,
+                    "y": 193
+                },
+                "from": {
+                    "x": 26,
+                    "y": 192
+                },
+                "position": {
+                    "x": 26,
+                    "y": 192
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "https://app.uisprint.io/",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "label": "Label",
+                "width": 256,
+                "height": null,
+                "position": {
+                    "x": 26,
+                    "y": 511
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "English: Native\nGerman: Proficient",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 256,
+                "height": 44,
+                "position": {
+                    "x": 26,
+                    "y": 382
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "L",
+                "text": "Availability",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 256,
+                "height": 26,
+                "position": {
+                    "x": 26,
+                    "y": 217
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Copy Link",
+                "color": {
+                    "type": "SECONDARY"
+                },
+                "width": 256,
+                "height": 20,
+                "position": {
+                    "x": 26,
+                    "y": 555
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "L",
+                "text": "Languages",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 256,
+                "height": 26,
+                "position": {
+                    "x": 26,
+                    "y": 346
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 282,
+                    "y": 451
+                },
+                "from": {
+                    "x": 26,
+                    "y": 450
+                },
+                "position": {
+                    "x": 26,
+                    "y": 450
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "L",
+                "text": "Profile Link",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 256,
+                "height": 26,
+                "position": {
+                    "x": 26,
+                    "y": 475
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 772,
+        "height": 464,
+        "position": {
+            "x": 162,
+            "y": 93
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "L",
+                "text": "Today, 9:00 AM ",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 122,
+                "height": 52,
+                "position": {
+                    "x": 32,
+                    "y": 384
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "L",
+                "text": "Overview",
+                "color": {
+                    "type": "SECONDARY"
+                },
+                "width": 704,
+                "height": 26,
+                "position": {
+                    "x": 32,
+                    "y": 205
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Online Hours",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 87,
+                "height": 22,
+                "position": {
+                    "x": 200,
+                    "y": 410
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "A young music lover\nA meo meo fan with a nice avatar\nNice to join our music commincation\nUsually login at evening, inbox me at this time if you want to chat",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 704,
+                "height": 88,
+                "position": {
+                    "x": 32,
+                    "y": 239
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "US-UK User",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 455,
+                "height": 22,
+                "position": {
+                    "x": 146,
+                    "y": 62
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "S",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 146,
+                    "y": 92
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Streamer Account",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": 22,
+                "position": {
+                    "x": 630,
+                    "y": 62
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Nearly Login",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 90,
+                "height": 44,
+                "position": {
+                    "x": 32,
+                    "y": 410
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "S",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 622,
+                    "y": 36
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 100,
+                "height": 102,
+                "position": {
+                    "x": 32,
+                    "y": 41
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 736,
+                    "y": 356
+                },
+                "from": {
+                    "x": 32,
+                    "y": 355
+                },
+                "position": {
+                    "x": 32,
+                    "y": 355
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "New York ",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 117,
+                "height": null,
+                "position": {
+                    "x": 170,
+                    "y": 90
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "$100k+",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 87,
+                "height": 22,
+                "position": {
+                    "x": 333,
+                    "y": 410
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "XS",
+                "text": "MeoMeo Cat",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 455,
+                "height": 30,
+                "position": {
+                    "x": 146,
+                    "y": 34
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "L",
+                "text": "Total earned",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 114,
+                "height": 26,
+                "position": {
+                    "x": 333,
+                    "y": 384
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "L",
+                "text": "2000+",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 87,
+                "height": 26,
+                "position": {
+                    "x": 200,
+                    "y": 384
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Silver Account",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 95,
+                "height": 23,
+                "position": {
+                    "x": 641,
+                    "y": 32
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 736,
+                    "y": 177
+                },
+                "from": {
+                    "x": 32,
+                    "y": 176
+                },
+                "position": {
+                    "x": 32,
+                    "y": 176
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TAG",
+            "data": {
+                "size": "M",
+                "width": 141,
+                "height": null,
+                "position": {
+                    "x": 146,
+                    "y": 120
+                }
+            },
+            "children": [
+                {
+                    "type": "TAG_ITEM",
+                    "data": {
+                        "text": "Rock",
+                        "color": {
+                            "type": "SECONDARY"
+                        },
+                        "icons": [],
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TAG_ITEM",
+                    "data": {
+                        "text": "RnB",
+                        "color": {
+                            "type": "DANGER"
+                        },
+                        "icons": [],
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TAG_ITEM",
+                    "data": {
+                        "text": "Pop",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "icons": [],
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1440,
+        "height": 56,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "CUSTOM"
+        }
+    },
+    "children": [
+        {
+            "type": "HEADER_MENU",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "SECONDARY"
+                },
+                "width": 427,
+                "height": null,
+                "position": {
+                    "x": 160,
+                    "y": 2
+                }
+            },
+            "children": [
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "icon": null,
+                        "text": "Trending",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Home",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Gaming",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Sports",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Music",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Live",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "News",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 96,
+                "height": 36,
+                "position": {
+                    "x": 24,
+                    "y": 10
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Search...",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [
+                    {
+                        "alignment": "LEFT",
+                        "useBorderColor": false
+                    }
+                ],
+                "width": 256,
+                "height": null,
+                "position": {
+                    "x": 987,
+                    "y": 10
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "XS",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 12,
+                "position": {
+                    "x": 1399,
+                    "y": 23
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1261,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1303,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 35,
+                "height": 35,
+                "position": {
+                    "x": 1345,
+                    "y": 11
+                }
+            },
+            "children": []
+        }
+    ]
+}
+]

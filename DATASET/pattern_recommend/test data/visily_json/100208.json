@@ -1,0 +1,341 @@
+[{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 12,
+            "y": 65
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 36,
+        "height": 36,
+        "position": {
+            "x": 12,
+            "y": 498
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Friends (999)",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 24,
+            "y": 767
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 375,
+        "height": 216,
+        "position": {
+            "x": 0,
+            "y": 108
+        }
+    },
+    "children": []
+},
+{
+    "type": "AVATAR",
+    "data": {
+        "size": "XL",
+        "text": "A",
+        "color": {
+            "type": "GRAY"
+        },
+        "width": null,
+        "height": null,
+        "iconSize": null,
+        "position": {
+            "x": 51,
+            "y": 284
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "A normal person",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 109,
+        "height": 23,
+        "position": {
+            "x": 156,
+            "y": 392
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Live in HCM",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 102,
+        "height": 42,
+        "position": {
+            "x": 56,
+            "y": 501
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Student a HCMUS",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 51,
+            "y": 451
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 19,
+            "y": 556
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "position": {
+            "x": 19,
+            "y": 638
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 12,
+            "y": 449
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Nguyen Van A",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 170,
+        "height": 60,
+        "position": {
+            "x": 36,
+            "y": 355
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 375,
+        "height": 40,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 72,
+                "height": 40,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 96,
+                "height": 40,
+                "position": {
+                    "x": 279,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Studied at Hung Vuong high school",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 235,
+        "height": 66,
+        "position": {
+            "x": 58,
+            "y": 556
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "WHITE"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 338,
+            "y": 284
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 350,
+            "y": 355
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 339,
+        "height": 48,
+        "position": {
+            "x": 36,
+            "y": 53
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Nguyen Van A",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [
+                    {
+                        "alignment": "LEFT"
+                    }
+                ],
+                "label": "Label",
+                "width": 287,
+                "height": null,
+                "position": {
+                    "x": 2,
+                    "y": 6
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "See more about A",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 56,
+            "y": 638
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+}
+]

@@ -1,0 +1,921 @@
+[{
+    "type": "GROUP",
+    "data": {
+        "width": 262,
+        "height": 153,
+        "position": {
+            "x": 38,
+            "y": 185
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "5412 7512 3412",
+                "color": {
+                    "type": "CUSTOM"
+                },
+                "width": 158,
+                "height": 30,
+                "position": {
+                    "x": 25,
+                    "y": 70
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Nguyen Van A",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 25,
+                    "y": 105
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 50,
+                "height": 48,
+                "position": {
+                    "x": 25,
+                    "y": 4
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 52,
+                "height": 31,
+                "position": {
+                    "x": 206,
+                    "y": 102
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "RECTANGLE",
+            "data": {
+                "width": 258,
+                "height": 149,
+                "position": {
+                    "x": 0,
+                    "y": 4
+                },
+                "backgroundColor": {
+                    "type": "NEUTRAL"
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "RECTANGLE",
+            "data": {
+                "width": 258,
+                "height": 149,
+                "position": {
+                    "x": 4,
+                    "y": 0
+                },
+                "backgroundColor": {
+                    "type": "CUSTOM"
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "GROUP",
+    "data": {
+        "width": 337,
+        "height": 42,
+        "position": {
+            "x": 18,
+            "y": 748
+        }
+    },
+    "children": [
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 45,
+                "height": 41,
+                "position": {
+                    "x": 0,
+                    "y": 1
+                },
+                "backgroundColor": {
+                    "type": "TERTIARY2"
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "+ 10 000.00 USD",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 218,
+                    "y": 10
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 32,
+                "height": 32,
+                "position": {
+                    "x": 7,
+                    "y": 6
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Bank transfer",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 56,
+                    "y": 26
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Top-up",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 56,
+                    "y": 0
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 375,
+        "height": 40,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 96,
+                "height": 40,
+                "position": {
+                    "x": 279,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 72,
+                "height": 40,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "$ 17 030",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 38,
+            "y": 110
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "GROUP",
+    "data": {
+        "width": 337,
+        "height": 42,
+        "position": {
+            "x": 18,
+            "y": 696
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Bank transfer",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 56,
+                    "y": 26
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 32,
+                "height": 32,
+                "position": {
+                    "x": 7,
+                    "y": 6
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 45,
+                "height": 41,
+                "position": {
+                    "x": 0,
+                    "y": 1
+                },
+                "backgroundColor": {
+                    "type": "TERTIARY2"
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Top-up",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 56,
+                    "y": 0
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "+ 10 000.00 USD",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 218,
+                    "y": 10
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": ".99",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 188,
+            "y": 128
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "GROUP",
+    "data": {
+        "width": 337,
+        "height": 42,
+        "position": {
+            "x": 20,
+            "y": 540
+        }
+    },
+    "children": [
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 45,
+                "height": 41,
+                "position": {
+                    "x": 0,
+                    "y": 1
+                },
+                "backgroundColor": {
+                    "type": "TERTIARY2"
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "+ 10 000.00 USD",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 218,
+                    "y": 10
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 32,
+                "height": 32,
+                "position": {
+                    "x": 7,
+                    "y": 6
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Bank transfer",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 56,
+                    "y": 26
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Top-up",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 56,
+                    "y": 0
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "GROUP",
+    "data": {
+        "width": 337,
+        "height": 42,
+        "position": {
+            "x": 18,
+            "y": 644
+        }
+    },
+    "children": [
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 45,
+                "height": 41,
+                "position": {
+                    "x": 0,
+                    "y": 1
+                },
+                "backgroundColor": {
+                    "type": "TERTIARY2"
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "+ 10 000.00 USD",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 218,
+                    "y": 10
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Bank transfer",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 56,
+                    "y": 26
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Top-up",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 56,
+                    "y": 0
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 32,
+                "height": 32,
+                "position": {
+                    "x": 7,
+                    "y": 6
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "GROUP",
+    "data": {
+        "width": 337,
+        "height": 42,
+        "position": {
+            "x": 18,
+            "y": 592
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "+ 10 000.00 USD",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 218,
+                    "y": 10
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 32,
+                "height": 32,
+                "position": {
+                    "x": 7,
+                    "y": 6
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Top-up",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 56,
+                    "y": 0
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 45,
+                "height": 41,
+                "position": {
+                    "x": 0,
+                    "y": 1
+                },
+                "backgroundColor": {
+                    "type": "TERTIARY2"
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Bank transfer",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 56,
+                    "y": 26
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "GROUP",
+    "data": {
+        "width": 262,
+        "height": 153,
+        "position": {
+            "x": 329,
+            "y": 187
+        }
+    },
+    "children": [
+        {
+            "type": "RECTANGLE",
+            "data": {
+                "width": 258,
+                "height": 149,
+                "position": {
+                    "x": 0,
+                    "y": 4
+                },
+                "backgroundColor": {
+                    "type": "NEUTRAL"
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "RECTANGLE",
+            "data": {
+                "width": 258,
+                "height": 149,
+                "position": {
+                    "x": 4,
+                    "y": 0
+                },
+                "backgroundColor": {
+                    "type": "CUSTOM"
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 50,
+                "height": 48,
+                "position": {
+                    "x": 25,
+                    "y": 4
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 52,
+                "height": 31,
+                "position": {
+                    "x": 206,
+                    "y": 102
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Nguyen Van A",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 25,
+                    "y": 105
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "5412 7512 3412",
+                "color": {
+                    "type": "CUSTOM"
+                },
+                "width": 158,
+                "height": 30,
+                "position": {
+                    "x": 25,
+                    "y": 70
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Send",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 40,
+        "height": 26,
+        "position": {
+            "x": 301,
+            "y": 424
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Total balance",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 29,
+            "y": 60
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Today",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 19,
+            "y": 511
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Top Up",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 56,
+        "height": 26,
+        "position": {
+            "x": 27,
+            "y": 424
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 362,
+            "y": 501
+        },
+        "from": {
+            "x": 13,
+            "y": 501
+        },
+        "position": {
+            "x": 13,
+            "y": 501
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 42,
+        "height": 42,
+        "position": {
+            "x": 299,
+            "y": 381
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 50,
+        "height": 50,
+        "position": {
+            "x": 167,
+            "y": 377
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Withdraw",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 80,
+        "height": 26,
+        "position": {
+            "x": 152,
+            "y": 424
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 50,
+        "height": 50,
+        "position": {
+            "x": 30,
+            "y": 373
+        }
+    },
+    "children": []
+}
+]

@@ -1,0 +1,360 @@
+[{
+    "type": "TEXT",
+    "data": {
+        "text": "Notifications",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 36,
+            "y": 115
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Smart Finding system",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 36,
+            "y": 174
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "SWITCH",
+    "data": {
+        "size": "S",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "position": {
+            "x": 311,
+            "y": 287
+        }
+    },
+    "children": []
+},
+{
+    "type": "SWITCH",
+    "data": {
+        "size": "S",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "position": {
+            "x": 311,
+            "y": 121
+        }
+    },
+    "children": []
+},
+{
+    "type": "SWITCH",
+    "data": {
+        "size": "S",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "position": {
+            "x": 311,
+            "y": 233
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "LITE Mode",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 36,
+            "y": 292
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 375,
+        "height": 70,
+        "position": {
+            "x": 0,
+            "y": 742
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TABBAR_MENU",
+            "data": {
+                "size": "L",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 343,
+                "height": 42,
+                "position": {
+                    "x": 43,
+                    "y": 14
+                }
+            },
+            "children": [
+                {
+                    "type": "TABBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Search",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TABBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Account",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TABBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Favorites",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TABBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Home",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TABBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Inbox",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Private Account",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 36,
+            "y": 233
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 375,
+        "height": 92,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 375,
+                "height": 40,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 96,
+                        "height": 40,
+                        "position": {
+                            "x": 279,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 72,
+                        "height": 40,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Account",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 153,
+                    "y": 52
+                },
+                "textAlign": "CENTER",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Log out",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 315,
+                    "y": 57
+                },
+                "textAlign": "RIGHT",
+                "fontWeight": "400"
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "S",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 16,
+                    "y": 59
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "SWITCH",
+    "data": {
+        "size": "S",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "position": {
+            "x": 311,
+            "y": 174
+        }
+    },
+    "children": []
+}
+]

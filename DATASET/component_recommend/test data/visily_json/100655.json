@@ -1,0 +1,150 @@
+[{
+    "type": "CONTAINER",
+    "data": {
+        "width": 288,
+        "height": 812,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 288,
+                    "y": 297
+                },
+                "from": {
+                    "x": 0,
+                    "y": 296
+                },
+                "position": {
+                    "x": 0,
+                    "y": 296
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "SIDEBAR_MENU",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 288,
+                "height": 196,
+                "position": {
+                    "x": 0,
+                    "y": 140
+                }
+            },
+            "children": [
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "text": "Item 2",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Favorites",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "text": "Item 1",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "SIDEBAR_MENU",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 288,
+                "height": 196,
+                "position": {
+                    "x": 0,
+                    "y": 88
+                }
+            },
+            "children": [
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Home",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Comic Hub",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 25,
+                    "y": 27
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        }
+    ]
+}
+]

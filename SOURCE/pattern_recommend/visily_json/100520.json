@@ -1,0 +1,383 @@
+[{
+    "type": "CONTAINER",
+    "data": {
+        "width": 375,
+        "height": 40,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 72,
+                "height": 40,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 96,
+                "height": 40,
+                "position": {
+                    "x": 279,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "icon": {
+            "alignment": "LEFT"
+        },
+        "size": "L",
+        "text": "",
+        "color": {
+            "type": "CUSTOM"
+        },
+        "width": 44,
+        "height": null,
+        "position": {
+            "x": 166,
+            "y": 635
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "AVATAR",
+    "data": {
+        "size": "XL",
+        "text": "",
+        "color": {
+            "type": "BLACK"
+        },
+        "width": 112,
+        "height": 112,
+        "iconSize": null,
+        "position": {
+            "x": 132,
+            "y": 102
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "OVAL",
+    "data": {
+        "width": 120,
+        "height": 120,
+        "position": {
+            "x": 287,
+            "y": 153
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Or sign in with",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 133,
+        "height": 56,
+        "position": {
+            "x": 121,
+            "y": 581
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "OVAL",
+    "data": {
+        "width": 281,
+        "height": 281,
+        "position": {
+            "x": -98,
+            "y": -56
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "icon": {
+            "alignment": "LEFT"
+        },
+        "size": "L",
+        "text": "",
+        "color": {
+            "type": "CUSTOM"
+        },
+        "width": 44,
+        "height": null,
+        "position": {
+            "x": 102,
+            "y": 635
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Don't have an account? Sign up",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": 64,
+        "position": {
+            "x": 79,
+            "y": 732
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Sign in",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 134,
+            "y": 225
+        },
+        "textAlign": "CENTER",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 375,
+        "height": 40,
+        "position": {
+            "x": 0,
+            "y": 1
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": [
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 72,
+                "height": 40,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 96,
+                "height": 40,
+                "position": {
+                    "x": 279,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "icon": {
+            "alignment": "LEFT"
+        },
+        "size": "L",
+        "text": "",
+        "color": {
+            "type": "BLACK"
+        },
+        "width": 44,
+        "height": null,
+        "position": {
+            "x": 230,
+            "y": 635
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 335,
+        "height": 273,
+        "position": {
+            "x": 20,
+            "y": 291
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Forgot password?",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 208,
+                    "y": 166
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "L",
+                "text": "Sign in",
+                "color": {
+                    "type": "BLACK"
+                },
+                "width": 335,
+                "height": null,
+                "position": {
+                    "x": 0,
+                    "y": 212
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Enter your password",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [
+                    {
+                        "alignment": "RIGHT",
+                        "useBorderColor": true
+                    },
+                    {
+                        "alignment": "LEFT",
+                        "useBorderColor": true
+                    }
+                ],
+                "label": "Password",
+                "width": 335,
+                "position": {
+                    "x": 0,
+                    "y": 83
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "CHECKBOX",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "label": "Label",
+                "width": 335,
+                "height": 22,
+                "position": {
+                    "x": 0,
+                    "y": 166
+                }
+            },
+            "children": [
+                {
+                    "type": "CHECKBOX_ITEM",
+                    "data": {
+                        "text": "Remember me",
+                        "color": {
+                            "type": "GRAY"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Enter your email",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [
+                    {
+                        "alignment": "LEFT",
+                        "useBorderColor": true
+                    }
+                ],
+                "label": "Email",
+                "width": 335,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        }
+    ]
+}
+]

@@ -1,0 +1,3069 @@
+[{
+    "type": "CONTAINER",
+    "data": {
+        "width": 256,
+        "height": 358,
+        "position": {
+            "x": 0,
+            "y": 138
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 256,
+                    "y": 160
+                },
+                "from": {
+                    "x": 0,
+                    "y": 159
+                },
+                "position": {
+                    "x": 0,
+                    "y": 159
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "SWITCH",
+            "data": {
+                "size": "S",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 32,
+                "height": 44,
+                "position": {
+                    "x": 204,
+                    "y": 176
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "User name",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 178,
+                "height": 22,
+                "position": {
+                    "x": 66,
+                    "y": 12
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "M",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 18,
+                    "y": 15
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "SIDEBAR_MENU",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 244,
+                "height": 80,
+                "position": {
+                    "x": 6,
+                    "y": 73
+                }
+            },
+            "children": [
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Preferences",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Edit profile",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "SIDEBAR_MENU",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 244,
+                "height": 80,
+                "position": {
+                    "x": 6,
+                    "y": 219
+                }
+            },
+            "children": [
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Help center",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Go Pro",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 256,
+                    "y": 213
+                },
+                "from": {
+                    "x": 0,
+                    "y": 212
+                },
+                "position": {
+                    "x": 0,
+                    "y": 212
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "example@gmail.com",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 178,
+                "height": 20,
+                "position": {
+                    "x": 66,
+                    "y": 34
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "SIDEBAR_MENU",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 244,
+                "height": 40,
+                "position": {
+                    "x": 6,
+                    "y": 312
+                }
+            },
+            "children": [
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Sign out",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 256,
+                    "y": 67
+                },
+                "from": {
+                    "x": 0,
+                    "y": 66
+                },
+                "position": {
+                    "x": 0,
+                    "y": 66
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 256,
+                    "y": 306
+                },
+                "from": {
+                    "x": 0,
+                    "y": 305
+                },
+                "position": {
+                    "x": 0,
+                    "y": 305
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "SIDEBAR_MENU",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 198,
+                "height": 40,
+                "position": {
+                    "x": 6,
+                    "y": 166
+                }
+            },
+            "children": [
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Night mode",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1078,
+        "height": 73,
+        "position": {
+            "x": 362,
+            "y": 833
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Ad anim pariatur reprehenderit nisi ",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 256,
+                "height": 22,
+                "position": {
+                    "x": 298,
+                    "y": 25
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "CHECKBOX",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "label": "Label",
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 12,
+                    "y": 25
+                }
+            },
+            "children": [
+                {
+                    "type": "CHECKBOX_ITEM",
+                    "data": {
+                        "text": "",
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "M",
+                "text": "J",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 48,
+                "height": 48,
+                "position": {
+                    "x": 42,
+                    "y": 12
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "John William",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 200,
+                "height": 25,
+                "position": {
+                    "x": 98,
+                    "y": 12
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 1078,
+                    "y": 73
+                },
+                "from": {
+                    "x": 0,
+                    "y": 72
+                },
+                "position": {
+                    "x": 0,
+                    "y": 72
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TAG",
+            "data": {
+                "size": "M",
+                "width": 181,
+                "height": null,
+                "position": {
+                    "x": 810,
+                    "y": 22
+                }
+            },
+            "children": [
+                {
+                    "type": "TAG_ITEM",
+                    "data": {
+                        "text": "Member",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "icons": [],
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TAG_ITEM",
+                    "data": {
+                        "text": "Admin",
+                        "color": {
+                            "type": "GRAY"
+                        },
+                        "icons": [],
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "johnwilliam@company.com",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 256,
+                "height": 22,
+                "position": {
+                    "x": 554,
+                    "y": 25
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Edit",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 0,
+                "height": null,
+                "position": {
+                    "x": 1017,
+                    "y": 18
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Cupidatat ad velit est du",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 200,
+                "height": 23,
+                "position": {
+                    "x": 98,
+                    "y": 37
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1078,
+        "height": 73,
+        "position": {
+            "x": 360,
+            "y": 759
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "CHECKBOX",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "label": "Label",
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 12,
+                    "y": 25
+                }
+            },
+            "children": [
+                {
+                    "type": "CHECKBOX_ITEM",
+                    "data": {
+                        "text": "",
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "johnwilliam@company.com",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 256,
+                "height": 22,
+                "position": {
+                    "x": 554,
+                    "y": 25
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "M",
+                "text": "J",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 48,
+                "height": 48,
+                "position": {
+                    "x": 42,
+                    "y": 12
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Cupidatat ad velit est du",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 200,
+                "height": 23,
+                "position": {
+                    "x": 98,
+                    "y": 37
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 1078,
+                    "y": 73
+                },
+                "from": {
+                    "x": 0,
+                    "y": 72
+                },
+                "position": {
+                    "x": 0,
+                    "y": 72
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TAG",
+            "data": {
+                "size": "M",
+                "width": 181,
+                "height": null,
+                "position": {
+                    "x": 810,
+                    "y": 22
+                }
+            },
+            "children": [
+                {
+                    "type": "TAG_ITEM",
+                    "data": {
+                        "text": "Member",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "icons": [],
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TAG_ITEM",
+                    "data": {
+                        "text": "Admin",
+                        "color": {
+                            "type": "GRAY"
+                        },
+                        "icons": [],
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Edit",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 0,
+                "height": null,
+                "position": {
+                    "x": 1017,
+                    "y": 18
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Ad anim pariatur reprehenderit nisi ",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 256,
+                "height": 22,
+                "position": {
+                    "x": 298,
+                    "y": 25
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "John William",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 200,
+                "height": 25,
+                "position": {
+                    "x": 98,
+                    "y": 12
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1078,
+        "height": 769,
+        "position": {
+            "x": 362,
+            "y": 131
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 1078,
+                "height": 47,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": {
+                    "type": "NEUTRAL"
+                }
+            },
+            "children": [
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Roles",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 156,
+                        "height": 22,
+                        "position": {
+                            "x": 810,
+                            "y": 12
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Name",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 150,
+                        "height": 22,
+                        "position": {
+                            "x": 42,
+                            "y": 12
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": "400"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "CHECKBOX",
+                    "data": {
+                        "size": "M",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "label": "Label",
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 12,
+                            "y": 12
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "CHECKBOX_ITEM",
+                            "data": {
+                                "text": "",
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Email",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 189,
+                        "height": 22,
+                        "position": {
+                            "x": 554,
+                            "y": 12
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                },
+                {
+                    "type": "DIVIDER",
+                    "data": {
+                        "to": {
+                            "x": 1078,
+                            "y": 47
+                        },
+                        "from": {
+                            "x": 0,
+                            "y": 46
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 46
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Description",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 239,
+                        "height": 22,
+                        "position": {
+                            "x": 298,
+                            "y": 12
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 1078,
+                "height": 73,
+                "position": {
+                    "x": 0,
+                    "y": 47
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "TAG",
+                    "data": {
+                        "size": "M",
+                        "width": 132,
+                        "height": null,
+                        "position": {
+                            "x": 810,
+                            "y": 22
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "TAG_ITEM",
+                            "data": {
+                                "text": "Admin",
+                                "color": {
+                                    "type": "GRAY"
+                                },
+                                "icons": [],
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "jannecooper@company.com",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 256,
+                        "height": 22,
+                        "position": {
+                            "x": 554,
+                            "y": 25
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "DIVIDER",
+                    "data": {
+                        "to": {
+                            "x": 1078,
+                            "y": 73
+                        },
+                        "from": {
+                            "x": 0,
+                            "y": 72
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 72
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Janne Cooper",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 200,
+                        "height": 25,
+                        "position": {
+                            "x": 98,
+                            "y": 12
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "AVATAR",
+                    "data": {
+                        "size": "M",
+                        "text": "J",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": 48,
+                        "height": 48,
+                        "position": {
+                            "x": 42,
+                            "y": 12
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "BUTTON",
+                    "data": {
+                        "size": "M",
+                        "text": "Edit",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": 0,
+                        "height": null,
+                        "position": {
+                            "x": 1017,
+                            "y": 18
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Quis exercitation incidid",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 200,
+                        "height": 23,
+                        "position": {
+                            "x": 98,
+                            "y": 37
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Fugiat veniam Lorem ad et dolor ",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 256,
+                        "height": 22,
+                        "position": {
+                            "x": 298,
+                            "y": 25
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "CHECKBOX",
+                    "data": {
+                        "size": "M",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "label": "Label",
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 12,
+                            "y": 25
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "CHECKBOX_ITEM",
+                            "data": {
+                                "text": "",
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 1078,
+                "height": 73,
+                "position": {
+                    "x": 0,
+                    "y": 266
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "TAG",
+                    "data": {
+                        "size": "M",
+                        "width": 132,
+                        "height": null,
+                        "position": {
+                            "x": 810,
+                            "y": 22
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "TAG_ITEM",
+                            "data": {
+                                "text": "Admin",
+                                "color": {
+                                    "type": "GRAY"
+                                },
+                                "icons": [],
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "AVATAR",
+                    "data": {
+                        "size": "M",
+                        "text": "J",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": 48,
+                        "height": 48,
+                        "position": {
+                            "x": 42,
+                            "y": 12
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "CHECKBOX",
+                    "data": {
+                        "size": "M",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "label": "Label",
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 12,
+                            "y": 25
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "CHECKBOX_ITEM",
+                            "data": {
+                                "text": "",
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "DIVIDER",
+                    "data": {
+                        "to": {
+                            "x": 1078,
+                            "y": 73
+                        },
+                        "from": {
+                            "x": 0,
+                            "y": 72
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 72
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "helenasmith@company.com",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 256,
+                        "height": 22,
+                        "position": {
+                            "x": 554,
+                            "y": 25
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Non laboris commodo dolore qui ",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 256,
+                        "height": 22,
+                        "position": {
+                            "x": 298,
+                            "y": 25
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Eu amet culpa qui Lorem",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 200,
+                        "height": 23,
+                        "position": {
+                            "x": 98,
+                            "y": 37
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Helena Smith",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 200,
+                        "height": 25,
+                        "position": {
+                            "x": 98,
+                            "y": 12
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "BUTTON",
+                    "data": {
+                        "size": "M",
+                        "text": "Edit",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": 0,
+                        "height": null,
+                        "position": {
+                            "x": 1017,
+                            "y": 18
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 1078,
+                "height": 73,
+                "position": {
+                    "x": 0,
+                    "y": 339
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Jenny Wilson",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 200,
+                        "height": 25,
+                        "position": {
+                            "x": 98,
+                            "y": 12
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TAG",
+                    "data": {
+                        "size": "M",
+                        "width": 132,
+                        "height": null,
+                        "position": {
+                            "x": 810,
+                            "y": 22
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "TAG_ITEM",
+                            "data": {
+                                "text": "Admin",
+                                "color": {
+                                    "type": "GRAY"
+                                },
+                                "icons": [],
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "CHECKBOX",
+                    "data": {
+                        "size": "M",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "label": "Label",
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 12,
+                            "y": 25
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "CHECKBOX_ITEM",
+                            "data": {
+                                "text": "",
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "BUTTON",
+                    "data": {
+                        "size": "M",
+                        "text": "Edit",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": 0,
+                        "height": null,
+                        "position": {
+                            "x": 1017,
+                            "y": 18
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "jennywilson@company.com",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 256,
+                        "height": 22,
+                        "position": {
+                            "x": 554,
+                            "y": 25
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "DIVIDER",
+                    "data": {
+                        "to": {
+                            "x": 1078,
+                            "y": 73
+                        },
+                        "from": {
+                            "x": 0,
+                            "y": 72
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 72
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "AVATAR",
+                    "data": {
+                        "size": "M",
+                        "text": "J",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": 48,
+                        "height": 48,
+                        "position": {
+                            "x": 42,
+                            "y": 12
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Ipsum non adipisicing nisi nostrud ",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 256,
+                        "height": 22,
+                        "position": {
+                            "x": 298,
+                            "y": 25
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Elit nostrud ut duis amet",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 200,
+                        "height": 23,
+                        "position": {
+                            "x": 98,
+                            "y": 37
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 1078,
+                "height": 73,
+                "position": {
+                    "x": 0,
+                    "y": 193
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "TAG",
+                    "data": {
+                        "size": "M",
+                        "width": 182,
+                        "height": null,
+                        "position": {
+                            "x": 810,
+                            "y": 22
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "TAG_ITEM",
+                            "data": {
+                                "text": "Member",
+                                "color": {
+                                    "type": "PRIMARY"
+                                },
+                                "icons": [],
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TAG_ITEM",
+                            "data": {
+                                "text": "Owner",
+                                "color": {
+                                    "type": "SECONDARY"
+                                },
+                                "icons": [],
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "AVATAR",
+                    "data": {
+                        "size": "M",
+                        "text": "J",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": 48,
+                        "height": 48,
+                        "position": {
+                            "x": 42,
+                            "y": 12
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "BUTTON",
+                    "data": {
+                        "size": "M",
+                        "text": "Edit",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": 0,
+                        "height": null,
+                        "position": {
+                            "x": 1017,
+                            "y": 18
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "etherhoward@company.com",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 256,
+                        "height": 22,
+                        "position": {
+                            "x": 554,
+                            "y": 25
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Anim nulla tempor ea non eiusmod ",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 256,
+                        "height": 22,
+                        "position": {
+                            "x": 298,
+                            "y": 25
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Commodo officia aute e",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 200,
+                        "height": 23,
+                        "position": {
+                            "x": 98,
+                            "y": 37
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Ether Howard",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 200,
+                        "height": 25,
+                        "position": {
+                            "x": 98,
+                            "y": 12
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "DIVIDER",
+                    "data": {
+                        "to": {
+                            "x": 1078,
+                            "y": 73
+                        },
+                        "from": {
+                            "x": 0,
+                            "y": 72
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 72
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "CHECKBOX",
+                    "data": {
+                        "size": "M",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "label": "Label",
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 12,
+                            "y": 25
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "CHECKBOX_ITEM",
+                            "data": {
+                                "text": "",
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 1078,
+                "height": 73,
+                "position": {
+                    "x": 0,
+                    "y": 485
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "BUTTON",
+                    "data": {
+                        "size": "M",
+                        "text": "Edit",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": 0,
+                        "height": null,
+                        "position": {
+                            "x": 1017,
+                            "y": 18
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "johnwilliam@company.com",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 256,
+                        "height": 22,
+                        "position": {
+                            "x": 554,
+                            "y": 25
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Cupidatat ad velit est du",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 200,
+                        "height": 23,
+                        "position": {
+                            "x": 98,
+                            "y": 37
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "DIVIDER",
+                    "data": {
+                        "to": {
+                            "x": 1078,
+                            "y": 73
+                        },
+                        "from": {
+                            "x": 0,
+                            "y": 72
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 72
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TAG",
+                    "data": {
+                        "size": "M",
+                        "width": 181,
+                        "height": null,
+                        "position": {
+                            "x": 810,
+                            "y": 22
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "TAG_ITEM",
+                            "data": {
+                                "text": "Member",
+                                "color": {
+                                    "type": "PRIMARY"
+                                },
+                                "icons": [],
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TAG_ITEM",
+                            "data": {
+                                "text": "Admin",
+                                "color": {
+                                    "type": "GRAY"
+                                },
+                                "icons": [],
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "CHECKBOX",
+                    "data": {
+                        "size": "M",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "label": "Label",
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 12,
+                            "y": 25
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "CHECKBOX_ITEM",
+                            "data": {
+                                "text": "",
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "John William",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 200,
+                        "height": 25,
+                        "position": {
+                            "x": 98,
+                            "y": 12
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Ad anim pariatur reprehenderit nisi ",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 256,
+                        "height": 22,
+                        "position": {
+                            "x": 298,
+                            "y": 25
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "AVATAR",
+                    "data": {
+                        "size": "M",
+                        "text": "J",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": 48,
+                        "height": 48,
+                        "position": {
+                            "x": 42,
+                            "y": 12
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 1078,
+                "height": 73,
+                "position": {
+                    "x": 0,
+                    "y": 120
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Fugiat laborum non ani",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 200,
+                        "height": 23,
+                        "position": {
+                            "x": 98,
+                            "y": 37
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "codyfisher@company.com",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 256,
+                        "height": 22,
+                        "position": {
+                            "x": 554,
+                            "y": 25
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TAG",
+                    "data": {
+                        "size": "M",
+                        "width": 134,
+                        "height": null,
+                        "position": {
+                            "x": 810,
+                            "y": 22
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "TAG_ITEM",
+                            "data": {
+                                "text": "Owner",
+                                "color": {
+                                    "type": "SECONDARY"
+                                },
+                                "icons": [],
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "BUTTON",
+                    "data": {
+                        "size": "M",
+                        "text": "Edit",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": 0,
+                        "height": null,
+                        "position": {
+                            "x": 1017,
+                            "y": 18
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Laboris ex voluptate aliquip ",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 256,
+                        "height": 22,
+                        "position": {
+                            "x": 298,
+                            "y": 25
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "CHECKBOX",
+                    "data": {
+                        "size": "M",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "label": "Label",
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 12,
+                            "y": 25
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "CHECKBOX_ITEM",
+                            "data": {
+                                "text": "",
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "AVATAR",
+                    "data": {
+                        "size": "M",
+                        "text": "J",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": 48,
+                        "height": 48,
+                        "position": {
+                            "x": 42,
+                            "y": 12
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Cody Fisher",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 200,
+                        "height": 25,
+                        "position": {
+                            "x": 98,
+                            "y": 12
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "DIVIDER",
+                    "data": {
+                        "to": {
+                            "x": 1078,
+                            "y": 73
+                        },
+                        "from": {
+                            "x": 0,
+                            "y": 72
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 72
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 1078,
+                "height": 73,
+                "position": {
+                    "x": 0,
+                    "y": 412
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Kristin Waston",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 200,
+                        "height": 25,
+                        "position": {
+                            "x": 98,
+                            "y": 12
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TAG",
+                    "data": {
+                        "size": "M",
+                        "width": 134,
+                        "height": null,
+                        "position": {
+                            "x": 810,
+                            "y": 22
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "TAG_ITEM",
+                            "data": {
+                                "text": "Owner",
+                                "color": {
+                                    "type": "SECONDARY"
+                                },
+                                "icons": [],
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Velit proident adipisicing sunt ",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 256,
+                        "height": 22,
+                        "position": {
+                            "x": 298,
+                            "y": 25
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Cupidatat ad velit est du",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 200,
+                        "height": 23,
+                        "position": {
+                            "x": 98,
+                            "y": 37
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "AVATAR",
+                    "data": {
+                        "size": "M",
+                        "text": "J",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": 48,
+                        "height": 48,
+                        "position": {
+                            "x": 42,
+                            "y": 12
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "DIVIDER",
+                    "data": {
+                        "to": {
+                            "x": 1078,
+                            "y": 73
+                        },
+                        "from": {
+                            "x": 0,
+                            "y": 72
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 72
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "CHECKBOX",
+                    "data": {
+                        "size": "M",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "label": "Label",
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 12,
+                            "y": 25
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "CHECKBOX_ITEM",
+                            "data": {
+                                "text": "",
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "BUTTON",
+                    "data": {
+                        "size": "M",
+                        "text": "Edit",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": 0,
+                        "height": null,
+                        "position": {
+                            "x": 1017,
+                            "y": 18
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "kristinwaston@company.com",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 256,
+                        "height": 22,
+                        "position": {
+                            "x": 554,
+                            "y": 25
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 1078,
+                "height": 73,
+                "position": {
+                    "x": 0,
+                    "y": 627
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "CHECKBOX",
+                    "data": {
+                        "size": "M",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "label": "Label",
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 12,
+                            "y": 25
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "CHECKBOX_ITEM",
+                            "data": {
+                                "text": "",
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "BUTTON",
+                    "data": {
+                        "size": "M",
+                        "text": "Edit",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": 0,
+                        "height": null,
+                        "position": {
+                            "x": 1017,
+                            "y": 18
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TAG",
+                    "data": {
+                        "size": "M",
+                        "width": 181,
+                        "height": null,
+                        "position": {
+                            "x": 810,
+                            "y": 22
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "TAG_ITEM",
+                            "data": {
+                                "text": "Member",
+                                "color": {
+                                    "type": "PRIMARY"
+                                },
+                                "icons": [],
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TAG_ITEM",
+                            "data": {
+                                "text": "Admin",
+                                "color": {
+                                    "type": "GRAY"
+                                },
+                                "icons": [],
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "DIVIDER",
+                    "data": {
+                        "to": {
+                            "x": 1078,
+                            "y": 73
+                        },
+                        "from": {
+                            "x": 0,
+                            "y": 72
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 72
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Cupidatat ad velit est du",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 200,
+                        "height": 23,
+                        "position": {
+                            "x": 98,
+                            "y": 37
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "johnwilliam@company.com",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 256,
+                        "height": 22,
+                        "position": {
+                            "x": 554,
+                            "y": 25
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "John William",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 200,
+                        "height": 25,
+                        "position": {
+                            "x": 98,
+                            "y": 12
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Ad anim pariatur reprehenderit nisi ",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 256,
+                        "height": 22,
+                        "position": {
+                            "x": 298,
+                            "y": 25
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "AVATAR",
+                    "data": {
+                        "size": "M",
+                        "text": "J",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": 48,
+                        "height": 48,
+                        "position": {
+                            "x": 42,
+                            "y": 12
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1078,
+        "height": 73,
+        "position": {
+            "x": 360,
+            "y": 686
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Cupidatat ad velit est du",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 200,
+                "height": 23,
+                "position": {
+                    "x": 98,
+                    "y": 37
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "M",
+                "text": "J",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 48,
+                "height": 48,
+                "position": {
+                    "x": 42,
+                    "y": 12
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "CHECKBOX",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "label": "Label",
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 12,
+                    "y": 25
+                }
+            },
+            "children": [
+                {
+                    "type": "CHECKBOX_ITEM",
+                    "data": {
+                        "text": "",
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "johnwilliam@company.com",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 256,
+                "height": 22,
+                "position": {
+                    "x": 554,
+                    "y": 25
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TAG",
+            "data": {
+                "size": "M",
+                "width": 181,
+                "height": null,
+                "position": {
+                    "x": 810,
+                    "y": 22
+                }
+            },
+            "children": [
+                {
+                    "type": "TAG_ITEM",
+                    "data": {
+                        "text": "Admin",
+                        "color": {
+                            "type": "GRAY"
+                        },
+                        "icons": [],
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TAG_ITEM",
+                    "data": {
+                        "text": "Member",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "icons": [],
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "John William",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 200,
+                "height": 25,
+                "position": {
+                    "x": 98,
+                    "y": 12
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Edit",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 0,
+                "height": null,
+                "position": {
+                    "x": 1017,
+                    "y": 18
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Ad anim pariatur reprehenderit nisi ",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 256,
+                "height": 22,
+                "position": {
+                    "x": 298,
+                    "y": 25
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 1078,
+                    "y": 73
+                },
+                "from": {
+                    "x": 0,
+                    "y": 72
+                },
+                "position": {
+                    "x": 0,
+                    "y": 72
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1184,
+        "height": 56,
+        "position": {
+            "x": 256,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 1044,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "M",
+                "text": "Create new project",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 172,
+                "height": null,
+                "position": {
+                    "x": 24,
+                    "y": 10
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Search...",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [
+                    {
+                        "alignment": "LEFT",
+                        "useBorderColor": false
+                    }
+                ],
+                "width": 256,
+                "position": {
+                    "x": 772,
+                    "y": 10
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1084,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "M",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1124,
+                    "y": 10
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1078,
+        "height": 73,
+        "position": {
+            "x": 360,
+            "y": 688
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 1078,
+                    "y": 73
+                },
+                "from": {
+                    "x": 0,
+                    "y": 72
+                },
+                "position": {
+                    "x": 0,
+                    "y": 72
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Ad anim pariatur reprehenderit nisi ",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 256,
+                "height": 22,
+                "position": {
+                    "x": 298,
+                    "y": 25
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "John William",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 200,
+                "height": 25,
+                "position": {
+                    "x": 98,
+                    "y": 12
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Cupidatat ad velit est du",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 200,
+                "height": 23,
+                "position": {
+                    "x": 98,
+                    "y": 37
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TAG",
+            "data": {
+                "size": "M",
+                "width": 181,
+                "height": null,
+                "position": {
+                    "x": 810,
+                    "y": 22
+                }
+            },
+            "children": [
+                {
+                    "type": "TAG_ITEM",
+                    "data": {
+                        "text": "Admin",
+                        "color": {
+                            "type": "GRAY"
+                        },
+                        "icons": [],
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TAG_ITEM",
+                    "data": {
+                        "text": "Member",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "icons": [],
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Edit",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 0,
+                "height": null,
+                "position": {
+                    "x": 1017,
+                    "y": 18
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "CHECKBOX",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "label": "Label",
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 12,
+                    "y": 25
+                }
+            },
+            "children": [
+                {
+                    "type": "CHECKBOX_ITEM",
+                    "data": {
+                        "text": "",
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "M",
+                "text": "J",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 48,
+                "height": 48,
+                "position": {
+                    "x": 42,
+                    "y": 12
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "johnwilliam@company.com",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 256,
+                "height": 22,
+                "position": {
+                    "x": 554,
+                    "y": 25
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        }
+    ]
+}
+]

@@ -1,0 +1,89 @@
+[{
+    "type": "IMAGE",
+    "data": {
+        "width": 1440,
+        "height": 900,
+        "position": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 371,
+        "height": 399,
+        "position": {
+            "x": 534,
+            "y": 223
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "L",
+                "text": "",
+                "color": {
+                    "type": "CUSTOM"
+                },
+                "width": 108,
+                "height": 108,
+                "position": {
+                    "x": 132,
+                    "y": 16
+                },
+                "backgroundColor": {
+                    "type": "CUSTOM"
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Back to home",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 335,
+                "height": 54,
+                "iconSize": null,
+                "position": {
+                    "x": 18,
+                    "y": 311
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Transaction Success.",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 335,
+                "height": 40,
+                "position": {
+                    "x": 18,
+                    "y": 144
+                },
+                "textAlign": "CENTER",
+                "fontWeight": "700"
+            },
+            "children": []
+        }
+    ]
+}
+]

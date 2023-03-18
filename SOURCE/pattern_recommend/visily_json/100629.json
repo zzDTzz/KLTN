@@ -1,0 +1,373 @@
+[{
+    "type": "IMAGE",
+    "data": {
+        "width": 512,
+        "height": 1080,
+        "position": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 192,
+        "height": 96,
+        "position": {
+            "x": 64,
+            "y": 128
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 568,
+        "height": 661,
+        "position": {
+            "x": 932,
+            "y": 226
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "M",
+                "text": "Sign up with Google",
+                "color": {
+                    "type": "SECONDARY"
+                },
+                "width": 512,
+                "height": null,
+                "position": {
+                    "x": 28,
+                    "y": 86
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "label": "First name",
+                "width": 246,
+                "height": null,
+                "position": {
+                    "x": 28,
+                    "y": 272
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "L",
+                "text": "Sign up",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 512,
+                "height": null,
+                "position": {
+                    "x": 28,
+                    "y": 551
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "example.email@gmail.com",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "label": "Email",
+                "width": 512,
+                "height": null,
+                "position": {
+                    "x": 28,
+                    "y": 351
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 262,
+                    "y": 241
+                },
+                "from": {
+                    "x": 28,
+                    "y": 241
+                },
+                "width": 249,
+                "height": 1,
+                "position": {
+                    "x": 28,
+                    "y": 241
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "label": "Last name",
+                "width": 246,
+                "height": null,
+                "position": {
+                    "x": 294,
+                    "y": 272
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "OR",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 20,
+                "position": {
+                    "x": 274,
+                    "y": 230
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "M",
+                "text": "Sign up with SOS",
+                "color": {
+                    "type": "BLACK"
+                },
+                "width": 512,
+                "height": null,
+                "position": {
+                    "x": 28,
+                    "y": 174
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "CHECKBOX",
+            "data": {
+                "size": "S",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "label": "Label",
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 28,
+                    "y": 510
+                }
+            },
+            "children": [
+                {
+                    "type": "CHECKBOX_ITEM",
+                    "data": {
+                        "text": "",
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Enter at least 8+ characters ",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [
+                    {
+                        "alignment": "RIGHT",
+                        "useBorderColor": false
+                    }
+                ],
+                "label": "Password",
+                "width": 512,
+                "height": null,
+                "position": {
+                    "x": 28,
+                    "y": 430
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 540,
+                    "y": 241
+                },
+                "from": {
+                    "x": 306,
+                    "y": 241
+                },
+                "width": 249,
+                "height": 1,
+                "position": {
+                    "x": 306,
+                    "y": 241
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Sign up",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 512,
+                "height": 42,
+                "position": {
+                    "x": 28,
+                    "y": 24
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "M",
+                "text": "Sign up with Facebook",
+                "color": {
+                    "type": "CUSTOM"
+                },
+                "width": 512,
+                "height": null,
+                "position": {
+                    "x": 28,
+                    "y": 130
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "By signing up, I agree with the Terms of Use & Privacy Policy",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 44,
+                    "y": 509
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "size": "M",
+        "text": "Already have an account?",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 171,
+        "position": {
+            "x": 1641,
+            "y": 31
+        }
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "Sign in",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 68,
+        "height": null,
+        "position": {
+            "x": 1824,
+            "y": 24
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "size": "L",
+        "text": "Business Tagline",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 208,
+        "height": 36,
+        "position": {
+            "x": 64,
+            "y": 248
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+}
+]

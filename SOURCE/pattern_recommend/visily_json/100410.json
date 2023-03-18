@@ -1,0 +1,155 @@
+[{
+    "type": "CONTAINER",
+    "data": {
+        "width": 49,
+        "height": 49,
+        "position": {
+            "x": 36,
+            "y": 52
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "ICON",
+            "data": {
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 34,
+                "height": 34,
+                "position": {
+                    "x": 8,
+                    "y": 8
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "May 21, 2020",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 36,
+            "y": 260
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 49,
+        "height": 49,
+        "position": {
+            "x": 302,
+            "y": 52
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "ICON",
+            "data": {
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 11,
+                    "y": 11
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Beautiful weather app UI concept",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 315,
+        "height": null,
+        "position": {
+            "x": 36,
+            "y": 140
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "800"
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 375,
+        "height": 40,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 72,
+                "height": 40,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 96,
+                "height": 40,
+                "position": {
+                    "x": 279,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Consequat laborum tempor dolore ea pariatur cupidatat sit proident ad sit dolore adipisicing cillum deserunt. Deserunt cupidatat sit ut incididunt elit aute ut. Ipsum occaecat elit consectetur elit nostrud anim minim cupidatat enim velit occaecat in nulla consequat et adipisicing ut ad anim. Excepteur magna laborum tempor aute ut aute occaecat fugiat cupidatat velit velit Lorem magna anim ipsum. Culpa ad ad deserunt labore aliqua aliqua aliqua.Excepteur in laborum deser",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 315,
+        "height": 485,
+        "position": {
+            "x": 30,
+            "y": 306
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+}
+]

@@ -1,0 +1,96 @@
+[{
+    "type": "GROUP",
+    "data": {
+        "width": 293,
+        "height": 53,
+        "position": {
+            "x": 48,
+            "y": 287
+        }
+    },
+    "children": [
+        {
+            "type": "ICON",
+            "data": {
+                "color": {
+                    "type": "WHITE"
+                },
+                "position": {
+                    "x": 203,
+                    "y": 15
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Try again",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 293,
+                "height": 53,
+                "iconSize": null,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "DANGER"
+        },
+        "width": 100,
+        "height": 100,
+        "position": {
+            "x": 145,
+            "y": 78
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "YOUR PAYMENT HAS FAILED",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 64,
+            "y": 205
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "You can try again to continue.",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 103,
+            "y": 250
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+}
+]

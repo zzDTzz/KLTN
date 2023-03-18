@@ -1,0 +1,1310 @@
+[{
+    "type": "CONTAINER",
+    "data": {
+        "width": 312,
+        "height": 663,
+        "position": {
+            "x": 960,
+            "y": 88
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "L",
+                "text": "Profile Link",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 256,
+                "height": 26,
+                "position": {
+                    "x": 28,
+                    "y": 539
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "L",
+                "text": "Languages",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 256,
+                "height": 26,
+                "position": {
+                    "x": 28,
+                    "y": 420
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "L",
+                "text": "Availability",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 256,
+                "height": 26,
+                "position": {
+                    "x": 28,
+                    "y": 301
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Send Message",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 256,
+                "height": null,
+                "position": {
+                    "x": 28,
+                    "y": 80
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "M",
+                "text": "Save",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 256,
+                "height": null,
+                "position": {
+                    "x": 28,
+                    "y": 184
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Hire Now",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 256,
+                "height": null,
+                "position": {
+                    "x": 28,
+                    "y": 132
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Flag as inappropriate",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 120,
+                "height": null,
+                "position": {
+                    "x": 104,
+                    "y": 240
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "S",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 88,
+                    "y": 242
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Available\nAs Needed - Open to Offers",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 256,
+                "height": 44,
+                "position": {
+                    "x": 28,
+                    "y": 335
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Post Job To Invite",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 256,
+                "height": null,
+                "position": {
+                    "x": 28,
+                    "y": 28
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 284,
+                    "y": 400
+                },
+                "from": {
+                    "x": 28,
+                    "y": 399
+                },
+                "position": {
+                    "x": 28,
+                    "y": 399
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Copy Link",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 256,
+                "height": 20,
+                "position": {
+                    "x": 28,
+                    "y": 615
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "English: Native\nGerman: Proficient",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 256,
+                "height": 44,
+                "position": {
+                    "x": 28,
+                    "y": 454
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "https://app.uisprint.io/",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "label": "Label",
+                "width": 256,
+                "height": null,
+                "position": {
+                    "x": 28,
+                    "y": 573
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 284,
+                    "y": 281
+                },
+                "from": {
+                    "x": 28,
+                    "y": 280
+                },
+                "position": {
+                    "x": 28,
+                    "y": 280
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 284,
+                    "y": 519
+                },
+                "from": {
+                    "x": 28,
+                    "y": 518
+                },
+                "position": {
+                    "x": 28,
+                    "y": 518
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 768,
+        "height": 434,
+        "position": {
+            "x": 168,
+            "y": 88
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "L",
+                "text": "$100k+",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 83,
+                "height": 26,
+                "position": {
+                    "x": 142,
+                    "y": 358
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Jobs finished",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 89,
+                "height": 22,
+                "position": {
+                    "x": 265,
+                    "y": 384
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "L",
+                "text": "60+",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 89,
+                "height": 26,
+                "position": {
+                    "x": 265,
+                    "y": 358
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "S",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 654,
+                    "y": 31
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "XS",
+                "text": "Diana Ross",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 446,
+                "height": 30,
+                "position": {
+                    "x": 140,
+                    "y": 28
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Dolor laborum id culpa voluptate proident cupidatat non enim.\nEa magna culpa nisi commodo nulla mollit ullamco deserunt quis eu sit sint eu minim voluptate ipsum. Lorem esse eiusmod est culpa labore officia incididunt laborum tempor ullamco. Nostrud excepteur tempor ea dolore voluptate dolore officia sit.",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 712,
+                "height": 88,
+                "position": {
+                    "x": 28,
+                    "y": 221
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Hours worked",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 93,
+                "height": 22,
+                "position": {
+                    "x": 394,
+                    "y": 384
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "100% Job Success",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": 22,
+                "position": {
+                    "x": 616,
+                    "y": 56
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Hourly rate",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 74,
+                "height": 22,
+                "position": {
+                    "x": 28,
+                    "y": 384
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Top rated",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 66,
+                "height": null,
+                "position": {
+                    "x": 674,
+                    "y": 28
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "XL",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 96,
+                "height": 96,
+                "position": {
+                    "x": 28,
+                    "y": 28
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "New York - 09:30 AM",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 123,
+                "height": null,
+                "position": {
+                    "x": 162,
+                    "y": 84
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "L",
+                "text": "Overview",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 712,
+                "height": 26,
+                "position": {
+                    "x": 28,
+                    "y": 189
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Total earned",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 83,
+                "height": 22,
+                "position": {
+                    "x": 142,
+                    "y": 384
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 740,
+                    "y": 165
+                },
+                "from": {
+                    "x": 28,
+                    "y": 164
+                },
+                "position": {
+                    "x": 28,
+                    "y": 164
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "S",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 140,
+                    "y": 86
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TAG",
+            "data": {
+                "size": "M",
+                "width": 446,
+                "height": null,
+                "position": {
+                    "x": 140,
+                    "y": 112
+                }
+            },
+            "children": [
+                {
+                    "type": "TAG_ITEM",
+                    "data": {
+                        "text": "Label 3",
+                        "color": {
+                            "type": "DANGER"
+                        },
+                        "icons": [],
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TAG_ITEM",
+                    "data": {
+                        "text": "Label 2",
+                        "color": {
+                            "type": "SECONDARY"
+                        },
+                        "icons": [],
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TAG_ITEM",
+                    "data": {
+                        "text": "Label 1",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "icons": [],
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Professional title",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 446,
+                "height": 22,
+                "position": {
+                    "x": 140,
+                    "y": 58
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "L",
+                "text": "$49.00",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 74,
+                "height": 26,
+                "position": {
+                    "x": 28,
+                    "y": 358
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 740,
+                    "y": 334
+                },
+                "from": {
+                    "x": 28,
+                    "y": 333
+                },
+                "position": {
+                    "x": 28,
+                    "y": 333
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "L",
+                "text": "2000+",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 93,
+                "height": 26,
+                "position": {
+                    "x": 394,
+                    "y": 358
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1440,
+        "height": 56,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "CUSTOM"
+        }
+    },
+    "children": [
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "M",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1380,
+                    "y": 10
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "HEADER_MENU",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 429,
+                "height": null,
+                "position": {
+                    "x": 160,
+                    "y": 2
+                }
+            },
+            "children": [
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "icon": null,
+                        "text": "Freelancers",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Reports",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Community",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Jobs",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Messages",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1300,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Search...",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [
+                    {
+                        "alignment": "LEFT",
+                        "useBorderColor": false
+                    }
+                ],
+                "width": 256,
+                "height": null,
+                "position": {
+                    "x": 1028,
+                    "y": 10
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1340,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 96,
+                "height": 36,
+                "position": {
+                    "x": 24,
+                    "y": 10
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 768,
+        "height": 808,
+        "position": {
+            "x": 168,
+            "y": 546
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Show all feedback",
+                "color": {
+                    "type": "BLACK"
+                },
+                "width": 0,
+                "height": null,
+                "position": {
+                    "x": 28,
+                    "y": 744
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "RATING",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "WARNING"
+                },
+                "shape": "REGULAR",
+                "width": 100,
+                "height": 20,
+                "position": {
+                    "x": 28,
+                    "y": 618
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Mar 2021",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 712,
+                "height": 20,
+                "position": {
+                    "x": 28,
+                    "y": 461
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "L",
+                "text": "Job name",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": 26,
+                "position": {
+                    "x": 28,
+                    "y": 435
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 192,
+                "height": 128,
+                "position": {
+                    "x": 228,
+                    "y": 258
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 740,
+                    "y": 540
+                },
+                "from": {
+                    "x": 28,
+                    "y": 539
+                },
+                "position": {
+                    "x": 28,
+                    "y": 539
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "L",
+                "text": "Job name",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": 26,
+                "position": {
+                    "x": 28,
+                    "y": 90
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "L",
+                "text": "$390",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": 26,
+                "position": {
+                    "x": 697,
+                    "y": 564
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "No feedback given",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 712,
+                "height": 22,
+                "position": {
+                    "x": 28,
+                    "y": 493
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "RATING",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "WARNING"
+                },
+                "shape": "REGULAR",
+                "width": 100,
+                "height": 20,
+                "position": {
+                    "x": 28,
+                    "y": 144
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 192,
+                "height": 128,
+                "position": {
+                    "x": 28,
+                    "y": 258
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 740,
+                    "y": 411
+                },
+                "from": {
+                    "x": 28,
+                    "y": 410
+                },
+                "position": {
+                    "x": 28,
+                    "y": 410
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "XL",
+                "text": "Work history and feedback",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 28,
+                    "y": 22
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "L",
+                "text": "Job name",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": 26,
+                "position": {
+                    "x": 28,
+                    "y": 564
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "L",
+                "text": "$390",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": 26,
+                "position": {
+                    "x": 697,
+                    "y": 90
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "L",
+                "text": "$390",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": 26,
+                "position": {
+                    "x": 697,
+                    "y": 435
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Feb 2021",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 712,
+                "height": 20,
+                "position": {
+                    "x": 28,
+                    "y": 590
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Lorem ipsum dolor sit amet, consectetr  elit. Diam, pellenesque dignissim eu vivamus donec erat. Lorem ipsum dolor sit amet, consectetr  elit. Diam, pellenesque dignissim eu vivamus donec erat. Diam, pellenesque dignissim eu vivamus donec erat.",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 712,
+                "height": 66,
+                "position": {
+                    "x": 28,
+                    "y": 176
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Mar 2021",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 712,
+                "height": 20,
+                "position": {
+                    "x": 28,
+                    "y": 116
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "RIGHT"
+                },
+                "size": "S",
+                "text": "Sort by: Newest",
+                "color": {
+                    "type": "BLACK"
+                },
+                "width": 0,
+                "height": null,
+                "position": {
+                    "x": 617,
+                    "y": 20
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 740,
+                    "y": 74
+                },
+                "from": {
+                    "x": 28,
+                    "y": 72
+                },
+                "position": {
+                    "x": 28,
+                    "y": 72
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Lorem ipsum dolor sit amet, consectetr  elit. Diam, pellenesque dignissim eu vivamus donec erat. Lorem ipsum dolor sit amet, consectetr  elit. Diam, pellenesque dignissim eu vivamus donec erat. Diam, pellenesque dignissim eu vivamus donec erat.",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 712,
+                "height": 66,
+                "position": {
+                    "x": 28,
+                    "y": 650
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        }
+    ]
+}
+]

@@ -1,0 +1,593 @@
+[{
+    "type": "TEXT",
+    "data": {
+        "text": "11:59",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 66,
+            "y": 740
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "AVATAR",
+    "data": {
+        "size": "S",
+        "text": "A",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 24,
+            "y": 686
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 428,
+        "height": 96,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 428,
+                "height": 40,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 96,
+                        "height": 40,
+                        "position": {
+                            "x": 332,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 72,
+                        "height": 40,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Active now",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 231,
+                "height": null,
+                "position": {
+                    "x": 94,
+                    "y": 70
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Jane Cooper",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 231,
+                "height": null,
+                "position": {
+                    "x": 94,
+                    "y": 48
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "M",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 44,
+                    "y": 50
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "L",
+                "text": "",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 44,
+                "height": null,
+                "position": {
+                    "x": 340,
+                    "y": 46
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "L",
+                "text": "",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 44,
+                "height": null,
+                "position": {
+                    "x": 384,
+                    "y": 46
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "L",
+                "text": "",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 44,
+                "height": null,
+                "position": {
+                    "x": 0,
+                    "y": 46
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 428,
+        "height": 91,
+        "position": {
+            "x": 0,
+            "y": 835
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "L",
+                "text": "Aa",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "label": "Label",
+                "width": 256,
+                "height": null,
+                "position": {
+                    "x": 120,
+                    "y": 33
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "position": {
+                    "x": 18,
+                    "y": 43
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "position": {
+                    "x": 86,
+                    "y": 43
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 386,
+                    "y": 43
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "position": {
+                    "x": 52,
+                    "y": 43
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 428,
+                    "y": 19
+                },
+                "from": {
+                    "x": 0,
+                    "y": 18
+                },
+                "position": {
+                    "x": 0,
+                    "y": 18
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "AVATAR",
+    "data": {
+        "size": "S",
+        "text": "A",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 24,
+            "y": 176
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 189,
+        "height": 116,
+        "position": {
+            "x": 173,
+            "y": 536
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Occaecat exercitation laboris in anim adipisicing adipisicing tempor in eu cupidata",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 161,
+                "height": null,
+                "position": {
+                    "x": 14,
+                    "y": 14
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "AVATAR",
+    "data": {
+        "size": "S",
+        "text": "A",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 376,
+            "y": 340
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 167,
+        "height": 50,
+        "position": {
+            "x": 66,
+            "y": 686
+        },
+        "backgroundColor": {
+            "type": "PRIMARY"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Nostrud eiusmod sint",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": 22,
+                "position": {
+                    "x": 14,
+                    "y": 14
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "12:01",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 334,
+            "y": 656
+        },
+        "textAlign": "RIGHT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 176,
+            "y": 141
+        },
+        "from": {
+            "x": 24,
+            "y": 141
+        },
+        "position": {
+            "x": 24,
+            "y": 141
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "12:03",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 66,
+            "y": 310
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "size": "M",
+        "text": "TODAY",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 190,
+            "y": 130
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 106,
+        "height": 50,
+        "position": {
+            "x": 66,
+            "y": 256
+        },
+        "backgroundColor": {
+            "type": "PRIMARY"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Proident dol",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": 22,
+                "position": {
+                    "x": 14,
+                    "y": 14
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 153,
+        "height": 188,
+        "position": {
+            "x": 209,
+            "y": 340
+        }
+    },
+    "children": []
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 404,
+            "y": 141
+        },
+        "from": {
+            "x": 254,
+            "y": 141
+        },
+        "position": {
+            "x": 254,
+            "y": 141
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 184,
+        "height": 72,
+        "position": {
+            "x": 66,
+            "y": 176
+        },
+        "backgroundColor": {
+            "type": "PRIMARY"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Qui voluptate laboris ut do excepteur elit eu ",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 156,
+                "height": 44,
+                "position": {
+                    "x": 14,
+                    "y": 14
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        }
+    ]
+}
+]

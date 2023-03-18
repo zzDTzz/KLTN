@@ -1,0 +1,1538 @@
+[{
+    "type": "BUTTON",
+    "data": {
+        "icon": null,
+        "size": "M",
+        "text": "4",
+        "color": {
+            "type": "GRAY"
+        },
+        "width": 35,
+        "height": null,
+        "position": {
+            "x": 862,
+            "y": 1220
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 1286,
+            "y": 157
+        },
+        "from": {
+            "x": 443,
+            "y": 156
+        },
+        "width": 835,
+        "height": 1,
+        "position": {
+            "x": 443,
+            "y": 156
+        }
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "Most popular",
+        "color": {
+            "type": "SUCCESS"
+        },
+        "width": 113,
+        "height": null,
+        "position": {
+            "x": 828,
+            "y": 96
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 843,
+        "height": 186,
+        "position": {
+            "x": 443,
+            "y": 793
+        },
+        "backgroundColor": {
+            "type": "SECONDARY"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "11K (13..567.345 views)",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 482,
+                "position": {
+                    "x": 259,
+                    "y": 139
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Official Lyric Video for \"Closer\" by The Chainsmokers\nListen to The Chainsmokers: https://thechainsmokers.lnk.to/listenYD ",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 591,
+                "height": null,
+                "position": {
+                    "x": 234,
+                    "y": 82
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 192,
+                "height": 150,
+                "position": {
+                    "x": 18,
+                    "y": 18
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "XS",
+                "text": "Closer",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 591,
+                "height": 30,
+                "position": {
+                    "x": 234,
+                    "y": 42
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "The Chainsmokers",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 557,
+                "position": {
+                    "x": 234,
+                    "y": 19
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "INFO"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 232,
+                    "y": 137
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 843,
+        "height": 186,
+        "position": {
+            "x": 443,
+            "y": 385
+        },
+        "backgroundColor": {
+            "type": "SECONDARY"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Ed Sheeran",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 557,
+                "position": {
+                    "x": 234,
+                    "y": 19
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "21K (19.567.345 views)",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 482,
+                "height": 22,
+                "position": {
+                    "x": 260,
+                    "y": 139
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "XS",
+                "text": "Perfect (Offical Music Video)",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 591,
+                "height": 30,
+                "position": {
+                    "x": 234,
+                    "y": 42
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 192,
+                "height": 150,
+                "position": {
+                    "x": 18,
+                    "y": 18
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 232,
+                    "y": 137
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Taken from the studio album ÷ (divide) released in 2017, which featured the hit singles 'Castle on the Hill', 'Shape of You', 'Galway Girl', ‘Perfect’ & 'Happier'. ",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 591,
+                "height": 40,
+                "position": {
+                    "x": 234,
+                    "y": 82
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "icon": {
+            "alignment": "LEFT"
+        },
+        "size": "M",
+        "text": "",
+        "color": {
+            "type": "GRAY"
+        },
+        "width": 36,
+        "height": null,
+        "position": {
+            "x": 1035,
+            "y": 1220
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "icon": null,
+        "size": "M",
+        "text": "11",
+        "color": {
+            "type": "GRAY"
+        },
+        "width": 37,
+        "height": null,
+        "position": {
+            "x": 992,
+            "y": 1220
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "icon": null,
+        "size": "M",
+        "text": "2",
+        "color": {
+            "type": "GRAY"
+        },
+        "width": 36,
+        "height": null,
+        "position": {
+            "x": 779,
+            "y": 1220
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "Today's Videos",
+        "color": {
+            "type": "SUCCESS"
+        },
+        "width": 113,
+        "height": null,
+        "position": {
+            "x": 951,
+            "y": 96
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 12,
+        "height": 1211,
+        "position": {
+            "x": 1428,
+            "y": 63
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": [
+        {
+            "type": "RECTANGLE",
+            "data": {
+                "width": 12,
+                "height": 124,
+                "position": {
+                    "x": 0,
+                    "y": 130
+                },
+                "backgroundColor": {
+                    "type": "NEUTRAL"
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "icon": {
+            "alignment": "LEFT"
+        },
+        "size": "M",
+        "text": "Filter",
+        "color": {
+            "type": "SUCCESS"
+        },
+        "width": 85,
+        "height": null,
+        "position": {
+            "x": 1074,
+            "y": 96
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 249,
+        "height": 558,
+        "position": {
+            "x": 154,
+            "y": 96
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "ICON",
+            "data": {
+                "size": "XS",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 219,
+                    "y": 523
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Views",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 201,
+                "height": 22,
+                "position": {
+                    "x": 18,
+                    "y": 209
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Subscribed",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 200,
+                "height": null,
+                "position": {
+                    "x": 18,
+                    "y": 459
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "XS",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 219,
+                    "y": 214
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 231,
+                    "y": 381
+                },
+                "from": {
+                    "x": 18,
+                    "y": 381
+                },
+                "position": {
+                    "x": 18,
+                    "y": 381
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 231,
+                    "y": 440
+                },
+                "from": {
+                    "x": 18,
+                    "y": 440
+                },
+                "position": {
+                    "x": 18,
+                    "y": 440
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "XS",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 219,
+                    "y": 464
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "XS",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 219,
+                    "y": 23
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "CHECKBOX",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "SECONDARY"
+                },
+                "label": "Label",
+                "width": 201,
+                "height": 118,
+                "position": {
+                    "x": 18,
+                    "y": 54
+                }
+            },
+            "children": [
+                {
+                    "type": "CHECKBOX_ITEM",
+                    "data": {
+                        "text": "US-UK Music",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "CHECKBOX_ITEM",
+                    "data": {
+                        "text": "Japan Music",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "CHECKBOX_ITEM",
+                    "data": {
+                        "text": "Vietnam Music",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "CHECKBOX_ITEM",
+                    "data": {
+                        "text": "Korea Music",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 231,
+                    "y": 191
+                },
+                "from": {
+                    "x": 18,
+                    "y": 190
+                },
+                "position": {
+                    "x": 18,
+                    "y": 190
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "History",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 199,
+                "height": 22,
+                "position": {
+                    "x": 18,
+                    "y": 518
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "XS",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 219,
+                    "y": 405
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Favorite",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 199,
+                "height": 22,
+                "position": {
+                    "x": 18,
+                    "y": 400
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Brand",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 201,
+                "height": 22,
+                "position": {
+                    "x": 18,
+                    "y": 18
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "CHECKBOX",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "label": "Label",
+                "width": 201,
+                "height": 118,
+                "position": {
+                    "x": 17,
+                    "y": 246
+                }
+            },
+            "children": [
+                {
+                    "type": "CHECKBOX_ITEM",
+                    "data": {
+                        "text": "From 10M to 50M",
+                        "color": {
+                            "type": "SECONDARY"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "CHECKBOX_ITEM",
+                    "data": {
+                        "text": "Above 100M",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "CHECKBOX_ITEM",
+                    "data": {
+                        "text": "Below 10M",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "CHECKBOX_ITEM",
+                    "data": {
+                        "text": "From 50M to 100M",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 231,
+                    "y": 499
+                },
+                "from": {
+                    "x": 18,
+                    "y": 499
+                },
+                "position": {
+                    "x": 18,
+                    "y": 499
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 843,
+        "height": 186,
+        "position": {
+            "x": 443,
+            "y": 997
+        },
+        "backgroundColor": {
+            "type": "SECONDARY"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "\"a thousand years\" is a song me + my best friend david hodges wrote for bella + edward. we wrote it after we so luckily screened the movie + i couldn't be more proud of this song. \n",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 591,
+                "height": null,
+                "position": {
+                    "x": 234,
+                    "y": 82
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Christina Perri",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 557,
+                "position": {
+                    "x": 234,
+                    "y": 19
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 192,
+                "height": 150,
+                "position": {
+                    "x": 18,
+                    "y": 18
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "10K ((10.567.345 views)",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 482,
+                "position": {
+                    "x": 260,
+                    "y": 139
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 232,
+                    "y": 136
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "XS",
+                "text": "A thousand years",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 591,
+                "height": 30,
+                "position": {
+                    "x": 234,
+                    "y": 42
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "icon": {
+            "alignment": "LEFT"
+        },
+        "size": "M",
+        "text": "",
+        "color": {
+            "type": "GRAY"
+        },
+        "width": 36,
+        "height": null,
+        "position": {
+            "x": 903,
+            "y": 1220
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 843,
+        "height": 186,
+        "position": {
+            "x": 443,
+            "y": 181
+        },
+        "backgroundColor": {
+            "type": "SECONDARY"
+        }
+    },
+    "children": [
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "INFO"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 232,
+                    "y": 139
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Taylor Swift",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 557,
+                "position": {
+                    "x": 234,
+                    "y": 19
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "All greatest songs of Taylor Swift in 2021",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 591,
+                "height": 40,
+                "position": {
+                    "x": 234,
+                    "y": 82
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "55K (49.567.345 views)",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 482,
+                "height": 22,
+                "position": {
+                    "x": 260,
+                    "y": 139
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "XS",
+                "text": "Best Songs Album 2021",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 591,
+                "height": 30,
+                "position": {
+                    "x": 234,
+                    "y": 42
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 192,
+                "height": 150,
+                "position": {
+                    "x": 18,
+                    "y": 18
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "icon": null,
+        "size": "M",
+        "text": "3",
+        "color": {
+            "type": "GRAY"
+        },
+        "width": 35,
+        "height": null,
+        "position": {
+            "x": 821,
+            "y": 1220
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 843,
+        "height": 186,
+        "position": {
+            "x": 443,
+            "y": 589
+        },
+        "backgroundColor": {
+            "type": "SECONDARY"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Ellie Goulding",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 557,
+                "position": {
+                    "x": 234,
+                    "y": 19
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 192,
+                "height": 150,
+                "position": {
+                    "x": 18,
+                    "y": 18
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "12K (15.567.345 views)",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 482,
+                "position": {
+                    "x": 260,
+                    "y": 139
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "XS",
+                "text": "Love me like you do (Offical Video)",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 591,
+                "height": 30,
+                "position": {
+                    "x": 232,
+                    "y": 42
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Welcome to the official Ellie Goulding channel. Subscribe today to explore Ellie Goulding's musical legacy in-depth.",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 591,
+                "height": 40,
+                "position": {
+                    "x": 234,
+                    "y": 82
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 232,
+                    "y": 138
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 810,
+            "y": 124
+        },
+        "from": {
+            "x": 809,
+            "y": 104
+        },
+        "width": 44,
+        "height": 16,
+        "position": {
+            "x": 809,
+            "y": 104
+        }
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "1",
+        "color": {
+            "type": "SECONDARY"
+        },
+        "width": 33,
+        "height": null,
+        "position": {
+            "x": 740,
+            "y": 1220
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "icon": {
+            "alignment": "LEFT"
+        },
+        "size": "M",
+        "text": "",
+        "color": {
+            "type": "GRAY"
+        },
+        "width": 36,
+        "height": null,
+        "position": {
+            "x": 698,
+            "y": 1220
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "TEXTBOX",
+    "data": {
+        "size": "M",
+        "text": "Search",
+        "color": {
+            "type": "GRAY"
+        },
+        "icons": [
+            {
+                "alignment": "LEFT",
+                "useBorderColor": false
+            }
+        ],
+        "label": "Label",
+        "width": 348,
+        "height": null,
+        "position": {
+            "x": 443,
+            "y": 96
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1440,
+        "height": 56,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Garfield Cat",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 95,
+                "position": {
+                    "x": 1297,
+                    "y": 17
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "HEADER_MENU",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "SECONDARY"
+                },
+                "width": 552,
+                "height": null,
+                "position": {
+                    "x": 160,
+                    "y": 2
+                }
+            },
+            "children": [
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Sports",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "icon": null,
+                        "text": "Trending",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "News",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Gaming",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Live",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Music",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Home",
+                        "color": {
+                            "type": "SECONDARY"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1211,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "OVAL",
+            "data": {
+                "width": 35,
+                "height": 35,
+                "position": {
+                    "x": 1251,
+                    "y": 10
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "XS",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 12,
+                "position": {
+                    "x": 1400,
+                    "y": 22
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1169,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 96,
+                "height": 36,
+                "position": {
+                    "x": 24,
+                    "y": 10
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 35,
+                "height": 35,
+                "position": {
+                    "x": 1250,
+                    "y": 10
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "icon": null,
+        "size": "M",
+        "text": "10",
+        "color": {
+            "type": "GRAY"
+        },
+        "width": 41,
+        "height": null,
+        "position": {
+            "x": 945,
+            "y": 1220
+        },
+        "backgroundColor": null
+    },
+    "children": []
+}
+]

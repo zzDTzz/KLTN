@@ -1,0 +1,566 @@
+[{
+    "type": "TEXT",
+    "data": {
+        "text": "How can we best spread great ideas?",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 617,
+        "height": 60,
+        "position": {
+            "x": 610,
+            "y": 789
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "History of TED",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 71,
+            "y": 194
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "TED is owned by a nonprofit, nonpartisan foundation. Our agenda is to make great ideas accessible and spark conversation.",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 617,
+        "height": null,
+        "position": {
+            "x": 607,
+            "y": 877
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 56,
+        "height": 52,
+        "position": {
+            "x": 1263,
+            "y": 921
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "size": "M",
+        "text": "4.5/5",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 35,
+        "position": {
+            "x": 2188,
+            "y": 647
+        },
+        "textAlign": "LEFT"
+    },
+    "children": []
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 519,
+            "y": 241
+        },
+        "from": {
+            "x": 71,
+            "y": 241
+        },
+        "position": {
+            "x": 71,
+            "y": 241
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "TED is a nonprofit devoted to spreading ideas, usually in the form of short, powerful \ntalks (18 minutes or less). TED began in 1984 as a conference where Technology, \nEntertainment and Design converged, and today covers almost all topics — from \nscience to business to global issues — in more than 100 languages. Meanwhile, \nindependently run TEDx events help share ideas in communities around the world.",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 607,
+            "y": 242
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 56,
+        "height": 52,
+        "position": {
+            "x": 1263,
+            "y": 509
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "History of TED\nLearn how a one-off conference became a viral video phenomenon and worldwide community.\n\nHow TED works\nGet answers to commonly asked questions-and a few misconceptions-about how TED operates.\n\nJobs at TED\nWe're hiring! Join our global team of friendly, curious, detail-oriented problem-solvers.",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 535,
+        "height": null,
+        "position": {
+            "x": 1331,
+            "y": 495
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1920,
+        "height": 66,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "M",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": null,
+                "height": null,
+                "iconSize": null,
+                "position": {
+                    "x": 1653,
+                    "y": 10
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "M",
+                "text": "",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 52,
+                "height": null,
+                "position": {
+                    "x": 1816,
+                    "y": 10
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 73,
+                "height": 43,
+                "position": {
+                    "x": 45,
+                    "y": 6
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "XS",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 16,
+                "height": 16,
+                "position": {
+                    "x": 1786,
+                    "y": 20
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "HEADER_MENU",
+            "data": {
+                "size": "XL",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 553,
+                "height": null,
+                "position": {
+                    "x": 160,
+                    "y": 2
+                }
+            },
+            "children": [
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "size": null,
+                        "text": "Attend",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "size": null,
+                        "text": "Watch",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "icon": null,
+                        "size": null,
+                        "text": "Discover",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "size": null,
+                        "text": "Participate",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "size": null,
+                        "text": "About",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "XL",
+                "text": "Membership",
+                "color": {
+                    "type": "TERTIARY3"
+                },
+                "width": 0,
+                "height": null,
+                "iconSize": null,
+                "position": {
+                    "x": 741,
+                    "y": 7
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Jack Ma",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 74,
+                "height": 22,
+                "position": {
+                    "x": 1703,
+                    "y": 17
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "How TED works",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 72,
+            "y": 259
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Our Mission: Spread ideas",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 544,
+        "height": null,
+        "position": {
+            "x": 607,
+            "y": 506
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 518,
+            "y": 176
+        },
+        "from": {
+            "x": 70,
+            "y": 176
+        },
+        "position": {
+            "x": 70,
+            "y": 176
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "About > ",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 610,
+            "y": 109
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "size": "S",
+        "text": "$230",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "height": 50,
+        "position": {
+            "x": 2165,
+            "y": 520
+        },
+        "textAlign": "LEFT"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Our organization",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 544,
+        "height": null,
+        "position": {
+            "x": 607,
+            "y": 164
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "TED is a global community, welcoming people from every discipline and culture who seek a deeper understanding of the world.",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 617,
+        "height": 200,
+        "position": {
+            "x": 610,
+            "y": 570
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Debunking TED myths",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 71,
+            "y": 298
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Our organization",
+        "color": {
+            "type": "DANGER"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 70,
+            "y": 128
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 568,
+            "y": 1123
+        },
+        "from": {
+            "x": 568,
+            "y": 109
+        },
+        "position": {
+            "x": 568,
+            "y": 109
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 56,
+        "height": 52,
+        "position": {
+            "x": 1263,
+            "y": 718
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "size": "M",
+        "color": {
+            "type": "WARNING"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 2164,
+            "y": 646
+        }
+    },
+    "children": []
+}
+]

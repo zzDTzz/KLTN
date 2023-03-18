@@ -1,0 +1,127 @@
+{
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Email",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 189,
+                "height": 22,
+                "position": {
+                    "x": 554,
+                    "y": 12
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 1078,
+                    "y": 47
+                },
+                "from": {
+                    "x": 0,
+                    "y": 46
+                },
+                "position": {
+                    "x": 0,
+                    "y": 46
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "CHECKBOX",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "label": "Label",
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 12,
+                    "y": 12
+                }
+            },
+            "children": [
+                {
+                    "type": "CHECKBOX_ITEM",
+                    "data": {
+                        "text": "",
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Description",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 239,
+                "height": 22,
+                "position": {
+                    "x": 298,
+                    "y": 12
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Name",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 150,
+                "height": 22,
+                "position": {
+                    "x": 42,
+                    "y": 12
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "400"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Roles",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 156,
+                "height": 22,
+                "position": {
+                    "x": 810,
+                    "y": 12
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        }
+    ]
+}

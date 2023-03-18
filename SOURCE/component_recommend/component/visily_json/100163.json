@@ -1,0 +1,863 @@
+[{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 1038,
+        "height": 685,
+        "position": {
+            "x": 276,
+            "y": 153
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "0 đơn hàng",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 113,
+        "height": 30,
+        "position": {
+            "x": 299,
+            "y": 423
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "600"
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "icon": {
+            "alignment": "LEFT"
+        },
+        "size": "M",
+        "text": "",
+        "color": {
+            "type": "GRAY"
+        },
+        "width": 0,
+        "iconSize": null,
+        "position": {
+            "x": 1238,
+            "y": 237
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 256,
+        "height": 846,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "CUSTOM"
+        }
+    },
+    "children": [
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 165,
+                "height": 62,
+                "position": {
+                    "x": 16,
+                    "y": 10
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "SIDEBAR_MENU",
+            "data": {
+                "size": "L",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 224,
+                "height": 1000,
+                "position": {
+                    "x": 16,
+                    "y": 83
+                }
+            },
+            "children": [
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "size": null,
+                            "alignment": "LEFT"
+                        },
+                        "size": null,
+                        "text": "Dữ liệu",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "size": null,
+                            "alignment": "LEFT"
+                        },
+                        "size": null,
+                        "text": "Tổng quan",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "size": null,
+                            "alignment": "LEFT"
+                        },
+                        "size": null,
+                        "text": "Tài chính",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "size": null,
+                            "alignment": "LEFT"
+                        },
+                        "size": null,
+                        "text": "Quản lý sản phẩm",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "size": null,
+                            "alignment": "LEFT"
+                        },
+                        "size": null,
+                        "text": "Quản lý đơn hàng",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "size": null,
+                        "text": "Quản lý shop",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "size": null,
+                            "alignment": "LEFT"
+                        },
+                        "size": null,
+                        "text": "Thiết lập",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "size": null,
+                            "alignment": "LEFT"
+                        },
+                        "size": null,
+                        "text": "Kênh marketing",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "icon": {
+            "alignment": "LEFT"
+        },
+        "size": "M",
+        "text": "Giao hàng loạt",
+        "color": {
+            "type": "TERTIARY2"
+        },
+        "width": 0,
+        "position": {
+            "x": 1132,
+            "y": 405
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "Tìm kiếm",
+        "color": {
+            "type": "TERTIARY2"
+        },
+        "width": 120,
+        "position": {
+            "x": 1065,
+            "y": 289
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Ngày đặt hàng",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 834,
+            "y": 241
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "DROPDOWN_BUTTON",
+    "data": {
+        "icon": null,
+        "size": "M",
+        "text": "mã đơn hàng",
+        "color": {
+            "type": "GRAY"
+        },
+        "label": "Label",
+        "width": 204,
+        "height": null,
+        "position": {
+            "x": 299,
+            "y": 289
+        }
+    },
+    "children": []
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 1274,
+            "y": 221
+        },
+        "from": {
+            "x": 299,
+            "y": 221
+        },
+        "position": {
+            "x": 299,
+            "y": 221
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXTBOX",
+    "data": {
+        "size": "M",
+        "text": "Chọn ngày",
+        "color": {
+            "type": "GRAY"
+        },
+        "icons": [
+            {
+                "alignment": "LEFT"
+            }
+        ],
+        "label": "Label",
+        "width": 192,
+        "position": {
+            "x": 948,
+            "y": 237
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1038,
+        "height": 45,
+        "position": {
+            "x": 276,
+            "y": 68
+        },
+        "backgroundColor": {
+            "type": "CUSTOM"
+        }
+    },
+    "children": [
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "WARNING"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 13,
+                    "y": 11
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Velit aute occaecat Lorem mollit consectetur cillum sit nisi consequat officia ea reprehenderit aliqua.",
+                "color": {
+                    "type": "DANGER"
+                },
+                "width": 871,
+                "height": 21,
+                "position": {
+                    "x": 48,
+                    "y": 12
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXTBOX",
+    "data": {
+        "size": "M",
+        "text": "Nhập mã đơn hàng",
+        "color": {
+            "type": "GRAY"
+        },
+        "icons": [
+            {
+                "alignment": "RIGHT"
+            }
+        ],
+        "label": "Label",
+        "width": 516,
+        "height": null,
+        "position": {
+            "x": 503,
+            "y": 289
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "HEADER_MENU",
+    "data": {
+        "size": "M",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "position": {
+            "x": 311,
+            "y": 341
+        }
+    },
+    "children": [
+        {
+            "type": "HEADER_MENU_ITEM",
+            "data": {
+                "icon": null,
+                "text": "Đã xử lý",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "HEADER_MENU_ITEM",
+            "data": {
+                "icon": null,
+                "text": "Tất cả",
+                "color": null,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "HEADER_MENU_ITEM",
+            "data": {
+                "icon": null,
+                "text": "Chưa xử lý",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "Đặt lại",
+        "color": {
+            "type": "GRAY"
+        },
+        "width": 0,
+        "iconSize": null,
+        "position": {
+            "x": 1208,
+            "y": 289
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1440,
+        "height": 56,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1258,
+                    "y": 17
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Me",
+                "color": {
+                    "type": "BLACK"
+                },
+                "width": 0,
+                "iconSize": null,
+                "position": {
+                    "x": 1150,
+                    "y": 9
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Shopee Uni",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 0,
+                "iconSize": null,
+                "position": {
+                    "x": 1314,
+                    "y": 11
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1227,
+                    "y": 17
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "M",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": null,
+                "height": null,
+                "iconSize": null,
+                "position": {
+                    "x": 1107,
+                    "y": 9
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "HEADER_MENU",
+    "data": {
+        "size": "M",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "position": {
+            "x": 299,
+            "y": 153
+        }
+    },
+    "children": [
+        {
+            "type": "HEADER_MENU_ITEM",
+            "data": {
+                "icon": null,
+                "text": "Chờ xác nhận",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "HEADER_MENU_ITEM",
+            "data": {
+                "icon": null,
+                "text": "Đang giao",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "HEADER_MENU_ITEM",
+            "data": {
+                "icon": null,
+                "text": "Đơn hủy",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "HEADER_MENU_ITEM",
+            "data": {
+                "icon": null,
+                "text": "Đã giao",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "HEADER_MENU_ITEM",
+            "data": {
+                "icon": null,
+                "text": "Chờ lấy hàng",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "HEADER_MENU_ITEM",
+            "data": {
+                "icon": null,
+                "size": "L",
+                "text": "Tất cả",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "HEADER_MENU_ITEM",
+            "data": {
+                "icon": null,
+                "text": "Trả hàng/Hoàn tiền",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 983,
+        "height": 352,
+        "position": {
+            "x": 299,
+            "y": 454
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 247,
+        "height": 84,
+        "position": {
+            "x": 1150,
+            "y": 868
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 211,
+                    "y": 12
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "XS",
+                "text": "Chat with Shopee",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 140,
+                "height": 60,
+                "position": {
+                    "x": 71,
+                    "y": 16
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 48,
+                "height": 84,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": {
+                    "type": "TERTIARY2"
+                }
+            },
+            "children": [
+                {
+                    "type": "ICON",
+                    "data": {
+                        "size": "L",
+                        "color": {
+                            "type": "WHITE"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 8,
+                            "y": 26
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "Xuất",
+        "color": {
+            "type": "GRAY"
+        },
+        "width": 0,
+        "iconSize": null,
+        "position": {
+            "x": 1167,
+            "y": 237
+        },
+        "backgroundColor": null
+    },
+    "children": []
+}
+]

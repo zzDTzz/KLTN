@@ -1,0 +1,329 @@
+[{
+    "type": "TEXT",
+    "data": {
+        "size": "L",
+        "text": "Business Tagline",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 192,
+        "height": 36,
+        "position": {
+            "x": 64,
+            "y": 248
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "size": "M",
+        "text": "Already have an account?",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 171,
+        "position": {
+            "x": 1161,
+            "y": 31
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 512,
+        "height": 900,
+        "position": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "Sign in",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 68,
+        "height": null,
+        "position": {
+            "x": 1344,
+            "y": 24
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 192,
+        "height": 96,
+        "position": {
+            "x": 64,
+            "y": 128
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 568,
+        "height": 661,
+        "position": {
+            "x": 679,
+            "y": 97
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "label": "Last name",
+                "width": 246,
+                "height": null,
+                "position": {
+                    "x": 301,
+                    "y": 106
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Sign up",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 50,
+                "height": 22,
+                "position": {
+                    "x": 339,
+                    "y": 615
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Enter at least 8+ characters ",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [
+                    {
+                        "alignment": "RIGHT",
+                        "useBorderColor": false
+                    }
+                ],
+                "label": "Password",
+                "width": 512,
+                "height": null,
+                "position": {
+                    "x": 28,
+                    "y": 430
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "By signing up, I agree with the Terms of Use & Privacy Policy",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 64,
+                    "y": 509
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "L",
+                "text": "Sign up",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 512,
+                "height": null,
+                "position": {
+                    "x": 28,
+                    "y": 551
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "712 pxl street",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "label": "address",
+                "width": 512,
+                "height": null,
+                "position": {
+                    "x": 28,
+                    "y": 273
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Sign up",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 512,
+                "height": 42,
+                "position": {
+                    "x": 28,
+                    "y": 24
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Don't have an account?",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 155,
+                "height": 22,
+                "position": {
+                    "x": 180,
+                    "y": 615
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "CHECKBOX",
+            "data": {
+                "size": "S",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "label": "Label",
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 28,
+                    "y": 510
+                }
+            },
+            "children": [
+                {
+                    "type": "CHECKBOX_ITEM",
+                    "data": {
+                        "text": "",
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "example.email@gmail.com",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "label": "Email",
+                "width": 512,
+                "height": null,
+                "position": {
+                    "x": 28,
+                    "y": 351
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "01293823",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "label": "Phone",
+                "width": 512,
+                "height": null,
+                "position": {
+                    "x": 28,
+                    "y": 184
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "label": "First name",
+                "width": 246,
+                "height": null,
+                "position": {
+                    "x": 28,
+                    "y": 105
+                }
+            },
+            "children": []
+        }
+    ]
+}
+]

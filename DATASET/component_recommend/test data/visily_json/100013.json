@@ -1,0 +1,490 @@
+[{
+    "type": "TEXT",
+    "data": {
+        "text": "Seminar 2022",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 67,
+            "y": 465
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 19,
+            "y": 311
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXTBOX",
+    "data": {
+        "size": "XL",
+        "text": "Input text",
+        "color": {
+            "type": "GRAY"
+        },
+        "icons": [],
+        "label": "Label",
+        "width": 682,
+        "height": null,
+        "position": {
+            "x": 19,
+            "y": 13
+        },
+        "labelTextSize": null,
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 608,
+            "y": 21
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 22,
+        "height": 22,
+        "position": {
+            "x": 67,
+            "y": 336
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 42,
+        "height": 42,
+        "position": {
+            "x": 659,
+            "y": 160
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 19,
+            "y": 388
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Seminar 2022",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 67,
+            "y": 388
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 19,
+            "y": 234
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 22,
+        "height": 22,
+        "position": {
+            "x": 67,
+            "y": 259
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 22,
+        "height": 22,
+        "position": {
+            "x": 67,
+            "y": 413
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Last open 20:00",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 108,
+        "height": 22,
+        "position": {
+            "x": 99,
+            "y": 414
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Last opened by me ",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 224,
+        "height": 36,
+        "position": {
+            "x": 19,
+            "y": 80
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 42,
+        "height": 42,
+        "position": {
+            "x": 659,
+            "y": 237
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Last open 20:00",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 108,
+        "height": 22,
+        "position": {
+            "x": 99,
+            "y": 260
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Last open 20:00",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 108,
+        "height": 22,
+        "position": {
+            "x": 99,
+            "y": 491
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 42,
+        "height": 42,
+        "position": {
+            "x": 659,
+            "y": 314
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 243,
+            "y": 86
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Seminar 2022",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 67,
+            "y": 157
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Seminar 2022",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 67,
+            "y": 311
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 19,
+            "y": 465
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 22,
+        "height": 22,
+        "position": {
+            "x": 67,
+            "y": 490
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Seminar 2022",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 67,
+            "y": 234
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 22,
+        "height": 22,
+        "position": {
+            "x": 67,
+            "y": 182
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Last open 20:00",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 108,
+        "height": 22,
+        "position": {
+            "x": 99,
+            "y": 337
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 659,
+            "y": 21
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 19,
+            "y": 157
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 42,
+        "height": 42,
+        "position": {
+            "x": 659,
+            "y": 391
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 42,
+        "height": 42,
+        "position": {
+            "x": 659,
+            "y": 468
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Last open 20:00",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 108,
+        "height": 22,
+        "position": {
+            "x": 99,
+            "y": 183
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+}
+]

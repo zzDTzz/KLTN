@@ -1,0 +1,441 @@
+[{
+    "type": "SWITCH",
+    "data": {
+        "size": "S",
+        "color": {
+            "type": "CUSTOM"
+        },
+        "position": {
+            "x": 287,
+            "y": 380
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 306,
+            "y": 605
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Push notification",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 52,
+            "y": 203
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 324,
+            "y": 345
+        },
+        "from": {
+            "x": 49,
+            "y": 345
+        },
+        "position": {
+            "x": 49,
+            "y": 345
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Chat notification",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 51,
+            "y": 286
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Support",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 284,
+        "height": null,
+        "position": {
+            "x": -55,
+            "y": 498
+        },
+        "textAlign": "CENTER",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Recieve every email notifications",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 218,
+        "height": 44,
+        "position": {
+            "x": 48,
+            "y": 384
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 322,
+        "height": 310,
+        "position": {
+            "x": 27,
+            "y": 142
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Recieve every chat notifications",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 214,
+        "height": 22,
+        "position": {
+            "x": 51,
+            "y": 308
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "Log out",
+        "color": {
+            "type": "SUCCESS"
+        },
+        "width": 322,
+        "position": {
+            "x": 27,
+            "y": 718
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Contact us",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 52,
+            "y": 606
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "SWITCH",
+    "data": {
+        "size": "S",
+        "color": {
+            "type": "CUSTOM"
+        },
+        "position": {
+            "x": 291,
+            "y": 214
+        }
+    },
+    "children": []
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 325,
+            "y": 262
+        },
+        "from": {
+            "x": 50,
+            "y": 262
+        },
+        "position": {
+            "x": 50,
+            "y": 262
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 375,
+        "height": 88,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Settings",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 284,
+                "height": null,
+                "position": {
+                    "x": 46,
+                    "y": 49
+                },
+                "textAlign": "CENTER",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 375,
+                "height": 40,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 72,
+                        "height": 40,
+                        "position": {
+                            "x": 4,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 96,
+                        "height": 40,
+                        "position": {
+                            "x": 279,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 40,
+                    "y": 52
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Help",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 51,
+            "y": 552
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Notification settings",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 284,
+        "height": null,
+        "position": {
+            "x": -5,
+            "y": 149
+        },
+        "textAlign": "CENTER",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Email notification",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 48,
+            "y": 369
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 322,
+        "height": 173,
+        "position": {
+            "x": 27,
+            "y": 491
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": []
+},
+{
+    "type": "SWITCH",
+    "data": {
+        "size": "S",
+        "color": {
+            "type": "CUSTOM"
+        },
+        "position": {
+            "x": 290,
+            "y": 297
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Recieve every push notifications",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 214,
+        "height": 22,
+        "position": {
+            "x": 52,
+            "y": 225
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 325,
+            "y": 591
+        },
+        "from": {
+            "x": 50,
+            "y": 591
+        },
+        "position": {
+            "x": 50,
+            "y": 591
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 306,
+            "y": 551
+        }
+    },
+    "children": []
+}
+]

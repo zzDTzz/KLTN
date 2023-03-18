@@ -1,0 +1,1292 @@
+[{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1920,
+        "height": 66,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "ICON",
+            "data": {
+                "size": "XS",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 16,
+                "height": 16,
+                "position": {
+                    "x": 1786,
+                    "y": 20
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Jack Ma",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 74,
+                "height": 22,
+                "position": {
+                    "x": 1703,
+                    "y": 17
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "XL",
+                "text": "Membership",
+                "color": {
+                    "type": "TERTIARY3"
+                },
+                "width": 0,
+                "height": null,
+                "iconSize": null,
+                "position": {
+                    "x": 735,
+                    "y": 8
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "HEADER_MENU",
+            "data": {
+                "size": "XL",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 553,
+                "height": null,
+                "position": {
+                    "x": 160,
+                    "y": 2
+                }
+            },
+            "children": [
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "size": null,
+                        "text": "Participate",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "size": null,
+                        "text": "Attend",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "size": null,
+                        "text": "About",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "size": null,
+                        "text": "Watch",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "icon": null,
+                        "size": null,
+                        "text": "Discover",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "M",
+                "text": "",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 52,
+                "height": null,
+                "position": {
+                    "x": 1816,
+                    "y": 10
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 73,
+                "height": 43,
+                "position": {
+                    "x": 45,
+                    "y": 6
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "M",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": null,
+                "height": null,
+                "iconSize": null,
+                "position": {
+                    "x": 1653,
+                    "y": 10
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 1870,
+            "y": 596
+        },
+        "from": {
+            "x": 50,
+            "y": 596
+        },
+        "position": {
+            "x": 50,
+            "y": 596
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1820,
+        "height": 474,
+        "position": {
+            "x": 45,
+            "y": 596
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 1800,
+                "height": 63,
+                "position": {
+                    "x": 0,
+                    "y": 246
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "text": "Pilani\nIndia",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 256,
+                        "height": null,
+                        "position": {
+                            "x": 720,
+                            "y": 5
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "text": "­T­E­Dx­B­I­T­S­Pilani­Salon\nSalon",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 256,
+                        "height": null,
+                        "position": {
+                            "x": 298,
+                            "y": 10
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                },
+                {
+                    "type": "RADIO",
+                    "data": {
+                        "size": "M",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "label": "Label",
+                        "position": {
+                            "x": 1485,
+                            "y": 21
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "RADIO_ITEM",
+                            "data": {
+                                "text": "",
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "text": "March 15, 2022",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 256,
+                        "height": null,
+                        "position": {
+                            "x": 42,
+                            "y": 19
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": "700"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "DIVIDER",
+                    "data": {
+                        "to": {
+                            "x": 1772,
+                            "y": 61
+                        },
+                        "from": {
+                            "x": 42,
+                            "y": 61
+                        },
+                        "position": {
+                            "x": 42,
+                            "y": 61
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "text": "No",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 1710,
+                            "y": 21
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 1800,
+                "height": 63,
+                "position": {
+                    "x": 0,
+                    "y": 110
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "text": "Bengaluru\nIndia",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 256,
+                        "height": null,
+                        "position": {
+                            "x": 720,
+                            "y": 5
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "text": "No",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 1710,
+                            "y": 21
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                },
+                {
+                    "type": "DIVIDER",
+                    "data": {
+                        "to": {
+                            "x": 1772,
+                            "y": 61
+                        },
+                        "from": {
+                            "x": 42,
+                            "y": 61
+                        },
+                        "position": {
+                            "x": 42,
+                            "y": 61
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "text": "­T­E­Dx­S­I­B­M­Bengaluru\nUniversity",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 256,
+                        "height": null,
+                        "position": {
+                            "x": 298,
+                            "y": 10
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                },
+                {
+                    "type": "RADIO",
+                    "data": {
+                        "size": "M",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "label": "Label",
+                        "position": {
+                            "x": 1485,
+                            "y": 21
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "RADIO_ITEM",
+                            "data": {
+                                "text": "",
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "text": "March 12, 2022",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 256,
+                        "height": null,
+                        "position": {
+                            "x": 42,
+                            "y": 19
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": "700"
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 1800,
+                "height": 63,
+                "position": {
+                    "x": 0,
+                    "y": 175
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "text": "No",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 1710,
+                            "y": 21
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "text": "March 13, 2022",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 256,
+                        "height": null,
+                        "position": {
+                            "x": 42,
+                            "y": 19
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": "700"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "RADIO",
+                    "data": {
+                        "size": "M",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "label": "Label",
+                        "position": {
+                            "x": 1485,
+                            "y": 21
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "RADIO_ITEM",
+                            "data": {
+                                "text": "",
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "text": "Jakarta\nIndonesia",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 256,
+                        "height": null,
+                        "position": {
+                            "x": 720,
+                            "y": 5
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                },
+                {
+                    "type": "DIVIDER",
+                    "data": {
+                        "to": {
+                            "x": 1772,
+                            "y": 61
+                        },
+                        "from": {
+                            "x": 42,
+                            "y": 61
+                        },
+                        "position": {
+                            "x": 42,
+                            "y": 61
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "text": "­T­E­Dx­Jakarta\nStandard",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 256,
+                        "height": null,
+                        "position": {
+                            "x": 298,
+                            "y": 10
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 1800,
+                "height": 63,
+                "position": {
+                    "x": 0,
+                    "y": 47
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "text": "No",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 1710,
+                            "y": 21
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "­T­E­Dx­Youth@­W­A­B\nYouth",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 256,
+                        "height": null,
+                        "position": {
+                            "x": 298,
+                            "y": 10
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                },
+                {
+                    "type": "DIVIDER",
+                    "data": {
+                        "to": {
+                            "x": 1772,
+                            "y": 61
+                        },
+                        "from": {
+                            "x": 42,
+                            "y": 61
+                        },
+                        "position": {
+                            "x": 42,
+                            "y": 61
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "March 12, 2022",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 256,
+                        "height": null,
+                        "position": {
+                            "x": 42,
+                            "y": 19
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": "700"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Beijing\nChina",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 256,
+                        "height": null,
+                        "position": {
+                            "x": 720,
+                            "y": 5
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                },
+                {
+                    "type": "RADIO",
+                    "data": {
+                        "size": "M",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "label": "Label",
+                        "position": {
+                            "x": 1485,
+                            "y": 21
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "RADIO_ITEM",
+                            "data": {
+                                "text": "",
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 1800,
+                "height": 63,
+                "position": {
+                    "x": 0,
+                    "y": 314
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "text": "­T­E­DxÉcole­Centrale­Lyon\nUniversity",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 256,
+                        "height": null,
+                        "position": {
+                            "x": 298,
+                            "y": 10
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                },
+                {
+                    "type": "DIVIDER",
+                    "data": {
+                        "to": {
+                            "x": 1772,
+                            "y": 61
+                        },
+                        "from": {
+                            "x": 42,
+                            "y": 61
+                        },
+                        "position": {
+                            "x": 42,
+                            "y": 61
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "RADIO",
+                    "data": {
+                        "size": "M",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "label": "Label",
+                        "position": {
+                            "x": 1485,
+                            "y": 21
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "RADIO_ITEM",
+                            "data": {
+                                "text": "",
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "text": "Écully\nFrance",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 256,
+                        "height": null,
+                        "position": {
+                            "x": 720,
+                            "y": 5
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "text": "March 15, 2022",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 256,
+                        "height": null,
+                        "position": {
+                            "x": 42,
+                            "y": 19
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": "700"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "text": "No",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 1710,
+                            "y": 21
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 1820,
+                "height": 47,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": {
+                    "type": "NEUTRAL"
+                }
+            },
+            "children": [
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "LOCATION",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 189,
+                        "height": 22,
+                        "position": {
+                            "x": 721,
+                            "y": 6
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "text": "sPACE AVAIL",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 173,
+                        "height": 36,
+                        "position": {
+                            "x": 1427,
+                            "y": 7
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                },
+                {
+                    "type": "DIVIDER",
+                    "data": {
+                        "to": {
+                            "x": 1078,
+                            "y": 47
+                        },
+                        "from": {
+                            "x": 0,
+                            "y": 46
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 46
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "WEBCAST",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 133,
+                        "height": 40,
+                        "position": {
+                            "x": 1657,
+                            "y": 7
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "EVENT NAME",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 239,
+                        "height": 22,
+                        "position": {
+                            "x": 298,
+                            "y": 4
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "DATE",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 150,
+                        "height": 22,
+                        "position": {
+                            "x": 42,
+                            "y": 10
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": "400"
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1920,
+        "height": 74,
+        "position": {
+            "x": 0,
+            "y": 399
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "L",
+                "text": "Locatioin, name, or type ",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [
+                    {
+                        "size": null,
+                        "alignment": "LEFT",
+                        "useBorderColor": false
+                    }
+                ],
+                "label": "Label",
+                "width": 256,
+                "height": null,
+                "position": {
+                    "x": 324,
+                    "y": 15
+                },
+                "labelTextSize": null
+            },
+            "children": []
+        },
+        {
+            "type": "CHECKBOX",
+            "data": {
+                "size": "L",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "label": "Label",
+                "position": {
+                    "x": 960,
+                    "y": 24
+                },
+                "labelTextSize": null
+            },
+            "children": [
+                {
+                    "type": "CHECKBOX_ITEM",
+                    "data": {
+                        "text": "Space avaiable",
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Explore TEDx Events",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 53,
+                    "y": 19
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "RIGHT"
+                },
+                "size": "L",
+                "text": "Month",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 107,
+                "height": null,
+                "iconSize": null,
+                "position": {
+                    "x": 809,
+                    "y": 15
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "RIGHT"
+                },
+                "size": "L",
+                "text": "Year",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 107,
+                "height": null,
+                "iconSize": null,
+                "position": {
+                    "x": 648,
+                    "y": 15
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "CHECKBOX",
+            "data": {
+                "size": "L",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "label": "Label",
+                "position": {
+                    "x": 1152,
+                    "y": 24
+                },
+                "labelTextSize": null
+            },
+            "children": [
+                {
+                    "type": "CHECKBOX_ITEM",
+                    "data": {
+                        "text": "Webcast",
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "XL",
+        "text": "Past",
+        "color": {
+            "type": "GRAY"
+        },
+        "width": 153,
+        "height": null,
+        "iconSize": null,
+        "position": {
+            "x": 177,
+            "y": 544
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "XL",
+        "text": "Upcoming",
+        "color": {
+            "type": "BLACK"
+        },
+        "width": 0,
+        "height": null,
+        "iconSize": null,
+        "position": {
+            "x": 50,
+            "y": 544
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "In the spirit of TED’s mission, “ideas worth spreading,” the TEDx program helps communities, organizations and\nindividuals produce TED-style events at the local level. TEDx events are planned and coordinated independently,\non a community-by-community basis, under a free license from TED.",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 53,
+            "y": 215
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Attends > ",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 46,
+            "y": 96
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "TEDx events",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 45,
+            "y": 132
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+}
+]

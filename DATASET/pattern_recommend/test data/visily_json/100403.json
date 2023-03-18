@@ -1,0 +1,437 @@
+[{
+    "type": "CONTAINER",
+    "data": {
+        "width": 440,
+        "height": 801,
+        "position": {
+            "x": 0,
+            "y": 11
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 80,
+                "height": 80,
+                "position": {
+                    "x": 112,
+                    "y": 511
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TAG",
+            "data": {
+                "size": "L",
+                "width": 218,
+                "height": null,
+                "position": {
+                    "x": 61,
+                    "y": 227
+                }
+            },
+            "children": [
+                {
+                    "type": "TAG_ITEM",
+                    "data": {
+                        "text": "Delivery",
+                        "color": {
+                            "type": "GRAY"
+                        },
+                        "icons": [
+                            {
+                                "alignment": "RIGHT"
+                            }
+                        ],
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TAG_ITEM",
+                    "data": {
+                        "text": "Payment",
+                        "color": {
+                            "type": "GRAY"
+                        },
+                        "icons": [
+                            {
+                                "alignment": "RIGHT"
+                            }
+                        ],
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "TEXTAREA",
+            "data": {
+                "icon": null,
+                "size": "M",
+                "text": "It's very bad!",
+                "color": {
+                    "type": "GRAY"
+                },
+                "label": "Label",
+                "width": 339,
+                "height": 80,
+                "position": {
+                    "x": 18,
+                    "y": 373
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 16,
+                "height": 16,
+                "position": {
+                    "x": 180,
+                    "y": 507
+                },
+                "backgroundColor": {
+                    "type": "TERTIARY1"
+                }
+            },
+            "children": [
+                {
+                    "type": "ICON",
+                    "data": {
+                        "size": "XS",
+                        "color": {
+                            "type": "WHITE"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 1,
+                            "y": 1
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "XL",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 244,
+                    "y": 95
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 329,
+                    "y": 19
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "L",
+                "text": "Submit",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 339,
+                "height": 44,
+                "position": {
+                    "x": 18,
+                    "y": 739
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 375,
+                    "y": 67
+                },
+                "from": {
+                    "x": 0,
+                    "y": 66
+                },
+                "position": {
+                    "x": 0,
+                    "y": 66
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Feedback",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 142,
+                    "y": 18
+                },
+                "textAlign": "CENTER",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 80,
+                "height": 80,
+                "position": {
+                    "x": 18,
+                    "y": 511
+                },
+                "backgroundColor": {
+                    "type": "NEUTRAL"
+                }
+            },
+            "children": [
+                {
+                    "type": "ICON",
+                    "data": {
+                        "size": "M",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 26,
+                            "y": 26
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "XL",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 76,
+                    "y": 95
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "RATING",
+            "data": {
+                "size": "XL",
+                "color": {
+                    "type": "CUSTOM"
+                },
+                "shape": "REGULAR",
+                "width": 263,
+                "height": 40,
+                "position": {
+                    "x": 57,
+                    "y": 659
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TAG",
+            "data": {
+                "size": "L",
+                "width": 199,
+                "height": null,
+                "position": {
+                    "x": 61,
+                    "y": 271
+                }
+            },
+            "children": [
+                {
+                    "type": "TAG_ITEM",
+                    "data": {
+                        "text": "Promotion",
+                        "color": {
+                            "type": "GRAY"
+                        },
+                        "icons": [
+                            {
+                                "alignment": "RIGHT"
+                            }
+                        ],
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "TAG",
+            "data": {
+                "size": "L",
+                "width": 218,
+                "height": null,
+                "position": {
+                    "x": 58,
+                    "y": 179
+                }
+            },
+            "children": [
+                {
+                    "type": "TAG_ITEM",
+                    "data": {
+                        "text": "Quality",
+                        "color": {
+                            "type": "GRAY"
+                        },
+                        "icons": [
+                            {
+                                "alignment": "RIGHT"
+                            }
+                        ],
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TAG_ITEM",
+                    "data": {
+                        "text": "Experiment",
+                        "color": {
+                            "type": "GRAY"
+                        },
+                        "icons": [
+                            {
+                                "alignment": "RIGHT"
+                            }
+                        ],
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Care to share more?",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 18,
+                    "y": 343
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Rating",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 18,
+                    "y": 619
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "XL",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 160,
+                    "y": 95
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Upload images",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 18,
+                    "y": 481
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        }
+    ]
+}
+]

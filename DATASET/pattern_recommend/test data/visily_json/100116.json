@@ -1,0 +1,895 @@
+[{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1280,
+        "height": 54,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "CUSTOM"
+        }
+    },
+    "children": [
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "M",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "iconSize": null,
+                "position": {
+                    "x": 1199,
+                    "y": 14
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Search...",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [
+                    {
+                        "alignment": "LEFT",
+                        "useBorderColor": false
+                    }
+                ],
+                "width": 256,
+                "position": {
+                    "x": 792,
+                    "y": 10
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "HEADER_MENU",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 370,
+                "position": {
+                    "x": 160,
+                    "y": 2
+                }
+            },
+            "children": [
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "icon": null,
+                        "text": "Projects",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Dashboard",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Files",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Calendar",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1132,
+                    "y": 14
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 96,
+                "height": 36,
+                "position": {
+                    "x": 24,
+                    "y": 10
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Phone",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 317,
+            "y": 434
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "600"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "size": "XS",
+        "text": "View profile",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 124,
+        "height": 18,
+        "position": {
+            "x": 76,
+            "y": 860
+        },
+        "textAlign": "LEFT"
+    },
+    "children": []
+},
+{
+    "type": "AVATAR",
+    "data": {
+        "size": "L",
+        "text": "A",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 20,
+            "y": 834
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXTBOX",
+    "data": {
+        "size": "M",
+        "text": "Nickname",
+        "color": {
+            "type": "GRAY"
+        },
+        "icons": [],
+        "label": "Label",
+        "width": 192,
+        "position": {
+            "x": 610,
+            "y": 203
+        }
+    },
+    "children": []
+},
+{
+    "type": "RADIO",
+    "data": {
+        "size": "M",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "label": "Label",
+        "position": {
+            "x": 466,
+            "y": 376
+        }
+    },
+    "children": [
+        {
+            "type": "RADIO_ITEM",
+            "data": {
+                "text": "Male",
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 920,
+            "y": 186
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "size": "L",
+        "text": "Amanda",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 124,
+        "height": 26,
+        "position": {
+            "x": 76,
+            "y": 834
+        },
+        "textAlign": "LEFT"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Nickname",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 479,
+            "y": 206
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "600"
+    },
+    "children": []
+},
+{
+    "type": "TEXTBOX",
+    "data": {
+        "size": "M",
+        "text": "Fullname",
+        "color": {
+            "type": "GRAY"
+        },
+        "icons": [],
+        "label": "Label",
+        "width": 192,
+        "position": {
+            "x": 610,
+            "y": 150
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Gender",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 317,
+            "y": 372
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "600"
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 920,
+            "y": 374
+        }
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "Link to Google",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 0,
+        "iconSize": null,
+        "position": {
+            "x": 1051,
+            "y": 378
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "size": "M",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 212,
+            "y": 844
+        }
+    },
+    "children": []
+},
+{
+    "type": "DROPDOWN_BUTTON",
+    "data": {
+        "icon": null,
+        "size": "M",
+        "text": "Month",
+        "color": {
+            "type": "GRAY"
+        },
+        "label": "Label",
+        "width": 95,
+        "height": null,
+        "position": {
+            "x": 577,
+            "y": 305
+        }
+    },
+    "children": []
+},
+{
+    "type": "DROPDOWN_BUTTON",
+    "data": {
+        "icon": null,
+        "size": "M",
+        "text": "Year",
+        "color": {
+            "type": "GRAY"
+        },
+        "label": "Label",
+        "width": 96,
+        "height": null,
+        "position": {
+            "x": 706,
+            "y": 305
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 916,
+            "y": 471
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXTBOX",
+    "data": {
+        "size": "M",
+        "text": "Phone",
+        "color": {
+            "type": "GRAY"
+        },
+        "icons": [],
+        "label": "Label",
+        "width": 354,
+        "height": null,
+        "position": {
+            "x": 448,
+            "y": 434
+        }
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "Link to Github",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 0,
+        "iconSize": null,
+        "position": {
+            "x": 1051,
+            "y": 183
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Link to social accounts",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 865,
+            "y": 96
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "INFO"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 916,
+            "y": 281
+        }
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "Linked",
+        "color": {
+            "type": "SUCCESS"
+        },
+        "width": 0,
+        "iconSize": null,
+        "position": {
+            "x": 1075,
+            "y": 287
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "Save changes",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 154,
+        "position": {
+            "x": 500,
+            "y": 589
+        }
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "Link to Apple",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 0,
+        "iconSize": null,
+        "position": {
+            "x": 1056,
+            "y": 478
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Email",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 317,
+            "y": 504
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "600"
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 300,
+            "y": 120
+        }
+    },
+    "children": []
+},
+{
+    "type": "RADIO",
+    "data": {
+        "size": "M",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "label": "Label",
+        "position": {
+            "x": 672,
+            "y": 376
+        }
+    },
+    "children": [
+        {
+            "type": "RADIO_ITEM",
+            "data": {
+                "text": "Female",
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "DROPDOWN_BUTTON",
+    "data": {
+        "icon": null,
+        "size": "M",
+        "text": "Day",
+        "color": {
+            "type": "GRAY"
+        },
+        "label": "Label",
+        "width": 95,
+        "height": null,
+        "position": {
+            "x": 448,
+            "y": 305
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Birthday",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 317,
+            "y": 308
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "600"
+    },
+    "children": []
+},
+{
+    "type": "TEXTBOX",
+    "data": {
+        "size": "M",
+        "text": "Email",
+        "color": {
+            "type": "GRAY"
+        },
+        "icons": [],
+        "label": "Label",
+        "width": 354,
+        "height": null,
+        "position": {
+            "x": 448,
+            "y": 504
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Fullname",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 479,
+            "y": 153
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "600"
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 256,
+        "height": 666,
+        "position": {
+            "x": 0,
+            "y": 54
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 256,
+                    "y": 201
+                },
+                "from": {
+                    "x": 0,
+                    "y": 200
+                },
+                "width": 316,
+                "position": {
+                    "x": 0,
+                    "y": 200
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "SIDEBAR_MENU",
+            "data": {
+                "size": "L",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 256,
+                "height": 192,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": [
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Notifications",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Home",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Messages",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Search",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "SIDEBAR_MENU",
+            "data": {
+                "size": "L",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 256,
+                "height": 192,
+                "position": {
+                    "x": 0,
+                    "y": 209
+                }
+            },
+            "children": [
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Bookmarks",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "text": "Item 1",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "text": "Item 2",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Favorites",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+}
+]

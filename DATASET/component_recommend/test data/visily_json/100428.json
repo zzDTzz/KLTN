@@ -1,0 +1,307 @@
+[{
+    "type": "CONTAINER",
+    "data": {
+        "width": 722,
+        "height": 824,
+        "position": {
+            "x": 54,
+            "y": 38
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXTAREA",
+            "data": {
+                "icon": null,
+                "size": "M",
+                "text": "Input text",
+                "color": {
+                    "type": "GRAY"
+                },
+                "label": "Complaint reason",
+                "width": 664,
+                "height": 105,
+                "position": {
+                    "x": 28,
+                    "y": 531
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Input text",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [
+                    {
+                        "alignment": "RIGHT",
+                        "useBorderColor": false
+                    }
+                ],
+                "label": "Product provider",
+                "width": 664,
+                "height": 66,
+                "position": {
+                    "x": 28,
+                    "y": 354
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Caption goes here",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 664,
+                "height": 25,
+                "position": {
+                    "x": 28,
+                    "y": 306
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "L",
+                "text": "Company name",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 664,
+                "height": 29,
+                "position": {
+                    "x": 28,
+                    "y": 97
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Submit",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 99,
+                "height": 40,
+                "position": {
+                    "x": 593,
+                    "y": 758
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Complaint form",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 664,
+                "height": 54,
+                "position": {
+                    "x": 28,
+                    "y": 38
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "CHECKBOX",
+            "data": {
+                "size": "S",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "label": "Label",
+                "width": 664,
+                "height": 48,
+                "position": {
+                    "x": 28,
+                    "y": 681
+                }
+            },
+            "children": [
+                {
+                    "type": "CHECKBOX_ITEM",
+                    "data": {
+                        "text": "Checkbox",
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "CHECKBOX_ITEM",
+                    "data": {
+                        "text": "Checkbox",
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Input text",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "label": "Email",
+                "width": 318,
+                "height": 66,
+                "position": {
+                    "x": 374,
+                    "y": 148
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Input text",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "label": "Product name",
+                "width": 664,
+                "height": 66,
+                "position": {
+                    "x": 28,
+                    "y": 237
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Input text",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "label": "Name",
+                "width": 318,
+                "height": 66,
+                "position": {
+                    "x": 28,
+                    "y": 148
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Input text",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [
+                    {
+                        "alignment": "RIGHT",
+                        "useBorderColor": false
+                    }
+                ],
+                "label": "Recieve Date",
+                "width": 318,
+                "height": 66,
+                "position": {
+                    "x": 374,
+                    "y": 443
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Cancel",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 99,
+                "height": 40,
+                "position": {
+                    "x": 486,
+                    "y": 758
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Input text",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [
+                    {
+                        "alignment": "RIGHT",
+                        "useBorderColor": false
+                    }
+                ],
+                "label": "Checkout date",
+                "width": 318,
+                "height": 66,
+                "position": {
+                    "x": 28,
+                    "y": 443
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 1440,
+        "height": 900,
+        "position": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    "children": []
+}
+]

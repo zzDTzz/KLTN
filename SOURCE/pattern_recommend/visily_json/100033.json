@@ -1,0 +1,2269 @@
+[{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1180,
+        "height": 929,
+        "position": {
+            "x": 130,
+            "y": 76
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 117,
+                "height": 109,
+                "position": {
+                    "x": 1060,
+                    "y": 685
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 292,
+                "height": 106,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": {
+                    "type": "CUSTOM"
+                }
+            },
+            "children": [
+                {
+                    "type": "ICON",
+                    "data": {
+                        "size": "XS",
+                        "color": {
+                            "type": "BLACK"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 114,
+                            "y": 81
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "size": "S",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 260,
+                            "y": 79
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "All messages",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 92,
+                        "height": 22,
+                        "position": {
+                            "x": 16,
+                            "y": 76
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXTBOX",
+                    "data": {
+                        "size": "M",
+                        "text": "Search...",
+                        "color": {
+                            "type": "GRAY"
+                        },
+                        "icons": [
+                            {
+                                "alignment": "LEFT",
+                                "useBorderColor": false
+                            }
+                        ],
+                        "width": 212,
+                        "position": {
+                            "x": 16,
+                            "y": 20
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "BUTTON",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "size": "M",
+                        "text": "",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": 36,
+                        "height": null,
+                        "position": {
+                            "x": 240,
+                            "y": 20
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 117,
+                "height": 109,
+                "position": {
+                    "x": 943,
+                    "y": 574
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 117,
+                "height": 109,
+                "position": {
+                    "x": 1061,
+                    "y": 795
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 293,
+                    "y": 929
+                },
+                "from": {
+                    "x": 292,
+                    "y": 0
+                },
+                "position": {
+                    "x": 292,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 940,
+                    "y": 929
+                },
+                "from": {
+                    "x": 939,
+                    "y": 126
+                },
+                "position": {
+                    "x": 939,
+                    "y": 126
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 292,
+                "height": 823,
+                "position": {
+                    "x": 0,
+                    "y": 106
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "CONTAINER",
+                    "data": {
+                        "width": 292,
+                        "height": 102,
+                        "position": {
+                            "x": 0,
+                            "y": 309
+                        },
+                        "backgroundColor": {
+                            "type": "CUSTOM"
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "S",
+                                "text": "Fri",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": null,
+                                "height": null,
+                                "position": {
+                                    "x": 262,
+                                    "y": 21
+                                },
+                                "textAlign": "RIGHT",
+                                "fontWeight": ""
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "AVATAR",
+                            "data": {
+                                "size": "L",
+                                "text": "A",
+                                "color": {
+                                    "type": "PRIMARY"
+                                },
+                                "width": null,
+                                "height": null,
+                                "position": {
+                                    "x": 16,
+                                    "y": 20
+                                }
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "M",
+                                "text": "Selina Rutherford",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": null,
+                                "height": 22,
+                                "position": {
+                                    "x": 72,
+                                    "y": 20
+                                },
+                                "textAlign": "LEFT"
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "S",
+                                "text": "You: Ullamco exercitation magna sint ",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": 204,
+                                "height": 40,
+                                "position": {
+                                    "x": 72,
+                                    "y": 42
+                                },
+                                "textAlign": "LEFT"
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "DIVIDER",
+                    "data": {
+                        "to": {
+                            "x": 292,
+                            "y": 206
+                        },
+                        "from": {
+                            "x": 0,
+                            "y": 205
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 205
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "DIVIDER",
+                    "data": {
+                        "to": {
+                            "x": 292,
+                            "y": 103
+                        },
+                        "from": {
+                            "x": 0,
+                            "y": 102
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 102
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "CONTAINER",
+                    "data": {
+                        "width": 292,
+                        "height": 102,
+                        "position": {
+                            "x": 0,
+                            "y": 412
+                        },
+                        "backgroundColor": {
+                            "type": "CUSTOM"
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "S",
+                                "text": "Nov 4",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": null,
+                                "height": null,
+                                "position": {
+                                    "x": 245,
+                                    "y": 21
+                                },
+                                "textAlign": "RIGHT",
+                                "fontWeight": ""
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "S",
+                                "text": "You: Ullamco exercitation magna sint",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": 204,
+                                "height": 40,
+                                "position": {
+                                    "x": 72,
+                                    "y": 42
+                                },
+                                "textAlign": "LEFT"
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "M",
+                                "text": "Emelia Rowe",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": null,
+                                "height": 22,
+                                "position": {
+                                    "x": 72,
+                                    "y": 20
+                                },
+                                "textAlign": "LEFT"
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "AVATAR",
+                            "data": {
+                                "size": "L",
+                                "text": "E",
+                                "color": {
+                                    "type": "GRAY"
+                                },
+                                "width": null,
+                                "height": null,
+                                "position": {
+                                    "x": 16,
+                                    "y": 20
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "DIVIDER",
+                    "data": {
+                        "to": {
+                            "x": 292,
+                            "y": 721
+                        },
+                        "from": {
+                            "x": 0,
+                            "y": 720
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 720
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "CONTAINER",
+                    "data": {
+                        "width": 292,
+                        "height": 102,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": {
+                            "type": "INFO"
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "M",
+                                "text": "Diana Ross",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": null,
+                                "height": 22,
+                                "position": {
+                                    "x": 72,
+                                    "y": 20
+                                },
+                                "textAlign": "LEFT"
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "S",
+                                "text": "1:19pm",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": null,
+                                "height": null,
+                                "position": {
+                                    "x": 235,
+                                    "y": 21
+                                },
+                                "textAlign": "RIGHT",
+                                "fontWeight": ""
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "S",
+                                "text": "You: Ullamco exercitation magna sint ",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": 204,
+                                "height": 40,
+                                "position": {
+                                    "x": 72,
+                                    "y": 42
+                                },
+                                "textAlign": "LEFT"
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "AVATAR",
+                            "data": {
+                                "size": "L",
+                                "text": "A",
+                                "color": {
+                                    "type": "PRIMARY"
+                                },
+                                "width": null,
+                                "height": null,
+                                "position": {
+                                    "x": 16,
+                                    "y": 20
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "CONTAINER",
+                    "data": {
+                        "width": 292,
+                        "height": 102,
+                        "position": {
+                            "x": 0,
+                            "y": 206
+                        },
+                        "backgroundColor": {
+                            "type": "CUSTOM"
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "M",
+                                "text": "Jevon Raynor",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": null,
+                                "height": 22,
+                                "position": {
+                                    "x": 72,
+                                    "y": 20
+                                },
+                                "textAlign": "LEFT"
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "S",
+                                "text": "You: Ullamco exercitation magna sint ",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": 204,
+                                "height": 40,
+                                "position": {
+                                    "x": 72,
+                                    "y": 42
+                                },
+                                "textAlign": "LEFT"
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "AVATAR",
+                            "data": {
+                                "size": "L",
+                                "text": "A",
+                                "color": {
+                                    "type": "PRIMARY"
+                                },
+                                "width": null,
+                                "height": null,
+                                "position": {
+                                    "x": 16,
+                                    "y": 20
+                                }
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "S",
+                                "text": "Sun",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": null,
+                                "height": null,
+                                "position": {
+                                    "x": 255,
+                                    "y": 21
+                                },
+                                "textAlign": "RIGHT",
+                                "fontWeight": ""
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "DIVIDER",
+                    "data": {
+                        "to": {
+                            "x": 292,
+                            "y": 515
+                        },
+                        "from": {
+                            "x": 0,
+                            "y": 514
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 514
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "CONTAINER",
+                    "data": {
+                        "width": 292,
+                        "height": 102,
+                        "position": {
+                            "x": 0,
+                            "y": 515
+                        },
+                        "backgroundColor": {
+                            "type": "CUSTOM"
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "S",
+                                "text": "Nov 1",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": null,
+                                "height": null,
+                                "position": {
+                                    "x": 245,
+                                    "y": 21
+                                },
+                                "textAlign": "RIGHT",
+                                "fontWeight": ""
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "S",
+                                "text": "You: Ullamco exercitation magna sint",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": 204,
+                                "height": 40,
+                                "position": {
+                                    "x": 72,
+                                    "y": 42
+                                },
+                                "textAlign": "LEFT"
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "M",
+                                "text": "Frank Sinatra",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": null,
+                                "height": 22,
+                                "position": {
+                                    "x": 72,
+                                    "y": 20
+                                },
+                                "textAlign": "LEFT"
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "AVATAR",
+                            "data": {
+                                "size": "L",
+                                "text": "  ",
+                                "color": {
+                                    "type": "PRIMARY"
+                                },
+                                "width": null,
+                                "height": null,
+                                "position": {
+                                    "x": 16,
+                                    "y": 20
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "DIVIDER",
+                    "data": {
+                        "to": {
+                            "x": 292,
+                            "y": 618
+                        },
+                        "from": {
+                            "x": 0,
+                            "y": 617
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 617
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "CONTAINER",
+                    "data": {
+                        "width": 292,
+                        "height": 102,
+                        "position": {
+                            "x": 0,
+                            "y": 721
+                        },
+                        "backgroundColor": {
+                            "type": "CUSTOM"
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "S",
+                                "text": "Oct 10",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": null,
+                                "height": null,
+                                "position": {
+                                    "x": 241,
+                                    "y": 21
+                                },
+                                "textAlign": "RIGHT",
+                                "fontWeight": ""
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "AVATAR",
+                            "data": {
+                                "size": "L",
+                                "text": "A",
+                                "color": {
+                                    "type": "PRIMARY"
+                                },
+                                "width": null,
+                                "height": null,
+                                "position": {
+                                    "x": 16,
+                                    "y": 20
+                                }
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "M",
+                                "text": "Wardell",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": null,
+                                "height": 22,
+                                "position": {
+                                    "x": 72,
+                                    "y": 20
+                                },
+                                "textAlign": "LEFT"
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "S",
+                                "text": "You: Ullamco exercitation magna sint",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": 204,
+                                "height": 40,
+                                "position": {
+                                    "x": 72,
+                                    "y": 42
+                                },
+                                "textAlign": "LEFT"
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "CONTAINER",
+                    "data": {
+                        "width": 292,
+                        "height": 102,
+                        "position": {
+                            "x": 0,
+                            "y": 618
+                        },
+                        "backgroundColor": {
+                            "type": "CUSTOM"
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "M",
+                                "text": "Selena Kye",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": null,
+                                "height": 22,
+                                "position": {
+                                    "x": 72,
+                                    "y": 20
+                                },
+                                "textAlign": "LEFT"
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "AVATAR",
+                            "data": {
+                                "size": "L",
+                                "text": "A",
+                                "color": {
+                                    "type": "PRIMARY"
+                                },
+                                "width": null,
+                                "height": null,
+                                "position": {
+                                    "x": 16,
+                                    "y": 20
+                                }
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "S",
+                                "text": "Oct 27",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": null,
+                                "height": null,
+                                "position": {
+                                    "x": 241,
+                                    "y": 21
+                                },
+                                "textAlign": "RIGHT",
+                                "fontWeight": ""
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "S",
+                                "text": "You: Ullamco exercitation magna sint",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": 204,
+                                "height": 40,
+                                "position": {
+                                    "x": 72,
+                                    "y": 42
+                                },
+                                "textAlign": "LEFT"
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "CONTAINER",
+                    "data": {
+                        "width": 292,
+                        "height": 102,
+                        "position": {
+                            "x": 0,
+                            "y": 103
+                        },
+                        "backgroundColor": {
+                            "type": "CUSTOM"
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "AVATAR",
+                            "data": {
+                                "size": "L",
+                                "text": "A",
+                                "color": {
+                                    "type": "PRIMARY"
+                                },
+                                "width": null,
+                                "height": null,
+                                "position": {
+                                    "x": 16,
+                                    "y": 20
+                                }
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "S",
+                                "text": "You: Ullamco exercitation magna sint ",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": 204,
+                                "height": 40,
+                                "position": {
+                                    "x": 72,
+                                    "y": 42
+                                },
+                                "textAlign": "LEFT"
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "M",
+                                "text": "Annie Haley",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": null,
+                                "height": 22,
+                                "position": {
+                                    "x": 72,
+                                    "y": 20
+                                },
+                                "textAlign": "LEFT"
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "S",
+                                "text": "Mon",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": null,
+                                "height": null,
+                                "position": {
+                                    "x": 251,
+                                    "y": 21
+                                },
+                                "textAlign": "LEFT"
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "DIVIDER",
+                    "data": {
+                        "to": {
+                            "x": 292,
+                            "y": 412
+                        },
+                        "from": {
+                            "x": 0,
+                            "y": 411
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 411
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "DIVIDER",
+                    "data": {
+                        "to": {
+                            "x": 292,
+                            "y": 309
+                        },
+                        "from": {
+                            "x": 0,
+                            "y": 308
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 308
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 887,
+                "height": 125,
+                "position": {
+                    "x": 293,
+                    "y": 0
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Diana Ross",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 209,
+                        "height": 48,
+                        "position": {
+                            "x": 20,
+                            "y": 24
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "size": "L",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 835,
+                            "y": 47
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Active now",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 73,
+                        "height": 30,
+                        "position": {
+                            "x": 20,
+                            "y": 72
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "size": "L",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 779,
+                            "y": 47
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "size": "L",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 723,
+                            "y": 47
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Local time 1:19 PM",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 123,
+                        "height": 30,
+                        "position": {
+                            "x": 106,
+                            "y": 72
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "•",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 5,
+                        "height": null,
+                        "position": {
+                            "x": 97,
+                            "y": 76
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 1180,
+                    "y": 126
+                },
+                "from": {
+                    "x": 293,
+                    "y": 125
+                },
+                "position": {
+                    "x": 293,
+                    "y": 125
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 117,
+                "height": 109,
+                "position": {
+                    "x": 943,
+                    "y": 795
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "XS",
+                "text": "Shared Images",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 153,
+                "height": 30,
+                "position": {
+                    "x": 983,
+                    "y": 526
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 117,
+                "height": 109,
+                "position": {
+                    "x": 942,
+                    "y": 685
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 646,
+                "height": 60,
+                "position": {
+                    "x": 293,
+                    "y": 869
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "ICON",
+                    "data": {
+                        "size": "M",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 92,
+                            "y": 18
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "size": "M",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 20,
+                            "y": 18
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "BUTTON",
+                    "data": {
+                        "size": "M",
+                        "text": "Send",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": 65,
+                        "height": 36,
+                        "position": {
+                            "x": 561,
+                            "y": 12
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "size": "M",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 56,
+                            "y": 18
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXTBOX",
+                    "data": {
+                        "size": "M",
+                        "text": "Type a message...",
+                        "color": {
+                            "type": "GRAY"
+                        },
+                        "icons": [
+                            {
+                                "alignment": "RIGHT",
+                                "useBorderColor": false
+                            }
+                        ],
+                        "label": "Label",
+                        "width": 421,
+                        "position": {
+                            "x": 128,
+                            "y": 12
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 992,
+                    "y": 504
+                },
+                "from": {
+                    "x": 1128,
+                    "y": 504
+                },
+                "position": {
+                    "x": 992,
+                    "y": 504
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 240,
+                "height": 378,
+                "position": {
+                    "x": 940,
+                    "y": 126
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "TAG",
+                    "data": {
+                        "size": "M",
+                        "width": 200,
+                        "height": null,
+                        "position": {
+                            "x": 20,
+                            "y": 264
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "TAG_ITEM",
+                            "data": {
+                                "text": "Label 2",
+                                "color": {
+                                    "type": "INFO"
+                                },
+                                "icons": [],
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TAG_ITEM",
+                            "data": {
+                                "text": "Label 1",
+                                "color": {
+                                    "type": "PRIMARY"
+                                },
+                                "icons": [],
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TAG_ITEM",
+                            "data": {
+                                "text": "Label 3",
+                                "color": {
+                                    "type": "SUCCESS"
+                                },
+                                "icons": [],
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "202-555-0123",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 83,
+                        "height": null,
+                        "position": {
+                            "x": 48,
+                            "y": 312
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "size": "S",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 20,
+                            "y": 340
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Deserunt laboris proident nisi veniam laborum commodo fugiat non elit.",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 200,
+                        "height": 60,
+                        "position": {
+                            "x": 20,
+                            "y": 192
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "size": "S",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 20,
+                            "y": 314
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Professional title",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 200,
+                        "height": 22,
+                        "position": {
+                            "x": 20,
+                            "y": 158
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "XS",
+                        "text": "Diana Ross",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 200,
+                        "height": 30,
+                        "position": {
+                            "x": 20,
+                            "y": 128
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": "700"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "example@gmail.com",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 117,
+                        "height": null,
+                        "position": {
+                            "x": 48,
+                            "y": 338
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 96,
+                        "height": 96,
+                        "position": {
+                            "x": 20,
+                            "y": 20
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 117,
+                "height": 109,
+                "position": {
+                    "x": 1061,
+                    "y": 574
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 939,
+                    "y": 869
+                },
+                "from": {
+                    "x": 293,
+                    "y": 868
+                },
+                "position": {
+                    "x": 293,
+                    "y": 868
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 646,
+                "height": 742,
+                "position": {
+                    "x": 293,
+                    "y": 126
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Eiusmod ad culpa et consectetur adipisicing ut sit magna sint.",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 554,
+                        "height": 22,
+                        "position": {
+                            "x": 72,
+                            "y": 220
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "You",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 26,
+                        "height": 22,
+                        "position": {
+                            "x": 72,
+                            "y": 576
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "AVATAR",
+                    "data": {
+                        "size": "M",
+                        "text": "r",
+                        "color": {
+                            "type": "CUSTOM"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 20,
+                            "y": 69
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "1:19 PM",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 44,
+                        "height": 22,
+                        "position": {
+                            "x": 104,
+                            "y": 576
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Today",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": null,
+                        "height": 25,
+                        "position": {
+                            "x": 305,
+                            "y": 20
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "AVATAR",
+                    "data": {
+                        "size": "M",
+                        "text": "u",
+                        "color": {
+                            "type": "CUSTOM"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 20,
+                            "y": 576
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "CONTAINER",
+                    "data": {
+                        "width": 415,
+                        "height": 74,
+                        "position": {
+                            "x": 72,
+                            "y": 356
+                        },
+                        "backgroundColor": {
+                            "type": "NEUTRAL"
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "S",
+                                "text": "164 kB",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": 155,
+                                "height": 20,
+                                "position": {
+                                    "x": 68,
+                                    "y": 38
+                                },
+                                "textAlign": "LEFT"
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "ICON",
+                            "data": {
+                                "size": "L",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": null,
+                                "height": null,
+                                "position": {
+                                    "x": 20,
+                                    "y": 21
+                                }
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "M",
+                                "text": "File-name-11 Oct 2021",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": 155,
+                                "height": 22,
+                                "position": {
+                                    "x": 68,
+                                    "y": 16
+                                },
+                                "textAlign": "LEFT"
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Diana Ross",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 76,
+                        "height": null,
+                        "position": {
+                            "x": 72,
+                            "y": 69
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "CONTAINER",
+                    "data": {
+                        "width": 415,
+                        "height": 74,
+                        "position": {
+                            "x": 72,
+                            "y": 276
+                        },
+                        "backgroundColor": {
+                            "type": "NEUTRAL"
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "S",
+                                "text": "120 kB",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": 155,
+                                "height": 20,
+                                "position": {
+                                    "x": 68,
+                                    "y": 38
+                                },
+                                "textAlign": "LEFT"
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "ICON",
+                            "data": {
+                                "size": "L",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": null,
+                                "height": null,
+                                "position": {
+                                    "x": 20,
+                                    "y": 21
+                                }
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "M",
+                                "text": "File-name-11 Oct 2021",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": 155,
+                                "height": 22,
+                                "position": {
+                                    "x": 68,
+                                    "y": 16
+                                },
+                                "textAlign": "LEFT"
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "1:12 PM",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 44,
+                        "height": null,
+                        "position": {
+                            "x": 154,
+                            "y": 70
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia magni dolores eos.",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 554,
+                        "height": 110,
+                        "position": {
+                            "x": 72,
+                            "y": 598
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Do consectetur ea labore adipisicing cillum enim. Proident aliqua quis non incididunt commodo enim excepteur. Consectetur enim exercitation fugiat ad proident do ullamco anim.",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 554,
+                        "height": 72,
+                        "position": {
+                            "x": 72,
+                            "y": 91
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "AVATAR",
+                    "data": {
+                        "size": "M",
+                        "text": "e",
+                        "color": {
+                            "type": "CUSTOM"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 20,
+                            "y": 198
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "1:17 PM",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 43,
+                        "height": null,
+                        "position": {
+                            "x": 154,
+                            "y": 479
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "2 files",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 34,
+                        "height": 20,
+                        "position": {
+                            "x": 72,
+                            "y": 250
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Do consectetur ea labore adipisicing cillum enim. Proident aliqua quis non incididunt commodo enim excepteur.",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 554,
+                        "height": 44,
+                        "position": {
+                            "x": 72,
+                            "y": 500
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "1:15 PM",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 44,
+                        "height": null,
+                        "position": {
+                            "x": 104,
+                            "y": 199
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "You",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 26,
+                        "height": null,
+                        "position": {
+                            "x": 72,
+                            "y": 198
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Diana Ross",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 76,
+                        "height": null,
+                        "position": {
+                            "x": 72,
+                            "y": 478
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "size": "XS",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 110,
+                            "y": 254
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "AVATAR",
+                    "data": {
+                        "size": "M",
+                        "text": "d",
+                        "color": {
+                            "type": "CUSTOM"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 20,
+                            "y": 478
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1440,
+        "height": 56,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": [
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "WHITE"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1305,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "HEADER_MENU",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 302,
+                "height": 36,
+                "position": {
+                    "x": 140,
+                    "y": 10
+                }
+            },
+            "children": [
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Users",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Analytics ",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Settings",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Feedback",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "icon": null,
+                        "text": "Transactions",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "M",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1384,
+                    "y": 10
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 96,
+                "height": 36,
+                "position": {
+                    "x": 20,
+                    "y": 10
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Search messages...",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [
+                    {
+                        "alignment": "LEFT",
+                        "useBorderColor": false
+                    }
+                ],
+                "width": 256,
+                "position": {
+                    "x": 1034,
+                    "y": 11
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "WHITE"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1344,
+                    "y": 16
+                }
+            },
+            "children": []
+        }
+    ]
+}
+]

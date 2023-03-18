@@ -1,0 +1,235 @@
+[{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 355,
+            "y": 216
+        },
+        "from": {
+            "x": 12,
+            "y": 215
+        },
+        "width": 710,
+        "height": 1,
+        "position": {
+            "x": 12,
+            "y": 215
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "size": "M",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "position": {
+            "x": 335,
+            "y": 106
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXTBOX",
+    "data": {
+        "size": "S",
+        "text": "2",
+        "color": {
+            "type": "GRAY"
+        },
+        "icons": [
+            {
+                "alignment": "LEFT"
+            }
+        ],
+        "label": "Label",
+        "width": 96,
+        "height": null,
+        "position": {
+            "x": 12,
+            "y": 143
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Rating",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 12,
+            "y": 232
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "SLIDER",
+    "data": {
+        "size": "M",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "value": {
+            "to": 66,
+            "from": 33
+        },
+        "width": 343,
+        "height": 14,
+        "position": {
+            "x": 12,
+            "y": 185
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 375,
+        "height": 92,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Filter",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 284,
+                "height": null,
+                "position": {
+                    "x": 42,
+                    "y": 53
+                },
+                "textAlign": "CENTER",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "L",
+                "text": "",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 47,
+                "height": null,
+                "position": {
+                    "x": 328,
+                    "y": 46
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 375,
+        "height": 812,
+        "position": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXTBOX",
+    "data": {
+        "size": "S",
+        "text": "10",
+        "color": {
+            "type": "GRAY"
+        },
+        "icons": [
+            {
+                "alignment": "LEFT"
+            }
+        ],
+        "label": "Label",
+        "width": 96,
+        "height": null,
+        "position": {
+            "x": 259,
+            "y": 143
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Price range",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 12,
+            "y": 107
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "size": "M",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "position": {
+            "x": 335,
+            "y": 233
+        }
+    },
+    "children": []
+},
+{
+    "type": "RATING",
+    "data": {
+        "size": "XL",
+        "color": {
+            "type": "CUSTOM"
+        },
+        "shape": "REGULAR",
+        "width": 262,
+        "height": 32,
+        "position": {
+            "x": 53,
+            "y": 268
+        }
+    },
+    "children": []
+}
+]

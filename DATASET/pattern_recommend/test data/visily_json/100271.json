@@ -1,0 +1,64 @@
+[{
+    "type": "RATING",
+    "data": {
+        "size": "XL",
+        "color": {
+            "type": "CUSTOM"
+        },
+        "shape": "ROUNDED",
+        "position": {
+            "x": 105,
+            "y": 418
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Very satisfied !",
+        "color": {
+            "type": "WHITE"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 119,
+            "y": 489
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "600"
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 208,
+        "height": 204,
+        "position": {
+            "x": 85,
+            "y": 179
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Are you satisfied\n    with your employee?",
+        "color": {
+            "type": "WHITE"
+        },
+        "width": 232,
+        "height": 60,
+        "position": {
+            "x": 79,
+            "y": 48
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "600"
+    },
+    "children": []
+}
+]

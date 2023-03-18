@@ -1,0 +1,444 @@
+[{
+    "type": "TEXT",
+    "data": {
+        "text": "We're always looking for new voices and new ideas to add to the TED community. Through our TED Talks, Fellowship, \nTED-Ed lessons, and podcasts, we take those great ideas and help them grow — but they start with your suggestions. \nSee all the ways to let us know about the most exciting, talented people in your network.",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 46,
+            "y": 215
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1473,
+        "height": 252,
+        "position": {
+            "x": 47,
+            "y": 744
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Are you a changemaker with an ambitious idea? The Audacious Project could help your work achieve far-reaching social impact. TED’s ambitious collaborative funding initiative is looking for world-changing ideas to catalyze to grand scale. If you and your organization have a proven track record and the potential to deliver on a bold vision, The Audacious Project could be for you.",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 1034,
+                "height": 84,
+                "position": {
+                    "x": 1,
+                    "y": 78
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Apply for The Audacious Project",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 516,
+                "height": 48,
+                "position": {
+                    "x": 1,
+                    "y": 15
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "400"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Apply for The Audacious Project",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 144,
+                "height": 22,
+                "position": {
+                    "x": 1,
+                    "y": 177
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 260,
+                "height": 193,
+                "position": {
+                    "x": 1063,
+                    "y": 29
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Nominate",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 45,
+            "y": 132
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 1519,
+            "y": 699
+        },
+        "from": {
+            "x": 47,
+            "y": 699
+        },
+        "position": {
+            "x": 47,
+            "y": 699
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Participate > ",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 46,
+            "y": 96
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1473,
+        "height": 252,
+        "position": {
+            "x": 46,
+            "y": 389
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 260,
+                "height": 175,
+                "position": {
+                    "x": 1064,
+                    "y": 55
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Nominate a speaker",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 144,
+                "height": 22,
+                "position": {
+                    "x": 1,
+                    "y": 194
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Each TED conference features more than 50 of the world's most innovative and influential speakers. At TED, we search year-round for presenters who will inform and inspire, surprise and delight. If you know someone who belongs on the TED stage, or if you belong there yourself, we want to hear from you! Please use our speaker recommendation form to tell us why this person would be well-suited to speak at TED. More about speaking at TED",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 1034,
+                "height": 130,
+                "position": {
+                    "x": 1,
+                    "y": 78
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Nominate a speaker",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 362,
+                "height": 48,
+                "position": {
+                    "x": 1,
+                    "y": 15
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "400"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1920,
+        "height": 66,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "HEADER_MENU",
+            "data": {
+                "size": "XL",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 553,
+                "height": null,
+                "position": {
+                    "x": 160,
+                    "y": 2
+                }
+            },
+            "children": [
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "size": null,
+                        "text": "Watch",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "icon": null,
+                        "size": null,
+                        "text": "Discover",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "size": null,
+                        "text": "Attend",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "size": null,
+                        "text": "Participate",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "size": null,
+                        "text": "About",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "XS",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 16,
+                "height": 16,
+                "position": {
+                    "x": 1786,
+                    "y": 20
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 73,
+                "height": 43,
+                "position": {
+                    "x": 45,
+                    "y": 6
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "XL",
+                "text": "Membership",
+                "color": {
+                    "type": "TERTIARY3"
+                },
+                "width": 0,
+                "height": null,
+                "iconSize": null,
+                "position": {
+                    "x": 735,
+                    "y": 7
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "M",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": null,
+                "height": null,
+                "iconSize": null,
+                "position": {
+                    "x": 1653,
+                    "y": 10
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "M",
+                "text": "",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 52,
+                "height": null,
+                "position": {
+                    "x": 1816,
+                    "y": 10
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Jack Ma",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 74,
+                "height": 22,
+                "position": {
+                    "x": 1703,
+                    "y": 17
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        }
+    ]
+}
+]

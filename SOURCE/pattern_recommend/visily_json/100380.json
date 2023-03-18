@@ -1,0 +1,752 @@
+[{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "2",
+        "color": {
+            "type": "INFO"
+        },
+        "width": 32,
+        "height": null,
+        "position": {
+            "x": 652,
+            "y": 846
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Profile name",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 196,
+            "y": 552
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "10",
+        "color": {
+            "type": "GRAY"
+        },
+        "width": 39,
+        "height": null,
+        "position": {
+            "x": 802,
+            "y": 846
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 267,
+        "height": 143,
+        "position": {
+            "x": 435,
+            "y": 414
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Profile name",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 770,
+            "y": 643
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "AVATAR",
+    "data": {
+        "size": "S",
+        "text": "A",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 443,
+            "y": 366
+        }
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "3",
+        "color": {
+            "type": "GRAY"
+        },
+        "width": 33,
+        "height": null,
+        "position": {
+            "x": 688,
+            "y": 846
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Profile name",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 770,
+            "y": 432
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "AVATAR",
+    "data": {
+        "size": "S",
+        "text": "A",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 730,
+            "y": 429
+        }
+    },
+    "children": []
+},
+{
+    "type": "AVATAR",
+    "data": {
+        "size": "S",
+        "text": "A",
+        "color": {
+            "type": "CUSTOM"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 1017,
+            "y": 596
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 267,
+        "height": 166,
+        "position": {
+            "x": 156,
+            "y": 377
+        }
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "icon": {
+            "alignment": "LEFT"
+        },
+        "size": "M",
+        "text": "",
+        "color": {
+            "type": "GRAY"
+        },
+        "width": 36,
+        "height": null,
+        "position": {
+            "x": 762,
+            "y": 846
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Profile name",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 1057,
+            "y": 599
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "AVATAR",
+    "data": {
+        "size": "S",
+        "text": "H",
+        "color": {
+            "type": "SECONDARY"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 443,
+            "y": 563
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "AVATAR",
+    "data": {
+        "size": "S",
+        "text": "A",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 730,
+            "y": 640
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 267,
+        "height": 181,
+        "position": {
+            "x": 156,
+            "y": 598
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 267,
+        "height": 199,
+        "position": {
+            "x": 443,
+            "y": 161
+        }
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "4",
+        "color": {
+            "type": "GRAY"
+        },
+        "width": 33,
+        "height": null,
+        "position": {
+            "x": 725,
+            "y": 846
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "AVATAR",
+    "data": {
+        "size": "M",
+        "text": "A",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 1454,
+            "y": 58
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Profile name",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 1057,
+            "y": 400
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "icon": {
+            "alignment": "LEFT"
+        },
+        "size": "M",
+        "text": "",
+        "color": {
+            "type": "GRAY"
+        },
+        "width": 36,
+        "height": null,
+        "position": {
+            "x": 577,
+            "y": 846
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 267,
+        "height": 162,
+        "position": {
+            "x": 156,
+            "y": 161
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 267,
+        "height": 145,
+        "position": {
+            "x": 1017,
+            "y": 445
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Profile name",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 196,
+            "y": 332
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "AVATAR",
+    "data": {
+        "size": "S",
+        "text": "A",
+        "color": {
+            "type": "CUSTOM"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 1017,
+            "y": 397
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 267,
+        "height": 157,
+        "position": {
+            "x": 730,
+            "y": 477
+        }
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "icon": {
+            "alignment": "LEFT"
+        },
+        "size": "M",
+        "text": "",
+        "color": {
+            "type": "GRAY"
+        },
+        "width": 36,
+        "height": null,
+        "position": {
+            "x": 886,
+            "y": 846
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 267,
+        "height": 230,
+        "position": {
+            "x": 1017,
+            "y": 161
+        }
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "11",
+        "color": {
+            "type": "GRAY"
+        },
+        "width": 37,
+        "height": null,
+        "position": {
+            "x": 845,
+            "y": 846
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 12,
+        "height": 384,
+        "position": {
+            "x": 1428,
+            "y": 233
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": [
+        {
+            "type": "RECTANGLE",
+            "data": {
+                "width": 12,
+                "height": 124,
+                "position": {
+                    "x": 0,
+                    "y": 130
+                },
+                "backgroundColor": {
+                    "type": "NEUTRAL"
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Profile name",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 483,
+            "y": 369
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 267,
+        "height": 135,
+        "position": {
+            "x": 1017,
+            "y": 644
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 267,
+        "height": 168,
+        "position": {
+            "x": 443,
+            "y": 611
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Profile name",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 483,
+            "y": 566
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "1",
+        "color": {
+            "type": "GRAY"
+        },
+        "width": 31,
+        "height": null,
+        "position": {
+            "x": 617,
+            "y": 846
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1306,
+        "height": 56,
+        "position": {
+            "x": 77,
+            "y": 48
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 96,
+                "height": 36,
+                "position": {
+                    "x": 24,
+                    "y": 10
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Search...",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [
+                    {
+                        "alignment": "LEFT",
+                        "useBorderColor": false
+                    }
+                ],
+                "width": 640,
+                "position": {
+                    "x": 160,
+                    "y": 10
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1183,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "M",
+                "text": "New Image",
+                "color": {
+                    "type": "SECONDARY"
+                },
+                "width": 120,
+                "height": null,
+                "position": {
+                    "x": 1044,
+                    "y": 10
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1226,
+                    "y": 16
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "AVATAR",
+    "data": {
+        "size": "S",
+        "text": "A",
+        "color": {
+            "type": "SECONDARY"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 156,
+            "y": 549
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 267,
+        "height": 262,
+        "position": {
+            "x": 730,
+            "y": 152
+        }
+    },
+    "children": []
+},
+{
+    "type": "AVATAR",
+    "data": {
+        "size": "S",
+        "text": "A",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 156,
+            "y": 329
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 267,
+        "height": 91,
+        "position": {
+            "x": 730,
+            "y": 688
+        }
+    },
+    "children": []
+}
+]

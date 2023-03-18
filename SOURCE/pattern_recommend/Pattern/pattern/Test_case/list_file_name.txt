@@ -1,0 +1,16 @@
+./pattern/action_move
+./pattern/action_raw
+./pattern/action_scale
+./pattern/edit_profile_move
+./pattern/edit_profile_raw
+./pattern/edit_profile_scale
+./pattern/sign_in_1_move
+./pattern/sign_in_1_raw
+./pattern/sign_in_1_remove_components
+./pattern/sign_in_1_scale
+./pattern/sign_in_2_move
+./pattern/sign_in_2_raw
+./pattern/sign_in_2_scale
+./pattern/sign_up_1_move
+./pattern/sign_up_1_raw
+./pattern/sign_up_1_scale

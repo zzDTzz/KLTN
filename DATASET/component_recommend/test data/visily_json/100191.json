@@ -1,0 +1,455 @@
+[{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1440,
+        "height": 52,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "M",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1366,
+                    "y": 8
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "HEADER_MENU",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 616,
+                "position": {
+                    "x": 160,
+                    "y": 0
+                }
+            },
+            "children": [
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Support",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Home",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "My Account",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Best Sellers",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 24,
+                "height": null,
+                "position": {
+                    "x": 1326,
+                    "y": 14
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 96,
+                "height": 36,
+                "position": {
+                    "x": 20,
+                    "y": 8
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Search...",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [
+                    {
+                        "alignment": "LEFT",
+                        "useBorderColor": false
+                    }
+                ],
+                "width": 269,
+                "height": null,
+                "position": {
+                    "x": 1033,
+                    "y": 8
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "XS",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 12,
+                "height": null,
+                "position": {
+                    "x": 1408,
+                    "y": 20
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1186,
+        "height": 680,
+        "position": {
+            "x": 127,
+            "y": 127
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Your payment was successful!\nYou can check the delivery status in your account. ",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 256,
+                "height": 66,
+                "position": {
+                    "x": 450,
+                    "y": 170
+                },
+                "textAlign": "CENTER",
+                "fontWeight": "400"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Payment Success!",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": 36,
+                "position": {
+                    "x": 466,
+                    "y": 134
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Address",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "label": "Label",
+                "width": 440,
+                "position": {
+                    "x": 394,
+                    "y": 369
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Address",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 64,
+                "height": 6,
+                "position": {
+                    "x": 322,
+                    "y": 376
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "123-456-7890",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [
+                    {
+                        "alignment": "LEFT",
+                        "useBorderColor": false
+                    }
+                ],
+                "label": "Phone",
+                "width": 440,
+                "position": {
+                    "x": 394,
+                    "y": 421
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Go to Homepage",
+                "color": {
+                    "type": "INFO"
+                },
+                "width": 0,
+                "position": {
+                    "x": 698,
+                    "y": 644
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Full Name",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "label": "Label",
+                "width": 205,
+                "position": {
+                    "x": 394,
+                    "y": 317
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "example@domain.com",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [
+                    {
+                        "alignment": "LEFT",
+                        "useBorderColor": false
+                    }
+                ],
+                "label": "Email",
+                "width": 440,
+                "position": {
+                    "x": 394,
+                    "y": 473
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Shipping information",
+                "color": {
+                    "type": "BLACK"
+                },
+                "width": 512,
+                "height": 48,
+                "position": {
+                    "x": 322,
+                    "y": 269
+                },
+                "textAlign": "CENTER",
+                "fontWeight": "600"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTAREA",
+            "data": {
+                "icon": null,
+                "size": "M",
+                "text": "Add notes for our delivery staff",
+                "color": {
+                    "type": "GRAY"
+                },
+                "label": "Special instructions",
+                "width": 512,
+                "height": 96,
+                "position": {
+                    "x": 322,
+                    "y": 525
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Name",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 64,
+                "height": 13,
+                "position": {
+                    "x": 322,
+                    "y": 324
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Email",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 64,
+                "height": 1,
+                "position": {
+                    "x": 322,
+                    "y": 480
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "XL",
+                "text": "",
+                "color": {
+                    "type": "SUCCESS"
+                },
+                "width": 100,
+                "height": 97,
+                "iconSize": 40,
+                "position": {
+                    "x": 528,
+                    "y": 10
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Phone",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 64,
+                "height": 5,
+                "position": {
+                    "x": 322,
+                    "y": 428
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        }
+    ]
+}
+]

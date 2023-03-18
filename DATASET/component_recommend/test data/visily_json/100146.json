@@ -1,0 +1,347 @@
+[{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 125,
+            "y": 900
+        },
+        "from": {
+            "x": 125,
+            "y": 0
+        },
+        "position": {
+            "x": 125,
+            "y": 0
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXTBOX",
+    "data": {
+        "size": "XL",
+        "text": "What happening ?",
+        "color": {
+            "type": "GRAY"
+        },
+        "icons": [],
+        "label": "Label",
+        "width": 753,
+        "height": null,
+        "position": {
+            "x": 252,
+            "y": 94
+        },
+        "labelTextSize": null,
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Home",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 154,
+            "y": 29
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "XL",
+        "text": "Tweet",
+        "color": {
+            "type": "SECONDARY"
+        },
+        "width": 0,
+        "height": null,
+        "iconSize": null,
+        "position": {
+            "x": 912,
+            "y": 173
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Current Trending",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 225,
+        "height": 36,
+        "position": {
+            "x": 1083,
+            "y": 107
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXTAREA",
+    "data": {
+        "icon": null,
+        "size": "M",
+        "text": "",
+        "color": {
+            "type": "GRAY"
+        },
+        "label": "Label",
+        "width": 340,
+        "height": 356,
+        "position": {
+            "x": 1056,
+            "y": 94
+        },
+        "labelTextSize": null,
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 1034,
+            "y": 900
+        },
+        "from": {
+            "x": 1034,
+            "y": 0
+        },
+        "position": {
+            "x": 1034,
+            "y": 0
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 10,
+        "height": 898,
+        "position": {
+            "x": 1417,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": []
+},
+{
+    "type": "OVAL",
+    "data": {
+        "width": 65,
+        "height": 61,
+        "position": {
+            "x": 154,
+            "y": 94
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": []
+},
+{
+    "type": "COLLAPSED_SIDEBAR_MENU",
+    "data": {
+        "size": "XL",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 56,
+        "height": 480,
+        "position": {
+            "x": 32,
+            "y": 29
+        }
+    },
+    "children": [
+        {
+            "type": "COLLAPSED_SIDEBAR_MENU_ITEM",
+            "data": {
+                "icon": {
+                    "size": null,
+                    "alignment": "LEFT"
+                },
+                "size": null,
+                "text": "Menu item",
+                "color": null,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "COLLAPSED_SIDEBAR_MENU_ITEM",
+            "data": {
+                "icon": {
+                    "size": null,
+                    "alignment": "LEFT"
+                },
+                "size": null,
+                "text": "Menu item 1",
+                "color": null,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "COLLAPSED_SIDEBAR_MENU_ITEM",
+            "data": {
+                "icon": {
+                    "size": null,
+                    "alignment": "LEFT"
+                },
+                "size": null,
+                "text": "Menu item",
+                "color": null,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "COLLAPSED_SIDEBAR_MENU_ITEM",
+            "data": {
+                "icon": {
+                    "size": null,
+                    "alignment": "LEFT"
+                },
+                "size": null,
+                "text": "Menu item",
+                "color": null,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "COLLAPSED_SIDEBAR_MENU_ITEM",
+            "data": {
+                "icon": {
+                    "size": null,
+                    "alignment": "LEFT"
+                },
+                "size": null,
+                "text": "Menu item",
+                "color": null,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "COLLAPSED_SIDEBAR_MENU_ITEM",
+            "data": {
+                "icon": {
+                    "size": null,
+                    "alignment": "LEFT"
+                },
+                "size": null,
+                "text": "Menu item 2",
+                "color": null,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "COLLAPSED_SIDEBAR_MENU_ITEM",
+            "data": {
+                "icon": {
+                    "size": null,
+                    "alignment": "LEFT"
+                },
+                "size": null,
+                "text": "Menu item",
+                "color": null,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXTBOX",
+    "data": {
+        "size": "XL",
+        "text": "Search...",
+        "color": {
+            "type": "GRAY"
+        },
+        "icons": [
+            {
+                "size": null,
+                "alignment": "LEFT",
+                "useBorderColor": false
+            }
+        ],
+        "width": 347,
+        "height": null,
+        "position": {
+            "x": 1056,
+            "y": 29
+        },
+        "labelTextSize": null
+    },
+    "children": []
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 12,
+        "height": 124,
+        "position": {
+            "x": 1417,
+            "y": 142
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": []
+}
+]

@@ -1,0 +1,232 @@
+[{
+    "type": "CONTAINER",
+    "data": {
+        "width": 480,
+        "height": 408,
+        "position": {
+            "x": 480,
+            "y": 246
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "XL",
+                "text": "Upload",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 82,
+                "height": null,
+                "iconSize": null,
+                "position": {
+                    "x": 378,
+                    "y": 352
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 440,
+                "height": 270,
+                "position": {
+                    "x": 20,
+                    "y": 68
+                },
+                "backgroundColor": {
+                    "type": "NEUTRAL"
+                }
+            },
+            "children": [
+                {
+                    "type": "BUTTON",
+                    "data": {
+                        "icon": null,
+                        "size": "L",
+                        "text": "Browse files",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": 0,
+                        "height": 44,
+                        "position": {
+                            "x": 167,
+                            "y": 206
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "L",
+                        "text": "Supported formats: PNG, JPG",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": null,
+                        "height": 22,
+                        "position": {
+                            "x": 125,
+                            "y": 150
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "size": "XL",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 80,
+                        "height": 80,
+                        "position": {
+                            "x": 180,
+                            "y": 28
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Drop files here",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": null,
+                        "height": 34,
+                        "position": {
+                            "x": 147,
+                            "y": 112
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "L",
+                        "text": "OR",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": null,
+                        "height": 22,
+                        "position": {
+                            "x": 210,
+                            "y": 180
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 430,
+                    "y": 27
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 399,
+                    "y": 27
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 368,
+                    "y": 27
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "XL",
+                "text": "Cancel",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 81,
+                "height": null,
+                "iconSize": null,
+                "position": {
+                    "x": 286,
+                    "y": 352
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Upload files",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 440,
+                "height": 34,
+                "position": {
+                    "x": 20,
+                    "y": 20
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 1440,
+        "height": 900,
+        "position": {
+            "x": 0,
+            "y": -1
+        }
+    },
+    "children": []
+}
+]

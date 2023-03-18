@@ -1,0 +1,258 @@
+[{
+    "type": "CONTAINER",
+    "data": {
+        "width": 428,
+        "height": 104,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 428,
+                "height": 40,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 72,
+                        "height": 40,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 96,
+                        "height": 40,
+                        "position": {
+                            "x": 332,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "L",
+                "text": "",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 47,
+                "height": null,
+                "position": {
+                    "x": 381,
+                    "y": 50
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Driver Rating",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 284,
+                "height": null,
+                "position": {
+                    "x": 67,
+                    "y": 54
+                },
+                "textAlign": "CENTER",
+                "fontWeight": "700"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "\bI can ship you to wherever you want,\nincluding my heart ❤️",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 296,
+        "height": null,
+        "position": {
+            "x": 66,
+            "y": 193
+        },
+        "textAlign": "CENTER",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "L",
+        "text": "Submit",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 396,
+        "height": null,
+        "position": {
+            "x": 16,
+            "y": 866
+        }
+    },
+    "children": []
+},
+{
+    "type": "RATING",
+    "data": {
+        "size": "XL",
+        "color": {
+            "type": "CUSTOM"
+        },
+        "shape": "REGULAR",
+        "width": 251,
+        "height": 36,
+        "position": {
+            "x": 89,
+            "y": 310
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "How do you feel about our service?",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 57,
+            "y": 386
+        },
+        "textAlign": "CENTER",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "How was everything?",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 119,
+            "y": 274
+        },
+        "textAlign": "CENTER",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 73,
+        "height": 73,
+        "position": {
+            "x": 177,
+            "y": 112
+        }
+    },
+    "children": []
+},
+{
+    "type": "CHECKBOX",
+    "data": {
+        "size": "L",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "label": "Label",
+        "width": 388,
+        "height": 236,
+        "position": {
+            "x": 20,
+            "y": 426
+        }
+    },
+    "children": [
+        {
+            "type": "CHECKBOX_ITEM",
+            "data": {
+                "text": "Driver's good attitude",
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "CHECKBOX_ITEM",
+            "data": {
+                "text": "On time",
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "CHECKBOX_ITEM",
+            "data": {
+                "text": "Safety",
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "CHECKBOX_ITEM",
+            "data": {
+                "text": "Right place",
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+}
+]

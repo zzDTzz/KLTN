@@ -1,0 +1,215 @@
+[{
+    "type": "CONTAINER",
+    "data": {
+        "width": 428,
+        "height": 867,
+        "position": {
+            "x": 0,
+            "y": 59
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXTAREA",
+            "data": {
+                "icon": null,
+                "size": "M",
+                "text": "Thay laptop",
+                "color": {
+                    "type": "GRAY"
+                },
+                "label": "Label",
+                "width": 138,
+                "height": 62,
+                "position": {
+                    "x": 16,
+                    "y": 80
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 377,
+                    "y": 17
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Notes",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 65,
+                    "y": 19
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 16,
+                    "y": 17
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "color": {
+                    "type": "WHITE"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 332,
+                    "y": 786
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "L",
+                "text": "",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 0,
+                "height": null,
+                "iconSize": null,
+                "position": {
+                    "x": 320,
+                    "y": 772
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTAREA",
+            "data": {
+                "icon": null,
+                "size": "M",
+                "text": "Thay laptop",
+                "color": {
+                    "type": "GRAY"
+                },
+                "label": "Label",
+                "width": 138,
+                "height": 62,
+                "position": {
+                    "x": 176,
+                    "y": 80
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 428,
+        "height": 55,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": [
+        {
+            "type": "ICON",
+            "data": {
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 391,
+                    "y": 9
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 350,
+                    "y": 9
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 28,
+                "height": 28,
+                "position": {
+                    "x": 309,
+                    "y": 9
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "9:41",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 33,
+                "height": 26,
+                "position": {
+                    "x": 16,
+                    "y": 7
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        }
+    ]
+}
+]

@@ -1,0 +1,218 @@
+[{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "Add to Cart",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 98,
+        "height": 56,
+        "position": {
+            "x": 283,
+            "y": 772
+        }
+    },
+    "children": []
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 378,
+        "height": 64,
+        "position": {
+            "x": 42,
+            "y": 589
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": []
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 281,
+        "height": 67,
+        "position": {
+            "x": 90,
+            "y": 669
+        },
+        "backgroundColor": {
+            "type": "TERTIARY1"
+        }
+    },
+    "children": []
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 417,
+        "height": 437,
+        "position": {
+            "x": 14,
+            "y": 13
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": []
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 417,
+        "height": 455,
+        "position": {
+            "x": 15,
+            "y": 420
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": []
+},
+{
+    "type": "OVAL",
+    "data": {
+        "width": 36,
+        "height": 37,
+        "position": {
+            "x": 348,
+            "y": 602
+        },
+        "backgroundColor": {
+            "type": "CUSTOM"
+        }
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "Buy",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 98,
+        "height": 56,
+        "position": {
+            "x": 60,
+            "y": 772
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 265,
+        "height": 401,
+        "position": {
+            "x": 91,
+            "y": 31
+        }
+    },
+    "children": []
+},
+{
+    "type": "OVAL",
+    "data": {
+        "width": 36,
+        "height": 37,
+        "position": {
+            "x": 164,
+            "y": 604
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "300$",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 200,
+            "y": 685
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 324,
+        "height": 111,
+        "position": {
+            "x": 69,
+            "y": 450
+        },
+        "backgroundColor": {
+            "type": "PRIMARY"
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "School Bag",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 237,
+        "height": 56,
+        "position": {
+            "x": 112,
+            "y": 486
+        },
+        "textAlign": "CENTER",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "OVAL",
+    "data": {
+        "width": 36,
+        "height": 37,
+        "position": {
+            "x": 90,
+            "y": 602
+        },
+        "backgroundColor": {
+            "type": "TERTIARY3"
+        }
+    },
+    "children": []
+},
+{
+    "type": "OVAL",
+    "data": {
+        "width": 36,
+        "height": 37,
+        "position": {
+            "x": 261,
+            "y": 604
+        },
+        "backgroundColor": {
+            "type": "PRIMARY"
+        }
+    },
+    "children": []
+}
+]

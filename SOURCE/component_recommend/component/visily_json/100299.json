@@ -1,0 +1,1543 @@
+[{
+    "type": "CONTAINER",
+    "data": {
+        "width": 736,
+        "height": 251,
+        "position": {
+            "x": 288,
+            "y": 867
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "ICON",
+            "data": {
+                "size": "S",
+                "color": {
+                    "type": "CUSTOM"
+                },
+                "position": {
+                    "x": 702,
+                    "y": 212
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "position": {
+                    "x": 18,
+                    "y": 145
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "position": {
+                    "x": 18,
+                    "y": 82
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "S",
+                "color": {
+                    "type": "CUSTOM"
+                },
+                "position": {
+                    "x": 702,
+                    "y": 23
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "L",
+                "text": "6 orders to fulfill",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 132,
+                "position": {
+                    "x": 56,
+                    "y": 18
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "position": {
+                    "x": 18,
+                    "y": 208
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "S",
+                "color": {
+                    "type": "CUSTOM"
+                },
+                "position": {
+                    "x": 702,
+                    "y": 149
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "L",
+                "text": "50+ payments to capture",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 206,
+                "position": {
+                    "x": 56,
+                    "y": 81
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 718,
+                    "y": 126
+                },
+                "from": {
+                    "x": 18,
+                    "y": 125
+                },
+                "width": 710,
+                "height": 1,
+                "position": {
+                    "x": 18,
+                    "y": 125
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "position": {
+                    "x": 18,
+                    "y": 19
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "S",
+                "color": {
+                    "type": "CUSTOM"
+                },
+                "position": {
+                    "x": 702,
+                    "y": 86
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "L",
+                "text": "20 orders on delivery",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 171,
+                "position": {
+                    "x": 56,
+                    "y": 207
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 718,
+                    "y": 63
+                },
+                "from": {
+                    "x": 18,
+                    "y": 62
+                },
+                "width": 710,
+                "height": 1,
+                "position": {
+                    "x": 18,
+                    "y": 62
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 718,
+                    "y": 189
+                },
+                "from": {
+                    "x": 18,
+                    "y": 188
+                },
+                "width": 710,
+                "height": 1,
+                "position": {
+                    "x": 18,
+                    "y": 188
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "L",
+                "text": "1 chargeback to review",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 187,
+                "position": {
+                    "x": 56,
+                    "y": 144
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 355,
+        "height": 201,
+        "position": {
+            "x": 671,
+            "y": 182
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "L",
+                "text": "",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 0,
+                "height": null,
+                "position": {
+                    "x": 293,
+                    "y": 18
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "View report",
+                "color": {
+                    "type": "INFO"
+                },
+                "width": 0,
+                "height": null,
+                "position": {
+                    "x": 236,
+                    "y": 155
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "period of change",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 120,
+                "position": {
+                    "x": 85,
+                    "y": 108
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 355,
+                    "y": 145
+                },
+                "from": {
+                    "x": 0,
+                    "y": 144
+                },
+                "position": {
+                    "x": 0,
+                    "y": 144
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "42,502",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 266,
+                "height": 48,
+                "position": {
+                    "x": 18,
+                    "y": 50
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "XS",
+                "color": {
+                    "type": "DANGER"
+                },
+                "position": {
+                    "x": 18,
+                    "y": 113
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Data label",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 266,
+                "height": 22,
+                "position": {
+                    "x": 18,
+                    "y": 18
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "0.65%",
+                "color": {
+                    "type": "DANGER"
+                },
+                "width": 43,
+                "position": {
+                    "x": 36,
+                    "y": 108
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1120,
+        "height": 420,
+        "position": {
+            "x": 288,
+            "y": 415
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "XS",
+                "text": " Project 1",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 49,
+                "position": {
+                    "x": 815,
+                    "y": 142
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "XS",
+                "text": " Project 2",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 52,
+                "position": {
+                    "x": 900,
+                    "y": 142
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "RIGHT"
+                },
+                "size": "S",
+                "text": "Monthly",
+                "color": {
+                    "type": "BLACK"
+                },
+                "width": 88,
+                "height": 28,
+                "position": {
+                    "x": 109,
+                    "y": 78
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 215,
+                    "y": 78
+                },
+                "from": {
+                    "x": 215,
+                    "y": 106
+                },
+                "position": {
+                    "x": 215,
+                    "y": 78
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "$500,000",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 128,
+                "height": 30,
+                "position": {
+                    "x": 974,
+                    "y": 286
+                },
+                "textAlign": "RIGHT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 12,
+                "height": 12,
+                "position": {
+                    "x": 882,
+                    "y": 145
+                },
+                "backgroundColor": {
+                    "type": "PRIMARY"
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 12,
+                "height": 12,
+                "position": {
+                    "x": 797,
+                    "y": 145
+                },
+                "backgroundColor": {
+                    "type": "PRIMARY"
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "S",
+                "text": " End date",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 96,
+                "height": 28,
+                "position": {
+                    "x": 340,
+                    "y": 78
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "M",
+                "text": " Export",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 73,
+                "height": null,
+                "position": {
+                    "x": 1000,
+                    "y": 24
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "$230,000",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 128,
+                "height": 30,
+                "position": {
+                    "x": 974,
+                    "y": 358
+                },
+                "textAlign": "RIGHT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "COLUMN_BAR_CHART",
+            "data": {
+                "width": 934,
+                "height": 218,
+                "position": {
+                    "x": 18,
+                    "y": 170
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "XS",
+                "text": "MONTHLY SALES",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 654,
+                "height": 18,
+                "position": {
+                    "x": 18,
+                    "y": 142
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Project 2",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": null,
+                "height": 22,
+                "position": {
+                    "x": 1036,
+                    "y": 330
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "RIGHT"
+                },
+                "size": "S",
+                "text": "Project",
+                "color": {
+                    "type": "BLACK"
+                },
+                "width": 81,
+                "height": 28,
+                "position": {
+                    "x": 18,
+                    "y": 78
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "HEADER_MENU",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 784,
+                "height": 60,
+                "position": {
+                    "x": 18,
+                    "y": 0
+                }
+            },
+            "children": [
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Traffic",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Revenue",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Total sales",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Project 1",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "height": 22,
+                "position": {
+                    "x": 1039,
+                    "y": 258
+                },
+                "textAlign": "CENTER",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "S",
+                "text": "Start date",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 96,
+                "height": 28,
+                "position": {
+                    "x": 234,
+                    "y": 78
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "icon": {
+            "alignment": "LEFT"
+        },
+        "size": "M",
+        "text": " Share",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 70,
+        "height": null,
+        "position": {
+            "x": 1312,
+            "y": 108
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 256,
+        "height": 1150,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": [
+        {
+            "type": "SIDEBAR_MENU",
+            "data": {
+                "size": "L",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 220,
+                "height": 1062,
+                "position": {
+                    "x": 18,
+                    "y": 88
+                }
+            },
+            "children": [
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Integrations",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Analytics",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Projects",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Dashboard",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Teams",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Messages",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 96,
+                "height": 36,
+                "position": {
+                    "x": 18,
+                    "y": 14
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1184,
+        "height": 56,
+        "position": {
+            "x": 256,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 1032,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "M",
+                "text": "Create new project",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 185,
+                "height": null,
+                "position": {
+                    "x": 32,
+                    "y": 10
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Search...",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [
+                    {
+                        "alignment": "LEFT",
+                        "useBorderColor": false
+                    }
+                ],
+                "width": 256,
+                "height": 36,
+                "position": {
+                    "x": 758,
+                    "y": 10
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "M",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1116,
+                    "y": 10
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1074,
+                    "y": 16
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 355,
+        "height": 201,
+        "position": {
+            "x": 1053,
+            "y": 182
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "View report",
+                "color": {
+                    "type": "INFO"
+                },
+                "width": 0,
+                "height": null,
+                "position": {
+                    "x": 236,
+                    "y": 155
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 355,
+                    "y": 145
+                },
+                "from": {
+                    "x": 0,
+                    "y": 144
+                },
+                "position": {
+                    "x": 0,
+                    "y": 144
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "period of change",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 120,
+                "position": {
+                    "x": 81,
+                    "y": 108
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "L",
+                "text": "",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 0,
+                "height": null,
+                "position": {
+                    "x": 293,
+                    "y": 18
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "XS",
+                "color": {
+                    "type": "SUCCESS"
+                },
+                "position": {
+                    "x": 18,
+                    "y": 113
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "2.16%",
+                "color": {
+                    "type": "SUCCESS"
+                },
+                "width": 39,
+                "position": {
+                    "x": 36,
+                    "y": 108
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "$56,000",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 269,
+                "height": 48,
+                "position": {
+                    "x": 18,
+                    "y": 50
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Data label",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 269,
+                "height": 22,
+                "position": {
+                    "x": 18,
+                    "y": 18
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 356,
+        "height": 251,
+        "position": {
+            "x": 1052,
+            "y": 867
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Kathryn Murphy",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 211,
+                "height": 23,
+                "position": {
+                    "x": 74,
+                    "y": 69
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "L",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 47,
+                "height": 47,
+                "position": {
+                    "x": 18,
+                    "y": 163
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "L",
+                "text": "Activities",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 320,
+                "height": 27,
+                "position": {
+                    "x": 18,
+                    "y": 18
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Deserunt minim indidunt cillum nostrudo voluptate excepteur.",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 215,
+                "height": 47,
+                "position": {
+                    "x": 75,
+                    "y": 186
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "L",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 46,
+                "height": 46,
+                "position": {
+                    "x": 18,
+                    "y": 69
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Deserunt minim indidunt cillum nostrudo voluptate excepteur.",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 211,
+                "height": 47,
+                "position": {
+                    "x": 74,
+                    "y": 92
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "James Harrid",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 215,
+                "height": 23,
+                "position": {
+                    "x": 75,
+                    "y": 163
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "12:00 PM",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "height": 70,
+                "position": {
+                    "x": 285,
+                    "y": 69
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "11:37 PM",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "height": 70,
+                "position": {
+                    "x": 290,
+                    "y": 163
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "size": "M",
+        "text": "Dashboard",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 991,
+        "position": {
+            "x": 288,
+            "y": 102
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 355,
+        "height": 201,
+        "position": {
+            "x": 288,
+            "y": 182
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "period of change",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 120,
+                "position": {
+                    "x": 84,
+                    "y": 108
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "5.39%",
+                "color": {
+                    "type": "SUCCESS"
+                },
+                "width": 42,
+                "position": {
+                    "x": 36,
+                    "y": 108
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 355,
+                    "y": 145
+                },
+                "from": {
+                    "x": 0,
+                    "y": 144
+                },
+                "position": {
+                    "x": 0,
+                    "y": 144
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "L",
+                "text": "",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 0,
+                "height": null,
+                "position": {
+                    "x": 293,
+                    "y": 18
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "View report",
+                "color": {
+                    "type": "INFO"
+                },
+                "width": 0,
+                "height": null,
+                "position": {
+                    "x": 236,
+                    "y": 155
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "6,452",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 264,
+                "height": 48,
+                "position": {
+                    "x": 18,
+                    "y": 50
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Data label",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 264,
+                "height": 22,
+                "position": {
+                    "x": 18,
+                    "y": 18
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "XS",
+                "color": {
+                    "type": "SUCCESS"
+                },
+                "position": {
+                    "x": 18,
+                    "y": 113
+                }
+            },
+            "children": []
+        }
+    ]
+}
+]

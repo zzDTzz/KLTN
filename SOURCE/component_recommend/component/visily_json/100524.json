@@ -1,0 +1,900 @@
+[{
+    "type": "CONTAINER",
+    "data": {
+        "width": 375,
+        "height": 50,
+        "position": {
+            "x": 0,
+            "y": 255
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": [
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "L",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 40,
+                "height": 40,
+                "position": {
+                    "x": 14,
+                    "y": 5
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Vũ Ngọc Tuấn clone",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 266,
+                "height": null,
+                "position": {
+                    "x": 72,
+                    "y": 14
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 375,
+        "height": 50,
+        "position": {
+            "x": 0,
+            "y": 653
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Mike Oxmall",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 266,
+                "height": null,
+                "position": {
+                    "x": 72,
+                    "y": 14
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "L",
+                "text": "M",
+                "color": {
+                    "type": "BLACK"
+                },
+                "width": 40,
+                "height": 40,
+                "iconSize": null,
+                "position": {
+                    "x": 14,
+                    "y": 5
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 375,
+        "height": 50,
+        "position": {
+            "x": 0,
+            "y": 205
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": [
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "L",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 40,
+                "height": 40,
+                "position": {
+                    "x": 14,
+                    "y": 5
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Võ Khương Duy",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 266,
+                "height": null,
+                "position": {
+                    "x": 72,
+                    "y": 14
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 375,
+        "height": 50,
+        "position": {
+            "x": 0,
+            "y": 603
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Nguyễn Lâm Vĩnh Phú",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 266,
+                "height": null,
+                "position": {
+                    "x": 72,
+                    "y": 14
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "L",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 12,
+                    "y": 3
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 375,
+        "height": 50,
+        "position": {
+            "x": 0,
+            "y": 353
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": [
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "L",
+                "text": "T",
+                "color": {
+                    "type": "BLACK"
+                },
+                "width": 40,
+                "height": 40,
+                "iconSize": null,
+                "position": {
+                    "x": 14,
+                    "y": 5
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Tuệ",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 266,
+                "height": null,
+                "position": {
+                    "x": 72,
+                    "y": 14
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 375,
+        "height": 50,
+        "position": {
+            "x": 0,
+            "y": 403
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Dương",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 266,
+                "height": null,
+                "position": {
+                    "x": 72,
+                    "y": 14
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "L",
+                "text": "D",
+                "color": {
+                    "type": "BLACK"
+                },
+                "width": 40,
+                "height": 40,
+                "iconSize": null,
+                "position": {
+                    "x": 14,
+                    "y": 5
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 375,
+        "height": 50,
+        "position": {
+            "x": 0,
+            "y": 453
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": [
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "L",
+                "text": "P",
+                "color": {
+                    "type": "BLACK"
+                },
+                "width": 40,
+                "height": 40,
+                "iconSize": null,
+                "position": {
+                    "x": 14,
+                    "y": 5
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Peter Parker",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 266,
+                "height": null,
+                "position": {
+                    "x": 72,
+                    "y": 14
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 375,
+        "height": 40,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 375,
+                "height": 40,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": {
+                    "type": "NEUTRAL"
+                }
+            },
+            "children": [
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 72,
+                        "height": 40,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 96,
+                        "height": 40,
+                        "position": {
+                            "x": 279,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 72,
+                "height": 40,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 96,
+                "height": 40,
+                "position": {
+                    "x": 279,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 375,
+        "height": 80,
+        "position": {
+            "x": 0,
+            "y": 732
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TABBAR_MENU",
+            "data": {
+                "size": "L",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 343,
+                "height": 48,
+                "position": {
+                    "x": 30,
+                    "y": 16
+                }
+            },
+            "children": [
+                {
+                    "type": "TABBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Settings",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TABBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "People",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TABBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Messages",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TABBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Calls",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 375,
+        "height": 50,
+        "position": {
+            "x": 0,
+            "y": 553
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": [
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "L",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 12,
+                    "y": 3
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Mike Oxlong",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 266,
+                "height": null,
+                "position": {
+                    "x": 72,
+                    "y": 14
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 375,
+        "height": 50,
+        "position": {
+            "x": 0,
+            "y": 303
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Dakblue",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 266,
+                "height": null,
+                "position": {
+                    "x": 72,
+                    "y": 14
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "L",
+                "text": "D",
+                "color": {
+                    "type": "BLACK"
+                },
+                "width": 40,
+                "height": 40,
+                "iconSize": null,
+                "position": {
+                    "x": 14,
+                    "y": 5
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 375,
+        "height": 50,
+        "position": {
+            "x": 0,
+            "y": 503
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": [
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "L",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 14,
+                    "y": 3
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Suma D",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 266,
+                "height": null,
+                "position": {
+                    "x": 72,
+                    "y": 14
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 375,
+        "height": 50,
+        "position": {
+            "x": 0,
+            "y": 155
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": [
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "L",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 40,
+                "height": 40,
+                "position": {
+                    "x": 14,
+                    "y": 5
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Vũ Ngọc Tuấn",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 266,
+                "height": null,
+                "position": {
+                    "x": 72,
+                    "y": 14
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 375,
+        "height": 50,
+        "position": {
+            "x": 0,
+            "y": 701
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Alexa",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 266,
+                "height": null,
+                "position": {
+                    "x": 72,
+                    "y": 14
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "L",
+                "text": "A",
+                "color": {
+                    "type": "BLACK"
+                },
+                "width": 40,
+                "height": 40,
+                "iconSize": null,
+                "position": {
+                    "x": 14,
+                    "y": 5
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXTBOX",
+    "data": {
+        "size": "M",
+        "text": "Search",
+        "color": {
+            "type": "GRAY"
+        },
+        "icons": [
+            {
+                "alignment": "LEFT"
+            }
+        ],
+        "label": "Label",
+        "width": 335,
+        "height": null,
+        "position": {
+            "x": 20,
+            "y": 96
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 375,
+        "height": 56,
+        "position": {
+            "x": 0,
+            "y": 40
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "People",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 284,
+                "height": null,
+                "position": {
+                    "x": 44,
+                    "y": 14
+                },
+                "textAlign": "CENTER",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "L",
+                "text": "",
+                "color": {
+                    "type": "BLACK"
+                },
+                "width": 47,
+                "height": null,
+                "position": {
+                    "x": 328,
+                    "y": 6
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "M",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 18,
+                    "y": 10
+                }
+            },
+            "children": []
+        }
+    ]
+}
+]

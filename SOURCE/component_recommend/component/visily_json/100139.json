@@ -1,0 +1,104 @@
+[{
+    "type": "CONTAINER",
+    "data": {
+        "width": 560,
+        "height": 232,
+        "position": {
+            "x": 440,
+            "y": 327
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Confirm",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 80,
+                "height": null,
+                "position": {
+                    "x": 456,
+                    "y": 172
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin felis a eget eget urna. Ultricies sit pharetra maecenas neque, vel hendrerit viverra consectetur adipiscing dolor sit. ",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 512,
+                "height": 66,
+                "position": {
+                    "x": 24,
+                    "y": 90
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 2,
+                "height": 2,
+                "position": {
+                    "x": 534,
+                    "y": 38
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Cancel",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 74,
+                "height": null,
+                "position": {
+                    "x": 374,
+                    "y": 172
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Age Verification",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": 36,
+                "position": {
+                    "x": 180,
+                    "y": 38
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        }
+    ]
+}
+]

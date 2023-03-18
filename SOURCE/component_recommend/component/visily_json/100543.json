@@ -1,0 +1,535 @@
+[{
+    "type": "CONTAINER",
+    "data": {
+        "width": 109,
+        "height": 48,
+        "position": {
+            "x": 252,
+            "y": 136
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 36,
+                "height": 36,
+                "position": {
+                    "x": 6,
+                    "y": 6
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "RADIO",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "label": "Label",
+                "width": 16,
+                "height": null,
+                "position": {
+                    "x": 87,
+                    "y": 14
+                }
+            },
+            "children": [
+                {
+                    "type": "RADIO_ITEM",
+                    "data": {
+                        "text": "",
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 375,
+        "height": 92,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "L",
+                "text": "",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 47,
+                "height": null,
+                "position": {
+                    "x": 0,
+                    "y": 46
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Adding payment method",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 284,
+                "height": null,
+                "position": {
+                    "x": 49,
+                    "y": 52
+                },
+                "textAlign": "CENTER",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 375,
+                "height": 40,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 72,
+                        "height": 40,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 96,
+                        "height": 40,
+                        "position": {
+                            "x": 279,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+},
+{
+    "type": "TEXTBOX",
+    "data": {
+        "size": "M",
+        "text": "XXXX XXXX XXXX XXXX",
+        "color": {
+            "type": "GRAY"
+        },
+        "icons": [
+            {
+                "alignment": "LEFT"
+            }
+        ],
+        "label": "Card number",
+        "width": 347,
+        "height": null,
+        "position": {
+            "x": 14,
+            "y": 304
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "icon": null,
+        "size": "L",
+        "text": "\bAdd card",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 347,
+        "height": null,
+        "position": {
+            "x": 14,
+            "y": 502
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 109,
+        "height": 48,
+        "position": {
+            "x": 133,
+            "y": 136
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 36,
+                "height": 36,
+                "position": {
+                    "x": 6,
+                    "y": 6
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "RADIO",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "label": "Label",
+                "width": 16,
+                "height": null,
+                "position": {
+                    "x": 87,
+                    "y": 14
+                }
+            },
+            "children": [
+                {
+                    "type": "RADIO_ITEM",
+                    "data": {
+                        "text": "",
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Accept the Term and Conditions",
+        "color": {
+            "type": "INFO"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 32,
+            "y": 432
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Card number",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 14,
+            "y": 280
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "CHECKBOX",
+    "data": {
+        "size": "M",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "label": "Label",
+        "width": 347,
+        "height": 20,
+        "position": {
+            "x": 14,
+            "y": 462
+        }
+    },
+    "children": [
+        {
+            "type": "CHECKBOX_ITEM",
+            "data": {
+                "text": "Use as default payment method",
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXTBOX",
+    "data": {
+        "size": "M",
+        "text": "***",
+        "color": {
+            "type": "GRAY"
+        },
+        "icons": [],
+        "label": "Card number",
+        "width": 168,
+        "height": null,
+        "position": {
+            "x": 193,
+            "y": 380
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Security code",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 193,
+            "y": 356
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 109,
+        "height": 48,
+        "position": {
+            "x": 14,
+            "y": 136
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 36,
+                "height": 36,
+                "position": {
+                    "x": 6,
+                    "y": 6
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "RADIO",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "label": "Label",
+                "width": 16,
+                "height": null,
+                "position": {
+                    "x": 87,
+                    "y": 14
+                }
+            },
+            "children": [
+                {
+                    "type": "RADIO_ITEM",
+                    "data": {
+                        "text": "",
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+},
+{
+    "type": "TEXTBOX",
+    "data": {
+        "size": "M",
+        "text": "MM/YYYY",
+        "color": {
+            "type": "GRAY"
+        },
+        "icons": [],
+        "label": "Card number",
+        "width": 169,
+        "height": null,
+        "position": {
+            "x": 14,
+            "y": 380
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Card holder",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 14,
+            "y": 204
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "TEXTBOX",
+    "data": {
+        "size": "M",
+        "text": "Your name",
+        "color": {
+            "type": "GRAY"
+        },
+        "icons": [],
+        "label": "Card number",
+        "width": 347,
+        "height": null,
+        "position": {
+            "x": 14,
+            "y": 228
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "\bSelect card",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 14,
+            "y": 112
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Valid until",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 14,
+            "y": 356
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "CHECKBOX",
+    "data": {
+        "size": "M",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "label": "Label",
+        "width": 16,
+        "height": null,
+        "position": {
+            "x": 14,
+            "y": 432
+        }
+    },
+    "children": [
+        {
+            "type": "CHECKBOX_ITEM",
+            "data": {
+                "text": "",
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+}
+]

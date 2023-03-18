@@ -1,0 +1,243 @@
+[{
+    "type": "GROUP",
+    "data": {
+        "width": 767,
+        "height": 575,
+        "position": {
+            "x": 0,
+            "y": 155
+        }
+    },
+    "children": [
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 767,
+                "height": 654,
+                "position": {
+                    "x": 2,
+                    "y": 0
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 765,
+                        "height": 371,
+                        "position": {
+                            "x": 0,
+                            "y": 20
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "text": "Title Heading ",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 0,
+                            "y": 390
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": "700"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "BUTTON",
+                    "data": {
+                        "size": "M",
+                        "text": "Read more",
+                        "color": {
+                            "type": "GRAY"
+                        },
+                        "width": 0,
+                        "position": {
+                            "x": 154,
+                            "y": 588
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies mi non congue ullam corper. Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 672,
+                "height": 125,
+                "position": {
+                    "x": 0,
+                    "y": 470
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 12,
+        "height": 124,
+        "position": {
+            "x": 1417,
+            "y": 222
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "My Blog",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 657,
+            "y": 35
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 581,
+        "height": 394,
+        "position": {
+            "x": 836,
+            "y": 175
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 581,
+                "height": 288,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Tri Cao ",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 0,
+                    "y": 288
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Just me, myself and I, exploring the universe of uknownment. I have a heart of love and a interest of lorem ipsum and mauris neque quam blog. I want to share my world with you.",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 509,
+        "height": 88,
+        "position": {
+            "x": 836,
+            "y": 491
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 21,
+        "height": 798,
+        "position": {
+            "x": 1419,
+            "y": 92
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Welcome to the blog of Tri Cao",
+        "color": {
+            "type": "TERTIARY1"
+        },
+        "width": 377,
+        "height": 72,
+        "position": {
+            "x": 576,
+            "y": 92
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Title description, APRIL 7, 2022",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 0,
+            "y": 595
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "600"
+    },
+    "children": []
+}
+]

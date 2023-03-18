@@ -1,0 +1,1110 @@
+[{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 355,
+            "y": 203
+        },
+        "from": {
+            "x": 20,
+            "y": 202
+        },
+        "width": 710,
+        "height": 1,
+        "position": {
+            "x": 20,
+            "y": 202
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Bánh mì",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 64,
+            "y": 283
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "HEADER_MENU",
+    "data": {
+        "size": "M",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 342,
+        "height": 32,
+        "position": {
+            "x": 20,
+            "y": 112
+        }
+    },
+    "children": [
+        {
+            "type": "HEADER_MENU_ITEM",
+            "data": {
+                "icon": null,
+                "text": "Videos",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "HEADER_MENU_ITEM",
+            "data": {
+                "icon": null,
+                "text": "Shopping",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "HEADER_MENU_ITEM",
+            "data": {
+                "icon": null,
+                "text": "Images",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "HEADER_MENU_ITEM",
+            "data": {
+                "icon": null,
+                "text": "More...",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "HEADER_MENU_ITEM",
+            "data": {
+                "icon": null,
+                "text": "All",
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 375,
+        "height": 100,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 375,
+                "height": 40,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 72,
+                        "height": 40,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 96,
+                        "height": 40,
+                        "position": {
+                            "x": 279,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "L",
+                "text": "Banh",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [
+                    {
+                        "alignment": "RIGHT"
+                    }
+                ],
+                "label": "Label",
+                "width": 311,
+                "height": null,
+                "position": {
+                    "x": 44,
+                    "y": 48
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 20,
+                    "y": 58
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 375,
+        "height": 242,
+        "position": {
+            "x": 0,
+            "y": 597
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 31,
+                "height": 41,
+                "position": {
+                    "x": 191,
+                    "y": 6
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 31,
+                "height": 41,
+                "position": {
+                    "x": 80,
+                    "y": 53
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 35,
+                "height": 41,
+                "position": {
+                    "x": 252,
+                    "y": 147
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 31,
+                "height": 41,
+                "position": {
+                    "x": 191,
+                    "y": 53
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 31,
+                "height": 41,
+                "position": {
+                    "x": 301,
+                    "y": 53
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 31,
+                "height": 41,
+                "position": {
+                    "x": 6,
+                    "y": 6
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 32,
+                "height": 41,
+                "position": {
+                    "x": 133,
+                    "y": 100
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 44,
+                "height": 42,
+                "position": {
+                    "x": 56,
+                    "y": 194
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 31,
+                "height": 41,
+                "position": {
+                    "x": 117,
+                    "y": 53
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 35,
+                "height": 41,
+                "position": {
+                    "x": 47,
+                    "y": 147
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 31,
+                "height": 41,
+                "position": {
+                    "x": 264,
+                    "y": 6
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 35,
+                "height": 41,
+                "position": {
+                    "x": 211,
+                    "y": 147
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 31,
+                "height": 41,
+                "position": {
+                    "x": 43,
+                    "y": 6
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 31,
+                "height": 41,
+                "position": {
+                    "x": 301,
+                    "y": 6
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 44,
+                "height": 42,
+                "position": {
+                    "x": 6,
+                    "y": 194
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 35,
+                "height": 41,
+                "position": {
+                    "x": 6,
+                    "y": 147
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 32,
+                "height": 41,
+                "position": {
+                    "x": 210,
+                    "y": 100
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 32,
+                "height": 41,
+                "position": {
+                    "x": 56,
+                    "y": 100
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 32,
+                "height": 41,
+                "position": {
+                    "x": 18,
+                    "y": 100
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 31,
+                "height": 41,
+                "position": {
+                    "x": 43,
+                    "y": 53
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 31,
+                "height": 41,
+                "position": {
+                    "x": 264,
+                    "y": 53
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 35,
+                "height": 41,
+                "position": {
+                    "x": 293,
+                    "y": 147
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 31,
+                "height": 41,
+                "position": {
+                    "x": 227,
+                    "y": 53
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 57,
+                "height": 42,
+                "position": {
+                    "x": 312,
+                    "y": 194
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 32,
+                "height": 41,
+                "position": {
+                    "x": 325,
+                    "y": 100
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 32,
+                "height": 41,
+                "position": {
+                    "x": 171,
+                    "y": 100
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 35,
+                "height": 41,
+                "position": {
+                    "x": 170,
+                    "y": 147
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 32,
+                "height": 41,
+                "position": {
+                    "x": 248,
+                    "y": 100
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 31,
+                "height": 41,
+                "position": {
+                    "x": 117,
+                    "y": 6
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 31,
+                "height": 41,
+                "position": {
+                    "x": 154,
+                    "y": 6
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 31,
+                "height": 41,
+                "position": {
+                    "x": 227,
+                    "y": 6
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 32,
+                "height": 41,
+                "position": {
+                    "x": 286,
+                    "y": 100
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 35,
+                "height": 41,
+                "position": {
+                    "x": 129,
+                    "y": 147
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 31,
+                "height": 41,
+                "position": {
+                    "x": 6,
+                    "y": 53
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 31,
+                "height": 41,
+                "position": {
+                    "x": 154,
+                    "y": 53
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 31,
+                "height": 41,
+                "position": {
+                    "x": 338,
+                    "y": 6
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 35,
+                "height": 41,
+                "position": {
+                    "x": 334,
+                    "y": 147
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 32,
+                "height": 41,
+                "position": {
+                    "x": 95,
+                    "y": 100
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 31,
+                "height": 41,
+                "position": {
+                    "x": 338,
+                    "y": 53
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 31,
+                "height": 41,
+                "position": {
+                    "x": 80,
+                    "y": 6
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 35,
+                "height": 41,
+                "position": {
+                    "x": 88,
+                    "y": 147
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 355,
+            "y": 400
+        },
+        "from": {
+            "x": 20,
+            "y": 399
+        },
+        "width": 710,
+        "height": 1,
+        "position": {
+            "x": 20,
+            "y": 399
+        }
+    },
+    "children": []
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 355,
+            "y": 262
+        },
+        "from": {
+            "x": 20,
+            "y": 261
+        },
+        "width": 710,
+        "height": 1,
+        "position": {
+            "x": 20,
+            "y": 261
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Recently searched",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 20,
+            "y": 466
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 355,
+            "y": 331
+        },
+        "from": {
+            "x": 20,
+            "y": 330
+        },
+        "width": 710,
+        "height": 1,
+        "position": {
+            "x": 20,
+            "y": 330
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 200,
+        "height": 60,
+        "position": {
+            "x": 120,
+            "y": 791
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "VI",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 34,
+                "height": 26,
+                "position": {
+                    "x": 73,
+                    "y": 8
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 34,
+        "height": 29,
+        "position": {
+            "x": 22,
+            "y": 281
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "size": "S",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 339,
+            "y": 568
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "size": "S",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 339,
+            "y": 509
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "size": "M",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 22,
+            "y": 418
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Bánh mì",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 20,
+            "y": 563
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Banh mi ba huynh",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 64,
+            "y": 160
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 355,
+            "y": 547
+        },
+        "from": {
+            "x": 20,
+            "y": 546
+        },
+        "width": 710,
+        "height": 1,
+        "position": {
+            "x": 20,
+            "y": 546
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Banh canh cua",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 64,
+            "y": 227
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Bánh xèo",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 61,
+            "y": 352
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Bánh xèo",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 133,
+            "y": 563
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Quán ăn gần đây",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 20,
+            "y": 504
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Bánh kem",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 252,
+            "y": 563
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 36,
+        "height": 37,
+        "position": {
+            "x": 14,
+            "y": 352
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "size": "M",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 20,
+            "y": 220
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Bánh mì Huỳnh Hoa",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 64,
+            "y": 416
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "size": "M",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 20,
+            "y": 161
+        }
+    },
+    "children": []
+}
+]

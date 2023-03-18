@@ -1,0 +1,1142 @@
+[{
+    "type": "IMAGE",
+    "data": {
+        "width": 127,
+        "height": 127,
+        "position": {
+            "x": 56,
+            "y": 88
+        }
+    },
+    "children": []
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 326,
+        "height": 408,
+        "position": {
+            "x": 986,
+            "y": 163
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1440,
+        "height": 54,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "OVAL",
+            "data": {
+                "width": 35,
+                "height": 35,
+                "position": {
+                    "x": 1251,
+                    "y": 10
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 35,
+                "height": 35,
+                "position": {
+                    "x": 1250,
+                    "y": 10
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "RECTANGLE",
+            "data": {
+                "width": 59,
+                "height": 42,
+                "position": {
+                    "x": 133,
+                    "y": 7
+                },
+                "backgroundColor": {
+                    "type": "SECONDARY"
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Studio",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 211,
+                    "y": 4
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Garfield Cat",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 95,
+                "position": {
+                    "x": 1297,
+                    "y": 17
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 96,
+                "height": 36,
+                "position": {
+                    "x": 24,
+                    "y": 10
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "color": {
+                    "type": "WHITE"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 145,
+                    "y": 11
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "color": {
+                    "type": "SECONDARY"
+                },
+                "width": 24,
+                "height": 24,
+                "position": {
+                    "x": 1068,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "XS",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 12,
+                "height": null,
+                "position": {
+                    "x": 1400,
+                    "y": 22
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "L",
+                "text": "CREATE",
+                "color": {
+                    "type": "SECONDARY"
+                },
+                "icons": [
+                    {
+                        "size": null,
+                        "alignment": "LEFT"
+                    }
+                ],
+                "label": "Label",
+                "width": 128,
+                "height": null,
+                "position": {
+                    "x": 1111,
+                    "y": 6
+                },
+                "labelTextSize": null,
+                "backgroundColor": null
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "SIDEBAR_MENU",
+    "data": {
+        "size": "M",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 213,
+        "height": 80,
+        "position": {
+            "x": 13,
+            "y": 277
+        }
+    },
+    "children": [
+        {
+            "type": "SIDEBAR_MENU_ITEM",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "text": "Content",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "SIDEBAR_MENU_ITEM",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "text": "Audio library",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "SIDEBAR_MENU_ITEM",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "text": "Copyright",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "SIDEBAR_MENU_ITEM",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "text": "Playlists",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "SIDEBAR_MENU_ITEM",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "text": "Dashboard",
+                "color": null,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "SIDEBAR_MENU_ITEM",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "text": "Comments",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "SIDEBAR_MENU_ITEM",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "text": "Monetization",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "SIDEBAR_MENU_ITEM",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "text": "Analytics",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "SIDEBAR_MENU_ITEM",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "text": "Customization",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "SIDEBAR_MENU_ITEM",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "text": "Subtitles",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "WATCH ON YOUTUBE",
+        "color": {
+            "type": "SECONDARY"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 1023,
+            "y": 536
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "icon": {
+            "alignment": "LEFT"
+        },
+        "size": "XS",
+        "text": "",
+        "color": {
+            "type": "SECONDARY"
+        },
+        "width": 28,
+        "height": 27,
+        "iconSize": null,
+        "position": {
+            "x": 1269,
+            "y": 182
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Garfield Cat",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 86,
+            "y": 247
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 986,
+            "y": 780
+        },
+        "from": {
+            "x": 1312,
+            "y": 780
+        },
+        "position": {
+            "x": 986,
+            "y": 780
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Last 48 hours . Views",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 236,
+        "height": 22,
+        "position": {
+            "x": 636,
+            "y": 511
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Top videos",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 236,
+        "height": 22,
+        "position": {
+            "x": 636,
+            "y": 484
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 620,
+            "y": 483
+        },
+        "from": {
+            "x": 913,
+            "y": 483
+        },
+        "position": {
+            "x": 620,
+            "y": 483
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Hello Insiders! Today we're back with a desktop launch encouraging more respectful interactions on YouTube, Adsense updates and spam best practices",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 236,
+        "height": null,
+        "position": {
+            "x": 1023,
+            "y": 418
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "This week at MeoTube",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 236,
+        "height": 22,
+        "position": {
+            "x": 1023,
+            "y": 388
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Last 28 days",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 236,
+        "height": 22,
+        "position": {
+            "x": 636,
+            "y": 349
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 284,
+        "height": 416,
+        "position": {
+            "x": 275,
+            "y": 163
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "SEE COMMENTS(0)",
+                "color": {
+                    "type": "SECONDARY"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 17,
+                    "y": 386
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Views                                     102",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "label": "Label",
+                "width": 248,
+                "height": null,
+                "position": {
+                    "x": 18,
+                    "y": 218
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Average percentage viewed   58.4%",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "label": "Label",
+                "width": 251,
+                "height": null,
+                "position": {
+                    "x": 18,
+                    "y": 264
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "First 185 days 21 hours",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": 22,
+                "position": {
+                    "x": 18,
+                    "y": 183
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Like                                         5",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "label": "Label",
+                "width": 251,
+                "height": null,
+                "position": {
+                    "x": 18,
+                    "y": 310
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "GO TO VIDEO ANALYTICS",
+                "color": {
+                    "type": "SECONDARY"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 18,
+                    "y": 359
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 251,
+                "height": 155,
+                "position": {
+                    "x": 18,
+                    "y": 18
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 986,
+            "y": 696
+        },
+        "from": {
+            "x": 1312,
+            "y": 696
+        },
+        "position": {
+            "x": 986,
+            "y": 696
+        }
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "icon": null,
+        "size": "XS",
+        "text": "2",
+        "color": {
+            "type": "SECONDARY"
+        },
+        "width": 26,
+        "height": 27,
+        "iconSize": null,
+        "position": {
+            "x": 1243,
+            "y": 182
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "2",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 656,
+            "y": 243
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXTBOX",
+    "data": {
+        "size": "M",
+        "text": "Views                                        0",
+        "color": {
+            "type": "GRAY"
+        },
+        "icons": [],
+        "label": "Label",
+        "width": 249,
+        "height": null,
+        "position": {
+            "x": 643,
+            "y": 381
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXTBOX",
+    "data": {
+        "size": "M",
+        "text": "Watch time (hours)                  0.0",
+        "color": {
+            "type": "GRAY"
+        },
+        "icons": [],
+        "label": "Label",
+        "width": 249,
+        "height": null,
+        "position": {
+            "x": 643,
+            "y": 426
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "MeoTube Studio Editor improvement",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 236,
+        "height": 22,
+        "position": {
+            "x": 1005,
+            "y": 655
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Creator Insider",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 1005,
+            "y": 181
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Current subcribers",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 636,
+            "y": 210
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 234,
+        "height": 844,
+        "position": {
+            "x": 0,
+            "y": 56
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "MeoTube Studio app refresh",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 236,
+        "height": 22,
+        "position": {
+            "x": 1005,
+            "y": 729
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Your Channel",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 77,
+            "y": 225
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 293,
+        "height": 416,
+        "position": {
+            "x": 620,
+            "y": 163
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Summary",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 236,
+        "height": 22,
+        "position": {
+            "x": 636,
+            "y": 323
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 326,
+        "height": 271,
+        "position": {
+            "x": 986,
+            "y": 585
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": []
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 620,
+            "y": 312
+        },
+        "from": {
+            "x": 913,
+            "y": 312
+        },
+        "position": {
+            "x": 620,
+            "y": 312
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Channel Analytics",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 636,
+            "y": 181
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "XS",
+        "text": "1",
+        "color": {
+            "type": "SECONDARY"
+        },
+        "width": 24,
+        "height": 27,
+        "iconSize": null,
+        "position": {
+            "x": 1216,
+            "y": 182
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 251,
+        "height": 155,
+        "position": {
+            "x": 1023,
+            "y": 223
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "GO TO VIDEO ANALYTICS",
+        "color": {
+            "type": "SECONDARY"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 636,
+            "y": 549
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "What's new in Studio",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 1005,
+            "y": 598
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Channel dashboard",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 275,
+            "y": 88
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 236,
+            "y": 900
+        },
+        "from": {
+            "x": 236,
+            "y": 56
+        },
+        "position": {
+            "x": 236,
+            "y": 56
+        }
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "icon": {
+            "alignment": "LEFT"
+        },
+        "size": "XS",
+        "text": "",
+        "color": {
+            "type": "SECONDARY"
+        },
+        "width": 28,
+        "height": 27,
+        "iconSize": null,
+        "position": {
+            "x": 1186,
+            "y": 182
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Upcoming changes in Adsense for MeoTube creators",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 292,
+        "height": 44,
+        "position": {
+            "x": 1005,
+            "y": 799
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+}
+]

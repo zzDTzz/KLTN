@@ -1,0 +1,473 @@
+[{
+    "type": "TEXT",
+    "data": {
+        "text": "Total",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": 22,
+        "position": {
+            "x": 168,
+            "y": 145
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "icon": {
+            "alignment": "LEFT"
+        },
+        "size": "M",
+        "text": "Pay now",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 343,
+        "height": null,
+        "position": {
+            "x": 17,
+            "y": 534
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 343,
+        "height": 55,
+        "position": {
+            "x": 16,
+            "y": 381
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "RADIO",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "CUSTOM"
+                },
+                "label": "Label",
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 296,
+                    "y": 18
+                }
+            },
+            "children": [
+                {
+                    "type": "RADIO_ITEM",
+                    "data": {
+                        "text": "",
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "abc@gmail.com",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 218,
+                "height": null,
+                "position": {
+                    "x": 68,
+                    "y": 18
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 50,
+                "height": 13,
+                "position": {
+                    "x": 9,
+                    "y": 21
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "icon": {
+            "alignment": "LEFT"
+        },
+        "size": "M",
+        "text": "Add new card",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 335,
+        "height": null,
+        "position": {
+            "x": 21,
+            "y": 582
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 343,
+        "height": 56,
+        "position": {
+            "x": 16,
+            "y": 309
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "RADIO",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "CUSTOM"
+                },
+                "label": "Label",
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 296,
+                    "y": 18
+                }
+            },
+            "children": [
+                {
+                    "type": "RADIO_ITEM",
+                    "data": {
+                        "text": "",
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "****** 3774",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 153,
+                "height": 22,
+                "position": {
+                    "x": 68,
+                    "y": 17
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 36,
+                "height": 36,
+                "position": {
+                    "x": 16,
+                    "y": 10
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 375,
+        "height": 82,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Payment",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 97,
+                "height": 30,
+                "position": {
+                    "x": 139,
+                    "y": 41
+                },
+                "textAlign": "CENTER",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 375,
+                "height": 40,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 96,
+                        "height": 40,
+                        "position": {
+                            "x": 279,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 72,
+                        "height": 40,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "M",
+                "text": "",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 36,
+                "height": null,
+                "position": {
+                    "x": 16,
+                    "y": 40
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 343,
+        "height": 56,
+        "position": {
+            "x": 16,
+            "y": 237
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 36,
+                "height": 36,
+                "position": {
+                    "x": 16,
+                    "y": 10
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "****** 2334",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 112,
+                "height": null,
+                "position": {
+                    "x": 68,
+                    "y": 18
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "RADIO",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "label": "Label",
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 296,
+                    "y": 18
+                }
+            },
+            "children": [
+                {
+                    "type": "RADIO_ITEM",
+                    "data": {
+                        "text": "",
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "$3,600",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 142,
+            "y": 169
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 343,
+        "height": 55,
+        "position": {
+            "x": 18,
+            "y": 453
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "RADIO",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "CUSTOM"
+                },
+                "label": "Label",
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 296,
+                    "y": 18
+                }
+            },
+            "children": [
+                {
+                    "type": "RADIO_ITEM",
+                    "data": {
+                        "text": "",
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "0123456789",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 218,
+                "height": null,
+                "position": {
+                    "x": 68,
+                    "y": 18
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 52,
+                "height": 44,
+                "position": {
+                    "x": 4,
+                    "y": 7
+                }
+            },
+            "children": []
+        }
+    ]
+}
+]

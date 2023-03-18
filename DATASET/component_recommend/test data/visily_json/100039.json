@@ -1,0 +1,455 @@
+[{
+    "type": "TEXT",
+    "data": {
+        "text": "Search",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 1224,
+            "y": 34
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Start selling",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 126,
+            "y": 34
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "By Adam & Eve",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 142,
+            "y": 674
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 187,
+        "height": 58,
+        "position": {
+            "x": 944,
+            "y": 267
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXTBOX",
+    "data": {
+        "size": "M",
+        "text": "Your transaction is secure!",
+        "color": {
+            "type": "GRAY"
+        },
+        "icons": [],
+        "label": "Label",
+        "width": 199,
+        "position": {
+            "x": 953,
+            "y": 540
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 526,
+        "height": 311,
+        "position": {
+            "x": 142,
+            "y": 216
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 966,
+            "y": 284
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Log in",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 1353,
+            "y": 34
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Discover",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 15,
+            "y": 34
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Perfect Red Diamond for your collection",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 142,
+            "y": 558
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "KICKDARKER",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 596,
+            "y": 24
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXTBOX",
+    "data": {
+        "size": "XL",
+        "text": "Card number",
+        "color": {
+            "type": "GRAY"
+        },
+        "icons": [],
+        "label": "Label",
+        "width": 151,
+        "height": null,
+        "position": {
+            "x": 739,
+            "y": 350
+        },
+        "labelTextSize": null
+    },
+    "children": []
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 588,
+        "height": 58,
+        "position": {
+            "x": 739,
+            "y": 469
+        },
+        "backgroundColor": {
+            "type": "TERTIARY1"
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXTBOX",
+    "data": {
+        "size": "XL",
+        "text": "XXX - XXX - XXXX - XXXX",
+        "color": {
+            "type": "GRAY"
+        },
+        "icons": [],
+        "label": "Label",
+        "width": 257,
+        "height": null,
+        "position": {
+            "x": 909,
+            "y": 350
+        },
+        "labelTextSize": null
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Credit card",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 803,
+            "y": 281
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Cash",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 1008,
+            "y": 281
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "CHECKBOX",
+    "data": {
+        "size": "XL",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "label": "Label",
+        "width": 142,
+        "position": {
+            "x": 1185,
+            "y": 362
+        },
+        "labelTextSize": null
+    },
+    "children": [
+        {
+            "type": "CHECKBOX_ITEM",
+            "data": {
+                "text": "Card verified!",
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Purchase",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 110,
+        "height": 30,
+        "position": {
+            "x": 983,
+            "y": 483
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 761,
+            "y": 284
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "position": {
+            "x": 923,
+            "y": 546
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Confirm your payment",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 540,
+            "y": 137
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "600"
+    },
+    "children": []
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 187,
+        "height": 58,
+        "position": {
+            "x": 739,
+            "y": 267
+        },
+        "backgroundColor": {
+            "type": "PRIMARY"
+        }
+    },
+    "children": []
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 1440,
+            "y": 106
+        },
+        "from": {
+            "x": 0,
+            "y": 106
+        },
+        "position": {
+            "x": 0,
+            "y": 106
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Payment information",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 739,
+            "y": 216
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Carefully extracted from one of the rarest mines in the world.\nThe biggest & REAL red diamond.",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 142,
+            "y": 599
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 1303,
+            "y": 38
+        }
+    },
+    "children": []
+}
+]

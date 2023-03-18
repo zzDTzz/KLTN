@@ -1,0 +1,734 @@
+[{
+    "type": "CONTAINER",
+    "data": {
+        "width": 350,
+        "height": 94,
+        "position": {
+            "x": 20,
+            "y": 306
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "x5",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 324,
+                    "y": 58
+                },
+                "textAlign": "RIGHT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "XS",
+                "text": "Chicken Pizza",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 204,
+                "height": 22,
+                "position": {
+                    "x": 110,
+                    "y": 12
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "$200",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 204,
+                "height": 26,
+                "position": {
+                    "x": 110,
+                    "y": 56
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "400"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "M",
+                "text": "",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 36,
+                "height": null,
+                "position": {
+                    "x": 314,
+                    "y": 0
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 94,
+                "height": 94,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 370,
+            "y": 403
+        },
+        "from": {
+            "x": 20,
+            "y": 402
+        },
+        "position": {
+            "x": 20,
+            "y": 402
+        }
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "icon": null,
+        "size": "M",
+        "text": "Apply",
+        "color": {
+            "type": "SECONDARY"
+        },
+        "width": 65,
+        "height": null,
+        "position": {
+            "x": 305,
+            "y": 545
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 350,
+        "height": 94,
+        "position": {
+            "x": 20,
+            "y": 207
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "M",
+                "text": "",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 36,
+                "height": null,
+                "position": {
+                    "x": 314,
+                    "y": 0
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "$200",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 204,
+                "height": 26,
+                "position": {
+                    "x": 110,
+                    "y": 56
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "400"
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 94,
+                "height": 94,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "x5",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 324,
+                    "y": 58
+                },
+                "textAlign": "RIGHT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "XS",
+                "text": "Salad",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 204,
+                "height": 22,
+                "position": {
+                    "x": 110,
+                    "y": 12
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Consequat ex eu",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 204,
+                "height": 18,
+                "position": {
+                    "x": 110,
+                    "y": 36
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 370,
+            "y": 205
+        },
+        "from": {
+            "x": 20,
+            "y": 204
+        },
+        "position": {
+            "x": 20,
+            "y": 204
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 390,
+        "height": 88,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 390,
+                "height": 40,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 72,
+                        "height": 40,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 96,
+                        "height": 40,
+                        "position": {
+                            "x": 294,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "M",
+                "text": "",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 36,
+                "height": null,
+                "position": {
+                    "x": 12,
+                    "y": 40
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Checkout",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 150,
+                    "y": 44
+                },
+                "textAlign": "CENTER",
+                "fontWeight": "700"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Voucher",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 20,
+            "y": 519
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 350,
+        "height": 94,
+        "position": {
+            "x": 20,
+            "y": 405
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "M",
+                "text": "",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 36,
+                "height": null,
+                "position": {
+                    "x": 314,
+                    "y": 0
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "XS",
+                "text": "Shrimp Dumpling",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 204,
+                "height": 22,
+                "position": {
+                    "x": 110,
+                    "y": 12
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 94,
+                "height": 94,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Consequat ex eu",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 204,
+                "height": 18,
+                "position": {
+                    "x": 110,
+                    "y": 36
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "x5",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 324,
+                    "y": 58
+                },
+                "textAlign": "RIGHT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "$200",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 204,
+                "height": 26,
+                "position": {
+                    "x": 110,
+                    "y": 56
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "400"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "TOTAL",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 20,
+            "y": 605
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 370,
+            "y": 304
+        },
+        "from": {
+            "x": 20,
+            "y": 303
+        },
+        "position": {
+            "x": 20,
+            "y": 303
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 350,
+        "height": 94,
+        "position": {
+            "x": 20,
+            "y": 108
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "M",
+                "text": "",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 36,
+                "height": null,
+                "position": {
+                    "x": 314,
+                    "y": 0
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 94,
+                "height": 94,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "XS",
+                "text": "Donut Cake",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 204,
+                "height": 22,
+                "position": {
+                    "x": 110,
+                    "y": 12
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "$200",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 204,
+                "height": 26,
+                "position": {
+                    "x": 110,
+                    "y": 56
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "400"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "x5",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 324,
+                    "y": 58
+                },
+                "textAlign": "RIGHT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Consequat ex eu",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 204,
+                "height": 18,
+                "position": {
+                    "x": 110,
+                    "y": 36
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "$3,600",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 303,
+            "y": 601
+        },
+        "textAlign": "RIGHT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "icon": {
+            "alignment": "RIGHT"
+        },
+        "size": "M",
+        "text": "Next",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 350,
+        "height": null,
+        "position": {
+            "x": 20,
+            "y": 651
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXTBOX",
+    "data": {
+        "size": "M",
+        "text": "Enter voucher code",
+        "color": {
+            "type": "GRAY"
+        },
+        "icons": [],
+        "label": "Voucher",
+        "width": 269,
+        "position": {
+            "x": 20,
+            "y": 545
+        }
+    },
+    "children": []
+}
+]

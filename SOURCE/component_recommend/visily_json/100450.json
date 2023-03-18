@@ -1,0 +1,618 @@
+[{
+    "type": "TEXTBOX",
+    "data": {
+        "size": "S",
+        "text": "10",
+        "color": {
+            "type": "GRAY"
+        },
+        "icons": [
+            {
+                "alignment": "LEFT"
+            }
+        ],
+        "label": "Label",
+        "width": 96,
+        "height": null,
+        "position": {
+            "x": 20,
+            "y": 327
+        }
+    },
+    "children": []
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 370,
+            "y": 537
+        },
+        "from": {
+            "x": 20,
+            "y": 536
+        },
+        "width": 710,
+        "height": 1,
+        "position": {
+            "x": 20,
+            "y": 536
+        }
+    },
+    "children": []
+},
+{
+    "type": "SLIDER",
+    "data": {
+        "size": "M",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "value": {
+            "to": 66,
+            "from": 33
+        },
+        "width": 350,
+        "height": 22,
+        "position": {
+            "x": 20,
+            "y": 375
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "size": "M",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "position": {
+            "x": 346,
+            "y": 286
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 163,
+        "height": 78,
+        "position": {
+            "x": 20,
+            "y": 701
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "ICON",
+            "data": {
+                "size": "L",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 66,
+                    "y": 12
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Tempor seadi",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 120,
+                "height": 22,
+                "position": {
+                    "x": 22,
+                    "y": 44
+                },
+                "textAlign": "CENTER",
+                "fontWeight": "400"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "RATING",
+    "data": {
+        "size": "XL",
+        "color": {
+            "type": "CUSTOM"
+        },
+        "shape": "REGULAR",
+        "width": 262,
+        "height": 36,
+        "position": {
+            "x": 64,
+            "y": 480
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Conditions",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 326,
+        "height": null,
+        "position": {
+            "x": 23,
+            "y": 117
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 163,
+        "height": 78,
+        "position": {
+            "x": 207,
+            "y": 599
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Nostrud enim",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 120,
+                "height": null,
+                "position": {
+                    "x": 22,
+                    "y": 45
+                },
+                "textAlign": "CENTER",
+                "fontWeight": "400"
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "L",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 66,
+                    "y": 12
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 163,
+        "height": 78,
+        "position": {
+            "x": 20,
+            "y": 599
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Esse cillum",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 120,
+                "height": 22,
+                "position": {
+                    "x": 22,
+                    "y": 44
+                },
+                "textAlign": "CENTER",
+                "fontWeight": "400"
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "L",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 66,
+                    "y": 12
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Others",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 20,
+            "y": 557
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "CHECKBOX",
+    "data": {
+        "size": "M",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "label": "Label",
+        "width": 350,
+        "height": null,
+        "position": {
+            "x": 20,
+            "y": 158
+        }
+    },
+    "children": [
+        {
+            "type": "CHECKBOX_ITEM",
+            "data": {
+                "text": "Option 3",
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "CHECKBOX_ITEM",
+            "data": {
+                "text": "Option 1",
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "CHECKBOX_ITEM",
+            "data": {
+                "text": "Option 2",
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 390,
+        "height": 96,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Filter",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 284,
+                "height": null,
+                "position": {
+                    "x": 50,
+                    "y": 54
+                },
+                "textAlign": "CENTER",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "L",
+                "text": "",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 47,
+                "height": null,
+                "position": {
+                    "x": 343,
+                    "y": 46
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 390,
+                "height": 40,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 96,
+                        "height": 40,
+                        "position": {
+                            "x": 294,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 72,
+                        "height": 40,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+},
+{
+    "type": "ICON",
+    "data": {
+        "size": "M",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "position": {
+            "x": 346,
+            "y": 558
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "size": "M",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "position": {
+            "x": 346,
+            "y": 117
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 163,
+        "height": 78,
+        "position": {
+            "x": 207,
+            "y": 701
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Adipisicing re",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 120,
+                "height": 22,
+                "position": {
+                    "x": 22,
+                    "y": 44
+                },
+                "textAlign": "CENTER",
+                "fontWeight": "400"
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "L",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 66,
+                    "y": 12
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Rating",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 20,
+            "y": 438
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXTBOX",
+    "data": {
+        "size": "S",
+        "text": "200",
+        "color": {
+            "type": "GRAY"
+        },
+        "icons": [
+            {
+                "alignment": "LEFT"
+            }
+        ],
+        "label": "Label",
+        "width": 96,
+        "height": null,
+        "position": {
+            "x": 274,
+            "y": 327
+        }
+    },
+    "children": []
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 370,
+            "y": 418
+        },
+        "from": {
+            "x": 20,
+            "y": 417
+        },
+        "width": 710,
+        "height": 1,
+        "position": {
+            "x": 20,
+            "y": 417
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "size": "M",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "position": {
+            "x": 346,
+            "y": 439
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Price range",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 20,
+            "y": 285
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 370,
+            "y": 265
+        },
+        "from": {
+            "x": 20,
+            "y": 264
+        },
+        "width": 710,
+        "height": 1,
+        "position": {
+            "x": 20,
+            "y": 264
+        }
+    },
+    "children": []
+}
+]

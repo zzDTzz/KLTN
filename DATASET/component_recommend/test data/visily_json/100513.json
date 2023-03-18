@@ -1,0 +1,1159 @@
+[{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 405,
+        "height": 460,
+        "position": {
+            "x": 1007,
+            "y": 110
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 72,
+        "height": 75,
+        "position": {
+            "x": 28,
+            "y": 630
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Suggested for you",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 250,
+        "height": 36,
+        "position": {
+            "x": 1036,
+            "y": 119
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "icon": {
+            "alignment": "LEFT"
+        },
+        "size": "M",
+        "text": "",
+        "color": {
+            "type": "SECONDARY"
+        },
+        "width": 48,
+        "height": 32,
+        "position": {
+            "x": 231,
+            "y": 164
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 345,
+        "height": 349,
+        "position": {
+            "x": 1036,
+            "y": 199
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": []
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 302,
+        "height": 799,
+        "position": {
+            "x": 0,
+            "y": 101
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Groups you've joined",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 216,
+        "height": 39,
+        "position": {
+            "x": 24,
+            "y": 379
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "600"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "300 members and 2-3 posts a day",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 1065,
+            "y": 441
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Group of VNese",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 121,
+            "y": 742
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Last active 5 days ago",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 121,
+            "y": 764
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Group you might be interested in",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 209,
+        "height": 22,
+        "position": {
+            "x": 1036,
+            "y": 160
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Group of business",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 115,
+            "y": 436
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 72,
+        "height": 75,
+        "position": {
+            "x": 26,
+            "y": 528
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 72,
+        "height": 75,
+        "position": {
+            "x": 24,
+            "y": 426
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Last active 5 days ago",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 119,
+            "y": 662
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 607,
+        "height": 145,
+        "position": {
+            "x": 349,
+            "y": 502
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TAG",
+            "data": {
+                "size": "S",
+                "width": 41,
+                "height": 24,
+                "position": {
+                    "x": 476,
+                    "y": 107
+                }
+            },
+            "children": [
+                {
+                    "type": "TAG_ITEM",
+                    "data": {
+                        "text": "Attached a video",
+                        "color": {
+                            "type": "SECONDARY"
+                        },
+                        "icons": [],
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "I will release the next song in May 14th, 2020.\nCan't wait for that!",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 329,
+                "height": 55,
+                "position": {
+                    "x": 165,
+                    "y": 64
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 141,
+                "height": 122,
+                "position": {
+                    "x": 10,
+                    "y": 10
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Alex",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 353,
+                "height": 34,
+                "position": {
+                    "x": 165,
+                    "y": 6
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Member of Group of business",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 353,
+                "height": 27,
+                "position": {
+                    "x": 165,
+                    "y": 37
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Learning and Working",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 1065,
+            "y": 406
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 607,
+        "height": 145,
+        "position": {
+            "x": 352,
+            "y": 153
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Member of Group of Travel",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 353,
+                "height": 27,
+                "position": {
+                    "x": 165,
+                    "y": 38
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 141,
+                "height": 122,
+                "position": {
+                    "x": 10,
+                    "y": 11
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "This is a greates album I ever listen.\nhttp://meotube.com/fakeablum\nLet's try it!!",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 406,
+                "height": 80,
+                "position": {
+                    "x": 165,
+                    "y": 65
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "XL",
+                "text": "Nguyen T. Kieu",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 353,
+                "height": 34,
+                "position": {
+                    "x": 165,
+                    "y": 7
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Last active 5 days ago",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 115,
+            "y": 458
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "Join Group",
+        "color": {
+            "type": "SECONDARY"
+        },
+        "width": 0,
+        "height": 39,
+        "position": {
+            "x": 1162,
+            "y": 484
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "Create a new group",
+        "color": {
+            "type": "SECONDARY"
+        },
+        "width": 255,
+        "height": null,
+        "position": {
+            "x": 24,
+            "y": 319
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1440,
+        "height": 56,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 35,
+                "height": 35,
+                "position": {
+                    "x": 1250,
+                    "y": 10
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 96,
+                "height": 36,
+                "position": {
+                    "x": 24,
+                    "y": 10
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Garfield Cat",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 95,
+                "position": {
+                    "x": 1297,
+                    "y": 17
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "OVAL",
+            "data": {
+                "width": 35,
+                "height": 35,
+                "position": {
+                    "x": 1251,
+                    "y": 10
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "XS",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 12,
+                "position": {
+                    "x": 1400,
+                    "y": 22
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1211,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "HEADER_MENU",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "SECONDARY"
+                },
+                "width": 552,
+                "height": null,
+                "position": {
+                    "x": 160,
+                    "y": 2
+                }
+            },
+            "children": [
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Sports",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Live",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Home",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "News",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "icon": null,
+                        "text": "Trending",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Music",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Gaming",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1169,
+                    "y": 16
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 345,
+        "height": 198,
+        "position": {
+            "x": 1036,
+            "y": 199
+        }
+    },
+    "children": []
+},
+{
+    "type": "SIDEBAR_MENU",
+    "data": {
+        "size": "M",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 255,
+        "height": 80,
+        "position": {
+            "x": 24,
+            "y": 218
+        }
+    },
+    "children": [
+        {
+            "type": "SIDEBAR_MENU_ITEM",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "text": "Discover",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "SIDEBAR_MENU_ITEM",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "text": "My Feed",
+                "color": null,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Recent Activity",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 280,
+        "height": 42,
+        "position": {
+            "x": 349,
+            "y": 101
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Groups",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 199,
+        "height": 36,
+        "position": {
+            "x": 24,
+            "y": 110
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Last active 5 days ago",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 117,
+            "y": 560
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Group of Relax",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 123,
+        "height": 44,
+        "position": {
+            "x": 117,
+            "y": 538
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 607,
+        "height": 145,
+        "position": {
+            "x": 352,
+            "y": 678
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TAG",
+            "data": {
+                "size": "S",
+                "width": 117,
+                "height": 24,
+                "position": {
+                    "x": 473,
+                    "y": 80
+                }
+            },
+            "children": [
+                {
+                    "type": "TAG_ITEM",
+                    "data": {
+                        "size": null,
+                        "text": "Live stream now",
+                        "color": {
+                            "type": "DANGER"
+                        },
+                        "icons": [],
+                        "height": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Jenny",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 353,
+                "height": 34,
+                "position": {
+                    "x": 165,
+                    "y": 6
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 141,
+                "height": 122,
+                "position": {
+                    "x": 10,
+                    "y": 10
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TAG",
+            "data": {
+                "size": "S",
+                "width": 117,
+                "height": 24,
+                "position": {
+                    "x": 473,
+                    "y": 107
+                }
+            },
+            "children": [
+                {
+                    "type": "TAG_ITEM",
+                    "data": {
+                        "text": "Attached a address",
+                        "color": {
+                            "type": "SECONDARY"
+                        },
+                        "icons": [],
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Live stream for live show at stadium.\n",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 329,
+                "height": 55,
+                "position": {
+                    "x": 165,
+                    "y": 64
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Member of Group of Relax",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 353,
+                "height": 27,
+                "position": {
+                    "x": 165,
+                    "y": 37
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Group of Travel",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 119,
+            "y": 640
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 72,
+        "height": 75,
+        "position": {
+            "x": 30,
+            "y": 732
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 607,
+        "height": 145,
+        "position": {
+            "x": 349,
+            "y": 325
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 141,
+                "height": 122,
+                "position": {
+                    "x": 10,
+                    "y": 11
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Pham N. Thien",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 353,
+                "height": 34,
+                "position": {
+                    "x": 165,
+                    "y": 7
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Moi nguoi cho em hoi event sap toi cua minh nhu nao ạ ?\nEm muon tham gia nhung khong co thong tin cu the",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 329,
+                "height": 55,
+                "position": {
+                    "x": 165,
+                    "y": 65
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Member of Group of VNese",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 353,
+                "height": 27,
+                "position": {
+                    "x": 165,
+                    "y": 38
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXTBOX",
+    "data": {
+        "size": "M",
+        "text": "Search...",
+        "color": {
+            "type": "GRAY"
+        },
+        "icons": [
+            {
+                "alignment": "RIGHT"
+            }
+        ],
+        "label": "Label",
+        "width": 207,
+        "height": 32,
+        "position": {
+            "x": 24,
+            "y": 164
+        },
+        "backgroundColor": null
+    },
+    "children": []
+}
+]

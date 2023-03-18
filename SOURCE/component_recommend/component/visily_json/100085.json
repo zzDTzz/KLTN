@@ -1,0 +1,264 @@
+[{
+    "type": "TEXT",
+    "data": {
+        "text": "Want to hide ads? Login or Sign up.",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 628,
+        "height": 28,
+        "position": {
+            "x": 399,
+            "y": 694
+        },
+        "textAlign": "CENTER",
+        "fontWeight": "600"
+    },
+    "children": []
+},
+{
+    "type": "TEXTAREA",
+    "data": {
+        "icon": null,
+        "size": "M",
+        "text": "Ads",
+        "color": {
+            "type": "GRAY"
+        },
+        "label": "Label",
+        "width": 221,
+        "height": 177,
+        "position": {
+            "x": 1121,
+            "y": 647
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXTAREA",
+    "data": {
+        "icon": null,
+        "size": "M",
+        "text": "Ads",
+        "color": {
+            "type": "GRAY"
+        },
+        "label": "Label",
+        "width": 183,
+        "height": 393,
+        "position": {
+            "x": 120,
+            "y": 136
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Please wait while we load the resource of your choice.",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 628,
+        "height": 28,
+        "position": {
+            "x": 399,
+            "y": 579
+        },
+        "textAlign": "CENTER",
+        "fontWeight": "600"
+    },
+    "children": []
+},
+{
+    "type": "TEXTAREA",
+    "data": {
+        "icon": null,
+        "size": "M",
+        "text": "Ads",
+        "color": {
+            "type": "GRAY"
+        },
+        "label": "Label",
+        "width": 183,
+        "height": 393,
+        "position": {
+            "x": 1159,
+            "y": 136
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXTAREA",
+    "data": {
+        "icon": null,
+        "size": "M",
+        "text": "Ads",
+        "color": {
+            "type": "GRAY"
+        },
+        "label": "Label",
+        "width": 550,
+        "height": 93,
+        "position": {
+            "x": 438,
+            "y": 744
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "size": "M",
+        "text": "Loading...",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 443,
+        "height": 50,
+        "position": {
+            "x": 491,
+            "y": 529
+        },
+        "textAlign": "CENTER",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "size": "XL",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 362,
+        "height": 362,
+        "position": {
+            "x": 532,
+            "y": 120
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 252,
+        "height": 118,
+        "position": {
+            "x": 120,
+            "y": 604
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "ICON",
+            "data": {
+                "size": "XS",
+                "color": {
+                    "type": "SUCCESS"
+                },
+                "position": {
+                    "x": 14,
+                    "y": 89
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "L",
+                "text": "300",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 83,
+                "height": null,
+                "position": {
+                    "x": 14,
+                    "y": 34
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "COLUMN_BAR_CHART",
+            "data": {
+                "width": 82,
+                "height": 90,
+                "position": {
+                    "x": 156,
+                    "y": 14
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "5.39%",
+                "color": {
+                    "type": "SUCCESS"
+                },
+                "width": 36,
+                "height": null,
+                "position": {
+                    "x": 28,
+                    "y": 84
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Recent views",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 142,
+                "height": null,
+                "position": {
+                    "x": 14,
+                    "y": 14
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Not working? Try this link",
+        "color": {
+            "type": "INFO"
+        },
+        "width": 628,
+        "height": 28,
+        "position": {
+            "x": 399,
+            "y": 619
+        },
+        "textAlign": "CENTER",
+        "fontWeight": "400"
+    },
+    "children": []
+}
+]

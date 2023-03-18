@@ -1,0 +1,155 @@
+[{
+    "type": "CONTAINER",
+    "data": {
+        "width": 360,
+        "height": 160,
+        "position": {
+            "x": 616,
+            "y": 544
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "M",
+                "text": "",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 0,
+                "height": null,
+                "position": {
+                    "x": 0,
+                    "y": 57
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "M",
+                "text": "",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 0,
+                "height": null,
+                "position": {
+                    "x": 205,
+                    "y": 124
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "L",
+                "text": "",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 0,
+                "height": null,
+                "position": {
+                    "x": 104.5,
+                    "y": 58
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "M",
+                "text": "",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 0,
+                "height": null,
+                "position": {
+                    "x": 217,
+                    "y": 21
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 1123,
+        "height": 609,
+        "position": {
+            "x": 159,
+            "y": 223
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXTBOX",
+    "data": {
+        "size": "L",
+        "text": "Your curent location",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "icons": [],
+        "label": "Label",
+        "width": 192,
+        "height": null,
+        "position": {
+            "x": 335,
+            "y": 74
+        },
+        "labelTextSize": null,
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "TEXTBOX",
+    "data": {
+        "size": "L",
+        "text": "Destination",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "icons": [],
+        "label": "Label",
+        "width": 192,
+        "height": null,
+        "position": {
+            "x": 335,
+            "y": 130
+        },
+        "labelTextSize": null,
+        "backgroundColor": null
+    },
+    "children": []
+}
+]

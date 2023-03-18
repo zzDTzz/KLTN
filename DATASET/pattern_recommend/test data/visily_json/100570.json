@@ -1,0 +1,640 @@
+[{
+    "type": "CONTAINER",
+    "data": {
+        "width": 314,
+        "height": 934,
+        "position": {
+            "x": 0,
+            "y": -7
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 314,
+                "height": 900,
+                "position": {
+                    "x": 0,
+                    "y": 7
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "GROUP",
+    "data": {
+        "width": 840,
+        "height": 658,
+        "position": {
+            "x": 398,
+            "y": 121
+        }
+    },
+    "children": [
+        {
+            "type": "ICON",
+            "data": {
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 716,
+                    "y": 638
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 840,
+                "height": 623,
+                "position": {
+                    "x": 0,
+                    "y": 10
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequa",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 597,
+                        "height": 36,
+                        "position": {
+                            "x": 24,
+                            "y": 474
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Add your credit cards information to bill services",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 597,
+                        "height": 36,
+                        "position": {
+                            "x": 24,
+                            "y": 195
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Freely drag or drop element to have your customize application appearancce.",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 597,
+                        "height": 36,
+                        "position": {
+                            "x": 24,
+                            "y": 278
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                },
+                {
+                    "type": "BUTTON",
+                    "data": {
+                        "size": "M",
+                        "text": "Customize",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": 0,
+                        "position": {
+                            "x": 666,
+                            "y": 280
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "DIVIDER",
+                    "data": {
+                        "to": {
+                            "x": 736,
+                            "y": 248
+                        },
+                        "from": {
+                            "x": 24,
+                            "y": 247
+                        },
+                        "width": 712,
+                        "height": 1,
+                        "position": {
+                            "x": 24,
+                            "y": 247
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Send diagnostic information.",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 583,
+                        "height": 20,
+                        "position": {
+                            "x": 24,
+                            "y": 543
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TABBAR_MENU",
+                    "data": {
+                        "size": "M",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "position": {
+                            "x": 607,
+                            "y": 18
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "TABBAR_MENU_ITEM",
+                            "data": {
+                                "icon": {
+                                    "alignment": "LEFT"
+                                },
+                                "text": "Account",
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TABBAR_MENU_ITEM",
+                            "data": {
+                                "icon": {
+                                    "alignment": "LEFT"
+                                },
+                                "text": "Search",
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TABBAR_MENU_ITEM",
+                            "data": {
+                                "icon": {
+                                    "alignment": "LEFT"
+                                },
+                                "text": "Home",
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Settings",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 712,
+                        "height": 42,
+                        "position": {
+                            "x": 22,
+                            "y": 14
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "DIVIDER",
+                    "data": {
+                        "to": {
+                            "x": 736,
+                            "y": 434
+                        },
+                        "from": {
+                            "x": 24,
+                            "y": 433
+                        },
+                        "width": 712,
+                        "height": 1,
+                        "position": {
+                            "x": 24,
+                            "y": 433
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "BUTTON",
+                    "data": {
+                        "size": "M",
+                        "text": "Button",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": 0,
+                        "position": {
+                            "x": 679,
+                            "y": 464
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Search engine\n",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 533,
+                        "height": null,
+                        "position": {
+                            "x": 24,
+                            "y": 357
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Add a payment method",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 597,
+                        "height": 20,
+                        "position": {
+                            "x": 24,
+                            "y": 171
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                },
+                {
+                    "type": "CHECKBOX",
+                    "data": {
+                        "size": "L",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "label": "Label",
+                        "width": null,
+                        "position": {
+                            "x": 708,
+                            "y": 567
+                        },
+                        "labelTextSize": null
+                    },
+                    "children": [
+                        {
+                            "type": "CHECKBOX_ITEM",
+                            "data": {
+                                "text": "",
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "TEXTBOX",
+                    "data": {
+                        "size": "M",
+                        "text": "Google",
+                        "color": {
+                            "type": "GRAY"
+                        },
+                        "icons": [
+                            {
+                                "size": null,
+                                "alignment": "RIGHT",
+                                "useBorderColor": false
+                            }
+                        ],
+                        "label": "Label",
+                        "width": 117,
+                        "position": {
+                            "x": 619,
+                            "y": 371
+                        },
+                        "labelTextSize": null,
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Customize layout",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 597,
+                        "height": 20,
+                        "position": {
+                            "x": 24,
+                            "y": 260
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Setup FaceID",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 597,
+                        "height": 20,
+                        "position": {
+                            "x": 22,
+                            "y": 78
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                },
+                {
+                    "type": "BUTTON",
+                    "data": {
+                        "size": "M",
+                        "text": "Setup",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": 0,
+                        "position": {
+                            "x": 679,
+                            "y": 92
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Using FaceID to login to your account.",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 597,
+                        "height": 36,
+                        "position": {
+                            "x": 24,
+                            "y": 102
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                },
+                {
+                    "type": "DIVIDER",
+                    "data": {
+                        "to": {
+                            "x": 736,
+                            "y": 341
+                        },
+                        "from": {
+                            "x": 24,
+                            "y": 340
+                        },
+                        "width": 712,
+                        "height": 1,
+                        "position": {
+                            "x": 24,
+                            "y": 340
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Help us improve  the applicaton by sending useful diagnostic logs.",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 583,
+                        "height": 36,
+                        "position": {
+                            "x": 24,
+                            "y": 567
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Lorem ipsum",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 597,
+                        "height": 20,
+                        "position": {
+                            "x": 24,
+                            "y": 450
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "DIVIDER",
+                    "data": {
+                        "to": {
+                            "x": 736,
+                            "y": 527
+                        },
+                        "from": {
+                            "x": 24,
+                            "y": 526
+                        },
+                        "width": 712,
+                        "height": 1,
+                        "position": {
+                            "x": 24,
+                            "y": 526
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "DIVIDER",
+                    "data": {
+                        "to": {
+                            "x": 736,
+                            "y": 155
+                        },
+                        "from": {
+                            "x": 24,
+                            "y": 154
+                        },
+                        "width": 712,
+                        "height": 1,
+                        "position": {
+                            "x": 24,
+                            "y": 154
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 679,
+                            "y": 377
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "BUTTON",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "size": "M",
+                        "text": "",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": 0,
+                        "iconSize": null,
+                        "position": {
+                            "x": 679,
+                            "y": 185
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Select your favorite search engine.",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 533,
+                        "height": 36,
+                        "position": {
+                            "x": 24,
+                            "y": 377
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 662,
+                    "y": 638
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 24,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+}
+]

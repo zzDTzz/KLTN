@@ -1,0 +1,546 @@
+[{
+    "type": "CONTAINER",
+    "data": {
+        "width": 292,
+        "height": 505,
+        "position": {
+            "x": 802,
+            "y": 462
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "24 TALKS",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": 22,
+                "position": {
+                    "x": 16,
+                    "y": 262
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 236,
+                "height": 248,
+                "position": {
+                    "x": 16,
+                    "y": 6
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Math in unexpected places",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": null,
+                "position": {
+                    "x": 16,
+                    "y": 294
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "These talks are here to set the record straight and illuminate the unexpected ways formulas and fractions influence everything, from love and war to origami and coral reefs.",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": null,
+                "position": {
+                    "x": 16,
+                    "y": 365
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "400"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1920,
+        "height": 66,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "M",
+                "text": "",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 52,
+                "height": null,
+                "position": {
+                    "x": 1816,
+                    "y": 10
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "M",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": null,
+                "height": null,
+                "iconSize": null,
+                "position": {
+                    "x": 1653,
+                    "y": 10
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "XS",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 16,
+                "height": 16,
+                "position": {
+                    "x": 1786,
+                    "y": 20
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "HEADER_MENU",
+            "data": {
+                "size": "XL",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 553,
+                "height": null,
+                "position": {
+                    "x": 160,
+                    "y": 2
+                }
+            },
+            "children": [
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "size": null,
+                        "text": "About",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "icon": null,
+                        "size": null,
+                        "text": "Discover",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "size": null,
+                        "text": "Watch",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "size": null,
+                        "text": "Attend",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "size": null,
+                        "text": "Participate",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 73,
+                "height": 43,
+                "position": {
+                    "x": 45,
+                    "y": 6
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Jack Ma",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 74,
+                "height": 22,
+                "position": {
+                    "x": 1703,
+                    "y": 17
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "XL",
+                "text": "Membership",
+                "color": {
+                    "type": "TERTIARY3"
+                },
+                "width": 0,
+                "height": null,
+                "iconSize": null,
+                "position": {
+                    "x": 735,
+                    "y": 8
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Video playlists about Algorithm",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 82,
+            "y": 377
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Discover > Topics",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 82,
+            "y": 128
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 324,
+        "height": 499,
+        "position": {
+            "x": 421,
+            "y": 462
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "14 TALKS",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": 22,
+                "position": {
+                    "x": 16,
+                    "y": 262
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Want a different perspective of the world? Get a better, more friendly grasp of statistics -- one of the most understood and misused tools in modern society.",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": null,
+                "position": {
+                    "x": 16,
+                    "y": 365
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "400"
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 255,
+                "height": 255,
+                "position": {
+                    "x": 16,
+                    "y": 2
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Statistically speaking …",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": null,
+                "position": {
+                    "x": 15,
+                    "y": 294
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Algorithm",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 82,
+            "y": 201
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 292,
+        "height": 499,
+        "position": {
+            "x": 72,
+            "y": 462
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "4 TALKS",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": 22,
+                "position": {
+                    "x": 16,
+                    "y": 262
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "The inherent bias in our technology",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": null,
+                "position": {
+                    "x": 16,
+                    "y": 294
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 234,
+                "height": 245,
+                "position": {
+                    "x": 16,
+                    "y": 6
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "These talks reveal how our technology often reflects the unconscious biases and prejudices we hold.",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": null,
+                "position": {
+                    "x": 16,
+                    "y": 365
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "400"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "A collection of TED Talks (and more) on the topic of Algorithm.",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 82,
+            "y": 272
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 1853,
+            "y": 340
+        },
+        "from": {
+            "x": 72,
+            "y": 340
+        },
+        "position": {
+            "x": 72,
+            "y": 340
+        }
+    },
+    "children": []
+}
+]

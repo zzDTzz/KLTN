@@ -1,0 +1,429 @@
+[{
+    "type": "AVATAR",
+    "data": {
+        "size": "S",
+        "text": "A",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 156,
+            "y": 320
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Chua",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 483,
+            "y": 557
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 267,
+        "height": 230,
+        "position": {
+            "x": 1017,
+            "y": 152
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Binh",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 1057,
+            "y": 391
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 267,
+        "height": 162,
+        "position": {
+            "x": 156,
+            "y": 152
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 267,
+        "height": 135,
+        "position": {
+            "x": 1017,
+            "y": 635
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Khang",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 88,
+        "height": 22,
+        "position": {
+            "x": 196,
+            "y": 323
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 267,
+        "height": 199,
+        "position": {
+            "x": 443,
+            "y": 152
+        }
+    },
+    "children": []
+},
+{
+    "type": "AVATAR",
+    "data": {
+        "size": "S",
+        "text": "A",
+        "color": {
+            "type": "CUSTOM"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 1017,
+            "y": 388
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "AVATAR",
+    "data": {
+        "size": "S",
+        "text": "H",
+        "color": {
+            "type": "SECONDARY"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 443,
+            "y": 554
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "God",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 196,
+            "y": 543
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 267,
+        "height": 157,
+        "position": {
+            "x": 730,
+            "y": 468
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Minh",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 483,
+            "y": 360
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "AVATAR",
+    "data": {
+        "size": "S",
+        "text": "A",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 730,
+            "y": 420
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 267,
+        "height": 181,
+        "position": {
+            "x": 156,
+            "y": 589
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Nam",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 770,
+            "y": 423
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 267,
+        "height": 166,
+        "position": {
+            "x": 156,
+            "y": 368
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 267,
+        "height": 91,
+        "position": {
+            "x": 730,
+            "y": 679
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 267,
+        "height": 143,
+        "position": {
+            "x": 443,
+            "y": 405
+        }
+    },
+    "children": []
+},
+{
+    "type": "AVATAR",
+    "data": {
+        "size": "S",
+        "text": "A",
+        "color": {
+            "type": "CUSTOM"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 1017,
+            "y": 587
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 267,
+        "height": 168,
+        "position": {
+            "x": 443,
+            "y": 602
+        }
+    },
+    "children": []
+},
+{
+    "type": "AVATAR",
+    "data": {
+        "size": "S",
+        "text": "A",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 730,
+            "y": 631
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 267,
+        "height": 262,
+        "position": {
+            "x": 730,
+            "y": 152
+        }
+    },
+    "children": []
+},
+{
+    "type": "AVATAR",
+    "data": {
+        "size": "S",
+        "text": "A",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 443,
+            "y": 357
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 267,
+        "height": 145,
+        "position": {
+            "x": 1017,
+            "y": 436
+        }
+    },
+    "children": []
+},
+{
+    "type": "AVATAR",
+    "data": {
+        "size": "S",
+        "text": "A",
+        "color": {
+            "type": "SECONDARY"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 156,
+            "y": 540
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Duong",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 1057,
+            "y": 590
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Tuyen",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 770,
+            "y": 634
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+}
+]

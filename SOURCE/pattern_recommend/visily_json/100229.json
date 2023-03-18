@@ -1,0 +1,2792 @@
+[{
+    "type": "TEXT",
+    "data": {
+        "size": "M",
+        "text": "Detailed report",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 155,
+        "height": 30,
+        "position": {
+            "x": 288,
+            "y": 452
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1120,
+        "height": 579,
+        "position": {
+            "x": 288,
+            "y": 500
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 1120,
+                "height": 68,
+                "position": {
+                    "x": 0,
+                    "y": 511
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "2",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 20,
+                        "height": 22,
+                        "position": {
+                            "x": 518,
+                            "y": 21
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "10",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 20,
+                        "height": 22,
+                        "position": {
+                            "x": 614,
+                            "y": 21
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "DROPDOWN_BUTTON",
+                    "data": {
+                        "icon": null,
+                        "size": "S",
+                        "text": "7",
+                        "color": {
+                            "type": "GRAY"
+                        },
+                        "label": "Label",
+                        "width": 50,
+                        "height": null,
+                        "position": {
+                            "x": 1054,
+                            "y": 16
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "BUTTON",
+                    "data": {
+                        "size": "S",
+                        "text": "Next",
+                        "color": {
+                            "type": "GRAY"
+                        },
+                        "width": 64,
+                        "height": 28,
+                        "position": {
+                            "x": 646,
+                            "y": 18
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "3",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 20,
+                        "height": 22,
+                        "position": {
+                            "x": 550,
+                            "y": 21
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "68 results",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 180,
+                        "height": 22,
+                        "position": {
+                            "x": 16,
+                            "y": 21
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Items per page",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 120,
+                        "height": 22,
+                        "position": {
+                            "x": 928,
+                            "y": 21
+                        },
+                        "textAlign": "RIGHT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                },
+                {
+                    "type": "BUTTON",
+                    "data": {
+                        "size": "S",
+                        "text": "Previous",
+                        "color": {
+                            "type": "GRAY"
+                        },
+                        "width": 64,
+                        "height": 28,
+                        "position": {
+                            "x": 410,
+                            "y": 18
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "...",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 20,
+                        "height": 22,
+                        "position": {
+                            "x": 582,
+                            "y": 21
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "1",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": 20,
+                        "height": 22,
+                        "position": {
+                            "x": 486,
+                            "y": 21
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 1120,
+                    "y": 308
+                },
+                "from": {
+                    "x": 0,
+                    "y": 307
+                },
+                "position": {
+                    "x": 0,
+                    "y": 307
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 1120,
+                "height": 48,
+                "position": {
+                    "x": 0,
+                    "y": 186
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Courty Henry",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 92,
+                        "height": null,
+                        "position": {
+                            "x": 72,
+                            "y": 13
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "size": "S",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 20,
+                        "height": 20,
+                        "position": {
+                            "x": 1084,
+                            "y": 14
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "AVATAR",
+                    "data": {
+                        "size": "S",
+                        "text": "A",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 36,
+                            "y": 10
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Data series",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 128,
+                        "height": 22,
+                        "position": {
+                            "x": 674,
+                            "y": 13
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Data series",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 128,
+                        "height": 22,
+                        "position": {
+                            "x": 802,
+                            "y": 13
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TAG",
+                    "data": {
+                        "size": "M",
+                        "width": 128,
+                        "height": null,
+                        "position": {
+                            "x": 546,
+                            "y": 10
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "TAG_ITEM",
+                            "data": {
+                                "text": "Status",
+                                "color": {
+                                    "type": "WARNING"
+                                },
+                                "icons": [],
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "size": "M",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 20,
+                        "height": 20,
+                        "position": {
+                            "x": 1058,
+                            "y": 14
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "DD/MM/YY",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 128,
+                        "height": 22,
+                        "position": {
+                            "x": 930,
+                            "y": 13
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "CHECKBOX",
+                    "data": {
+                        "size": "S",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "label": "Label",
+                        "width": 12,
+                        "height": 20,
+                        "position": {
+                            "x": 16,
+                            "y": 14
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "CHECKBOX_ITEM",
+                            "data": {
+                                "text": "",
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 1120,
+                    "y": 113
+                },
+                "from": {
+                    "x": 0,
+                    "y": 112
+                },
+                "position": {
+                    "x": 0,
+                    "y": 112
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 1120,
+                "height": 48,
+                "position": {
+                    "x": 0,
+                    "y": 381
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Bella Smith",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 78,
+                        "height": null,
+                        "position": {
+                            "x": 72,
+                            "y": 13
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TAG",
+                    "data": {
+                        "size": "M",
+                        "width": 128,
+                        "height": null,
+                        "position": {
+                            "x": 546,
+                            "y": 10
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "TAG_ITEM",
+                            "data": {
+                                "text": "Status",
+                                "color": {
+                                    "type": "DANGER"
+                                },
+                                "icons": [],
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Data series",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 128,
+                        "height": 22,
+                        "position": {
+                            "x": 802,
+                            "y": 13
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "AVATAR",
+                    "data": {
+                        "size": "S",
+                        "text": "A",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 36,
+                            "y": 10
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Data series",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 128,
+                        "height": 22,
+                        "position": {
+                            "x": 674,
+                            "y": 13
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "size": "S",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 20,
+                        "height": 20,
+                        "position": {
+                            "x": 1084,
+                            "y": 14
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "size": "M",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 20,
+                        "height": 20,
+                        "position": {
+                            "x": 1058,
+                            "y": 14
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "CHECKBOX",
+                    "data": {
+                        "size": "S",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "label": "Label",
+                        "width": 12,
+                        "height": 20,
+                        "position": {
+                            "x": 16,
+                            "y": 14
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "CHECKBOX_ITEM",
+                            "data": {
+                                "text": "",
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "DD/MM/YY",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 128,
+                        "height": 22,
+                        "position": {
+                            "x": 930,
+                            "y": 13
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 1120,
+                    "y": 373
+                },
+                "from": {
+                    "x": 0,
+                    "y": 372
+                },
+                "position": {
+                    "x": 0,
+                    "y": 372
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 1120,
+                "height": 48,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": {
+                    "type": "NEUTRAL"
+                }
+            },
+            "children": [
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "STATUS",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 45,
+                        "height": null,
+                        "position": {
+                            "x": 548,
+                            "y": 14
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": "700"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "DATA",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 30,
+                        "height": null,
+                        "position": {
+                            "x": 804,
+                            "y": 14
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": "700"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "DATA",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 30,
+                        "height": null,
+                        "position": {
+                            "x": 932,
+                            "y": 14
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": "700"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "ACTION",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 44,
+                        "height": null,
+                        "position": {
+                            "x": 1060,
+                            "y": 14
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": "700"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "size": "S",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 838,
+                            "y": 16
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "size": "S",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 710,
+                            "y": 16
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "CHECKBOX",
+                    "data": {
+                        "size": "S",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "label": "Label",
+                        "width": 12,
+                        "height": 20,
+                        "position": {
+                            "x": 16,
+                            "y": 14
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "CHECKBOX_ITEM",
+                            "data": {
+                                "text": "",
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "size": "S",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 966,
+                            "y": 16
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "NAME",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 34,
+                        "height": null,
+                        "position": {
+                            "x": 36,
+                            "y": 14
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": "700"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "size": "S",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 597,
+                            "y": 16
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "DATA",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 30,
+                        "height": null,
+                        "position": {
+                            "x": 676,
+                            "y": 14
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": "700"
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 1120,
+                "height": 48,
+                "position": {
+                    "x": 0,
+                    "y": 121
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "CHECKBOX",
+                    "data": {
+                        "size": "S",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "label": "Label",
+                        "width": 12,
+                        "height": 20,
+                        "position": {
+                            "x": 16,
+                            "y": 14
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "CHECKBOX_ITEM",
+                            "data": {
+                                "text": "",
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Data series",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 128,
+                        "height": 22,
+                        "position": {
+                            "x": 802,
+                            "y": 13
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Data series",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 128,
+                        "height": 22,
+                        "position": {
+                            "x": 674,
+                            "y": 13
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "size": "S",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 20,
+                        "height": 20,
+                        "position": {
+                            "x": 1084,
+                            "y": 14
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Kathryn Murphy",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 111,
+                        "height": null,
+                        "position": {
+                            "x": 72,
+                            "y": 13
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "DD/MM/YY",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 128,
+                        "height": 22,
+                        "position": {
+                            "x": 930,
+                            "y": 13
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "size": "M",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 20,
+                        "height": 20,
+                        "position": {
+                            "x": 1058,
+                            "y": 14
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TAG",
+                    "data": {
+                        "size": "M",
+                        "width": 128,
+                        "height": null,
+                        "position": {
+                            "x": 546,
+                            "y": 10
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "TAG_ITEM",
+                            "data": {
+                                "text": "Status",
+                                "color": {
+                                    "type": "INFO"
+                                },
+                                "icons": [],
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "AVATAR",
+                    "data": {
+                        "size": "S",
+                        "text": "A",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 36,
+                            "y": 10
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 1120,
+                    "y": 178
+                },
+                "from": {
+                    "x": 0,
+                    "y": 177
+                },
+                "position": {
+                    "x": 0,
+                    "y": 177
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 1120,
+                "height": 48,
+                "position": {
+                    "x": 0,
+                    "y": 446
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "TAG",
+                    "data": {
+                        "size": "M",
+                        "width": 128,
+                        "height": null,
+                        "position": {
+                            "x": 546,
+                            "y": 10
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "TAG_ITEM",
+                            "data": {
+                                "text": "Status",
+                                "color": {
+                                    "type": "INFO"
+                                },
+                                "icons": [],
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "DD/MM/YY",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 128,
+                        "height": 22,
+                        "position": {
+                            "x": 930,
+                            "y": 13
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "AVATAR",
+                    "data": {
+                        "size": "S",
+                        "text": "A",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 36,
+                            "y": 10
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "CHECKBOX",
+                    "data": {
+                        "size": "S",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "label": "Label",
+                        "width": 12,
+                        "height": 20,
+                        "position": {
+                            "x": 16,
+                            "y": 14
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "CHECKBOX_ITEM",
+                            "data": {
+                                "text": "",
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Lily Brown",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 68,
+                        "height": null,
+                        "position": {
+                            "x": 72,
+                            "y": 13
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Data series",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 128,
+                        "height": 22,
+                        "position": {
+                            "x": 802,
+                            "y": 13
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "size": "M",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 20,
+                        "height": 20,
+                        "position": {
+                            "x": 1058,
+                            "y": 14
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Data series",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 128,
+                        "height": 22,
+                        "position": {
+                            "x": 674,
+                            "y": 13
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "size": "S",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 20,
+                        "height": 20,
+                        "position": {
+                            "x": 1084,
+                            "y": 14
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 1120,
+                    "y": 503
+                },
+                "from": {
+                    "x": 0,
+                    "y": 502
+                },
+                "position": {
+                    "x": 0,
+                    "y": 502
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 1120,
+                    "y": 243
+                },
+                "from": {
+                    "x": 0,
+                    "y": 242
+                },
+                "position": {
+                    "x": 0,
+                    "y": 242
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 1120,
+                "height": 48,
+                "position": {
+                    "x": 0,
+                    "y": 316
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Data series",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 128,
+                        "height": 22,
+                        "position": {
+                            "x": 674,
+                            "y": 13
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "size": "M",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 20,
+                        "height": 20,
+                        "position": {
+                            "x": 1058,
+                            "y": 14
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "size": "S",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 20,
+                        "height": 20,
+                        "position": {
+                            "x": 1084,
+                            "y": 14
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "CHECKBOX",
+                    "data": {
+                        "size": "S",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "label": "Label",
+                        "width": 12,
+                        "height": 20,
+                        "position": {
+                            "x": 16,
+                            "y": 14
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "CHECKBOX_ITEM",
+                            "data": {
+                                "text": "",
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "AVATAR",
+                    "data": {
+                        "size": "S",
+                        "text": "A",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 36,
+                            "y": 10
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Data series",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 128,
+                        "height": 22,
+                        "position": {
+                            "x": 802,
+                            "y": 13
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "James Harrid",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 94,
+                        "height": null,
+                        "position": {
+                            "x": 72,
+                            "y": 13
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TAG",
+                    "data": {
+                        "size": "M",
+                        "width": 128,
+                        "height": null,
+                        "position": {
+                            "x": 546,
+                            "y": 10
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "TAG_ITEM",
+                            "data": {
+                                "text": "Status",
+                                "color": {
+                                    "type": "PRIMARY"
+                                },
+                                "icons": [],
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "DD/MM/YY",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 128,
+                        "height": 22,
+                        "position": {
+                            "x": 930,
+                            "y": 13
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 1120,
+                    "y": 438
+                },
+                "from": {
+                    "x": 0,
+                    "y": 437
+                },
+                "position": {
+                    "x": 0,
+                    "y": 437
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 1120,
+                "height": 48,
+                "position": {
+                    "x": 0,
+                    "y": 56
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "AVATAR",
+                    "data": {
+                        "size": "S",
+                        "text": "A",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 36,
+                            "y": 10
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "size": "M",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 20,
+                        "height": 20,
+                        "position": {
+                            "x": 1058,
+                            "y": 14
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TAG",
+                    "data": {
+                        "size": "M",
+                        "width": 128,
+                        "height": null,
+                        "position": {
+                            "x": 546,
+                            "y": 10
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "TAG_ITEM",
+                            "data": {
+                                "text": "Status",
+                                "color": {
+                                    "type": "SUCCESS"
+                                },
+                                "icons": [],
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Data series",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 128,
+                        "height": 22,
+                        "position": {
+                            "x": 802,
+                            "y": 13
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Data series",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 128,
+                        "height": 22,
+                        "position": {
+                            "x": 674,
+                            "y": 13
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "size": "S",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 20,
+                        "height": 20,
+                        "position": {
+                            "x": 1084,
+                            "y": 14
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Esther Howard",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 101,
+                        "height": null,
+                        "position": {
+                            "x": 72,
+                            "y": 13
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "CHECKBOX",
+                    "data": {
+                        "size": "S",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "label": "Label",
+                        "width": 12,
+                        "height": 20,
+                        "position": {
+                            "x": 16,
+                            "y": 14
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "CHECKBOX_ITEM",
+                            "data": {
+                                "text": "",
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "DD/MM/YY",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 128,
+                        "height": 22,
+                        "position": {
+                            "x": 930,
+                            "y": 13
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 1120,
+                "height": 48,
+                "position": {
+                    "x": 0,
+                    "y": 251
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "CHECKBOX",
+                    "data": {
+                        "size": "S",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "label": "Label",
+                        "width": 12,
+                        "height": 20,
+                        "position": {
+                            "x": 16,
+                            "y": 14
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "CHECKBOX_ITEM",
+                            "data": {
+                                "text": "",
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Data series",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 128,
+                        "height": 22,
+                        "position": {
+                            "x": 674,
+                            "y": 13
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Data series",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 128,
+                        "height": 22,
+                        "position": {
+                            "x": 802,
+                            "y": 13
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "DD/MM/YY",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 128,
+                        "height": 22,
+                        "position": {
+                            "x": 930,
+                            "y": 13
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Arlene McCoy",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 97,
+                        "height": null,
+                        "position": {
+                            "x": 72,
+                            "y": 13
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "size": "M",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 20,
+                        "height": 20,
+                        "position": {
+                            "x": 1058,
+                            "y": 14
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "size": "S",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 20,
+                        "height": 20,
+                        "position": {
+                            "x": 1084,
+                            "y": 14
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TAG",
+                    "data": {
+                        "size": "M",
+                        "width": 128,
+                        "height": null,
+                        "position": {
+                            "x": 546,
+                            "y": 10
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "TAG_ITEM",
+                            "data": {
+                                "text": "Status",
+                                "color": {
+                                    "type": "GRAY"
+                                },
+                                "icons": [],
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "AVATAR",
+                    "data": {
+                        "size": "S",
+                        "text": "A",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 36,
+                            "y": 10
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "size": "M",
+        "text": "Overview",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 1120,
+        "height": 30,
+        "position": {
+            "x": 288,
+            "y": 177
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 355,
+        "height": 189,
+        "position": {
+            "x": 671,
+            "y": 219
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Data label",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 273,
+                "height": 22,
+                "position": {
+                    "x": 16,
+                    "y": 16
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "View all",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 0,
+                "height": null,
+                "position": {
+                    "x": 266,
+                    "y": 145
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "XS",
+                "color": {
+                    "type": "SUCCESS"
+                },
+                "position": {
+                    "x": 16,
+                    "y": 107
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 355,
+                    "y": 137
+                },
+                "from": {
+                    "x": 0,
+                    "y": 136
+                },
+                "position": {
+                    "x": 0,
+                    "y": 136
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "period of change",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 121,
+                "position": {
+                    "x": 75,
+                    "y": 102
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "2.16%",
+                "color": {
+                    "type": "SUCCESS"
+                },
+                "width": 39,
+                "height": 22,
+                "position": {
+                    "x": 32,
+                    "y": 102
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "L",
+                "text": "",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 0,
+                "height": null,
+                "position": {
+                    "x": 295,
+                    "y": 16
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "$56,000",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 273,
+                "height": 48,
+                "position": {
+                    "x": 16,
+                    "y": 46
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "icon": {
+            "alignment": "LEFT"
+        },
+        "size": "M",
+        "text": "Import",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 93,
+        "height": null,
+        "position": {
+            "x": 1214,
+            "y": 452
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1184,
+        "height": 137,
+        "position": {
+            "x": 256,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Dashboard",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 800,
+                "height": null,
+                "position": {
+                    "x": 28,
+                    "y": 85
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "M",
+                "text": "Create",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 94,
+                "height": null,
+                "position": {
+                    "x": 1062,
+                    "y": 85
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 1080,
+                    "y": 20
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 1156,
+                    "y": 68
+                },
+                "from": {
+                    "x": 28,
+                    "y": 68
+                },
+                "position": {
+                    "x": 28,
+                    "y": 68
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "M",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1120,
+                    "y": 14
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "M",
+                "text": "Share",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 87,
+                "height": null,
+                "position": {
+                    "x": 963,
+                    "y": 85
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Search...",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [
+                    {
+                        "alignment": "LEFT",
+                        "useBorderColor": false
+                    }
+                ],
+                "width": 256,
+                "position": {
+                    "x": 28,
+                    "y": 14
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 1040,
+                    "y": 20
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 355,
+        "height": 189,
+        "position": {
+            "x": 288,
+            "y": 219
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "L",
+                "text": "",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 0,
+                "height": null,
+                "position": {
+                    "x": 295,
+                    "y": 16
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "6,452",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 267,
+                "height": 48,
+                "position": {
+                    "x": 16,
+                    "y": 46
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "XS",
+                "color": {
+                    "type": "SUCCESS"
+                },
+                "position": {
+                    "x": 16,
+                    "y": 107
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Data label",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 267,
+                "height": 22,
+                "position": {
+                    "x": 16,
+                    "y": 16
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "5.39%",
+                "color": {
+                    "type": "SUCCESS"
+                },
+                "width": 43,
+                "height": 22,
+                "position": {
+                    "x": 32,
+                    "y": 102
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 355,
+                    "y": 137
+                },
+                "from": {
+                    "x": 0,
+                    "y": 136
+                },
+                "position": {
+                    "x": 0,
+                    "y": 136
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "View all",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 0,
+                "height": null,
+                "position": {
+                    "x": 266,
+                    "y": 145
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "period of change",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 121,
+                "position": {
+                    "x": 79,
+                    "y": 102
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 256,
+        "height": 1119,
+        "position": {
+            "x": -1,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": [
+        {
+            "type": "SIDEBAR_MENU",
+            "data": {
+                "size": "L",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 224,
+                "height": 1035,
+                "position": {
+                    "x": 16,
+                    "y": 84
+                }
+            },
+            "children": [
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Teams",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Projects",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Analytics",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Dashboard",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Messages",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Integrations",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 166,
+                "height": 55,
+                "position": {
+                    "x": 16,
+                    "y": 13
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "icon": {
+            "alignment": "LEFT"
+        },
+        "size": "M",
+        "text": "Export",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 89,
+        "height": null,
+        "position": {
+            "x": 1319,
+            "y": 452
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 355,
+        "height": 189,
+        "position": {
+            "x": 1053,
+            "y": 219
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Data label",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 270,
+                "height": 22,
+                "position": {
+                    "x": 16,
+                    "y": 16
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "42,502",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 270,
+                "height": 48,
+                "position": {
+                    "x": 16,
+                    "y": 46
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "L",
+                "text": "",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 0,
+                "height": null,
+                "position": {
+                    "x": 295,
+                    "y": 16
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "View all",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 0,
+                "height": null,
+                "position": {
+                    "x": 266,
+                    "y": 145
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 355,
+                    "y": 137
+                },
+                "from": {
+                    "x": 0,
+                    "y": 136
+                },
+                "position": {
+                    "x": 0,
+                    "y": 136
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "period of change",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 121,
+                "position": {
+                    "x": 80,
+                    "y": 102
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "0.65%",
+                "color": {
+                    "type": "DANGER"
+                },
+                "width": 44,
+                "height": 22,
+                "position": {
+                    "x": 32,
+                    "y": 102
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "XS",
+                "color": {
+                    "type": "DANGER"
+                },
+                "position": {
+                    "x": 16,
+                    "y": 107
+                }
+            },
+            "children": []
+        }
+    ]
+}
+]

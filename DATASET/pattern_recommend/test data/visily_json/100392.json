@@ -1,0 +1,54 @@
+[{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "Submit",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 0,
+        "position": {
+            "x": 179,
+            "y": 565
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXTAREA",
+    "data": {
+        "icon": null,
+        "size": "M",
+        "text": "Write a review",
+        "color": {
+            "type": "GRAY"
+        },
+        "label": "Label",
+        "width": 352,
+        "height": 317,
+        "position": {
+            "x": 38,
+            "y": 146
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Leave a review here",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 219,
+        "height": 30,
+        "position": {
+            "x": 106,
+            "y": 65
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+}
+]

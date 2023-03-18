@@ -1,0 +1,262 @@
+[{
+    "type": "CONTAINER",
+    "data": {
+        "width": 707,
+        "height": 673,
+        "position": {
+            "x": 398,
+            "y": 21
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Description about the product: quis nostrud exercitation ullamco ",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 439,
+                "height": 41,
+                "position": {
+                    "x": 34,
+                    "y": 521
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "checkout",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 0,
+                "position": {
+                    "x": 551,
+                    "y": 634
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TAG",
+            "data": {
+                "size": "S",
+                "width": 210,
+                "height": null,
+                "position": {
+                    "x": 34,
+                    "y": 570
+                }
+            },
+            "children": [
+                {
+                    "type": "TAG_ITEM",
+                    "data": {
+                        "text": "Label 2",
+                        "color": {
+                            "type": "SECONDARY"
+                        },
+                        "icons": [],
+                        "height": 18,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TAG_ITEM",
+                    "data": {
+                        "text": "Label 1",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "icons": [],
+                        "height": 18,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "XL",
+                "text": "Product title",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 439,
+                "height": 28,
+                "position": {
+                    "x": 34,
+                    "y": 485
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "RATING",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "CUSTOM"
+                },
+                "shape": "REGULAR",
+                "position": {
+                    "x": 34,
+                    "y": 624
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 430,
+                "height": 393,
+                "position": {
+                    "x": 16,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "add to card",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 0,
+                "position": {
+                    "x": 639,
+                    "y": 634
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Subtitle",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 439,
+                "height": 22,
+                "position": {
+                    "x": 34,
+                    "y": 463
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "size": "M",
+        "text": "Deserunt minim incididunt cillum nostrud do voluptate excepteur excepteur minim ex minim est laborum labore. Mollit commodo in do dolor ut in mollit est sint esse nostrud ipsum laboris incididunt nulla officia sunt minim. Nisi dolore velit ea occaecat labore minim ea do. ",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 658,
+        "height": 66,
+        "position": {
+            "x": 482,
+            "y": 739
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 550,
+        "height": 124,
+        "position": {
+            "x": 414,
+            "y": 701
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "12:00 PM",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 53,
+                "height": 22,
+                "position": {
+                    "x": 151,
+                    "y": 16
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Username",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 71,
+                "height": 22,
+                "position": {
+                    "x": 68,
+                    "y": 16
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "M",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 16,
+                    "y": 16
+                }
+            },
+            "children": []
+        }
+    ]
+}
+]

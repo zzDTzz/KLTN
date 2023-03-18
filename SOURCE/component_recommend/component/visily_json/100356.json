@@ -1,0 +1,258 @@
+[{
+    "type": "IMAGE",
+    "data": {
+        "width": 166,
+        "height": 317,
+        "position": {
+            "x": 196,
+            "y": 770
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Dien Tran",
+        "color": {
+            "type": "WHITE"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 208,
+            "y": 721
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 166,
+        "height": 317,
+        "position": {
+            "x": 196,
+            "y": 439
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 166,
+        "height": 317,
+        "position": {
+            "x": 14,
+            "y": 770
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Van Lam",
+        "color": {
+            "type": "WHITE"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 24,
+            "y": 721
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Add to story",
+        "color": {
+            "type": "WHITE"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 24,
+            "y": 390
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 166,
+        "height": 317,
+        "position": {
+            "x": 14,
+            "y": 108
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 375,
+        "height": 100,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Stories",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 65,
+                    "y": 48
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 375,
+                "height": 40,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 96,
+                        "height": 40,
+                        "position": {
+                            "x": 279,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 72,
+                        "height": 40,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "GROUP",
+                    "data": {
+                        "width": 327,
+                        "height": 22,
+                        "position": {
+                            "x": 24,
+                            "y": 298
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "position": {
+                    "x": 24,
+                    "y": 54
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 166,
+        "height": 317,
+        "position": {
+            "x": 14,
+            "y": 439
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Thao Huyen",
+        "color": {
+            "type": "WHITE"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 208,
+            "y": 392
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 166,
+        "height": 317,
+        "position": {
+            "x": 196,
+            "y": 108
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "WHITE"
+        },
+        "position": {
+            "x": 24,
+            "y": 121
+        }
+    },
+    "children": []
+}
+]

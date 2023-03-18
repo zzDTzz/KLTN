@@ -1,0 +1,139 @@
+[{
+    "type": "IMAGE",
+    "data": {
+        "width": 307,
+        "height": 148,
+        "position": {
+            "x": 38,
+            "y": 341
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 307,
+        "height": 143,
+        "position": {
+            "x": 38,
+            "y": 169
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 375,
+        "height": 48,
+        "position": {
+            "x": 0,
+            "y": 81
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "M",
+                "text": "A",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 333,
+                    "y": 6
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 6,
+                    "y": 12
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Search",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [
+                    {
+                        "alignment": "LEFT"
+                    }
+                ],
+                "label": "Label",
+                "width": 287,
+                "height": null,
+                "position": {
+                    "x": 38,
+                    "y": 6
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 307,
+        "height": 173,
+        "position": {
+            "x": 38,
+            "y": 518
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Comic Hub",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 123,
+            "y": 22
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 307,
+        "height": 192,
+        "position": {
+            "x": 38,
+            "y": 720
+        }
+    },
+    "children": []
+}
+]

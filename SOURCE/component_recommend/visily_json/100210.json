@@ -1,0 +1,255 @@
+[{
+    "type": "CONTAINER",
+    "data": {
+        "width": 656,
+        "height": 744,
+        "position": {
+            "x": 888,
+            "y": 194
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "L",
+                "text": "Sign up",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 592,
+                "height": 44,
+                "position": {
+                    "x": 32,
+                    "y": 440
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Enter at least 8+ characters ",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [
+                    {
+                        "alignment": "RIGHT",
+                        "useBorderColor": false
+                    }
+                ],
+                "label": "Password",
+                "width": 592,
+                "height": null,
+                "position": {
+                    "x": 32,
+                    "y": 298
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "CHECKBOX",
+            "data": {
+                "size": "S",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "label": "Label",
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 32,
+                    "y": 392
+                }
+            },
+            "children": [
+                {
+                    "type": "CHECKBOX_ITEM",
+                    "data": {
+                        "text": "",
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "label": "First name",
+                "width": 284,
+                "height": null,
+                "position": {
+                    "x": 32,
+                    "y": 114
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "label": "Last name",
+                "width": 284,
+                "height": null,
+                "position": {
+                    "x": 340,
+                    "y": 114
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "example.email@gmail.com",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "label": "Email",
+                "width": 592,
+                "height": null,
+                "position": {
+                    "x": 32,
+                    "y": 206
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "By signing up, I agree with the Terms of Use & Privacy Policy",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 70,
+                    "y": 390
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Sign up",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 592,
+                "height": 42,
+                "position": {
+                    "x": 32,
+                    "y": 28
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 224,
+        "height": 112,
+        "position": {
+            "x": 64,
+            "y": 148
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "size": "M",
+        "text": "Already have an account?",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 191,
+        "position": {
+            "x": 1605,
+            "y": 35
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "size": "L",
+        "text": "Business Tagline",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 225,
+        "height": 40,
+        "position": {
+            "x": 64,
+            "y": 288
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 519,
+        "height": 1080,
+        "position": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "Sign in",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 78,
+        "height": null,
+        "position": {
+            "x": 1810,
+            "y": 28
+        }
+    },
+    "children": []
+}
+]

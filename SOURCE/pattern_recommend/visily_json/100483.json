@@ -1,0 +1,125 @@
+[{
+    "type": "CONTAINER",
+    "data": {
+        "width": 691,
+        "height": 551,
+        "position": {
+            "x": 374,
+            "y": 158
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Create",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 118,
+                "height": 69,
+                "position": {
+                    "x": 573,
+                    "y": 482
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 42,
+                "height": 42,
+                "position": {
+                    "x": 649,
+                    "y": 24
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Create new item",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 624,
+                "height": 69,
+                "position": {
+                    "x": 24,
+                    "y": 24
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Cancel",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 129,
+                "height": 69,
+                "position": {
+                    "x": 430,
+                    "y": 482
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTAREA",
+            "data": {
+                "icon": null,
+                "size": "M",
+                "text": "Enter item description",
+                "color": {
+                    "type": "GRAY"
+                },
+                "label": "Description",
+                "width": 667,
+                "height": 184,
+                "position": {
+                    "x": 24,
+                    "y": 267
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Enter item name",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "icons": [],
+                "label": "Name",
+                "width": 667,
+                "height": 113,
+                "position": {
+                    "x": 24,
+                    "y": 124
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        }
+    ]
+}
+]

@@ -1,0 +1,604 @@
+[{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "Confirm",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 0,
+        "position": {
+            "x": 132,
+            "y": 515
+        }
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "Confirm",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 0,
+        "position": {
+            "x": 132,
+            "y": 379
+        }
+    },
+    "children": []
+},
+{
+    "type": "AVATAR",
+    "data": {
+        "size": "XL",
+        "text": "I",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 88,
+        "height": 88,
+        "iconSize": null,
+        "position": {
+            "x": 24,
+            "y": 330
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Katy Le",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 129,
+        "height": 52,
+        "position": {
+            "x": 132,
+            "y": 740
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "Remove",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 0,
+        "iconSize": null,
+        "position": {
+            "x": 221,
+            "y": 651
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "20 mutual friends",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 114,
+        "height": 22,
+        "position": {
+            "x": 132,
+            "y": 493
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "AVATAR",
+    "data": {
+        "size": "XL",
+        "text": "K",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 88,
+        "height": 88,
+        "position": {
+            "x": 24,
+            "y": 738
+        }
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "Confirm",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 0,
+        "position": {
+            "x": 132,
+            "y": 243
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "18 mutual friends",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 132,
+            "y": 221
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "18 mutual friends",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 132,
+            "y": 629
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Hai Nam",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 129,
+        "height": 52,
+        "position": {
+            "x": 132,
+            "y": 604
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "Remove",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 0,
+        "iconSize": null,
+        "position": {
+            "x": 221,
+            "y": 787
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 375,
+        "height": 100,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "position": {
+                    "x": 24,
+                    "y": 54
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 24,
+                "height": 24,
+                "position": {
+                    "x": 337,
+                    "y": 54
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 375,
+                "height": 40,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "GROUP",
+                    "data": {
+                        "width": 327,
+                        "height": 22,
+                        "position": {
+                            "x": 24,
+                            "y": 298
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 96,
+                        "height": 40,
+                        "position": {
+                            "x": 279,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 72,
+                        "height": 40,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Friends",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 157,
+                    "y": 52
+                },
+                "textAlign": "CENTER",
+                "fontWeight": "700"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "Remove",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 0,
+        "iconSize": null,
+        "position": {
+            "x": 221,
+            "y": 515
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Nguyen Nguyen",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 129,
+        "height": 52,
+        "position": {
+            "x": 132,
+            "y": 468
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "Remove",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 0,
+        "iconSize": null,
+        "position": {
+            "x": 221,
+            "y": 243
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "AVATAR",
+    "data": {
+        "size": "XL",
+        "text": "N",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 88,
+        "height": 88,
+        "position": {
+            "x": 24,
+            "y": 466
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Isabelle Nguyen",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 129,
+        "height": 52,
+        "position": {
+            "x": 132,
+            "y": 196
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TAG",
+    "data": {
+        "size": "M",
+        "height": null,
+        "position": {
+            "x": 24,
+            "y": 100
+        }
+    },
+    "children": [
+        {
+            "type": "TAG_ITEM",
+            "data": {
+                "size": "L",
+                "text": "Suggestions",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "height": null,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "Confirm",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 0,
+        "position": {
+            "x": 132,
+            "y": 651
+        }
+    },
+    "children": []
+},
+{
+    "type": "AVATAR",
+    "data": {
+        "size": "XL",
+        "text": "I",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 88,
+        "height": 88,
+        "position": {
+            "x": 24,
+            "y": 194
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Daniel Tran",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 129,
+        "height": 52,
+        "position": {
+            "x": 132,
+            "y": 332
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "Remove",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 0,
+        "iconSize": null,
+        "position": {
+            "x": 221,
+            "y": 379
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "Confirm",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 0,
+        "position": {
+            "x": 132,
+            "y": 787
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "100 mutual friends",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 132,
+            "y": 357
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "18 mutual friends",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 132,
+            "y": 765
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Friend Requests",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 181,
+        "height": 30,
+        "position": {
+            "x": 24,
+            "y": 148
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "AVATAR",
+    "data": {
+        "size": "XL",
+        "text": "I",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 88,
+        "height": 88,
+        "iconSize": null,
+        "position": {
+            "x": 24,
+            "y": 602
+        },
+        "backgroundColor": null
+    },
+    "children": []
+}
+]

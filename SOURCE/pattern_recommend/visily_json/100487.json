@@ -1,0 +1,131 @@
+[{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1013,
+        "height": 672,
+        "position": {
+            "x": 185,
+            "y": 121
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Learn more",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 259,
+                "height": 64,
+                "position": {
+                    "x": 526,
+                    "y": 608
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 1006,
+                "height": 345,
+                "position": {
+                    "x": 0,
+                    "y": 85
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 44,
+                "height": 44,
+                "position": {
+                    "x": 42,
+                    "y": 10
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "L",
+                "text": "SHORT DESCRIPTIOn",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 443,
+                "height": 47,
+                "position": {
+                    "x": 120,
+                    "y": 10
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 923,
+                "height": 119,
+                "position": {
+                    "x": 41,
+                    "y": 459
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 44,
+                "height": 44,
+                "position": {
+                    "x": 900,
+                    "y": 10
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Got it",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 157,
+                "height": 64,
+                "position": {
+                    "x": 807,
+                    "y": 608
+                }
+            },
+            "children": []
+        }
+    ]
+}
+]

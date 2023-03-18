@@ -1,0 +1,1381 @@
+[{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1440,
+        "height": 52,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "ICON",
+            "data": {
+                "size": "XS",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 12,
+                "position": {
+                    "x": 1408,
+                    "y": 20
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "M",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1366,
+                    "y": 8
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 96,
+                "height": 36,
+                "position": {
+                    "x": 20,
+                    "y": 8
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "HEADER_MENU",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 616,
+                "position": {
+                    "x": 160,
+                    "y": 0
+                }
+            },
+            "children": [
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Browse",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Live Shopping",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Support",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Promotions",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Search...",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [
+                    {
+                        "alignment": "LEFT",
+                        "useBorderColor": false
+                    }
+                ],
+                "width": 269,
+                "height": null,
+                "position": {
+                    "x": 1033,
+                    "y": 8
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 24,
+                "position": {
+                    "x": 1326,
+                    "y": 14
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 308,
+        "height": 637,
+        "position": {
+            "x": 922,
+            "y": 84
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 284,
+                    "y": 511
+                },
+                "from": {
+                    "x": 24,
+                    "y": 510
+                },
+                "position": {
+                    "x": 24,
+                    "y": 510
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Total",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 179,
+                "height": null,
+                "position": {
+                    "x": 24,
+                    "y": 527
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Subtotal",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 211,
+                "height": null,
+                "position": {
+                    "x": 24,
+                    "y": 421
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "L",
+                "text": "Summary",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 260,
+                "height": 26,
+                "position": {
+                    "x": 24,
+                    "y": 386
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "$180",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": 22,
+                "position": {
+                    "x": 249,
+                    "y": 420
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "XL",
+                "text": "$186",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": 28,
+                "position": {
+                    "x": 239,
+                    "y": 523
+                },
+                "textAlign": "RIGHT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "$20",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": 22,
+                "position": {
+                    "x": 256,
+                    "y": 476
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 260,
+                "height": 60,
+                "position": {
+                    "x": 24,
+                    "y": 82
+                },
+                "backgroundColor": {
+                    "type": "PRIMARY"
+                }
+            },
+            "children": [
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "XS",
+                        "text": "Mastercard",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": 132,
+                        "height": null,
+                        "position": {
+                            "x": 52,
+                            "y": 21
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "XS",
+                        "text": "**** 5987",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 192,
+                            "y": 21
+                        },
+                        "textAlign": "RIGHT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 36,
+                        "height": 36,
+                        "position": {
+                            "x": 12,
+                            "y": 12
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "L",
+                "text": "Payment method",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 260,
+                "height": 26,
+                "position": {
+                    "x": 24,
+                    "y": 16
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Enter code",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "label": "Label",
+                "width": 192,
+                "height": null,
+                "position": {
+                    "x": 24,
+                    "y": 274
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Shipping fee",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 226,
+                "height": null,
+                "position": {
+                    "x": 24,
+                    "y": 477
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TAG",
+            "data": {
+                "size": "L",
+                "width": 260,
+                "height": null,
+                "position": {
+                    "x": 24,
+                    "y": 318
+                }
+            },
+            "children": [
+                {
+                    "type": "TAG_ITEM",
+                    "data": {
+                        "text": "FreeShip",
+                        "color": {
+                            "type": "WARNING"
+                        },
+                        "icons": [],
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TAG_ITEM",
+                    "data": {
+                        "text": "$15 Off",
+                        "color": {
+                            "type": "WARNING"
+                        },
+                        "icons": [],
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "-$14",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": 22,
+                "position": {
+                    "x": 251,
+                    "y": 448
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "L",
+                "text": "Proceed to payment",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 260,
+                "height": null,
+                "position": {
+                    "x": 24,
+                    "y": 569
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 260,
+                "height": 60,
+                "position": {
+                    "x": 24,
+                    "y": 148
+                },
+                "backgroundColor": {
+                    "type": "TRANSPARENT"
+                }
+            },
+            "children": [
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 36,
+                        "height": 36,
+                        "position": {
+                            "x": 12,
+                            "y": 12
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "XS",
+                        "text": "**** 0006",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 190,
+                            "y": 21
+                        },
+                        "textAlign": "RIGHT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "XS",
+                        "text": "Visa",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 52,
+                            "y": 21
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Apply",
+                "color": {
+                    "type": "SECONDARY"
+                },
+                "width": 62,
+                "height": null,
+                "position": {
+                    "x": 222,
+                    "y": 274
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "L",
+                "text": "Voucher",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 260,
+                "height": 26,
+                "position": {
+                    "x": 24,
+                    "y": 240
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "+ Add payment methods",
+                "color": {
+                    "type": "INFO"
+                },
+                "width": 260,
+                "height": 20,
+                "position": {
+                    "x": 24,
+                    "y": 56
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Discount",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 215,
+                "height": null,
+                "position": {
+                    "x": 24,
+                    "y": 449
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 688,
+        "height": 266,
+        "position": {
+            "x": 210,
+            "y": 84
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Input number only",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "label": "Phone number",
+                "width": 310,
+                "height": null,
+                "position": {
+                    "x": 354,
+                    "y": 62
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Input text",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "label": "Full name",
+                "width": 310,
+                "height": null,
+                "position": {
+                    "x": 24,
+                    "y": 62
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Input text",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "label": "Address",
+                "width": 640,
+                "height": null,
+                "position": {
+                    "x": 24,
+                    "y": 141
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "L",
+                "text": "Recipient information",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 640,
+                "height": 26,
+                "position": {
+                    "x": 24,
+                    "y": 16
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "CHECKBOX",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "label": "Label",
+                "width": 640,
+                "height": 22,
+                "position": {
+                    "x": 24,
+                    "y": 220
+                }
+            },
+            "children": [
+                {
+                    "type": "CHECKBOX_ITEM",
+                    "data": {
+                        "text": "Save as default",
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 688,
+        "height": 256,
+        "position": {
+            "x": 210,
+            "y": 374
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 224,
+                "height": 102,
+                "position": {
+                    "x": 268,
+                    "y": 130
+                },
+                "backgroundColor": {
+                    "type": "TRANSPARENT"
+                }
+            },
+            "children": [
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "XL",
+                        "text": "$12",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 161,
+                        "height": 28,
+                        "position": {
+                            "x": 47,
+                            "y": 16
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Est. arrival: DD/MM",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 161,
+                        "height": 20,
+                        "position": {
+                            "x": 47,
+                            "y": 66
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "size": "M",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 16,
+                            "y": 18
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Standard delivery",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 161,
+                        "height": 22,
+                        "position": {
+                            "x": 47,
+                            "y": 44
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "L",
+                "text": "Delivery options",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 640,
+                "height": 26,
+                "position": {
+                    "x": 24,
+                    "y": 16
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "RADIO",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "label": "Operator",
+                "width": 640,
+                "height": 48,
+                "position": {
+                    "x": 24,
+                    "y": 62
+                }
+            },
+            "children": [
+                {
+                    "type": "RADIO_ITEM",
+                    "data": {
+                        "text": "FedEx",
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "RADIO_ITEM",
+                    "data": {
+                        "text": "UPS",
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "RADIO_ITEM",
+                    "data": {
+                        "text": "Amazon",
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "RADIO_ITEM",
+                    "data": {
+                        "text": "DHL",
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 224,
+                "height": 102,
+                "position": {
+                    "x": 24,
+                    "y": 130
+                },
+                "backgroundColor": {
+                    "type": "PRIMARY"
+                }
+            },
+            "children": [
+                {
+                    "type": "ICON",
+                    "data": {
+                        "size": "M",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "position": {
+                            "x": 16,
+                            "y": 18
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "XL",
+                        "text": "$22",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": 128,
+                        "height": 28,
+                        "position": {
+                            "x": 80,
+                            "y": 16
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Est. arrival: Today",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": 128,
+                        "height": 20,
+                        "position": {
+                            "x": 80,
+                            "y": 66
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Instant delivery",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": 128,
+                        "height": 22,
+                        "position": {
+                            "x": 80,
+                            "y": 44
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 688,
+        "height": 312,
+        "position": {
+            "x": 210,
+            "y": 654
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Total",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 33,
+                "height": 22,
+                "position": {
+                    "x": 624,
+                    "y": 62
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "L",
+                "text": "Order summary",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 640,
+                "height": 26,
+                "position": {
+                    "x": 24,
+                    "y": 16
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Product name",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 264,
+                "height": null,
+                "position": {
+                    "x": 88,
+                    "y": 113
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Name",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 328,
+                "height": 22,
+                "position": {
+                    "x": 24,
+                    "y": 62
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "$92",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 27,
+                "height": 22,
+                "position": {
+                    "x": 627,
+                    "y": 178
+                },
+                "textAlign": "CENTER"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Quantity",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 57,
+                "height": 22,
+                "position": {
+                    "x": 512,
+                    "y": 62
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "$52",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 27,
+                "height": 22,
+                "position": {
+                    "x": 627,
+                    "y": 112
+                },
+                "textAlign": "CENTER"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "$46",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 27,
+                "height": null,
+                "position": {
+                    "x": 427,
+                    "y": 178
+                },
+                "textAlign": "CENTER"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Price",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 34,
+                "height": 22,
+                "position": {
+                    "x": 423,
+                    "y": 62
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "$12",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 27,
+                "height": 22,
+                "position": {
+                    "x": 427,
+                    "y": 244
+                },
+                "textAlign": "CENTER"
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 56,
+                "height": 56,
+                "position": {
+                    "x": 24,
+                    "y": 164
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "2",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 9,
+                "height": 22,
+                "position": {
+                    "x": 536,
+                    "y": 178
+                },
+                "textAlign": "CENTER"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "3",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 9,
+                "height": 22,
+                "position": {
+                    "x": 536,
+                    "y": 244
+                },
+                "textAlign": "CENTER"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Product name",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 264,
+                "height": null,
+                "position": {
+                    "x": 88,
+                    "y": 181
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "1",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 9,
+                "height": 22,
+                "position": {
+                    "x": 536,
+                    "y": 112
+                },
+                "textAlign": "CENTER"
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 56,
+                "height": 56,
+                "position": {
+                    "x": 24,
+                    "y": 96
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "$36",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 27,
+                "height": 22,
+                "position": {
+                    "x": 627,
+                    "y": 244
+                },
+                "textAlign": "CENTER"
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 56,
+                "height": 56,
+                "position": {
+                    "x": 24,
+                    "y": 232
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "$52",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 27,
+                "height": null,
+                "position": {
+                    "x": 427,
+                    "y": 112
+                },
+                "textAlign": "CENTER"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Product name",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 264,
+                "height": null,
+                "position": {
+                    "x": 88,
+                    "y": 249
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        }
+    ]
+}
+]

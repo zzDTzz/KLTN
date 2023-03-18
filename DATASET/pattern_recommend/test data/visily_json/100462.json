@@ -1,0 +1,1015 @@
+[{
+    "type": "TEXT",
+    "data": {
+        "size": "XS",
+        "text": "Login sessions",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 296,
+        "height": 30,
+        "position": {
+            "x": 400,
+            "y": 878
+        },
+        "textAlign": "LEFT"
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1440,
+        "height": 56,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 96,
+                "height": 36,
+                "position": {
+                    "x": 20,
+                    "y": 10
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 1304,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 1344,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "M",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1384,
+                    "y": 10
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 1264,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "HEADER_MENU",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 343,
+                "height": null,
+                "position": {
+                    "x": 140,
+                    "y": 2
+                }
+            },
+            "children": [
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Analytics",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Home",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Teams",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "icon": null,
+                        "text": "Projects",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 256,
+        "height": 1383,
+        "position": {
+            "x": 0,
+            "y": 56
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": [
+        {
+            "type": "SIDEBAR_MENU",
+            "data": {
+                "size": "L",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 224,
+                "height": 1375,
+                "position": {
+                    "x": 16,
+                    "y": 8
+                }
+            },
+            "children": [
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Billing & Payment",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Connected Apps",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Language & Region",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Security ",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Notifications",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "My profile",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 564,
+        "height": 199,
+        "position": {
+            "x": 732,
+            "y": 594
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "ICON",
+            "data": {
+                "size": "L",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 28,
+                    "y": 85
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "If we detect a sign-in from an unknown device or browser, we’ll ask for password and a verification code.",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 464,
+                "height": 44,
+                "position": {
+                    "x": 72,
+                    "y": 79
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 536,
+                    "y": 63
+                },
+                "from": {
+                    "x": 28,
+                    "y": 62
+                },
+                "position": {
+                    "x": 28,
+                    "y": 62
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "2-Step authentication is off",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 508,
+                "height": 22,
+                "position": {
+                    "x": 28,
+                    "y": 24
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "400"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Activate authentication",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 0,
+                "height": null,
+                "position": {
+                    "x": 368,
+                    "y": 139
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "size": "XS",
+        "text": "2-Step authentication",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 296,
+        "height": 30,
+        "position": {
+            "x": 400,
+            "y": 606
+        },
+        "textAlign": "LEFT"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "size": "M",
+        "text": "Add extra security layer to your account with a second authentication step",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 296,
+        "height": 44,
+        "position": {
+            "x": 400,
+            "y": 642
+        },
+        "textAlign": "LEFT"
+    },
+    "children": []
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 1296,
+            "y": 558
+        },
+        "from": {
+            "x": 400,
+            "y": 557
+        },
+        "position": {
+            "x": 400,
+            "y": 557
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "size": "XS",
+        "text": "Deactivate",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 296,
+        "height": 26,
+        "position": {
+            "x": 400,
+            "y": 1334
+        },
+        "textAlign": "LEFT"
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 564,
+        "height": 84,
+        "position": {
+            "x": 732,
+            "y": 1307
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Deactivate account",
+                "color": {
+                    "type": "DANGER"
+                },
+                "width": 144,
+                "height": 36,
+                "position": {
+                    "x": 392,
+                    "y": 24
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "You can reactivate whenever you want.",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 331,
+                "height": null,
+                "position": {
+                    "x": 28,
+                    "y": 31
+                },
+                "textAlign": "LEFT",
+                "fontWeight": null
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 564,
+        "height": 368,
+        "position": {
+            "x": 732,
+            "y": 866
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "BLACK"
+                },
+                "position": {
+                    "x": 28,
+                    "y": 272
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Safari on iPhone XS",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 126,
+                "height": 22,
+                "position": {
+                    "x": 60,
+                    "y": 149
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Log out",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 85,
+                "height": 36,
+                "position": {
+                    "x": 451,
+                    "y": 43
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 536,
+                    "y": 123
+                },
+                "from": {
+                    "x": 28,
+                    "y": 122
+                },
+                "position": {
+                    "x": 28,
+                    "y": 122
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "BLACK"
+                },
+                "position": {
+                    "x": 28,
+                    "y": 149
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "07 Oct at 3:16 PM\nCalifornia, USA",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 149,
+                "height": 44,
+                "position": {
+                    "x": 60,
+                    "y": 300
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TAG",
+            "data": {
+                "size": "M",
+                "width": 75,
+                "height": 24,
+                "position": {
+                    "x": 200,
+                    "y": 22
+                }
+            },
+            "children": [
+                {
+                    "type": "TAG_ITEM",
+                    "data": {
+                        "text": "Active now",
+                        "color": {
+                            "type": "SUCCESS"
+                        },
+                        "icons": [],
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "BLACK"
+                },
+                "position": {
+                    "x": 28,
+                    "y": 26
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Chrome on Mac OS X",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": 22,
+                "position": {
+                    "x": 60,
+                    "y": 26
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 536,
+                    "y": 246
+                },
+                "from": {
+                    "x": 28,
+                    "y": 245
+                },
+                "position": {
+                    "x": 28,
+                    "y": 245
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "10 Oct at 6:09 PM\nCalifornia, USA",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 126,
+                "height": 44,
+                "position": {
+                    "x": 60,
+                    "y": 177
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Log out",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 85,
+                "height": 36,
+                "position": {
+                    "x": 451,
+                    "y": 289
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Chrome on Windows 10",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 149,
+                "height": 22,
+                "position": {
+                    "x": 60,
+                    "y": 272
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Log out",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 85,
+                "height": 36,
+                "position": {
+                    "x": 451,
+                    "y": 166
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "11 Oct at 4:20 PM\nCalifornia, USA",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": 44,
+                "position": {
+                    "x": 60,
+                    "y": 54
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "size": "M",
+        "text": "Security",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 896,
+        "height": 48,
+        "position": {
+            "x": 400,
+            "y": 104
+        },
+        "textAlign": "LEFT"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "size": "XS",
+        "text": "Change Password",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 296,
+        "height": 321,
+        "position": {
+            "x": 400,
+            "y": 200
+        },
+        "textAlign": "LEFT"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "size": "M",
+        "text": "Places & devices where you logged into the app",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 296,
+        "height": 44,
+        "position": {
+            "x": 400,
+            "y": 914
+        },
+        "textAlign": "LEFT"
+    },
+    "children": []
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 1296,
+            "y": 1271
+        },
+        "from": {
+            "x": 400,
+            "y": 1270
+        },
+        "position": {
+            "x": 400,
+            "y": 1270
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 564,
+        "height": 333,
+        "position": {
+            "x": 732,
+            "y": 188
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Enter new password",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [
+                    {
+                        "alignment": "RIGHT",
+                        "useBorderColor": true
+                    }
+                ],
+                "label": "New password",
+                "width": 508,
+                "position": {
+                    "x": 28,
+                    "y": 107
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Change password",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 0,
+                "height": null,
+                "position": {
+                    "x": 400,
+                    "y": 273
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Confirm new password",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [
+                    {
+                        "alignment": "RIGHT",
+                        "useBorderColor": true
+                    }
+                ],
+                "label": "Confirm new password",
+                "width": 508,
+                "position": {
+                    "x": 28,
+                    "y": 190
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Enter current password",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [
+                    {
+                        "alignment": "RIGHT",
+                        "useBorderColor": true
+                    }
+                ],
+                "label": "Current password",
+                "width": 508,
+                "position": {
+                    "x": 28,
+                    "y": 24
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 1296,
+            "y": 830
+        },
+        "from": {
+            "x": 400,
+            "y": 829
+        },
+        "position": {
+            "x": 400,
+            "y": 829
+        }
+    },
+    "children": []
+}
+]

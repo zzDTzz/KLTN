@@ -1,0 +1,197 @@
+[{
+    "type": "TEXTBOX",
+    "data": {
+        "size": "XL",
+        "text": "Vietnamese",
+        "color": {
+            "type": "GRAY"
+        },
+        "icons": [],
+        "label": "Label",
+        "width": 192,
+        "height": null,
+        "position": {
+            "x": 708,
+            "y": 205
+        },
+        "labelTextSize": null
+    },
+    "children": []
+},
+{
+    "type": "TEXTBOX",
+    "data": {
+        "size": "XL",
+        "text": "English ",
+        "color": {
+            "type": "GRAY"
+        },
+        "icons": [],
+        "label": "Label",
+        "width": 192,
+        "height": null,
+        "position": {
+            "x": 38,
+            "y": 205
+        },
+        "labelTextSize": null
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 123,
+        "height": 56,
+        "position": {
+            "x": 66,
+            "y": 0
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 40,
+        "height": 40,
+        "position": {
+            "x": 445,
+            "y": 205
+        }
+    },
+    "children": []
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 1440,
+        "height": 65,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXTAREA",
+    "data": {
+        "icon": null,
+        "size": "M",
+        "text": "Input text",
+        "color": {
+            "type": "GRAY"
+        },
+        "label": "Label",
+        "width": 670,
+        "height": 341,
+        "position": {
+            "x": 38,
+            "y": 257
+        }
+    },
+    "children": []
+},
+{
+    "type": "GROUP",
+    "data": {
+        "width": 200,
+        "height": 200,
+        "position": {
+            "x": 1386,
+            "y": -20
+        }
+    },
+    "children": [
+        {
+            "type": "OVAL",
+            "data": {
+                "width": 48,
+                "height": 56,
+                "position": {
+                    "x": 0,
+                    "y": 20
+                },
+                "backgroundColor": {
+                    "type": "NEUTRAL"
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "T",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 26,
+                "height": 56,
+                "position": {
+                    "x": 11,
+                    "y": 20
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 52,
+        "height": 52,
+        "position": {
+            "x": 1334,
+            "y": 0
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 56,
+        "height": 56,
+        "position": {
+            "x": 10,
+            "y": 0
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXTAREA",
+    "data": {
+        "icon": null,
+        "size": "M",
+        "text": "Input text",
+        "color": {
+            "type": "GRAY"
+        },
+        "label": "Label",
+        "width": 670,
+        "height": 341,
+        "position": {
+            "x": 708,
+            "y": 257
+        }
+    },
+    "children": []
+}
+]

@@ -1,0 +1,208 @@
+[{
+    "type": "CONTAINER",
+    "data": {
+        "width": 376,
+        "height": 493,
+        "position": {
+            "x": 0,
+            "y": 319
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Comment",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 64,
+                "height": 22,
+                "position": {
+                    "x": 39,
+                    "y": 87
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Apply",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 147,
+                "height": null,
+                "position": {
+                    "x": 192,
+                    "y": 447
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "RATING",
+            "data": {
+                "size": "XL",
+                "color": {
+                    "type": "CUSTOM"
+                },
+                "shape": "REGULAR",
+                "width": 241,
+                "height": 32,
+                "position": {
+                    "x": 68,
+                    "y": 293
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Rating",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 45,
+                "height": 22,
+                "position": {
+                    "x": 38,
+                    "y": 255
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTAREA",
+            "data": {
+                "icon": null,
+                "size": "M",
+                "text": "Type your comment",
+                "color": {
+                    "type": "GRAY"
+                },
+                "label": "Label",
+                "width": 347,
+                "height": 80,
+                "position": {
+                    "x": 15,
+                    "y": 128
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 352,
+                    "y": 431
+                },
+                "from": {
+                    "x": 24,
+                    "y": 430
+                },
+                "position": {
+                    "x": 24,
+                    "y": 430
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 375,
+                    "y": 59
+                },
+                "from": {
+                    "x": 0,
+                    "y": 59
+                },
+                "width": 710,
+                "height": 1,
+                "position": {
+                    "x": 0,
+                    "y": 59
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Reset",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 143,
+                "height": null,
+                "position": {
+                    "x": 39,
+                    "y": 447
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Feedback",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 151,
+                    "y": 17
+                },
+                "textAlign": "CENTER",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 329,
+                    "y": 20
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 376,
+        "height": 812,
+        "position": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    "children": []
+}
+]

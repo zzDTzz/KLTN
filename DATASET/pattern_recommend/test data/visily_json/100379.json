@@ -1,0 +1,294 @@
+[{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "position": {
+            "x": 260,
+            "y": 23
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 12,
+        "height": 384,
+        "position": {
+            "x": 1428,
+            "y": 290
+        },
+        "backgroundColor": {
+            "type": "PRIMARY"
+        }
+    },
+    "children": [
+        {
+            "type": "RECTANGLE",
+            "data": {
+                "width": 12,
+                "height": 124,
+                "position": {
+                    "x": 0,
+                    "y": 130
+                },
+                "backgroundColor": {
+                    "type": "NEUTRAL"
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 1440,
+        "height": 894,
+        "position": {
+            "x": 0,
+            "y": 3
+        }
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "Show",
+        "color": {
+            "type": "TERTIARY2"
+        },
+        "width": 145,
+        "height": 63,
+        "position": {
+            "x": 58,
+            "y": 796
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 281,
+        "height": 34,
+        "position": {
+            "x": 13,
+            "y": 18
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 360,
+        "height": 160,
+        "position": {
+            "x": 540,
+            "y": 499
+        },
+        "backgroundColor": {
+            "type": "TERTIARY2"
+        }
+    },
+    "children": [
+        {
+            "type": "RATING",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "CUSTOM"
+                },
+                "shape": "REGULAR",
+                "position": {
+                    "x": 217,
+                    "y": 1
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "M",
+                "text": "",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 0,
+                "height": null,
+                "position": {
+                    "x": 217,
+                    "y": 21
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "M",
+                "text": "",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 0,
+                "height": null,
+                "position": {
+                    "x": 205,
+                    "y": 124
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "RATING",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "CUSTOM"
+                },
+                "shape": "REGULAR",
+                "position": {
+                    "x": 203,
+                    "y": 104
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "M",
+                "text": "",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 0,
+                "height": null,
+                "position": {
+                    "x": 0,
+                    "y": 57
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "L",
+                "text": "",
+                "color": {
+                    "type": "TERTIARY3"
+                },
+                "width": 0,
+                "height": null,
+                "position": {
+                    "x": 104.5,
+                    "y": 58
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 129,
+        "height": 46,
+        "position": {
+            "x": 1202,
+            "y": 813
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "L",
+                "text": "10",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 18,
+                "height": null,
+                "position": {
+                    "x": 57,
+                    "y": 13
+                },
+                "textAlign": "CENTER"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "S",
+                "text": "",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 32,
+                "height": null,
+                "position": {
+                    "x": 13,
+                    "y": 10
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "S",
+                "text": "",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 32,
+                "height": null,
+                "position": {
+                    "x": 87,
+                    "y": 10
+                }
+            },
+            "children": []
+        }
+    ]
+}
+]

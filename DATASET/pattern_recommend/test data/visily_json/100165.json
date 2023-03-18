@@ -1,0 +1,356 @@
+[{
+    "type": "GROUP",
+    "data": {
+        "width": 251,
+        "height": 36,
+        "position": {
+            "x": 1161,
+            "y": 24
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Already have an account?",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 171,
+                "position": {
+                    "x": 0,
+                    "y": 7
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Sign in",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 68,
+                "height": null,
+                "position": {
+                    "x": 183,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "GROUP",
+    "data": {
+        "width": 568,
+        "height": 900,
+        "position": {
+            "x": -56,
+            "y": -2
+        }
+    },
+    "children": [
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 512,
+                "height": 900,
+                "position": {
+                    "x": 56,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 448,
+                "height": 228,
+                "position": {
+                    "x": 0,
+                    "y": 24
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "L",
+                "text": "Read - Learn - Share",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 271,
+                "height": 72,
+                "position": {
+                    "x": 120,
+                    "y": 250
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 512,
+                "height": 542,
+                "position": {
+                    "x": 56,
+                    "y": 358
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 733,
+        "height": 746,
+        "position": {
+            "x": 599,
+            "y": 42
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "GROUP",
+            "data": {
+                "width": 668,
+                "height": 312,
+                "position": {
+                    "x": 43,
+                    "y": 397
+                }
+            },
+            "children": [
+                {
+                    "type": "BUTTON",
+                    "data": {
+                        "size": "L",
+                        "text": "Sign up",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": 668,
+                        "height": 56,
+                        "position": {
+                            "x": 0,
+                            "y": 230
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXTBOX",
+                    "data": {
+                        "size": "M",
+                        "text": "Enter at least 8+ characters ",
+                        "color": {
+                            "type": "GRAY"
+                        },
+                        "icons": [
+                            {
+                                "alignment": "RIGHT",
+                                "useBorderColor": false
+                            }
+                        ],
+                        "label": "Password",
+                        "width": 668,
+                        "height": 75,
+                        "position": {
+                            "x": 0,
+                            "y": 102
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXTBOX",
+                    "data": {
+                        "size": "M",
+                        "text": "example.email@gmail.com",
+                        "color": {
+                            "type": "GRAY"
+                        },
+                        "icons": [],
+                        "label": "Email",
+                        "width": 668,
+                        "height": 75,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "GROUP",
+            "data": {
+                "width": 668,
+                "height": 221,
+                "position": {
+                    "x": 43,
+                    "y": 123
+                }
+            },
+            "children": [
+                {
+                    "type": "DIVIDER",
+                    "data": {
+                        "to": {
+                            "x": 306,
+                            "y": 207
+                        },
+                        "from": {
+                            "x": 0,
+                            "y": 207
+                        },
+                        "width": 249,
+                        "height": 1,
+                        "position": {
+                            "x": 0,
+                            "y": 207
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "BUTTON",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "size": "M",
+                        "text": "Sign up with Google",
+                        "color": {
+                            "type": "TERTIARY2"
+                        },
+                        "width": 668,
+                        "height": 46,
+                        "position": {
+                            "x": 0,
+                            "y": 129
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "OR",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 26,
+                        "height": 28,
+                        "position": {
+                            "x": 321,
+                            "y": 193
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "BUTTON",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "size": "M",
+                        "text": "Sign up with Facebook",
+                        "color": {
+                            "type": "CUSTOM"
+                        },
+                        "width": 668,
+                        "height": 46,
+                        "position": {
+                            "x": 0,
+                            "y": 64
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "BUTTON",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "size": "M",
+                        "text": "Sign up with GitHub",
+                        "color": {
+                            "type": "SECONDARY"
+                        },
+                        "width": 668,
+                        "height": 46,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "DIVIDER",
+                    "data": {
+                        "to": {
+                            "x": 668,
+                            "y": 207
+                        },
+                        "from": {
+                            "x": 362,
+                            "y": 207
+                        },
+                        "width": 249,
+                        "height": 1,
+                        "position": {
+                            "x": 362,
+                            "y": 207
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Sign up",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 668,
+                "height": 54,
+                "position": {
+                    "x": 43,
+                    "y": 44
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        }
+    ]
+}
+]

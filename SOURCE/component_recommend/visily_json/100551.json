@@ -1,0 +1,1088 @@
+[{
+    "type": "CONTAINER",
+    "data": {
+        "width": 268,
+        "height": 306,
+        "position": {
+            "x": 631,
+            "y": 596
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Posted Mar 2022",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": 41,
+                "position": {
+                    "x": 16,
+                    "y": 265
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 236,
+                "height": 153,
+                "position": {
+                    "x": 16,
+                    "y": 18
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "\"I Hope\" / \"DAWN\"",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": null,
+                "position": {
+                    "x": 16,
+                    "y": 201
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Resistance Revival Chorus",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": 22,
+                "position": {
+                    "x": 16,
+                    "y": 179
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 268,
+        "height": 313,
+        "position": {
+            "x": 631,
+            "y": 226
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Posted Mar 2022",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": 41,
+                "position": {
+                    "x": 16,
+                    "y": 265
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "The creativity behind fanfiction",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": null,
+                "position": {
+                    "x": 16,
+                    "y": 201
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Cecilia Aragon",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": 22,
+                "position": {
+                    "x": 16,
+                    "y": 179
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 236,
+                "height": 154,
+                "position": {
+                    "x": 16,
+                    "y": 18
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 1777,
+            "y": 149
+        },
+        "from": {
+            "x": 942,
+            "y": 148
+        },
+        "width": 835,
+        "height": 1,
+        "position": {
+            "x": 942,
+            "y": 148
+        }
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "XL",
+        "text": "Topics   ",
+        "color": {
+            "type": "BLACK"
+        },
+        "width": 111,
+        "height": null,
+        "iconSize": null,
+        "position": {
+            "x": 825,
+            "y": 92
+        }
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "XL",
+        "text": "More",
+        "color": {
+            "type": "BLACK"
+        },
+        "width": 115,
+        "height": null,
+        "iconSize": null,
+        "position": {
+            "x": 1584,
+            "y": 92
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "size": "XS",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 16,
+        "height": 16,
+        "position": {
+            "x": 906,
+            "y": 110
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 268,
+        "height": 306,
+        "position": {
+            "x": 1025,
+            "y": 226
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Wajahat Ali",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": 22,
+                "position": {
+                    "x": 16,
+                    "y": 179
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 234,
+                "height": 156,
+                "position": {
+                    "x": 16,
+                    "y": 15
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Posted Mar 2022",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": 41,
+                "position": {
+                    "x": 16,
+                    "y": 265
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "How to find hope in hopeless times",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": null,
+                "position": {
+                    "x": 16,
+                    "y": 201
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "ICON",
+    "data": {
+        "size": "XS",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 16,
+        "height": 16,
+        "position": {
+            "x": 1452,
+            "y": 110
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 268,
+        "height": 306,
+        "position": {
+            "x": 1025,
+            "y": 596
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 227,
+                "height": 149,
+                "position": {
+                    "x": 23,
+                    "y": 18
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "The concept of chosen family",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": null,
+                "position": {
+                    "x": 16,
+                    "y": 201
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Diana Adams",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": 22,
+                "position": {
+                    "x": 16,
+                    "y": 179
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Posted Mar 2022",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": 41,
+                "position": {
+                    "x": 16,
+                    "y": 265
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "ICON",
+    "data": {
+        "size": "XS",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 16,
+        "height": 16,
+        "position": {
+            "x": 1196,
+            "y": 110
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 268,
+        "height": 306,
+        "position": {
+            "x": 147,
+            "y": 596
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "How to share public money fairly",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": null,
+                "position": {
+                    "x": 16,
+                    "y": 201
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Posted Mar 2022",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": 41,
+                "position": {
+                    "x": 16,
+                    "y": 265
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Maja Bosnic",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": 22,
+                "position": {
+                    "x": 16,
+                    "y": 179
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 232,
+                "height": 151,
+                "position": {
+                    "x": 18,
+                    "y": 20
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "XL",
+        "text": "Duration  ",
+        "color": {
+            "type": "BLACK"
+        },
+        "width": 115,
+        "height": null,
+        "iconSize": null,
+        "position": {
+            "x": 1354,
+            "y": 92
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 268,
+        "height": 306,
+        "position": {
+            "x": 1508,
+            "y": 596
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Posted Mar 2022",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": 41,
+                "position": {
+                    "x": 16,
+                    "y": 265
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Yuval Noah Harari",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": 22,
+                "position": {
+                    "x": 16,
+                    "y": 179
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 234,
+                "height": 149,
+                "position": {
+                    "x": 17,
+                    "y": 18
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "The war in Ukraine could change everything",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": null,
+                "position": {
+                    "x": 16,
+                    "y": 201
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1920,
+        "height": 66,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "M",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": null,
+                "height": null,
+                "iconSize": null,
+                "position": {
+                    "x": 1653,
+                    "y": 10
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "HEADER_MENU",
+            "data": {
+                "size": "XL",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 553,
+                "height": null,
+                "position": {
+                    "x": 160,
+                    "y": 2
+                }
+            },
+            "children": [
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "size": null,
+                        "text": "Watch",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "size": null,
+                        "text": "About",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "size": null,
+                        "text": "Participate",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "icon": null,
+                        "size": null,
+                        "text": "Discover",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "size": null,
+                        "text": "Attend",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "XS",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 16,
+                "height": 16,
+                "position": {
+                    "x": 1786,
+                    "y": 20
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Jack Ma",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 74,
+                "height": 22,
+                "position": {
+                    "x": 1703,
+                    "y": 17
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "XL",
+                "text": "Membership",
+                "color": {
+                    "type": "TERTIARY3"
+                },
+                "width": 0,
+                "height": null,
+                "iconSize": null,
+                "position": {
+                    "x": 735,
+                    "y": 8
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "M",
+                "text": "",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 52,
+                "height": null,
+                "position": {
+                    "x": 1816,
+                    "y": 10
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 73,
+                "height": 43,
+                "position": {
+                    "x": 45,
+                    "y": 6
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "ICON",
+    "data": {
+        "size": "XS",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 16,
+        "height": 16,
+        "position": {
+            "x": 1448,
+            "y": 110
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 268,
+        "height": 321,
+        "position": {
+            "x": 147,
+            "y": 226
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 234,
+                "height": 153,
+                "position": {
+                    "x": 16,
+                    "y": 18
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "XL",
+                "text": "How Black Mothers influence America",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": null,
+                "position": {
+                    "x": 16,
+                    "y": 201
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Posted Mar 2022",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": 41,
+                "position": {
+                    "x": 16,
+                    "y": 265
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Anna Malaika Tubbs",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": 22,
+                "position": {
+                    "x": 16,
+                    "y": 179
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "ICON",
+    "data": {
+        "size": "XS",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 16,
+        "height": 16,
+        "position": {
+            "x": 1196,
+            "y": 110
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 268,
+        "height": 306,
+        "position": {
+            "x": 1509,
+            "y": 226
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Posted Mar 2022",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": 41,
+                "position": {
+                    "x": 16,
+                    "y": 265
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Cynthia Fay Davis",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": 22,
+                "position": {
+                    "x": 16,
+                    "y": 179
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "The myth of the moon goddess",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": null,
+                "position": {
+                    "x": 16,
+                    "y": 201
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 234,
+                "height": 149,
+                "position": {
+                    "x": 16,
+                    "y": 20
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 1305,
+            "y": 122
+        },
+        "from": {
+            "x": 1304,
+            "y": 98
+        },
+        "width": 44,
+        "height": 16,
+        "position": {
+            "x": 1304,
+            "y": 98
+        }
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "XL",
+        "text": "Languages  ",
+        "color": {
+            "type": "BLACK"
+        },
+        "width": 115,
+        "height": null,
+        "iconSize": null,
+        "position": {
+            "x": 1079,
+            "y": 92
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXTBOX",
+    "data": {
+        "size": "XL",
+        "text": "Search",
+        "color": {
+            "type": "GRAY"
+        },
+        "icons": [
+            {
+                "size": null,
+                "alignment": "LEFT",
+                "useBorderColor": false
+            }
+        ],
+        "label": "Label",
+        "width": 421,
+        "height": null,
+        "position": {
+            "x": 289,
+            "y": 92
+        },
+        "labelTextSize": null
+    },
+    "children": []
+}
+]

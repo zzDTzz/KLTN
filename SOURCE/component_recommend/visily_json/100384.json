@@ -1,0 +1,161 @@
+[{
+    "type": "TEXT",
+    "data": {
+        "text": "Siba and Tom ",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 201,
+        "height": 74,
+        "position": {
+            "x": 37,
+            "y": 622
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 30,
+        "height": 30,
+        "position": {
+            "x": 331,
+            "y": 622
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Cute, adorable, and naughty",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 327,
+        "height": 60,
+        "position": {
+            "x": 53,
+            "y": 733
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 28,
+        "height": 28,
+        "position": {
+            "x": 388,
+            "y": 623
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "DANGER"
+        },
+        "width": 32,
+        "height": 32,
+        "position": {
+            "x": 272,
+            "y": 622
+        }
+    },
+    "children": []
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 416,
+        "height": 341,
+        "position": {
+            "x": 16,
+            "y": 565
+        },
+        "backgroundColor": {
+            "type": "PRIMARY"
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "HaNoi, Vietnam",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 169,
+        "height": 60,
+        "position": {
+            "x": 76,
+            "y": 682
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 445,
+        "height": 622,
+        "position": {
+            "x": 1,
+            "y": 0
+        }
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "Contact",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 153,
+        "height": 52,
+        "iconSize": null,
+        "position": {
+            "x": 147,
+            "y": 830
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 32,
+        "height": 32,
+        "position": {
+            "x": 37,
+            "y": 680
+        }
+    },
+    "children": []
+}
+]

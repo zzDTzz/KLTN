@@ -1,0 +1,285 @@
+[{
+    "type": "BUTTON",
+    "data": {
+        "icon": {
+            "alignment": "LEFT"
+        },
+        "size": "M",
+        "text": "",
+        "color": {
+            "type": "GRAY"
+        },
+        "width": 0,
+        "height": null,
+        "position": {
+            "x": 870,
+            "y": 348
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "icon": {
+            "alignment": "LEFT"
+        },
+        "size": "L",
+        "text": "",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 0,
+        "height": null,
+        "position": {
+            "x": 757.5,
+            "y": 385
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "TEXTBOX",
+    "data": {
+        "size": "XL",
+        "text": "Search maps...",
+        "color": {
+            "type": "GRAY"
+        },
+        "icons": [],
+        "label": "Label",
+        "width": 256,
+        "height": null,
+        "position": {
+            "x": 31,
+            "y": 29
+        },
+        "labelTextSize": null,
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "AVATAR",
+    "data": {
+        "size": "L",
+        "text": "A",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": null,
+        "height": null,
+        "iconSize": null,
+        "position": {
+            "x": 1364,
+            "y": 33
+        }
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "icon": {
+            "alignment": "LEFT"
+        },
+        "size": "M",
+        "text": "",
+        "color": {
+            "type": "GRAY"
+        },
+        "width": 0,
+        "height": null,
+        "position": {
+            "x": 653,
+            "y": 384
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "icon": {
+            "alignment": "LEFT"
+        },
+        "size": "XL",
+        "text": "",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 52,
+        "height": null,
+        "iconSize": null,
+        "position": {
+            "x": 287,
+            "y": 29
+        }
+    },
+    "children": []
+},
+{
+    "type": "COLLAPSED_SIDEBAR_MENU",
+    "data": {
+        "size": "XL",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 56,
+        "height": 112,
+        "position": {
+            "x": 1360,
+            "y": 759
+        }
+    },
+    "children": [
+        {
+            "type": "COLLAPSED_SIDEBAR_MENU_ITEM",
+            "data": {
+                "icon": {
+                    "size": null,
+                    "alignment": "LEFT"
+                },
+                "size": null,
+                "text": "Menu item",
+                "color": null,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "COLLAPSED_SIDEBAR_MENU_ITEM",
+            "data": {
+                "icon": {
+                    "size": null,
+                    "alignment": "LEFT"
+                },
+                "size": null,
+                "text": "Menu item",
+                "color": null,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TAG",
+    "data": {
+        "size": "XL",
+        "width": 334,
+        "height": 71,
+        "position": {
+            "x": 680,
+            "y": 19
+        }
+    },
+    "children": [
+        {
+            "type": "TAG_ITEM",
+            "data": {
+                "size": null,
+                "text": "Pharmacy",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [
+                    {
+                        "alignment": "LEFT"
+                    }
+                ],
+                "height": 71,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TAG_ITEM",
+            "data": {
+                "size": null,
+                "text": "Restaurant",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [
+                    {
+                        "alignment": "LEFT"
+                    }
+                ],
+                "height": 71,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TAG_ITEM",
+            "data": {
+                "size": null,
+                "text": "Hotel",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [
+                    {
+                        "alignment": "LEFT"
+                    }
+                ],
+                "height": 71,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TAG_ITEM",
+            "data": {
+                "size": null,
+                "text": "Gloceries",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [
+                    {
+                        "alignment": "LEFT"
+                    }
+                ],
+                "height": 71,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 1440,
+        "height": 902,
+        "position": {
+            "x": 0,
+            "y": -2
+        }
+    },
+    "children": []
+}
+]

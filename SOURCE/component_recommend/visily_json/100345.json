@@ -1,0 +1,270 @@
+[{
+    "type": "CONTAINER",
+    "data": {
+        "width": 512,
+        "height": 774,
+        "position": {
+            "x": 742,
+            "y": 198
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Input text",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [
+                    {
+                        "alignment": "RIGHT",
+                        "useBorderColor": false
+                    }
+                ],
+                "label": "Category",
+                "width": 218,
+                "position": {
+                    "x": 28,
+                    "y": 417
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Input text",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "label": "Name",
+                "width": 456,
+                "position": {
+                    "x": 28,
+                    "y": 213
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Button",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 80,
+                "height": null,
+                "position": {
+                    "x": 318,
+                    "y": 710
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "L",
+                "text": "Sub-title goes here",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 456,
+                "height": 28,
+                "position": {
+                    "x": 28,
+                    "y": 78
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Button",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 80,
+                "height": null,
+                "position": {
+                    "x": 404,
+                    "y": 710
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "CHECKBOX",
+            "data": {
+                "size": "S",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "label": "Label",
+                "width": 456,
+                "height": 52,
+                "position": {
+                    "x": 28,
+                    "y": 638
+                }
+            },
+            "children": [
+                {
+                    "type": "CHECKBOX_ITEM",
+                    "data": {
+                        "text": "Send notification to approver",
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "CHECKBOX_ITEM",
+                    "data": {
+                        "text": "Save as draft",
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "TEXTAREA",
+            "data": {
+                "icon": null,
+                "size": "M",
+                "text": "Input text",
+                "color": {
+                    "type": "GRAY"
+                },
+                "label": "Description",
+                "width": 456,
+                "height": 94,
+                "position": {
+                    "x": 28,
+                    "y": 504
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Input text",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "label": "Merchant",
+                "width": 218,
+                "position": {
+                    "x": 28,
+                    "y": 126
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Input text",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "label": "Location",
+                "width": 218,
+                "position": {
+                    "x": 266,
+                    "y": 126
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Input text",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [
+                    {
+                        "alignment": "RIGHT",
+                        "useBorderColor": false
+                    }
+                ],
+                "label": "SubCategory",
+                "width": 218,
+                "position": {
+                    "x": 266,
+                    "y": 417
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Input text",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [
+                    {
+                        "alignment": "RIGHT",
+                        "useBorderColor": false
+                    }
+                ],
+                "label": "Amount",
+                "width": 456,
+                "position": {
+                    "x": 28,
+                    "y": 330
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Create a new expense",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 456,
+                "height": 50,
+                "position": {
+                    "x": 28,
+                    "y": 24
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        }
+    ]
+}
+]

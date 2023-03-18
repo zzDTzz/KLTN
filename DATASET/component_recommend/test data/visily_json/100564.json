@@ -1,0 +1,533 @@
+[{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1920,
+        "height": 66,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "M",
+                "text": "",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 52,
+                "height": null,
+                "position": {
+                    "x": 1816,
+                    "y": 10
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "M",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": null,
+                "height": null,
+                "iconSize": null,
+                "position": {
+                    "x": 1653,
+                    "y": 10
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Jack Ma",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 74,
+                "height": 22,
+                "position": {
+                    "x": 1703,
+                    "y": 17
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "XS",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 16,
+                "height": 16,
+                "position": {
+                    "x": 1786,
+                    "y": 20
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 73,
+                "height": 43,
+                "position": {
+                    "x": 45,
+                    "y": 6
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "XL",
+                "text": "Membership",
+                "color": {
+                    "type": "TERTIARY3"
+                },
+                "width": 0,
+                "height": null,
+                "iconSize": null,
+                "position": {
+                    "x": 741,
+                    "y": 7
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "HEADER_MENU",
+            "data": {
+                "size": "XL",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 553,
+                "height": null,
+                "position": {
+                    "x": 160,
+                    "y": 2
+                }
+            },
+            "children": [
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "size": null,
+                        "text": "Participate",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "size": null,
+                        "text": "Watch",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "icon": null,
+                        "size": null,
+                        "text": "Discover",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "size": null,
+                        "text": "About",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "size": null,
+                        "text": "Attend",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "size": "M",
+        "text": "4.5/5",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 35,
+        "position": {
+            "x": 2188,
+            "y": 647
+        },
+        "textAlign": "LEFT"
+    },
+    "children": []
+},
+{
+    "type": "OVAL",
+    "data": {
+        "width": 182,
+        "height": 176,
+        "position": {
+            "x": 100,
+            "y": 904
+        },
+        "backgroundColor": {
+            "type": "TERTIARY3"
+        }
+    },
+    "children": []
+},
+{
+    "type": "OVAL",
+    "data": {
+        "width": 91,
+        "height": 88,
+        "position": {
+            "x": 1142,
+            "y": 992
+        },
+        "backgroundColor": {
+            "type": "TERTIARY3"
+        }
+    },
+    "children": []
+},
+{
+    "type": "OVAL",
+    "data": {
+        "width": 51,
+        "height": 48,
+        "position": {
+            "x": 306,
+            "y": 904
+        },
+        "backgroundColor": {
+            "type": "TERTIARY3"
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Join today,\ncancel anytime*",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 768,
+            "y": 215
+        },
+        "textAlign": "CENTER",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "size": "M",
+        "color": {
+            "type": "WARNING"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 2164,
+            "y": 646
+        }
+    },
+    "children": []
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 588,
+        "height": 85,
+        "position": {
+            "x": 998,
+            "y": 390
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "size": "S",
+        "text": "$230",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "height": 50,
+        "position": {
+            "x": 2165,
+            "y": 520
+        },
+        "textAlign": "LEFT"
+    },
+    "children": []
+},
+{
+    "type": "OVAL",
+    "data": {
+        "width": 200,
+        "height": 200,
+        "position": {
+            "x": 82,
+            "y": 205
+        },
+        "backgroundColor": {
+            "type": "TERTIARY3"
+        }
+    },
+    "children": []
+},
+{
+    "type": "OVAL",
+    "data": {
+        "width": 118,
+        "height": 115,
+        "position": {
+            "x": 1142,
+            "y": 140
+        },
+        "backgroundColor": {
+            "type": "TERTIARY3"
+        }
+    },
+    "children": []
+},
+{
+    "type": "OVAL",
+    "data": {
+        "width": 318,
+        "height": 315,
+        "position": {
+            "x": 1591,
+            "y": 589
+        },
+        "backgroundColor": {
+            "type": "TERTIARY3"
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "We are grateful for your contribution to help our mission.\nAll TED Memberships are tax-deductible and auto-renew on a recurring basis.",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 393,
+            "y": 504
+        },
+        "textAlign": "CENTER",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "XL",
+        "text": "                          $5                            ",
+        "color": {
+            "type": "BLACK"
+        },
+        "width": 0,
+        "height": null,
+        "iconSize": null,
+        "position": {
+            "x": 573,
+            "y": 709
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 215,
+        "height": 215,
+        "position": {
+            "x": 1545,
+            "y": 175
+        }
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "XL",
+        "text": "$ Increase your support",
+        "color": {
+            "type": "GRAY"
+        },
+        "width": 0,
+        "height": null,
+        "iconSize": null,
+        "position": {
+            "x": 1064,
+            "y": 709
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Monthly",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 616,
+            "y": 419
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Yearly",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 1248,
+            "y": 419
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "XL",
+        "text": "                   Contribute $5 monthly                        ",
+        "color": {
+            "type": "CUSTOM"
+        },
+        "width": 0,
+        "height": null,
+        "iconSize": null,
+        "position": {
+            "x": 773,
+            "y": 835
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 1211,
+        "height": 587,
+        "position": {
+            "x": 375,
+            "y": 390
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 215,
+        "height": 215,
+        "position": {
+            "x": 100,
+            "y": 562
+        }
+    },
+    "children": []
+}
+]

@@ -1,0 +1,347 @@
+[{
+    "type": "CONTAINER",
+    "data": {
+        "width": 775,
+        "height": 863,
+        "position": {
+            "x": 332,
+            "y": 37
+        },
+        "backgroundColor": {
+            "type": "CUSTOM"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Email",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 64,
+                "height": 1,
+                "position": {
+                    "x": 24,
+                    "y": 311
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTAREA",
+            "data": {
+                "icon": null,
+                "size": "M",
+                "text": "Add notes for our delivery staff",
+                "color": {
+                    "type": "GRAY"
+                },
+                "label": "Special instructions",
+                "width": 512,
+                "height": 96,
+                "position": {
+                    "x": 24,
+                    "y": 410
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "example@domain.com",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [
+                    {
+                        "alignment": "LEFT",
+                        "useBorderColor": false
+                    }
+                ],
+                "label": "Email",
+                "width": 440,
+                "position": {
+                    "x": 96,
+                    "y": 304
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Last name",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "label": "Label",
+                "width": 227,
+                "position": {
+                    "x": 309,
+                    "y": 96
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "CHECKBOX",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "label": "Label",
+                "width": 512,
+                "height": 22,
+                "position": {
+                    "x": 24,
+                    "y": 364
+                }
+            },
+            "children": [
+                {
+                    "type": "CHECKBOX_ITEM",
+                    "data": {
+                        "text": "Make this my default address",
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "State",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [
+                    {
+                        "alignment": "RIGHT",
+                        "useBorderColor": false
+                    }
+                ],
+                "label": "Label",
+                "width": 116,
+                "position": {
+                    "x": 297,
+                    "y": 200
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Shipping information",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 512,
+                "height": 48,
+                "position": {
+                    "x": 24,
+                    "y": 24
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "First name",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "label": "Label",
+                "width": 205,
+                "position": {
+                    "x": 96,
+                    "y": 96
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Address",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 64,
+                "height": 6,
+                "position": {
+                    "x": 24,
+                    "y": 155
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Continue",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 96,
+                "height": null,
+                "position": {
+                    "x": 440,
+                    "y": 554
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Street",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "label": "Label",
+                "width": 440,
+                "position": {
+                    "x": 96,
+                    "y": 148
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Phone",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 64,
+                "height": 5,
+                "position": {
+                    "x": 24,
+                    "y": 259
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Go back",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 90,
+                "height": null,
+                "position": {
+                    "x": 342,
+                    "y": 554
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Zip",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "label": "Label",
+                "width": 116,
+                "position": {
+                    "x": 420,
+                    "y": 200
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "City",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "label": "Label",
+                "width": 193,
+                "position": {
+                    "x": 96,
+                    "y": 200
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "123-456-7890",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [
+                    {
+                        "alignment": "LEFT",
+                        "useBorderColor": false
+                    }
+                ],
+                "label": "Phone",
+                "width": 440,
+                "position": {
+                    "x": 96,
+                    "y": 252
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Name",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 64,
+                "height": 13,
+                "position": {
+                    "x": 24,
+                    "y": 103
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        }
+    ]
+}
+]

@@ -1,0 +1,511 @@
+[{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1212,
+        "height": 888,
+        "position": {
+            "x": 114,
+            "y": 142
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Reprehenderit culpa culp",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 537,
+                "height": 56,
+                "position": {
+                    "x": 553,
+                    "y": 84
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "M",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 300,
+                "height": 300,
+                "iconSize": null,
+                "position": {
+                    "x": 115,
+                    "y": 84
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Ad consequat incididunt enim amet veniam minim exercitation ullamco anim enim quis veniam reprehenderit non deserunt laborum est. Officia adipisicing dolor incididunt nulla ad sint nostrud sint tempor. Anim occaecat mollit sit tempor tempor incididunt adipisicing anim ut tempor laboris sunt adipisicing sunt reprehenderit nostrud minim. Velit adipisicing enim ullamco veniam laboris aute irure nisi cillum sit consectetur.Non cupidatat velit duis esse commodo voluptate in ullamco excepteur tempor nulla cupidatat non consectetur cillum est consectetur id. Veniam anim veniam Lorem ex est ullamco consectetur in mollit velit consequat. Consequat deserunt aliqua commodo amet ea laboris fugiat veni",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 537,
+                "height": 198,
+                "position": {
+                    "x": 553,
+                    "y": 186
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "GROUP",
+            "data": {
+                "width": 1185,
+                "height": 399,
+                "position": {
+                    "x": 13.5,
+                    "y": 458
+                }
+            },
+            "children": [
+                {
+                    "type": "CONTAINER",
+                    "data": {
+                        "width": 361,
+                        "height": 324,
+                        "position": {
+                            "x": 0,
+                            "y": 75
+                        },
+                        "backgroundColor": {
+                            "type": "WHITE"
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "RATING",
+                            "data": {
+                                "size": "M",
+                                "color": {
+                                    "type": "CUSTOM"
+                                },
+                                "shape": "REGULAR",
+                                "width": 100,
+                                "position": {
+                                    "x": 247,
+                                    "y": 286
+                                }
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "IMAGE",
+                            "data": {
+                                "width": 361,
+                                "height": 267,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "text": "Dolor ut qui qui",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": null,
+                                "height": null,
+                                "position": {
+                                    "x": 12,
+                                    "y": 278
+                                },
+                                "textAlign": "LEFT",
+                                "fontWeight": "700"
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "CONTAINER",
+                    "data": {
+                        "width": 361,
+                        "height": 324,
+                        "position": {
+                            "x": 412,
+                            "y": 75
+                        },
+                        "backgroundColor": {
+                            "type": "WHITE"
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "text": "Dolor ut qui qui",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": null,
+                                "height": null,
+                                "position": {
+                                    "x": 12,
+                                    "y": 278
+                                },
+                                "textAlign": "LEFT",
+                                "fontWeight": "700"
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "RATING",
+                            "data": {
+                                "size": "M",
+                                "color": {
+                                    "type": "CUSTOM"
+                                },
+                                "shape": "REGULAR",
+                                "width": 100,
+                                "position": {
+                                    "x": 247,
+                                    "y": 286
+                                }
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "IMAGE",
+                            "data": {
+                                "width": 361,
+                                "height": 267,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "CONTAINER",
+                    "data": {
+                        "width": 361,
+                        "height": 324,
+                        "position": {
+                            "x": 824,
+                            "y": 75
+                        },
+                        "backgroundColor": {
+                            "type": "WHITE"
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "IMAGE",
+                            "data": {
+                                "width": 361,
+                                "height": 267,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "RATING",
+                            "data": {
+                                "size": "M",
+                                "color": {
+                                    "type": "CUSTOM"
+                                },
+                                "shape": "REGULAR",
+                                "width": 100,
+                                "position": {
+                                    "x": 247,
+                                    "y": 286
+                                }
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "CONTAINER",
+                            "data": {
+                                "width": 32,
+                                "height": 32,
+                                "position": {
+                                    "x": 315.5,
+                                    "y": 146
+                                },
+                                "backgroundColor": {
+                                    "type": "WHITE"
+                                }
+                            },
+                            "children": [
+                                {
+                                    "type": "BUTTON",
+                                    "data": {
+                                        "icon": {
+                                            "alignment": "LEFT"
+                                        },
+                                        "size": "S",
+                                        "text": "",
+                                        "color": {
+                                            "type": "BLACK"
+                                        },
+                                        "width": 32,
+                                        "height": null,
+                                        "iconSize": null,
+                                        "position": {
+                                            "x": 0,
+                                            "y": 0
+                                        },
+                                        "backgroundColor": null
+                                    },
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "text": "Dolor ut qui qui",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": null,
+                                "height": null,
+                                "position": {
+                                    "x": 12,
+                                    "y": 278
+                                },
+                                "textAlign": "LEFT",
+                                "fontWeight": "700"
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "text": "Works",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 382,
+                        "height": 56,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": "700"
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1440,
+        "height": 56,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1304,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Search...",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [
+                    {
+                        "alignment": "LEFT",
+                        "useBorderColor": false
+                    }
+                ],
+                "width": 256,
+                "height": null,
+                "position": {
+                    "x": 992,
+                    "y": 10
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "M",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1384,
+                    "y": 10
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 96,
+                "height": 36,
+                "position": {
+                    "x": 20,
+                    "y": 10
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1344,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "HEADER_MENU",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 309,
+                "height": null,
+                "position": {
+                    "x": 140,
+                    "y": 2
+                }
+            },
+            "children": [
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Settings",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "icon": null,
+                        "text": "Browse",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Projects",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Home",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1264,
+                    "y": 16
+                }
+            },
+            "children": []
+        }
+    ]
+}
+]

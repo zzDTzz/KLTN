@@ -1,0 +1,408 @@
+[{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1003,
+        "height": 900,
+        "position": {
+            "x": 437,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "GROUP",
+            "data": {
+                "width": 482,
+                "height": 623,
+                "position": {
+                    "x": 260.5,
+                    "y": 138.5
+                }
+            },
+            "children": [
+                {
+                    "type": "TEXTBOX",
+                    "data": {
+                        "size": "M",
+                        "text": "Enter at least 8+ characters ",
+                        "color": {
+                            "type": "GRAY"
+                        },
+                        "icons": [
+                            {
+                                "alignment": "RIGHT",
+                                "useBorderColor": false
+                            }
+                        ],
+                        "label": "Confirm Password",
+                        "width": 482,
+                        "position": {
+                            "x": 0,
+                            "y": 306
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXTBOX",
+                    "data": {
+                        "size": "M",
+                        "text": "Enter at least 8+ characters ",
+                        "color": {
+                            "type": "GRAY"
+                        },
+                        "icons": [
+                            {
+                                "alignment": "RIGHT",
+                                "useBorderColor": false
+                            }
+                        ],
+                        "label": "Password",
+                        "width": 482,
+                        "position": {
+                            "x": 0,
+                            "y": 227
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXTBOX",
+                    "data": {
+                        "size": "M",
+                        "text": "example.email@gmail.com",
+                        "color": {
+                            "type": "GRAY"
+                        },
+                        "icons": [],
+                        "label": "Email",
+                        "width": 482,
+                        "position": {
+                            "x": 0,
+                            "y": 148
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "XS",
+                        "text": "Already have an account? Log in",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 130,
+                            "y": 491
+                        },
+                        "textAlign": "CENTER",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                },
+                {
+                    "type": "GROUP",
+                    "data": {
+                        "width": 441,
+                        "height": 22,
+                        "position": {
+                            "x": 20.5,
+                            "y": 385
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "M",
+                                "text": "By signing up, I agree with the Terms of Use & Privacy Policy",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "position": {
+                                    "x": 36,
+                                    "y": 0
+                                },
+                                "textAlign": "LEFT",
+                                "fontWeight": ""
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "CHECKBOX",
+                            "data": {
+                                "size": "S",
+                                "color": {
+                                    "type": "PRIMARY"
+                                },
+                                "label": "Label",
+                                "width": null,
+                                "height": null,
+                                "position": {
+                                    "x": 0,
+                                    "y": 1
+                                }
+                            },
+                            "children": [
+                                {
+                                    "type": "CHECKBOX_ITEM",
+                                    "data": {
+                                        "text": "",
+                                        "color": {
+                                            "type": "PRIMARY"
+                                        },
+                                        "position": {
+                                            "x": 0,
+                                            "y": 0
+                                        }
+                                    },
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "GROUP",
+                    "data": {
+                        "width": 176,
+                        "height": 48,
+                        "position": {
+                            "x": 153,
+                            "y": 575
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "BUTTON",
+                            "data": {
+                                "icon": {
+                                    "alignment": "LEFT"
+                                },
+                                "size": "L",
+                                "text": "",
+                                "color": {
+                                    "type": "CUSTOM"
+                                },
+                                "width": 48,
+                                "height": 48,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "backgroundColor": null
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "BUTTON",
+                            "data": {
+                                "icon": {
+                                    "alignment": "LEFT"
+                                },
+                                "size": "L",
+                                "text": "",
+                                "color": {
+                                    "type": "CUSTOM"
+                                },
+                                "width": 48,
+                                "height": 48,
+                                "position": {
+                                    "x": 64,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "BUTTON",
+                            "data": {
+                                "icon": {
+                                    "alignment": "LEFT"
+                                },
+                                "size": "L",
+                                "text": "",
+                                "color": {
+                                    "type": "INFO"
+                                },
+                                "width": 48,
+                                "height": 48,
+                                "iconSize": null,
+                                "position": {
+                                    "x": 128,
+                                    "y": 0
+                                },
+                                "backgroundColor": null
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "TEXTBOX",
+                    "data": {
+                        "size": "M",
+                        "text": "Enter your username",
+                        "color": {
+                            "type": "GRAY"
+                        },
+                        "icons": [],
+                        "label": "Username",
+                        "width": 482,
+                        "position": {
+                            "x": 0,
+                            "y": 69
+                        },
+                        "labelTextSize": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "BUTTON",
+                    "data": {
+                        "size": "L",
+                        "text": "Sign up",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": 482,
+                        "height": null,
+                        "position": {
+                            "x": 0,
+                            "y": 427
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "GROUP",
+                    "data": {
+                        "width": 482,
+                        "height": 22,
+                        "position": {
+                            "x": 0,
+                            "y": 533
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "DIVIDER",
+                            "data": {
+                                "to": {
+                                    "x": 482,
+                                    "y": 11
+                                },
+                                "from": {
+                                    "x": 263,
+                                    "y": 11
+                                },
+                                "width": 249,
+                                "height": 1,
+                                "position": {
+                                    "x": 263,
+                                    "y": 11
+                                }
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "M",
+                                "text": "OR",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": null,
+                                "height": null,
+                                "position": {
+                                    "x": 231,
+                                    "y": 0
+                                },
+                                "textAlign": "LEFT"
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "DIVIDER",
+                            "data": {
+                                "to": {
+                                    "x": 219,
+                                    "y": 11
+                                },
+                                "from": {
+                                    "x": 0,
+                                    "y": 11
+                                },
+                                "width": 249,
+                                "height": 1,
+                                "position": {
+                                    "x": 0,
+                                    "y": 11
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Sign Up",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 182,
+                            "y": 0
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": "700"
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "size": "L",
+        "text": "Business Name",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 437,
+        "height": 56,
+        "position": {
+            "x": 0,
+            "y": 34
+        },
+        "textAlign": "CENTER",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 437,
+        "height": 900,
+        "position": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    "children": []
+}
+]

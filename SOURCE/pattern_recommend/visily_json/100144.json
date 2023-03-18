@@ -1,0 +1,169 @@
+[{
+    "type": "BUTTON",
+    "data": {
+        "size": "XL",
+        "text": "CALCULATE SLEEP TIMe",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 0,
+        "height": null,
+        "iconSize": null,
+        "position": {
+            "x": 603,
+            "y": 450
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": " sleepyti.me",
+        "color": {
+            "type": "SECONDARY"
+        },
+        "width": 424,
+        "height": null,
+        "position": {
+            "x": 508,
+            "y": 82
+        },
+        "textAlign": "CENTER",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "FEATURED ON",
+        "color": {
+            "type": "SECONDARY"
+        },
+        "width": 410,
+        "height": 60,
+        "position": {
+            "x": 515,
+            "y": 606
+        },
+        "textAlign": "CENTER",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 288,
+        "height": 151,
+        "position": {
+            "x": 575,
+            "y": 695
+        }
+    },
+    "children": []
+},
+{
+    "type": "DROPDOWN_BUTTON",
+    "data": {
+        "icon": null,
+        "size": "XL",
+        "text": "Minutes",
+        "color": {
+            "type": "GRAY"
+        },
+        "label": "Label",
+        "width": 142,
+        "height": null,
+        "position": {
+            "x": 652,
+            "y": 320
+        },
+        "labelTextSize": null
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 250,
+        "height": 250,
+        "position": {
+            "x": 245,
+            "y": 646
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 288,
+        "height": 72,
+        "position": {
+            "x": 932,
+            "y": 735
+        }
+    },
+    "children": []
+},
+{
+    "type": "DROPDOWN_BUTTON",
+    "data": {
+        "icon": null,
+        "size": "XL",
+        "text": "AM",
+        "color": {
+            "type": "GRAY"
+        },
+        "label": "Label",
+        "width": 143,
+        "height": null,
+        "position": {
+            "x": 844,
+            "y": 320
+        },
+        "labelTextSize": null
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "I have to wake up at:",
+        "color": {
+            "type": "SECONDARY"
+        },
+        "width": 424,
+        "height": 56,
+        "position": {
+            "x": 508,
+            "y": 201
+        },
+        "textAlign": "CENTER",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "DROPDOWN_BUTTON",
+    "data": {
+        "icon": null,
+        "size": "XL",
+        "text": "Hours",
+        "color": {
+            "type": "GRAY"
+        },
+        "label": "Label",
+        "width": 135,
+        "height": null,
+        "position": {
+            "x": 440,
+            "y": 320
+        },
+        "labelTextSize": null
+    },
+    "children": []
+}
+]

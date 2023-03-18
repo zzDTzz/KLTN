@@ -1,0 +1,277 @@
+[{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1046,
+        "height": 556,
+        "position": {
+            "x": 173,
+            "y": 123
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "L",
+                "text": "",
+                "color": {
+                    "type": "CUSTOM"
+                },
+                "width": 68,
+                "height": 67,
+                "position": {
+                    "x": 289,
+                    "y": 102
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Copy",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 99,
+                "height": 55,
+                "position": {
+                    "x": 515,
+                    "y": 266
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "L",
+                "text": "",
+                "color": {
+                    "type": "BLACK"
+                },
+                "width": 68,
+                "height": 67,
+                "position": {
+                    "x": 44,
+                    "y": 102
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Share",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 558,
+                "height": 55,
+                "position": {
+                    "x": 19,
+                    "y": 22
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "WhatsApp",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 127,
+                "height": 31,
+                "position": {
+                    "x": 135,
+                    "y": 175
+                },
+                "textAlign": "CENTER"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Email",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 116,
+                "height": 31,
+                "position": {
+                    "x": 498,
+                    "y": 175
+                },
+                "textAlign": "CENTER"
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 38,
+                "height": 38,
+                "position": {
+                    "x": 577,
+                    "y": 22
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "https://www.example.com/lorem_ipsu",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "label": "Share this link",
+                "width": 487,
+                "height": 90,
+                "position": {
+                    "x": 19,
+                    "y": 231
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Facebook",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 116,
+                "height": 31,
+                "position": {
+                    "x": 264,
+                    "y": 175
+                },
+                "textAlign": "CENTER"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "L",
+                "text": "",
+                "color": {
+                    "type": "CUSTOM"
+                },
+                "width": 68,
+                "height": 67,
+                "position": {
+                    "x": 165,
+                    "y": 102
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Embed",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 116,
+                "height": 31,
+                "position": {
+                    "x": 19,
+                    "y": 175
+                },
+                "textAlign": "CENTER"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "L",
+                "text": "",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 68,
+                "height": 67,
+                "position": {
+                    "x": 523,
+                    "y": 102
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Twitter",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 116,
+                "height": 31,
+                "position": {
+                    "x": 380,
+                    "y": 175
+                },
+                "textAlign": "CENTER"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "L",
+                "text": "",
+                "color": {
+                    "type": "CUSTOM"
+                },
+                "width": 68,
+                "height": 67,
+                "position": {
+                    "x": 405,
+                    "y": 102
+                }
+            },
+            "children": []
+        }
+    ]
+}
+]

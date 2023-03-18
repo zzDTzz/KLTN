@@ -1,0 +1,124 @@
+[{
+    "type": "CONTAINER",
+    "data": {
+        "width": 432,
+        "height": 323,
+        "position": {
+            "x": 504,
+            "y": 288
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXTAREA",
+            "data": {
+                "icon": null,
+                "size": "M",
+                "text": "Enter item description",
+                "color": {
+                    "type": "GRAY"
+                },
+                "label": "Description",
+                "width": 384,
+                "height": 96,
+                "position": {
+                    "x": 24,
+                    "y": 151
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Cancel",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 74,
+                "height": null,
+                "position": {
+                    "x": 254,
+                    "y": 263
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 384,
+                    "y": 24
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Create new item",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 359,
+                "height": 36,
+                "position": {
+                    "x": 24,
+                    "y": 24
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Create",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 72,
+                "height": null,
+                "position": {
+                    "x": 336,
+                    "y": 263
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Enter item name",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "icons": [],
+                "label": "Name",
+                "width": 384,
+                "position": {
+                    "x": 24,
+                    "y": 76
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        }
+    ]
+}
+]

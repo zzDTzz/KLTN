@@ -1,0 +1,235 @@
+[{
+    "type": "TEXT",
+    "data": {
+        "text": "Gallery",
+        "color": {
+            "type": "TERTIARY2"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 554,
+            "y": 115
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 175,
+        "height": 381,
+        "position": {
+            "x": 1240,
+            "y": 704
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 409,
+        "height": 284,
+        "position": {
+            "x": 630,
+            "y": 209
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 173,
+        "height": 174,
+        "position": {
+            "x": 1240,
+            "y": 510
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "About",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 858,
+            "y": 115
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 288,
+        "height": 216,
+        "position": {
+            "x": 630,
+            "y": 815
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Home",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 410,
+            "y": 115
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 357,
+        "height": 284,
+        "position": {
+            "x": 1056,
+            "y": 209
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Blogs",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 719,
+            "y": 115
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Iris space ",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 569,
+            "y": 30
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 288,
+        "height": 288,
+        "position": {
+            "x": 630,
+            "y": 510
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 288,
+        "height": 299,
+        "position": {
+            "x": 20,
+            "y": 619
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 288,
+        "height": 407,
+        "position": {
+            "x": 935,
+            "y": 510
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 288,
+        "height": 395,
+        "position": {
+            "x": 20,
+            "y": 209
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 288,
+        "height": 192,
+        "position": {
+            "x": 325,
+            "y": 209
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 288,
+        "height": 384,
+        "position": {
+            "x": 325,
+            "y": 619
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 288,
+        "height": 186,
+        "position": {
+            "x": 325,
+            "y": 418
+        }
+    },
+    "children": []
+}
+]

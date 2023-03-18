@@ -1,0 +1,113 @@
+[{
+    "type": "IMAGE",
+    "data": {
+        "width": 1453,
+        "height": 900,
+        "position": {
+            "x": -13,
+            "y": 0
+        }
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "icon": {
+            "alignment": "LEFT"
+        },
+        "size": "M",
+        "text": "",
+        "color": {
+            "type": "GRAY"
+        },
+        "width": 0,
+        "height": null,
+        "position": {
+            "x": 297,
+            "y": 296
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1063,
+        "height": 451,
+        "position": {
+            "x": 365,
+            "y": 224
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "L",
+                "text": "",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 0,
+                "height": null,
+                "position": {
+                    "x": 36.5,
+                    "y": 73
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "M",
+                "text": "",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 0,
+                "height": null,
+                "position": {
+                    "x": 149,
+                    "y": 36
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "M",
+                "text": "",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 0,
+                "height": null,
+                "position": {
+                    "x": 137,
+                    "y": 139
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        }
+    ]
+}
+]

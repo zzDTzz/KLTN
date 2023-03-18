@@ -1,0 +1,513 @@
+[{
+    "type": "TEXT",
+    "data": {
+        "text": "Reviews (9)",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 16,
+            "y": 749
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 78,
+        "height": 69,
+        "position": {
+            "x": 104,
+            "y": 262
+        },
+        "backgroundColor": {
+            "type": "TERTIARY1"
+        }
+    },
+    "children": [
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 69,
+                "height": 69,
+                "position": {
+                    "x": 5,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 78,
+        "height": 69,
+        "position": {
+            "x": 281,
+            "y": 262
+        },
+        "backgroundColor": {
+            "type": "DANGER"
+        }
+    },
+    "children": [
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 69,
+                "height": 69,
+                "position": {
+                    "x": 5,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "RATING",
+    "data": {
+        "size": "M",
+        "color": {
+            "type": "CUSTOM"
+        },
+        "shape": "REGULAR",
+        "width": 20,
+        "height": 20,
+        "position": {
+            "x": 317,
+            "y": 410
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "size": "L",
+        "text": "2",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 59,
+            "y": 496
+        },
+        "textAlign": "CENTER",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 375,
+        "height": 84,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 16,
+                    "y": 41
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Thit bo",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 46,
+                    "y": 41
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 375,
+        "height": 77,
+        "position": {
+            "x": 0,
+            "y": 781
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 375,
+                    "y": 5
+                },
+                "from": {
+                    "x": 0,
+                    "y": 4
+                },
+                "position": {
+                    "x": 0,
+                    "y": 4
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "L",
+                "text": "Add to Cart",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 343,
+                "height": null,
+                "position": {
+                    "x": 16,
+                    "y": 21
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 375,
+        "height": 858,
+        "position": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "size": "S",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 345,
+            "y": 753
+        }
+    },
+    "children": []
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 359,
+            "y": 735
+        },
+        "from": {
+            "x": 16,
+            "y": 734
+        },
+        "position": {
+            "x": 16,
+            "y": 734
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "$20",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 326,
+            "y": 495
+        },
+        "textAlign": "RIGHT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "size": "M",
+        "text": "$10",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 16,
+            "y": 351
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Thit bo",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 16,
+            "y": 397
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Tuoi ngon nguyen chat",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 180,
+        "height": 18,
+        "position": {
+            "x": 16,
+            "y": 425
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Quantity",
+        "color": {
+            "type": "CUSTOM"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 13,
+            "y": 453
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 343,
+        "height": 168,
+        "position": {
+            "x": 16,
+            "y": 84
+        },
+        "backgroundColor": {
+            "type": "TERTIARY3"
+        }
+    },
+    "children": [
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 343,
+                "height": 168,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "icon": {
+            "alignment": "LEFT"
+        },
+        "size": "M",
+        "text": "",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 36,
+        "height": null,
+        "position": {
+            "x": 78,
+            "y": 491
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Total",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 281,
+            "y": 500
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "4.5",
+        "color": {
+            "type": "CUSTOM"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 341,
+            "y": 410
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "icon": {
+            "alignment": "LEFT"
+        },
+        "size": "M",
+        "text": "",
+        "color": {
+            "type": "CUSTOM"
+        },
+        "width": 36,
+        "height": null,
+        "position": {
+            "x": 13,
+            "y": 491
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 78,
+        "height": 69,
+        "position": {
+            "x": 193,
+            "y": 262
+        },
+        "backgroundColor": {
+            "type": "TERTIARY3"
+        }
+    },
+    "children": [
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 69,
+                "height": 69,
+                "position": {
+                    "x": 5,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 78,
+        "height": 69,
+        "position": {
+            "x": 16,
+            "y": 262
+        },
+        "backgroundColor": {
+            "type": "SECONDARY"
+        }
+    },
+    "children": [
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 69,
+                "height": 69,
+                "position": {
+                    "x": 5,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+}
+]

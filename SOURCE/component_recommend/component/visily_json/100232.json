@@ -1,0 +1,1195 @@
+[{
+    "type": "CONTAINER",
+    "data": {
+        "width": 860,
+        "height": 138,
+        "position": {
+            "x": 284,
+            "y": 718
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Let us customize your quotation",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 231,
+                "height": 22,
+                "position": {
+                    "x": 36,
+                    "y": 80
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "M",
+                "text": "Contact Sales",
+                "color": {
+                    "type": "SECONDARY"
+                },
+                "width": 106,
+                "height": null,
+                "position": {
+                    "x": 681,
+                    "y": 51
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Large organization?",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 231,
+                "height": 36,
+                "position": {
+                    "x": 36,
+                    "y": 36
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "HEADER_MENU",
+    "data": {
+        "size": "M",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 1128,
+        "height": 36,
+        "position": {
+            "x": 284,
+            "y": 166
+        }
+    },
+    "children": [
+        {
+            "type": "HEADER_MENU_ITEM",
+            "data": {
+                "text": "Security",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "HEADER_MENU_ITEM",
+            "data": {
+                "text": "Billings & Plans",
+                "color": null,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "HEADER_MENU_ITEM",
+            "data": {
+                "text": "Account",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXTBOX",
+    "data": {
+        "size": "M",
+        "text": "Search...",
+        "color": {
+            "type": "GRAY"
+        },
+        "icons": [
+            {
+                "alignment": "LEFT",
+                "useBorderColor": false
+            }
+        ],
+        "label": "Label",
+        "width": 241,
+        "height": null,
+        "position": {
+            "x": 284,
+            "y": 18
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "size": "M",
+        "text": "Organizational settings",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 1128,
+        "height": 48,
+        "position": {
+            "x": 284,
+            "y": 110
+        }
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "icon": {
+            "alignment": "LEFT"
+        },
+        "size": "M",
+        "text": "Create new project",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 175,
+        "height": null,
+        "position": {
+            "x": 1143,
+            "y": 18
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "size": "M",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "position": {
+            "x": 1346,
+            "y": 24
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "size": "M",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "position": {
+            "x": 1388,
+            "y": 24
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "size": "M",
+        "text": "See what your team's been using the most and choose a suitable subscription plan with User Analytics",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 1128,
+        "height": 22,
+        "position": {
+            "x": 284,
+            "y": 888
+        },
+        "textAlign": "LEFT"
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 256,
+        "height": 938,
+        "position": {
+            "x": 6,
+            "y": 5
+        },
+        "backgroundColor": {
+            "type": "CUSTOM"
+        }
+    },
+    "children": [
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 242,
+                    "y": 163
+                },
+                "from": {
+                    "x": 14,
+                    "y": 162
+                },
+                "width": 316,
+                "position": {
+                    "x": 14,
+                    "y": 162
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "SIDEBAR_MENU",
+            "data": {
+                "size": "L",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 228,
+                "height": 96,
+                "position": {
+                    "x": 14,
+                    "y": 56
+                }
+            },
+            "children": [
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Notifications",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Projects",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "XS",
+                "text": "View profile",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 112,
+                "height": 18,
+                "position": {
+                    "x": 82,
+                    "y": 896
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 208,
+                    "y": 880
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "SIDEBAR_MENU",
+            "data": {
+                "size": "L",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 228,
+                "height": 240,
+                "position": {
+                    "x": 14,
+                    "y": 173
+                }
+            },
+            "children": [
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Teams",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Configurations",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "text": "Subscriptions",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "text": "Integrations",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Settings",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 184,
+                "height": 33,
+                "position": {
+                    "x": 24,
+                    "y": 10
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "L",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 24,
+                    "y": 870
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "L",
+                "text": "Amanda",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 112,
+                "height": 26,
+                "position": {
+                    "x": 82,
+                    "y": 870
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 860,
+        "height": 394,
+        "position": {
+            "x": 284,
+            "y": 248
+        },
+        "backgroundColor": {
+            "type": "TRANSPARENT"
+        }
+    },
+    "children": [
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 245,
+                "height": 350,
+                "position": {
+                    "x": 0,
+                    "y": 22
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Features & Benefits",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 109,
+                        "height": null,
+                        "position": {
+                            "x": 54,
+                            "y": 202
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "size": "S",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 28,
+                            "y": 232
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "For personal use",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 189,
+                        "height": 20,
+                        "position": {
+                            "x": 28,
+                            "y": 78
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Features & Benefits",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 109,
+                        "height": null,
+                        "position": {
+                            "x": 54,
+                            "y": 230
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "size": "S",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 28,
+                            "y": 204
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "BUTTON",
+                    "data": {
+                        "size": "L",
+                        "text": "View current plan",
+                        "color": {
+                            "type": "GRAY"
+                        },
+                        "width": 189,
+                        "height": null,
+                        "position": {
+                            "x": 28,
+                            "y": 278
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Basic",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 189,
+                        "height": 36,
+                        "position": {
+                            "x": 28,
+                            "y": 28
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Free",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 68,
+                        "height": null,
+                        "position": {
+                            "x": 28,
+                            "y": 112
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Features & Benefits",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 109,
+                        "height": null,
+                        "position": {
+                            "x": 54,
+                            "y": 174
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "size": "S",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 28,
+                            "y": 176
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 290,
+                "height": 350,
+                "position": {
+                    "x": 570,
+                    "y": 22
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "$59.99",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 109,
+                        "height": null,
+                        "position": {
+                            "x": 28,
+                            "y": 112
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Up to 10 members",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 99,
+                        "height": 0,
+                        "position": {
+                            "x": 54,
+                            "y": 174
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "size": "S",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 28,
+                            "y": 232
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "For large enterprise",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 234,
+                        "height": 20,
+                        "position": {
+                            "x": 28,
+                            "y": 78
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "size": "S",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 28,
+                            "y": 176
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Smart analytics",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 87,
+                        "height": 0,
+                        "position": {
+                            "x": 54,
+                            "y": 230
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Enterprise",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 234,
+                        "height": 36,
+                        "position": {
+                            "x": 28,
+                            "y": 28
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "size": "S",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 28,
+                            "y": 204
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Collaboration features",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 125,
+                        "height": 0,
+                        "position": {
+                            "x": 54,
+                            "y": 202
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "BUTTON",
+                    "data": {
+                        "icon": null,
+                        "size": "L",
+                        "text": "Upgrade",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": 234,
+                        "height": null,
+                        "position": {
+                            "x": 28,
+                            "y": 278
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "/team/month",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 86,
+                        "height": null,
+                        "position": {
+                            "x": 145,
+                            "y": 125
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 289,
+                "height": 394,
+                "position": {
+                    "x": 263,
+                    "y": 0
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "$39.99",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 108,
+                        "height": null,
+                        "position": {
+                            "x": 28,
+                            "y": 120
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "size": "S",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 28,
+                            "y": 268
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Smart analytics",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 87,
+                        "height": 0,
+                        "position": {
+                            "x": 54,
+                            "y": 238
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Business",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": 163,
+                        "height": 36,
+                        "position": {
+                            "x": 28,
+                            "y": 36
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "size": "XS",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 189,
+                            "y": 214
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Collaboration features",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 125,
+                        "height": 0,
+                        "position": {
+                            "x": 54,
+                            "y": 210
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "30-day free trial",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 88,
+                        "height": 0,
+                        "position": {
+                            "x": 54,
+                            "y": 266
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "For small business",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 233,
+                        "height": 20,
+                        "position": {
+                            "x": 28,
+                            "y": 86
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "size": "S",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 28,
+                            "y": 240
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "BUTTON",
+                    "data": {
+                        "size": "L",
+                        "text": "Upgrade",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": 233,
+                        "height": null,
+                        "position": {
+                            "x": 28,
+                            "y": 314
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "/team/month",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 86,
+                        "height": null,
+                        "position": {
+                            "x": 144,
+                            "y": 133
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "size": "S",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 28,
+                            "y": 184
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TAG",
+                    "data": {
+                        "size": "M",
+                        "width": 58,
+                        "height": 0,
+                        "position": {
+                            "x": 198,
+                            "y": 40
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "TAG_ITEM",
+                            "data": {
+                                "text": "Popular",
+                                "color": {
+                                    "type": "PRIMARY"
+                                },
+                                "icons": [],
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "size": "S",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 28,
+                            "y": 212
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Up to 10 members",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 99,
+                        "height": 0,
+                        "position": {
+                            "x": 54,
+                            "y": 182
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+}
+]

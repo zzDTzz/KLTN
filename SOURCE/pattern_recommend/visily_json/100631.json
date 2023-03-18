@@ -1,0 +1,1523 @@
+[{
+    "type": "CONTAINER",
+    "data": {
+        "width": 370,
+        "height": 109,
+        "position": {
+            "x": 342,
+            "y": 394
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Nevermind. It's up to you",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 220,
+                "height": 58,
+                "position": {
+                    "x": 67,
+                    "y": 38
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "12:00 PM",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 53,
+                "height": 22,
+                "position": {
+                    "x": 150,
+                    "y": 16
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Sherry",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 71,
+                "height": 22,
+                "position": {
+                    "x": 67,
+                    "y": 16
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "M",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 15,
+                    "y": 16
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 628,
+        "height": 100,
+        "position": {
+            "x": 722,
+            "y": 181
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "ICON",
+            "data": {
+                "size": "L",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 567,
+                    "y": 18
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "•",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 5,
+                "height": null,
+                "position": {
+                    "x": 89,
+                    "y": 67
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "L",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 455,
+                    "y": 18
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "L",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 511,
+                    "y": 18
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Active now",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 73,
+                "height": 44,
+                "position": {
+                    "x": 12,
+                    "y": 56
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Local time 1:19 PM",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 123,
+                "height": 44,
+                "position": {
+                    "x": 98,
+                    "y": 56
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Anna",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 157,
+                "height": 41,
+                "position": {
+                    "x": 25,
+                    "y": 0
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 370,
+        "height": 109,
+        "position": {
+            "x": 343,
+            "y": 687
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Nevermind. It's up to you",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 220,
+                "height": 58,
+                "position": {
+                    "x": 67,
+                    "y": 38
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Mary",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 71,
+                "height": 22,
+                "position": {
+                    "x": 67,
+                    "y": 16
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "12:00 PM",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 53,
+                "height": 22,
+                "position": {
+                    "x": 150,
+                    "y": 16
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "M",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 15,
+                    "y": 16
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "GROUP",
+    "data": {
+        "width": 624,
+        "height": 590,
+        "position": {
+            "x": 730,
+            "y": 296
+        }
+    },
+    "children": [
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "M",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 0,
+                    "y": 403
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 286,
+                "height": 47,
+                "position": {
+                    "x": 47,
+                    "y": 101
+                },
+                "backgroundColor": {
+                    "type": "PRIMARY"
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "15 mins ago",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 69,
+                "height": 21,
+                "position": {
+                    "x": 47,
+                    "y": 155
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "M",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 0,
+                    "y": 1
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 382,
+                "height": 91,
+                "position": {
+                    "x": 47,
+                    "y": 403
+                },
+                "backgroundColor": {
+                    "type": "PRIMARY"
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 320,
+                "height": 47,
+                "position": {
+                    "x": 253,
+                    "y": 186
+                },
+                "backgroundColor": {
+                    "type": "NEUTRAL"
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Eu officia officia id excepteur enim excepteur nulla eiusmod in amet ea laborum nostrud aliquip magna. Adipisicing consectetur incididu",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 351,
+                "height": 66,
+                "position": {
+                    "x": 62,
+                    "y": 399
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 48,
+                "height": 49,
+                "position": {
+                    "x": 525,
+                    "y": 295
+                },
+                "backgroundColor": {
+                    "type": "NEUTRAL"
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Cupidatat exercitation elit consequat",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 264,
+                "height": null,
+                "position": {
+                    "x": 55,
+                    "y": 98
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "400"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Mollit excepteur eiusmod consequat Lorem",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 299,
+                "height": null,
+                "position": {
+                    "x": 262,
+                    "y": 182
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "400"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Exercitation proident ea id rep",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 210,
+                "height": null,
+                "position": {
+                    "x": 351,
+                    "y": 236
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "400"
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 537,
+                    "y": 290
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Eu officia officia id excepteur enim excepteur nulla eiusmod in amet ea laborum nostrud aliquip magna. Adipisicing consectetur incididu",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 353,
+                "height": null,
+                "position": {
+                    "x": 59,
+                    "y": 0
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 233,
+                "height": 47,
+                "position": {
+                    "x": 340,
+                    "y": 241
+                },
+                "backgroundColor": {
+                    "type": "NEUTRAL"
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "M",
+                "text": "b",
+                "color": {
+                    "type": "SECONDARY"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 584,
+                    "y": 192
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 382,
+                "height": 91,
+                "position": {
+                    "x": 47,
+                    "y": 1
+                },
+                "backgroundColor": {
+                    "type": "PRIMARY"
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "2 mins ago",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 64,
+                "height": 21,
+                "position": {
+                    "x": 519,
+                    "y": 352
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Just now",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 54,
+                "height": 21,
+                "position": {
+                    "x": 55,
+                    "y": 508
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 264,
+        "height": 344,
+        "position": {
+            "x": 1357,
+            "y": 256
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": [
+        {
+            "type": "ICON",
+            "data": {
+                "size": "S",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 68,
+                    "y": 284
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "L",
+                "text": "",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 44,
+                "height": null,
+                "position": {
+                    "x": 140,
+                    "y": 216
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "XS",
+                "text": "Anna",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "height": 30,
+                "position": {
+                    "x": 102,
+                    "y": 136
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "L",
+                "text": "",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 44,
+                "height": null,
+                "position": {
+                    "x": 200,
+                    "y": 216
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "L",
+                "text": "",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 44,
+                "height": null,
+                "position": {
+                    "x": 80,
+                    "y": 216
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "202-555-0123",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 104,
+                "height": 22,
+                "position": {
+                    "x": 92,
+                    "y": 284
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "L",
+                "text": "",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 0,
+                "height": null,
+                "iconSize": null,
+                "position": {
+                    "x": 20,
+                    "y": 216
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "anna321@gmail.com",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "height": 22,
+                "position": {
+                    "x": 64,
+                    "y": 306
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 96,
+                "height": 96,
+                "position": {
+                    "x": 84,
+                    "y": 16
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 370,
+        "height": 104,
+        "position": {
+            "x": 342,
+            "y": 498
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "M",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 15,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Bob",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 71,
+                "height": 22,
+                "position": {
+                    "x": 67,
+                    "y": 16
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "12:00 PM",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 53,
+                "height": 22,
+                "position": {
+                    "x": 150,
+                    "y": 16
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Hey, r u there? Can I talk w u?",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 220,
+                "height": 33,
+                "position": {
+                    "x": 67,
+                    "y": 38
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 370,
+        "height": 95,
+        "position": {
+            "x": 342,
+            "y": 299
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": [
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "M",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 15,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Okay",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 149,
+                "height": 38,
+                "position": {
+                    "x": 68,
+                    "y": 42
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Anna",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 71,
+                "height": 22,
+                "position": {
+                    "x": 67,
+                    "y": 16
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "12:00 PM",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 53,
+                "height": 22,
+                "position": {
+                    "x": 150,
+                    "y": 16
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 370,
+        "height": 95,
+        "position": {
+            "x": 343,
+            "y": 592
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "12:00 PM",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 53,
+                "height": 22,
+                "position": {
+                    "x": 150,
+                    "y": 16
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Catherine",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 71,
+                "height": 22,
+                "position": {
+                    "x": 67,
+                    "y": 16
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Okay",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 136,
+                "height": 34,
+                "position": {
+                    "x": 67,
+                    "y": 42
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "M",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 15,
+                    "y": 16
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "GROUP",
+    "data": {
+        "width": 132,
+        "height": 25,
+        "position": {
+            "x": 742,
+            "y": 850
+        }
+    },
+    "children": [
+        {
+            "type": "ICON",
+            "data": {
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 36,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 72,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 108,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1920,
+        "height": 56,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1659,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "M",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1739,
+                    "y": 10
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1699,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Amanda Smith",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 97,
+                "position": {
+                    "x": 1781,
+                    "y": 17
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "XS",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 12,
+                "position": {
+                    "x": 1884,
+                    "y": 22
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "HEADER_MENU",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 553,
+                "height": null,
+                "position": {
+                    "x": 160,
+                    "y": 2
+                }
+            },
+            "children": [
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "New releases",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "icon": null,
+                        "text": "Best-sellers",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Promotions",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Find a Gift",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Home",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Support",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 96,
+                "height": 36,
+                "position": {
+                    "x": 24,
+                    "y": 10
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 370,
+        "height": 104,
+        "position": {
+            "x": 343,
+            "y": 791
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Hey, r u there? Can I talk w u?",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 220,
+                "height": 33,
+                "position": {
+                    "x": 67,
+                    "y": 38
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Username",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 71,
+                "height": 22,
+                "position": {
+                    "x": 67,
+                    "y": 16
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "12:00 PM",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 53,
+                "height": 22,
+                "position": {
+                    "x": 150,
+                    "y": 16
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "M",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 15,
+                    "y": 16
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 1370,
+        "height": 819,
+        "position": {
+            "x": 301,
+            "y": 141
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Chat",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 363,
+            "y": 174
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXTBOX",
+    "data": {
+        "size": "M",
+        "text": "Find people in your chat",
+        "color": {
+            "type": "GRAY"
+        },
+        "icons": [
+            {
+                "alignment": "LEFT"
+            }
+        ],
+        "label": "Label",
+        "width": 372,
+        "height": null,
+        "position": {
+            "x": 342,
+            "y": 233
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXTAREA",
+    "data": {
+        "icon": null,
+        "size": "M",
+        "text": "Aa",
+        "color": {
+            "type": "GRAY"
+        },
+        "label": "Label",
+        "width": 464,
+        "height": 52,
+        "position": {
+            "x": 886,
+            "y": 843
+        }
+    },
+    "children": []
+}
+]

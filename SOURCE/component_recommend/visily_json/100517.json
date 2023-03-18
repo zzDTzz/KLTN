@@ -1,0 +1,1407 @@
+[{
+    "type": "TAG",
+    "data": {
+        "size": "M",
+        "width": 60,
+        "height": 24,
+        "position": {
+            "x": 216,
+            "y": 863
+        }
+    },
+    "children": [
+        {
+            "type": "TAG_ITEM",
+            "data": {
+                "size": "S",
+                "text": "276",
+                "color": {
+                    "type": "CUSTOM"
+                },
+                "icons": [
+                    {
+                        "size": null,
+                        "alignment": "LEFT"
+                    }
+                ],
+                "height": null,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 578,
+            "y": 1553
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Recent Activity",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 420,
+            "y": 349
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Suggested",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 247,
+        "height": 30,
+        "position": {
+            "x": 23,
+            "y": 819
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Search Gaming",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 172,
+        "height": 28,
+        "position": {
+            "x": 69,
+            "y": 127
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 938,
+        "height": 275,
+        "position": {
+            "x": 398,
+            "y": 637
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Minecraft",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 126,
+        "height": 25,
+        "position": {
+            "x": 102,
+            "y": 528
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Streamers You Follow",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 247,
+        "height": 30,
+        "position": {
+            "x": 23,
+            "y": 366
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 398,
+            "y": 1542
+        },
+        "from": {
+            "x": 1336,
+            "y": 1542
+        },
+        "position": {
+            "x": 398,
+            "y": 1542
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 373,
+        "height": 257,
+        "position": {
+            "x": 307,
+            "y": 56
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 12,
+        "height": 1535,
+        "position": {
+            "x": 1428,
+            "y": 56
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": [
+        {
+            "type": "RECTANGLE",
+            "data": {
+                "width": 12,
+                "height": 124,
+                "position": {
+                    "x": 0,
+                    "y": 130
+                },
+                "backgroundColor": {
+                    "type": "NEUTRAL"
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 218,
+        "height": 200,
+        "position": {
+            "x": 1100,
+            "y": 396
+        }
+    },
+    "children": []
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 938,
+        "height": 634,
+        "position": {
+            "x": 398,
+            "y": 953
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 218,
+        "height": 200,
+        "position": {
+            "x": 420,
+            "y": 700
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 24,
+        "height": 24,
+        "position": {
+            "x": 36,
+            "y": 125
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Oop Buron",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 102,
+            "y": 502
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 68,
+        "height": 67,
+        "position": {
+            "x": 23,
+            "y": 412
+        }
+    },
+    "children": []
+},
+{
+    "type": "TAG",
+    "data": {
+        "size": "M",
+        "width": 57,
+        "height": 28,
+        "position": {
+            "x": 1261,
+            "y": 654
+        }
+    },
+    "children": [
+        {
+            "type": "TAG_ITEM",
+            "data": {
+                "text": "See all",
+                "color": {
+                    "type": "SECONDARY"
+                },
+                "icons": [],
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "PewPew",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 140,
+        "height": 22,
+        "position": {
+            "x": 102,
+            "y": 584
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 373,
+        "height": 257,
+        "position": {
+            "x": 1053,
+            "y": 56
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "49K",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 454,
+            "y": 1514
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "See more",
+        "color": {
+            "type": "SECONDARY"
+        },
+        "width": 0,
+        "height": null,
+        "position": {
+            "x": 23,
+            "y": 739
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 865,
+            "y": 1587
+        },
+        "from": {
+            "x": 865,
+            "y": 1542
+        },
+        "position": {
+            "x": 865,
+            "y": 1542
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "League of Legends",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 126,
+        "height": 25,
+        "position": {
+            "x": 102,
+            "y": 446
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1440,
+        "height": 56,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "OVAL",
+            "data": {
+                "width": 35,
+                "height": 35,
+                "position": {
+                    "x": 1251,
+                    "y": 10
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "XS",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 12,
+                "position": {
+                    "x": 1400,
+                    "y": 22
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1169,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1211,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 35,
+                "height": 35,
+                "position": {
+                    "x": 1250,
+                    "y": 10
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 96,
+                "height": 36,
+                "position": {
+                    "x": 24,
+                    "y": 10
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "HEADER_MENU",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "SECONDARY"
+                },
+                "width": 552,
+                "height": null,
+                "position": {
+                    "x": 160,
+                    "y": 2
+                }
+            },
+            "children": [
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Gaming",
+                        "color": {
+                            "type": "SECONDARY"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Sports",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Music",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Home",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "icon": null,
+                        "text": "Trending",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "News",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Live",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Garfield Cat",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 95,
+                "position": {
+                    "x": 1297,
+                    "y": 17
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Gaming",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 199,
+        "height": 36,
+        "position": {
+            "x": 24,
+            "y": 69
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 68,
+        "height": 67,
+        "position": {
+            "x": 23,
+            "y": 576
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "INFO"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 420,
+            "y": 1513
+        }
+    },
+    "children": []
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 253,
+        "height": 44,
+        "position": {
+            "x": 24,
+            "y": 115
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 218,
+        "height": 200,
+        "position": {
+            "x": 420,
+            "y": 396
+        }
+    },
+    "children": []
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 293,
+            "y": 349
+        },
+        "from": {
+            "x": 0,
+            "y": 349
+        },
+        "position": {
+            "x": 0,
+            "y": 349
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Comment",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 1108,
+            "y": 1555
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 293,
+            "y": 806
+        },
+        "from": {
+            "x": 0,
+            "y": 806
+        },
+        "position": {
+            "x": 0,
+            "y": 806
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 218,
+        "height": 200,
+        "position": {
+            "x": 874,
+            "y": 700
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Mei Mei",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 140,
+        "height": 22,
+        "position": {
+            "x": 103,
+            "y": 861
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "March 6 at 5:30 PM",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 126,
+        "height": 25,
+        "position": {
+            "x": 481,
+            "y": 992
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "T1 League of Legends",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 102,
+            "y": 420
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 218,
+        "height": 200,
+        "position": {
+            "x": 1100,
+            "y": 700
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Monsieur Tuna",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 102,
+            "y": 681
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TAG",
+    "data": {
+        "size": "M",
+        "width": 57,
+        "height": 28,
+        "position": {
+            "x": 1261,
+            "y": 350
+        }
+    },
+    "children": [
+        {
+            "type": "TAG_ITEM",
+            "data": {
+                "text": "See all",
+                "color": {
+                    "type": "SECONDARY"
+                },
+                "icons": [],
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 47,
+        "height": 48,
+        "position": {
+            "x": 420,
+            "y": 969
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 1069,
+            "y": 1553
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 1031,
+            "y": 173
+        }
+    },
+    "children": []
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 293,
+        "height": 875,
+        "position": {
+            "x": 0,
+            "y": 56
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": []
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 938,
+        "height": 275,
+        "position": {
+            "x": 398,
+            "y": 333
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Teamfight Tactics",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 126,
+        "height": 25,
+        "position": {
+            "x": 102,
+            "y": 610
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Elden Ring Và Chàng Samurai Trầm K.Ả.M.\nYT: Monsieur Tuna — playing Elden Ring.",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 420,
+            "y": 1022
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 658,
+            "y": 173
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 68,
+        "height": 67,
+        "position": {
+            "x": 23,
+            "y": 494
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "WHITE"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 1013,
+            "y": 155
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 68,
+        "height": 67,
+        "position": {
+            "x": 23,
+            "y": 658
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Like",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 611,
+            "y": 1555
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Arena of Valor",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 126,
+        "height": 25,
+        "position": {
+            "x": 103,
+            "y": 887
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 218,
+        "height": 200,
+        "position": {
+            "x": 874,
+            "y": 396
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 218,
+        "height": 200,
+        "position": {
+            "x": 647,
+            "y": 396
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "WHITE"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 640,
+            "y": 155
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Featured games",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 420,
+            "y": 653
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 218,
+        "height": 200,
+        "position": {
+            "x": 647,
+            "y": 700
+        }
+    },
+    "children": []
+},
+{
+    "type": "SIDEBAR_MENU",
+    "data": {
+        "size": "M",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 256,
+        "height": 280,
+        "position": {
+            "x": 32,
+            "y": 173
+        }
+    },
+    "children": [
+        {
+            "type": "SIDEBAR_MENU_ITEM",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "text": "Play games",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "SIDEBAR_MENU_ITEM",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "text": "For you",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "SIDEBAR_MENU_ITEM",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "text": "Tournaments",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "SIDEBAR_MENU_ITEM",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "text": "Video",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TAG",
+    "data": {
+        "size": "M",
+        "width": 61,
+        "height": 28,
+        "position": {
+            "x": 737,
+            "y": 74
+        }
+    },
+    "children": [
+        {
+            "type": "TAG_ITEM",
+            "data": {
+                "text": "567",
+                "color": {
+                    "type": "BLACK"
+                },
+                "icons": [
+                    {
+                        "alignment": "LEFT"
+                    }
+                ],
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 763,
+        "height": 417,
+        "position": {
+            "x": 492,
+            "y": 1083
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Monsieur Tuna posted a video to playlist Mosieur Tuna and Game",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 481,
+            "y": 971
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TAG",
+    "data": {
+        "size": "M",
+        "width": 43,
+        "height": 28,
+        "position": {
+            "x": 682,
+            "y": 74
+        }
+    },
+    "children": [
+        {
+            "type": "TAG_ITEM",
+            "data": {
+                "text": "Live",
+                "color": {
+                    "type": "DANGER"
+                },
+                "icons": [],
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 373,
+        "height": 257,
+        "position": {
+            "x": 680,
+            "y": 56
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "1.2K Comments",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 1160,
+            "y": 1513
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 68,
+        "height": 67,
+        "position": {
+            "x": 24,
+            "y": 853
+        }
+    },
+    "children": []
+}
+]

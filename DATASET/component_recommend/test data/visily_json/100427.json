@@ -1,0 +1,766 @@
+[{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1184,
+        "height": 70,
+        "position": {
+            "x": 256,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1040,
+                    "y": 20
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "M",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1120,
+                    "y": 14
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1080,
+                    "y": 20
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Analytic",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 813,
+                "height": null,
+                "position": {
+                    "x": 42,
+                    "y": 20
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 502,
+        "height": 352,
+        "position": {
+            "x": 696,
+            "y": -100
+        }
+    },
+    "children": []
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 1052,
+        "height": 86,
+        "position": {
+            "x": 256,
+            "y": 814
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": []
+},
+{
+    "type": "AVATAR",
+    "data": {
+        "size": "XL",
+        "text": "A",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 72,
+        "height": 72,
+        "iconSize": null,
+        "position": {
+            "x": 273,
+            "y": 300
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 370,
+        "height": 63,
+        "position": {
+            "x": 830,
+            "y": 623
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Reprehenderit est id nostrud ad aute nulla veniam reprehenderit",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 327,
+                "height": 63,
+                "position": {
+                    "x": 20,
+                    "y": 0
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "400"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 40,
+        "height": 40,
+        "position": {
+            "x": 1177,
+            "y": 838
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "size": "M",
+        "text": "2 mins ago",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 100,
+        "height": 28,
+        "position": {
+            "x": 365,
+            "y": 504
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 256,
+        "height": 900,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": [
+        {
+            "type": "SIDEBAR_MENU",
+            "data": {
+                "size": "L",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 224,
+                "height": 1035,
+                "position": {
+                    "x": 16,
+                    "y": 84
+                }
+            },
+            "children": [
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Projects",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Messages",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Integrations",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Analytics",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Dashboard",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Teams",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 96,
+                "height": 36,
+                "position": {
+                    "x": 16,
+                    "y": 14
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "AVATAR",
+    "data": {
+        "size": "XL",
+        "text": "b",
+        "color": {
+            "type": "SECONDARY"
+        },
+        "width": 72,
+        "height": 72,
+        "iconSize": null,
+        "position": {
+            "x": 1219,
+            "y": 548
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 75,
+        "height": 68,
+        "position": {
+            "x": 1125,
+            "y": 698
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": [
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 42,
+                "height": 42,
+                "position": {
+                    "x": 14,
+                    "y": 18
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXTAREA",
+    "data": {
+        "icon": null,
+        "size": "XL",
+        "text": "Input text",
+        "color": {
+            "type": "GRAY"
+        },
+        "label": "Label",
+        "width": 827,
+        "height": 56,
+        "position": {
+            "x": 273,
+            "y": 828
+        },
+        "labelTextSize": null,
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "size": "M",
+        "text": "5 mins ago",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 100,
+        "height": 28,
+        "position": {
+            "x": 1100,
+            "y": 260
+        },
+        "textAlign": "RIGHT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "size": "M",
+        "text": "Just now",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 84,
+        "height": 28,
+        "position": {
+            "x": 1114,
+            "y": 774
+        },
+        "textAlign": "RIGHT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 511,
+        "height": 64,
+        "position": {
+            "x": 689,
+            "y": 548
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Consequat non voluptate dolor esse consectetur in consequat proident enim do re",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 470,
+                "height": 64,
+                "position": {
+                    "x": 18,
+                    "y": 0
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "400"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 132,
+        "height": 830,
+        "position": {
+            "x": 1308,
+            "y": 70
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "XL",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 72,
+                "height": 72,
+                "iconSize": null,
+                "position": {
+                    "x": 30,
+                    "y": 429
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "COLLAPSED_SIDEBAR_MENU",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 72,
+                "height": 112,
+                "position": {
+                    "x": 30,
+                    "y": 702
+                }
+            },
+            "children": [
+                {
+                    "type": "COLLAPSED_SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "size": "XL",
+                        "text": "Menu item",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "COLLAPSED_SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "size": "XL",
+                        "text": "Menu item 1",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "XL",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 72,
+                "height": 72,
+                "iconSize": null,
+                "position": {
+                    "x": 34,
+                    "y": 531
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "XL",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 72,
+                "height": 72,
+                "iconSize": null,
+                "position": {
+                    "x": 30,
+                    "y": 327
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "XL",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 72,
+                "height": 72,
+                "iconSize": null,
+                "position": {
+                    "x": 30,
+                    "y": 123
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "XL",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 72,
+                "height": 72,
+                "iconSize": null,
+                "position": {
+                    "x": 30,
+                    "y": 225
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "XL",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 72,
+                "height": 72,
+                "iconSize": null,
+                "position": {
+                    "x": 34,
+                    "y": 21
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 608,
+        "height": 125,
+        "position": {
+            "x": 365,
+            "y": 292
+        },
+        "backgroundColor": {
+            "type": "PRIMARY"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Culpa fugiat do ipsum laboris ullamco minim sint ea anim proident. Incididunt elit fugiat fugiat aliquip nostrud magna dolore ipsum sit officia veniam ex sunt dolore labore in nisi.Anim sunt elit laborum ad irure magna. Ea d",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 560,
+                "height": 125,
+                "position": {
+                    "x": 20,
+                    "y": 0
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 44,
+        "height": 44,
+        "position": {
+            "x": 1119,
+            "y": 834
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 454,
+        "height": 63,
+        "position": {
+            "x": 365,
+            "y": 428
+        },
+        "backgroundColor": {
+            "type": "PRIMARY"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Voluptate officia incididunt quis sunt laboris duis. Eiusmod sint irure amet aliqu",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 414,
+                "height": 63,
+                "position": {
+                    "x": 20,
+                    "y": 0
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "400"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 44,
+        "height": 44,
+        "position": {
+            "x": 1233,
+            "y": 834
+        }
+    },
+    "children": []
+}
+]

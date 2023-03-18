@@ -1,0 +1,1395 @@
+[{
+    "type": "TEXT",
+    "data": {
+        "text": "reponame",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 165,
+            "y": 83
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "3 stars",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 879,
+            "y": 408
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "Star",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 0,
+        "height": null,
+        "iconSize": null,
+        "position": {
+            "x": 1132,
+            "y": 78
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "No description, website, or topics provided.",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 836,
+            "y": 244
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "Love",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 0,
+        "height": null,
+        "iconSize": null,
+        "position": {
+            "x": 1023,
+            "y": 78
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "1 love",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 879,
+            "y": 366
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "position": {
+            "x": 836,
+            "y": 367
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "About ",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 836,
+            "y": 181
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "25% Golang",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 840,
+            "y": 646
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "position": {
+            "x": 836,
+            "y": 327
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "username",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 72,
+            "y": 83
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "75% Python",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 840,
+            "y": 609
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "SLIDER",
+    "data": {
+        "size": "M",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "value": {
+            "to": 70.31,
+            "from": 0
+        },
+        "width": 292,
+        "height": 22,
+        "position": {
+            "x": 840,
+            "y": 571
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "/",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 157,
+            "y": 84
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "position": {
+            "x": 30,
+            "y": 84
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 699,
+        "height": 464,
+        "position": {
+            "x": 78,
+            "y": 210
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 699,
+                    "y": 107
+                },
+                "from": {
+                    "x": 0,
+                    "y": 107
+                },
+                "position": {
+                    "x": 0,
+                    "y": 107
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 694,
+                "height": 61,
+                "position": {
+                    "x": 0,
+                    "y": 228
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "text": "filename.py",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 256,
+                        "height": 22,
+                        "position": {
+                            "x": 42,
+                            "y": 19
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": "400"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 12,
+                            "y": 18
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "text": "2 days ago",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 140,
+                        "height": 22,
+                        "position": {
+                            "x": 554,
+                            "y": 19
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "text": "[update] some commit messages",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 256,
+                        "height": 22,
+                        "position": {
+                            "x": 235,
+                            "y": 19
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 699,
+                "height": 61,
+                "position": {
+                    "x": 0,
+                    "y": 343
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "text": "filename.py",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 256,
+                        "height": 22,
+                        "position": {
+                            "x": 42,
+                            "y": 19
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": "400"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "text": "2 days ago",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 140,
+                        "height": 22,
+                        "position": {
+                            "x": 554,
+                            "y": 19
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "text": "[update] some commit messages",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 256,
+                        "height": 22,
+                        "position": {
+                            "x": 235,
+                            "y": 19
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 12,
+                            "y": 18
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 699,
+                    "y": 227
+                },
+                "from": {
+                    "x": 0,
+                    "y": 227
+                },
+                "position": {
+                    "x": 0,
+                    "y": 227
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 699,
+                    "y": 168
+                },
+                "from": {
+                    "x": 0,
+                    "y": 168
+                },
+                "position": {
+                    "x": 0,
+                    "y": 168
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 699,
+                "height": 61,
+                "position": {
+                    "x": 0,
+                    "y": 282
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "DIVIDER",
+                    "data": {
+                        "to": {
+                            "x": 694,
+                            "y": 60
+                        },
+                        "from": {
+                            "x": 0,
+                            "y": 60
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 60
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "text": "filename.py",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 256,
+                        "height": 22,
+                        "position": {
+                            "x": 42,
+                            "y": 19
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": "400"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "text": "2 days ago",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 140,
+                        "height": 22,
+                        "position": {
+                            "x": 554,
+                            "y": 19
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                },
+                {
+                    "type": "DIVIDER",
+                    "data": {
+                        "to": {
+                            "x": 699,
+                            "y": 6
+                        },
+                        "from": {
+                            "x": 0,
+                            "y": 6
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 6
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 12,
+                            "y": 18
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "text": "[update] some commit messages",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 256,
+                        "height": 22,
+                        "position": {
+                            "x": 235,
+                            "y": 19
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 694,
+                "height": 61,
+                "position": {
+                    "x": 0,
+                    "y": 167
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "text": "filename.py",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 256,
+                        "height": 22,
+                        "position": {
+                            "x": 42,
+                            "y": 19
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": "400"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "text": "[update] some commit messages",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 256,
+                        "height": 22,
+                        "position": {
+                            "x": 235,
+                            "y": 19
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 12,
+                            "y": 18
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "text": "2 days ago",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 140,
+                        "height": 22,
+                        "position": {
+                            "x": 554,
+                            "y": 19
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 699,
+                "height": 60,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": {
+                    "type": "NEUTRAL"
+                }
+            },
+            "children": [
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Name",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 150,
+                        "height": 22,
+                        "position": {
+                            "x": 42,
+                            "y": 12
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": "400"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Description",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 239,
+                        "height": 22,
+                        "position": {
+                            "x": 298,
+                            "y": 12
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                },
+                {
+                    "type": "DIVIDER",
+                    "data": {
+                        "to": {
+                            "x": 699,
+                            "y": 46
+                        },
+                        "from": {
+                            "x": 0,
+                            "y": 46
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 46
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 699,
+                "height": 61,
+                "position": {
+                    "x": 0,
+                    "y": 403
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "text": "filename.py",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 256,
+                        "height": 22,
+                        "position": {
+                            "x": 42,
+                            "y": 19
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": "400"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "text": "2 days ago",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 140,
+                        "height": 22,
+                        "position": {
+                            "x": 554,
+                            "y": 19
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                },
+                {
+                    "type": "DIVIDER",
+                    "data": {
+                        "to": {
+                            "x": 699,
+                            "y": 60
+                        },
+                        "from": {
+                            "x": 0,
+                            "y": 60
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 60
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 12,
+                            "y": 18
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "DIVIDER",
+                    "data": {
+                        "to": {
+                            "x": 699,
+                            "y": 0
+                        },
+                        "from": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "text": "[update] some commit messages",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 256,
+                        "height": 22,
+                        "position": {
+                            "x": 235,
+                            "y": 19
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 694,
+                "height": 61,
+                "position": {
+                    "x": 0,
+                    "y": 108
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "text": "filename.py",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 256,
+                        "height": 22,
+                        "position": {
+                            "x": 42,
+                            "y": 19
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": "400"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "text": "2 days ago",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 140,
+                        "height": 22,
+                        "position": {
+                            "x": 554,
+                            "y": 19
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 12,
+                            "y": 18
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "text": "[update] some commit messages",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 256,
+                        "height": 22,
+                        "position": {
+                            "x": 235,
+                            "y": 19
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 694,
+                "height": 61,
+                "position": {
+                    "x": 0,
+                    "y": 47
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "folder",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 256,
+                        "height": 22,
+                        "position": {
+                            "x": 42,
+                            "y": 19
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": "400"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "2 days ago",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 140,
+                        "height": 22,
+                        "position": {
+                            "x": 554,
+                            "y": 19
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "position": {
+                            "x": 12,
+                            "y": 17
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "[update] some commit messages",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 256,
+                        "height": 22,
+                        "position": {
+                            "x": 235,
+                            "y": 19
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+},
+{
+    "type": "HEADER_MENU",
+    "data": {
+        "size": "M",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 368,
+        "height": 52,
+        "position": {
+            "x": 30,
+            "y": 129
+        }
+    },
+    "children": [
+        {
+            "type": "HEADER_MENU_ITEM",
+            "data": {
+                "icon": null,
+                "text": "Security",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "HEADER_MENU_ITEM",
+            "data": {
+                "icon": null,
+                "text": "Pull requests",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "HEADER_MENU_ITEM",
+            "data": {
+                "icon": null,
+                "text": "Settings",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "HEADER_MENU_ITEM",
+            "data": {
+                "icon": null,
+                "text": "Issues",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "HEADER_MENU_ITEM",
+            "data": {
+                "icon": null,
+                "text": "Insights",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "HEADER_MENU_ITEM",
+            "data": {
+                "icon": null,
+                "text": "Code",
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "HEADER_MENU_ITEM",
+            "data": {
+                "icon": null,
+                "text": "Wiki",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "HEADER_MENU_ITEM",
+            "data": {
+                "icon": null,
+                "text": "Action",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "position": {
+            "x": 836,
+            "y": 406
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1280,
+        "height": 54,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "CUSTOM"
+        }
+    },
+    "children": [
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 96,
+                "height": 36,
+                "position": {
+                    "x": 24,
+                    "y": 10
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Search...",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [
+                    {
+                        "alignment": "LEFT",
+                        "useBorderColor": false
+                    }
+                ],
+                "width": 256,
+                "position": {
+                    "x": 792,
+                    "y": 10
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1132,
+                    "y": 14
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "M",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "iconSize": null,
+                "position": {
+                    "x": 1199,
+                    "y": 14
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "HEADER_MENU",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 370,
+                "position": {
+                    "x": 160,
+                    "y": 2
+                }
+            },
+            "children": [
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Files",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Dashboard",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "icon": null,
+                        "text": "Projects",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Calendar",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Languages ",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 836,
+            "y": 505
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "2 watching",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 879,
+            "y": 327
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+}
+]

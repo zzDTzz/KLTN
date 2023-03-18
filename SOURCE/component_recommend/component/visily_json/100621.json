@@ -1,0 +1,1311 @@
+[{
+    "type": "CONTAINER",
+    "data": {
+        "width": 835,
+        "height": 178,
+        "position": {
+            "x": 363,
+            "y": 169
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "$230",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 761,
+                    "y": 126
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "XS",
+                "text": "Product title",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 591,
+                "height": 30,
+                "position": {
+                    "x": 228,
+                    "y": 40
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 192,
+                "height": 146,
+                "position": {
+                    "x": 16,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Location",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 271,
+                "height": 22,
+                "position": {
+                    "x": 228,
+                    "y": 17
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Description about the product:: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 591,
+                "height": 40,
+                "position": {
+                    "x": 228,
+                    "y": 78
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 795,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "RATING",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "WARNING"
+                },
+                "shape": "REGULAR",
+                "width": 20,
+                "height": 20,
+                "position": {
+                    "x": 228,
+                    "y": 134
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Brand",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 271,
+                "height": 22,
+                "position": {
+                    "x": 524,
+                    "y": 17
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "4.2 (99 reviews)",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 494,
+                "position": {
+                    "x": 252,
+                    "y": 133
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 245,
+        "height": 239,
+        "position": {
+            "x": 82,
+            "y": 92
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Sort",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 201,
+                "height": 22,
+                "position": {
+                    "x": 16,
+                    "y": 16
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "CHECKBOX",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "label": "Label",
+                "width": 201,
+                "height": 112,
+                "position": {
+                    "x": 16,
+                    "y": 50
+                }
+            },
+            "children": [
+                {
+                    "type": "CHECKBOX_ITEM",
+                    "data": {
+                        "text": "Product",
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "CHECKBOX_ITEM",
+                    "data": {
+                        "text": "Brand name",
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "CHECKBOX_ITEM",
+                    "data": {
+                        "text": "Location",
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "CHECKBOX_ITEM",
+                    "data": {
+                        "text": "Price",
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "CHECKBOX_ITEM",
+                    "data": {
+                        "text": "Rating",
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "XS",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 217,
+                    "y": 21
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "XS",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 217,
+                    "y": 200
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 229,
+                    "y": 179
+                },
+                "from": {
+                    "x": 16,
+                    "y": 178
+                },
+                "position": {
+                    "x": 16,
+                    "y": 178
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "icon": {
+            "alignment": "LEFT"
+        },
+        "size": "M",
+        "text": "Filter",
+        "color": {
+            "type": "BLACK"
+        },
+        "width": 79,
+        "height": null,
+        "position": {
+            "x": 982,
+            "y": 92
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "size": "XS",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "position": {
+            "x": 299,
+            "y": 581
+        }
+    },
+    "children": []
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 311,
+            "y": 559
+        },
+        "from": {
+            "x": 98,
+            "y": 559
+        },
+        "position": {
+            "x": 98,
+            "y": 559
+        }
+    },
+    "children": []
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 311,
+            "y": 504
+        },
+        "from": {
+            "x": 98,
+            "y": 504
+        },
+        "position": {
+            "x": 98,
+            "y": 504
+        }
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "Today's Deals",
+        "color": {
+            "type": "BLACK"
+        },
+        "width": 115,
+        "height": null,
+        "position": {
+            "x": 859,
+            "y": 92
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXTBOX",
+    "data": {
+        "size": "M",
+        "text": "Search",
+        "color": {
+            "type": "GRAY"
+        },
+        "icons": [
+            {
+                "alignment": "LEFT",
+                "useBorderColor": false
+            }
+        ],
+        "label": "Label",
+        "width": 348,
+        "height": null,
+        "position": {
+            "x": 363,
+            "y": 92
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1280,
+        "height": 56,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 96,
+                "height": 36,
+                "position": {
+                    "x": 24,
+                    "y": 10
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1019,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Marie Kim",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 97,
+                "position": {
+                    "x": 1141,
+                    "y": 17
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1059,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "M",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": null,
+                "height": null,
+                "iconSize": null,
+                "position": {
+                    "x": 1099,
+                    "y": 10
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "XS",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 12,
+                "position": {
+                    "x": 1244,
+                    "y": 22
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 835,
+        "height": 178,
+        "position": {
+            "x": 363,
+            "y": 363
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 192,
+                "height": 146,
+                "position": {
+                    "x": 16,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Brand",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 271,
+                "height": 22,
+                "position": {
+                    "x": 524,
+                    "y": 17
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Location",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 271,
+                "height": 22,
+                "position": {
+                    "x": 228,
+                    "y": 17
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "4.2 (99 reviews)",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 494,
+                "position": {
+                    "x": 252,
+                    "y": 133
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "XS",
+                "text": "Product title",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 591,
+                "height": 30,
+                "position": {
+                    "x": 228,
+                    "y": 40
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "$230",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 761,
+                    "y": 126
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Description about the product:: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 591,
+                "height": 40,
+                "position": {
+                    "x": 228,
+                    "y": 78
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "RATING",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "WARNING"
+                },
+                "shape": "REGULAR",
+                "width": 20,
+                "height": 20,
+                "position": {
+                    "x": 228,
+                    "y": 134
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "DANGER"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 795,
+                    "y": 16
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "ICON",
+    "data": {
+        "size": "XS",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "position": {
+            "x": 299,
+            "y": 526
+        }
+    },
+    "children": []
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 726,
+            "y": 122
+        },
+        "from": {
+            "x": 725,
+            "y": 98
+        },
+        "width": 44,
+        "height": 16,
+        "position": {
+            "x": 725,
+            "y": 98
+        }
+    },
+    "children": []
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 1198,
+            "y": 149
+        },
+        "from": {
+            "x": 363,
+            "y": 148
+        },
+        "width": 835,
+        "height": 1,
+        "position": {
+            "x": 363,
+            "y": 148
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "size": "XS",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "position": {
+            "x": 299,
+            "y": 471
+        }
+    },
+    "children": []
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 311,
+            "y": 449
+        },
+        "from": {
+            "x": 98,
+            "y": 449
+        },
+        "position": {
+            "x": 98,
+            "y": 449
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 835,
+        "height": 178,
+        "position": {
+            "x": 363,
+            "y": 945
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Brand",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 271,
+                "height": 22,
+                "position": {
+                    "x": 524,
+                    "y": 16
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "4.2 (99 reviews)",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 494,
+                "position": {
+                    "x": 252,
+                    "y": 133
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "RATING",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "WARNING"
+                },
+                "shape": "REGULAR",
+                "width": 20,
+                "height": 20,
+                "position": {
+                    "x": 228,
+                    "y": 134
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Location",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 271,
+                "height": 22,
+                "position": {
+                    "x": 228,
+                    "y": 16
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "XS",
+                "text": "Product title",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 591,
+                "height": 30,
+                "position": {
+                    "x": 228,
+                    "y": 40
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "$230",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 761,
+                    "y": 126
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 192,
+                "height": 146,
+                "position": {
+                    "x": 16,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Description about the product:: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 591,
+                "height": 40,
+                "position": {
+                    "x": 228,
+                    "y": 78
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 795,
+                    "y": 16
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "Most popular",
+        "color": {
+            "type": "BLACK"
+        },
+        "width": 111,
+        "height": null,
+        "position": {
+            "x": 740,
+            "y": 92
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 835,
+        "height": 178,
+        "position": {
+            "x": 363,
+            "y": 557
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Location",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 271,
+                "height": 22,
+                "position": {
+                    "x": 228,
+                    "y": 10
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 192,
+                "height": 146,
+                "position": {
+                    "x": 16,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "4.2 (99 reviews)",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 494,
+                "position": {
+                    "x": 252,
+                    "y": 133
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "RATING",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "WARNING"
+                },
+                "shape": "REGULAR",
+                "width": 20,
+                "height": 20,
+                "position": {
+                    "x": 228,
+                    "y": 134
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 795,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "XS",
+                "text": "Product title",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 591,
+                "height": 30,
+                "position": {
+                    "x": 228,
+                    "y": 40
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Brand",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 271,
+                "height": 22,
+                "position": {
+                    "x": 524,
+                    "y": 19
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Description about the product:: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 591,
+                "height": 40,
+                "position": {
+                    "x": 228,
+                    "y": 78
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "$230",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 761,
+                    "y": 126
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 835,
+        "height": 178,
+        "position": {
+            "x": 363,
+            "y": 751
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 192,
+                "height": 146,
+                "position": {
+                    "x": 16,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "$230",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 761,
+                    "y": 126
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "4.2 (99 reviews)",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 494,
+                "position": {
+                    "x": 252,
+                    "y": 133
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "RATING",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "WARNING"
+                },
+                "shape": "REGULAR",
+                "width": 20,
+                "height": 20,
+                "position": {
+                    "x": 228,
+                    "y": 134
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Location",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 271,
+                "height": 22,
+                "position": {
+                    "x": 228,
+                    "y": 16
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Brand",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 271,
+                "height": 22,
+                "position": {
+                    "x": 524,
+                    "y": 16
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "XS",
+                "text": "Product title",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 591,
+                "height": 30,
+                "position": {
+                    "x": 228,
+                    "y": 40
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 795,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Description about the product:: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 591,
+                "height": 40,
+                "position": {
+                    "x": 228,
+                    "y": 78
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        }
+    ]
+}
+]

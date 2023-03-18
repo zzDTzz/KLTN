@@ -1,0 +1,265 @@
+[{
+    "type": "CONTAINER",
+    "data": {
+        "width": 640,
+        "height": 805,
+        "position": {
+            "x": 342,
+            "y": 62
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXTAREA",
+            "data": {
+                "icon": null,
+                "size": "M",
+                "text": "Tell something about yourself",
+                "color": {
+                    "type": "GRAY"
+                },
+                "label": "About me ",
+                "width": 584,
+                "height": 95,
+                "position": {
+                    "x": 28,
+                    "y": 610
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Upload your photo",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 404,
+                "height": 22,
+                "position": {
+                    "x": 208,
+                    "y": 151
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "-Select your country-",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [
+                    {
+                        "alignment": "RIGHT",
+                        "useBorderColor": false
+                    }
+                ],
+                "label": "Location",
+                "width": 584,
+                "position": {
+                    "x": 28,
+                    "y": 531
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Your full name",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "label": "Full name",
+                "width": 584,
+                "position": {
+                    "x": 28,
+                    "y": 294
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Edit profile",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 584,
+                "height": 48,
+                "position": {
+                    "x": 28,
+                    "y": 24
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Your photo should be in PNG or JPG format",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 404,
+                "height": 20,
+                "position": {
+                    "x": 208,
+                    "y": 173
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "S",
+                "text": "Choose image",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 97,
+                "height": 28,
+                "position": {
+                    "x": 208,
+                    "y": 205
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Cancel",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 70,
+                "height": null,
+                "position": {
+                    "x": 414,
+                    "y": 745
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "S",
+                "text": "Remove",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 61,
+                "height": null,
+                "position": {
+                    "x": 314,
+                    "y": 205
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Profile photo",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 584,
+                "height": 22,
+                "position": {
+                    "x": 28,
+                    "y": 92
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Your email",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "label": "Email",
+                "width": 584,
+                "position": {
+                    "x": 28,
+                    "y": 373
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Save profile",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 117,
+                "height": null,
+                "position": {
+                    "x": 495,
+                    "y": 745
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Your phone number",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "label": "Phone number",
+                "width": 584,
+                "position": {
+                    "x": 28,
+                    "y": 452
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 160,
+                "height": 160,
+                "position": {
+                    "x": 28,
+                    "y": 114
+                }
+            },
+            "children": []
+        }
+    ]
+}
+]

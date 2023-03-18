@@ -1,0 +1,307 @@
+[{
+    "type": "IMAGE",
+    "data": {
+        "width": 288,
+        "height": 165,
+        "position": {
+            "x": 24,
+            "y": 75
+        }
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "Sign in",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 68,
+        "height": null,
+        "position": {
+            "x": 1344,
+            "y": 24
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "size": "L",
+        "text": "Nha Nam Book Store",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 208,
+        "height": null,
+        "position": {
+            "x": 64,
+            "y": 248
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "size": "M",
+        "text": "Already have an account?",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 171,
+        "position": {
+            "x": 1161,
+            "y": 31
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 568,
+        "height": 661,
+        "position": {
+            "x": 436,
+            "y": 104
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "L",
+                "text": "Sign up",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 512,
+                "height": null,
+                "position": {
+                    "x": 28,
+                    "y": 551
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "M",
+                "text": "Sign in with Google",
+                "color": {
+                    "type": "CUSTOM"
+                },
+                "width": 512,
+                "height": null,
+                "position": {
+                    "x": 28,
+                    "y": 86
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Enter at least 8+ characters ",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [
+                    {
+                        "alignment": "RIGHT",
+                        "useBorderColor": false
+                    }
+                ],
+                "label": "Password",
+                "width": 512,
+                "height": null,
+                "position": {
+                    "x": 28,
+                    "y": 430
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 540,
+                    "y": 241
+                },
+                "from": {
+                    "x": 306,
+                    "y": 241
+                },
+                "width": 249,
+                "height": 1,
+                "position": {
+                    "x": 306,
+                    "y": 241
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 262,
+                    "y": 241
+                },
+                "from": {
+                    "x": 28,
+                    "y": 241
+                },
+                "width": 249,
+                "height": 1,
+                "position": {
+                    "x": 28,
+                    "y": 241
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "M",
+                "text": "Sign in with Facebook",
+                "color": {
+                    "type": "CUSTOM"
+                },
+                "width": 512,
+                "height": null,
+                "position": {
+                    "x": 28,
+                    "y": 130
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "label": "Last name",
+                "width": 246,
+                "height": null,
+                "position": {
+                    "x": 294,
+                    "y": 272
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Sign up",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 512,
+                "height": 42,
+                "position": {
+                    "x": 28,
+                    "y": 24
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "example.email@gmail.com",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "label": "Email",
+                "width": 512,
+                "height": null,
+                "position": {
+                    "x": 28,
+                    "y": 351
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "label": "First name",
+                "width": 246,
+                "height": null,
+                "position": {
+                    "x": 28,
+                    "y": 272
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "OR",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 20,
+                "position": {
+                    "x": 274,
+                    "y": 230
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 1412,
+        "height": 469,
+        "position": {
+            "x": 0,
+            "y": 334
+        }
+    },
+    "children": []
+}
+]

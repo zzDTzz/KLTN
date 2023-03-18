@@ -1,0 +1,154 @@
+[{
+    "type": "TEXT",
+    "data": {
+        "text": "U1LR",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 39,
+            "y": 425
+        },
+        "textAlign": "LEFT"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Code at home!",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 283,
+        "height": 48,
+        "position": {
+            "x": 48,
+            "y": 559
+        },
+        "textAlign": "CENTER",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 264,
+            "y": 830
+        },
+        "from": {
+            "x": 126,
+            "y": 830
+        },
+        "position": {
+            "x": 126,
+            "y": 830
+        }
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "XL",
+        "text": "Start Now",
+        "color": {
+            "type": "BLACK"
+        },
+        "width": 151,
+        "height": null,
+        "iconSize": null,
+        "position": {
+            "x": 114,
+            "y": 705
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "11 A",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 177.6,
+            "y": 425
+        },
+        "textAlign": "LEFT"
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 288,
+        "height": 324,
+        "position": {
+            "x": 48,
+            "y": 147
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "US",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 119.75,
+            "y": 425
+        },
+        "textAlign": "LEFT"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "efficienty  and effectively",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 84,
+            "y": 620
+        },
+        "textAlign": "CENTER",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "US",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 258,
+            "y": 425
+        },
+        "textAlign": "LEFT"
+    },
+    "children": []
+}
+]

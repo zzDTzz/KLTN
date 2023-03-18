@@ -1,0 +1,2175 @@
+[{
+    "type": "TAG",
+    "data": {
+        "size": "L",
+        "width": 104,
+        "height": 32,
+        "position": {
+            "x": 650,
+            "y": 110
+        }
+    },
+    "children": [
+        {
+            "type": "TAG_ITEM",
+            "data": {
+                "text": "Category 5",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1200,
+        "height": 394,
+        "position": {
+            "x": 120,
+            "y": 640
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 258,
+                "height": 334,
+                "position": {
+                    "x": 314,
+                    "y": 60
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "XL",
+                        "text": "Product title",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 222,
+                        "height": 30,
+                        "position": {
+                            "x": 18,
+                            "y": 202
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": "700"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Subtitle",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 222,
+                        "height": 20,
+                        "position": {
+                            "x": 18,
+                            "y": 182
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TAG",
+                    "data": {
+                        "size": "M",
+                        "width": 222,
+                        "height": null,
+                        "position": {
+                            "x": 18,
+                            "y": 292
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "TAG_ITEM",
+                            "data": {
+                                "text": "Label 2",
+                                "color": {
+                                    "type": "WARNING"
+                                },
+                                "icons": [],
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TAG_ITEM",
+                            "data": {
+                                "text": "Label 1",
+                                "color": {
+                                    "type": "PRIMARY"
+                                },
+                                "icons": [],
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Description about the product: quis nostrud execeriion ullam",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 222,
+                        "height": 40,
+                        "position": {
+                            "x": 18,
+                            "y": 238
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 258,
+                        "height": 168,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Category 2",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "RIGHT"
+                },
+                "size": "M",
+                "text": "View all",
+                "color": {
+                    "type": "BLACK"
+                },
+                "width": 0,
+                "height": null,
+                "position": {
+                    "x": 1095,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 258,
+                "height": 334,
+                "position": {
+                    "x": 0,
+                    "y": 60
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 258,
+                        "height": 168,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Subtitle",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 222,
+                        "height": 20,
+                        "position": {
+                            "x": 18,
+                            "y": 182
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "XL",
+                        "text": "Product title",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 222,
+                        "height": 30,
+                        "position": {
+                            "x": 18,
+                            "y": 202
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": "700"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Description about the product: quis nostrud execeriion ullam",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 222,
+                        "height": 40,
+                        "position": {
+                            "x": 18,
+                            "y": 238
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TAG",
+                    "data": {
+                        "size": "M",
+                        "width": 222,
+                        "height": null,
+                        "position": {
+                            "x": 18,
+                            "y": 292
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "TAG_ITEM",
+                            "data": {
+                                "text": "Label 2",
+                                "color": {
+                                    "type": "SUCCESS"
+                                },
+                                "icons": [],
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TAG_ITEM",
+                            "data": {
+                                "text": "Label 1",
+                                "color": {
+                                    "type": "INFO"
+                                },
+                                "icons": [],
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 258,
+                "height": 334,
+                "position": {
+                    "x": 942,
+                    "y": 60
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "TAG",
+                    "data": {
+                        "size": "M",
+                        "width": 222,
+                        "height": null,
+                        "position": {
+                            "x": 18,
+                            "y": 292
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "TAG_ITEM",
+                            "data": {
+                                "text": "Label 1",
+                                "color": {
+                                    "type": "WARNING"
+                                },
+                                "icons": [],
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TAG_ITEM",
+                            "data": {
+                                "text": "Label 2",
+                                "color": {
+                                    "type": "SUCCESS"
+                                },
+                                "icons": [],
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "XL",
+                        "text": "Product title",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 222,
+                        "height": 30,
+                        "position": {
+                            "x": 18,
+                            "y": 202
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": "700"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 258,
+                        "height": 168,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Description about the product: quis nostrud execeriion ullam",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 222,
+                        "height": 40,
+                        "position": {
+                            "x": 18,
+                            "y": 238
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Subtitle",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 222,
+                        "height": 20,
+                        "position": {
+                            "x": 18,
+                            "y": 182
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 258,
+                "height": 334,
+                "position": {
+                    "x": 628,
+                    "y": 60
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Description about the product: quis nostrud execeriion ullam",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 222,
+                        "height": 40,
+                        "position": {
+                            "x": 18,
+                            "y": 238
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Subtitle",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 222,
+                        "height": 20,
+                        "position": {
+                            "x": 18,
+                            "y": 182
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 258,
+                        "height": 168,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "XL",
+                        "text": "Product title",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 222,
+                        "height": 30,
+                        "position": {
+                            "x": 18,
+                            "y": 202
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": "700"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TAG",
+                    "data": {
+                        "size": "M",
+                        "width": 222,
+                        "height": null,
+                        "position": {
+                            "x": 18,
+                            "y": 292
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "TAG_ITEM",
+                            "data": {
+                                "text": "Label 2",
+                                "color": {
+                                    "type": "SECONDARY"
+                                },
+                                "icons": [],
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TAG_ITEM",
+                            "data": {
+                                "text": "Label 1",
+                                "color": {
+                                    "type": "SUCCESS"
+                                },
+                                "icons": [],
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1200,
+        "height": 394,
+        "position": {
+            "x": 120,
+            "y": 182
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Category 1",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 258,
+                "height": 334,
+                "position": {
+                    "x": 628,
+                    "y": 60
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 258,
+                        "height": 168,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TAG",
+                    "data": {
+                        "size": "M",
+                        "width": 222,
+                        "height": null,
+                        "position": {
+                            "x": 18,
+                            "y": 292
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "TAG_ITEM",
+                            "data": {
+                                "text": "Label 2",
+                                "color": {
+                                    "type": "SECONDARY"
+                                },
+                                "icons": [],
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TAG_ITEM",
+                            "data": {
+                                "text": "Label 1",
+                                "color": {
+                                    "type": "SUCCESS"
+                                },
+                                "icons": [],
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Description about the product: quis nostrud execeriion ullam",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 222,
+                        "height": 40,
+                        "position": {
+                            "x": 18,
+                            "y": 238
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "XL",
+                        "text": "Product title",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 222,
+                        "height": 30,
+                        "position": {
+                            "x": 18,
+                            "y": 202
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": "700"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Subtitle",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 222,
+                        "height": 20,
+                        "position": {
+                            "x": 18,
+                            "y": 182
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 258,
+                "height": 334,
+                "position": {
+                    "x": 0,
+                    "y": 60
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "XL",
+                        "text": "Product title",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 222,
+                        "height": 30,
+                        "position": {
+                            "x": 18,
+                            "y": 202
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": "700"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TAG",
+                    "data": {
+                        "size": "M",
+                        "width": 222,
+                        "height": null,
+                        "position": {
+                            "x": 18,
+                            "y": 292
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "TAG_ITEM",
+                            "data": {
+                                "text": "Label 1",
+                                "color": {
+                                    "type": "INFO"
+                                },
+                                "icons": [],
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TAG_ITEM",
+                            "data": {
+                                "text": "Label 2",
+                                "color": {
+                                    "type": "SUCCESS"
+                                },
+                                "icons": [],
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 258,
+                        "height": 168,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Subtitle",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 222,
+                        "height": 20,
+                        "position": {
+                            "x": 18,
+                            "y": 182
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Description about the product: quis nostrud execeriion ullam",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 222,
+                        "height": 40,
+                        "position": {
+                            "x": 18,
+                            "y": 238
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "RIGHT"
+                },
+                "size": "M",
+                "text": "View all",
+                "color": {
+                    "type": "BLACK"
+                },
+                "width": 0,
+                "height": null,
+                "position": {
+                    "x": 1095,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 258,
+                "height": 334,
+                "position": {
+                    "x": 942,
+                    "y": 60
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 258,
+                        "height": 168,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TAG",
+                    "data": {
+                        "size": "M",
+                        "width": 222,
+                        "height": null,
+                        "position": {
+                            "x": 18,
+                            "y": 292
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "TAG_ITEM",
+                            "data": {
+                                "text": "Label 2",
+                                "color": {
+                                    "type": "SUCCESS"
+                                },
+                                "icons": [],
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TAG_ITEM",
+                            "data": {
+                                "text": "Label 1",
+                                "color": {
+                                    "type": "WARNING"
+                                },
+                                "icons": [],
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Subtitle",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 222,
+                        "height": 20,
+                        "position": {
+                            "x": 18,
+                            "y": 182
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "XL",
+                        "text": "Product title",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 222,
+                        "height": 30,
+                        "position": {
+                            "x": 18,
+                            "y": 202
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": "700"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Description about the product: quis nostrud execeriion ullam",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 222,
+                        "height": 40,
+                        "position": {
+                            "x": 18,
+                            "y": 238
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 258,
+                "height": 334,
+                "position": {
+                    "x": 314,
+                    "y": 60
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "XL",
+                        "text": "Product title",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 222,
+                        "height": 30,
+                        "position": {
+                            "x": 18,
+                            "y": 202
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": "700"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Description about the product: quis nostrud execeriion ullam",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 222,
+                        "height": 40,
+                        "position": {
+                            "x": 18,
+                            "y": 238
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 258,
+                        "height": 168,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TAG",
+                    "data": {
+                        "size": "M",
+                        "width": 222,
+                        "height": null,
+                        "position": {
+                            "x": 18,
+                            "y": 292
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "TAG_ITEM",
+                            "data": {
+                                "text": "Label 2",
+                                "color": {
+                                    "type": "WARNING"
+                                },
+                                "icons": [],
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TAG_ITEM",
+                            "data": {
+                                "text": "Label 1",
+                                "color": {
+                                    "type": "PRIMARY"
+                                },
+                                "icons": [],
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Subtitle",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 222,
+                        "height": 20,
+                        "position": {
+                            "x": 18,
+                            "y": 182
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "icon": {
+            "alignment": "LEFT"
+        },
+        "size": "S",
+        "text": "",
+        "color": {
+            "type": "GRAY"
+        },
+        "width": 32,
+        "height": null,
+        "position": {
+            "x": 1243,
+            "y": 110
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "TAG",
+    "data": {
+        "size": "L",
+        "width": 104,
+        "height": 32,
+        "position": {
+            "x": 413,
+            "y": 110
+        }
+    },
+    "children": [
+        {
+            "type": "TAG_ITEM",
+            "data": {
+                "text": "Category 3",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TAG",
+    "data": {
+        "size": "L",
+        "width": 101,
+        "height": 32,
+        "position": {
+            "x": 180,
+            "y": 110
+        }
+    },
+    "children": [
+        {
+            "type": "TAG_ITEM",
+            "data": {
+                "text": "Category 1",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1440,
+        "height": 44,
+        "position": {
+            "x": 0,
+            "y": 56
+        },
+        "backgroundColor": {
+            "type": "CUSTOM"
+        }
+    },
+    "children": [
+        {
+            "type": "HEADER_MENU",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 1200,
+                "height": 44,
+                "position": {
+                    "x": 120,
+                    "y": 0
+                }
+            },
+            "children": [
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "New releases",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Home",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "More",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Support",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "icon": null,
+                        "text": "Best Sellers",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1440,
+        "height": 56,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Search...",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [
+                    {
+                        "alignment": "LEFT",
+                        "useBorderColor": false
+                    }
+                ],
+                "width": 640,
+                "height": null,
+                "position": {
+                    "x": 400,
+                    "y": 10
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 1296,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1338,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "M",
+                "text": "A",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1380,
+                    "y": 10
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 96,
+                "height": 36,
+                "position": {
+                    "x": 24,
+                    "y": 10
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TAG",
+    "data": {
+        "size": "L",
+        "width": 105,
+        "height": 32,
+        "position": {
+            "x": 1124,
+            "y": 110
+        }
+    },
+    "children": [
+        {
+            "type": "TAG_ITEM",
+            "data": {
+                "text": "Category 9",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TAG",
+    "data": {
+        "size": "L",
+        "width": 104,
+        "height": 32,
+        "position": {
+            "x": 295,
+            "y": 110
+        }
+    },
+    "children": [
+        {
+            "type": "TAG_ITEM",
+            "data": {
+                "text": "Category 2",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TAG",
+    "data": {
+        "size": "L",
+        "width": 104,
+        "height": 32,
+        "position": {
+            "x": 887,
+            "y": 110
+        }
+    },
+    "children": [
+        {
+            "type": "TAG_ITEM",
+            "data": {
+                "text": "Category 7",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TAG",
+    "data": {
+        "size": "L",
+        "width": 46,
+        "height": 32,
+        "position": {
+            "x": 120,
+            "y": 110
+        }
+    },
+    "children": [
+        {
+            "type": "TAG_ITEM",
+            "data": {
+                "text": "All",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TAG",
+    "data": {
+        "size": "L",
+        "width": 105,
+        "height": 32,
+        "position": {
+            "x": 1005,
+            "y": 110
+        }
+    },
+    "children": [
+        {
+            "type": "TAG_ITEM",
+            "data": {
+                "text": "Category 8",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TAG",
+    "data": {
+        "size": "L",
+        "width": 105,
+        "height": 32,
+        "position": {
+            "x": 768,
+            "y": 110
+        }
+    },
+    "children": [
+        {
+            "type": "TAG_ITEM",
+            "data": {
+                "text": "Category 6",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TAG",
+    "data": {
+        "size": "L",
+        "width": 105,
+        "height": 32,
+        "position": {
+            "x": 531,
+            "y": 110
+        }
+    },
+    "children": [
+        {
+            "type": "TAG_ITEM",
+            "data": {
+                "text": "Category 4",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1440,
+        "height": 346,
+        "position": {
+            "x": 0,
+            "y": 1098
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": [
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 1200,
+                "height": 282,
+                "position": {
+                    "x": 120,
+                    "y": 64
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "XS",
+                        "text": "•",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 4,
+                        "height": null,
+                        "position": {
+                            "x": 632,
+                            "y": 237
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Developers",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 144,
+                        "height": 22,
+                        "position": {
+                            "x": 608,
+                            "y": 50
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "L",
+                        "text": "Company",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 144,
+                        "height": 26,
+                        "position": {
+                            "x": 816,
+                            "y": 0
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXTBOX",
+                    "data": {
+                        "size": "M",
+                        "text": "English",
+                        "color": {
+                            "type": "GRAY"
+                        },
+                        "icons": [
+                            {
+                                "alignment": "RIGHT",
+                                "useBorderColor": false
+                            }
+                        ],
+                        "label": "Label",
+                        "width": 128,
+                        "position": {
+                            "x": 0,
+                            "y": 228
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "XS",
+                        "text": "•",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 4,
+                        "height": null,
+                        "position": {
+                            "x": 691,
+                            "y": 237
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "size": "M",
+                        "color": {
+                            "type": "BLACK"
+                        },
+                        "position": {
+                            "x": 1134,
+                            "y": 234
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Help center",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 144,
+                        "height": 22,
+                        "position": {
+                            "x": 1024,
+                            "y": 50
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Resources",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 144,
+                        "height": 26,
+                        "position": {
+                            "x": 400,
+                            "y": 0
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": "700"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Sitemap",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 59,
+                        "height": 22,
+                        "position": {
+                            "x": 701,
+                            "y": 235
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "L",
+                        "text": "Product",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 144,
+                        "height": 26,
+                        "position": {
+                            "x": 192,
+                            "y": 0
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Privacy",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 50,
+                        "height": 22,
+                        "position": {
+                            "x": 576,
+                            "y": 235
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "DIVIDER",
+                    "data": {
+                        "to": {
+                            "x": 1200,
+                            "y": 210
+                        },
+                        "from": {
+                            "x": 0,
+                            "y": 208
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 208
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Features",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 144,
+                        "height": 22,
+                        "position": {
+                            "x": 192,
+                            "y": 50
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Join us",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 144,
+                        "height": 22,
+                        "position": {
+                            "x": 816,
+                            "y": 86
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 128,
+                        "height": 48,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "About",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 144,
+                        "height": 22,
+                        "position": {
+                            "x": 816,
+                            "y": 50
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Chat support",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 144,
+                        "height": 22,
+                        "position": {
+                            "x": 1024,
+                            "y": 86
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Support",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 144,
+                        "height": 26,
+                        "position": {
+                            "x": 1024,
+                            "y": 0
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": "700"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Users",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 144,
+                        "height": 22,
+                        "position": {
+                            "x": 608,
+                            "y": 86
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Pricing",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 144,
+                        "height": 22,
+                        "position": {
+                            "x": 192,
+                            "y": 86
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Blog",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 144,
+                        "height": 22,
+                        "position": {
+                            "x": 400,
+                            "y": 50
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Webinars",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 144,
+                        "height": 22,
+                        "position": {
+                            "x": 400,
+                            "y": 122
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "User guides",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 144,
+                        "height": 22,
+                        "position": {
+                            "x": 400,
+                            "y": 86
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Terms",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 43,
+                        "height": 22,
+                        "position": {
+                            "x": 642,
+                            "y": 235
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "© 2021 Brand, Inc",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 120,
+                        "height": 22,
+                        "position": {
+                            "x": 440,
+                            "y": 235
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "size": "M",
+                        "color": {
+                            "type": "BLACK"
+                        },
+                        "position": {
+                            "x": 1176,
+                            "y": 234
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "size": "M",
+                        "color": {
+                            "type": "BLACK"
+                        },
+                        "position": {
+                            "x": 1092,
+                            "y": 234
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "L",
+                        "text": "Community",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 144,
+                        "height": 26,
+                        "position": {
+                            "x": 608,
+                            "y": 0
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "XS",
+                        "text": "•",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 4,
+                        "height": null,
+                        "position": {
+                            "x": 566,
+                            "y": 237
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+}
+]

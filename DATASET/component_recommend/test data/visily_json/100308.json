@@ -1,0 +1,211 @@
+[{
+    "type": "TEXT",
+    "data": {
+        "text": "THE POLITICS OF RIVERS - HOW EMPIRES ROSE AND FELL ALONG THE MEKONG",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 305,
+        "height": 90,
+        "position": {
+            "x": 1093,
+            "y": 711
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "On a stone near the bottom of the Elbe river in Děčín, Czech Republic engraved a German sentence, \"Wenn du mich siehst, dann weine\", which translates as \"If you see me, weep\".\n\nBesides this rock, there are more than 20 other similar rocks erected in the 15th century along the Elbe river that flows through the Czech Republic and Germany, collectively known as \"The Hunger Stone\" [1] . They will appear when the river nears its bottom, signalling bad omens. Low water level means a major drought and consequently crop failure and famine are imminent; and anyone whose livelihood is dependent on the river will be in dire straits. Between the 15th and 19th century, drought or river depletion was a terrifying form of disaster for Central European farmers, as evidenced by the rocks inscribed with sad words or numbered the years of previous famines. In essence, water had a huge impact on crops and, as a result, could definitely determine their fates.\n\nOn a broader historical scale, water has always played a critical role in human civilization. The most ancient and brilliant civilizations were built in great river basins. The Nile was the cradle of Egyptian and Mesopotamian civilizations, as its name implies, located between the Euphrates and Tigris rivers, the sacred Indus River was the source of Indian civilization; whilst the Chinese civilization arose from the rushing waters of the Yellow River. This way, watercourses aided in the development of the first stable agrarian societies, enriched countries that relied on rivers for commerce and trade, and ensured the smooth operation of modern hydroelectric dams. Water has thus been a key factor in shaping the material world, human culture, and civilizational currents that flowed in the past, are continuing in the present, and will continue into the future.",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 950,
+        "height": 468,
+        "position": {
+            "x": 82,
+            "y": 552
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "THE POLITICS OF RIVERS - HOW EMPIRES ROSE AND FELL ALONG THE MEKONG",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 305,
+        "height": 90,
+        "position": {
+            "x": 1093,
+            "y": 416
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Blogs",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 681,
+            "y": 52
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 970,
+        "height": 314,
+        "position": {
+            "x": 72,
+            "y": 211
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Home",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 577,
+            "y": 52
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "21-11-2021",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 94,
+        "height": 43,
+        "position": {
+            "x": 948,
+            "y": 168
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 305,
+        "height": 192,
+        "position": {
+            "x": 1093,
+            "y": 211
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 305,
+        "height": 192,
+        "position": {
+            "x": 1093,
+            "y": 506
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "About",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 81,
+        "height": 60,
+        "position": {
+            "x": 781,
+            "y": 52
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "You may like",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 1093,
+            "y": 168
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "THE FLOW OF WATER AND THE PROGRESS OF CIVILIZATION",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 196,
+            "y": 128
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 305,
+        "height": 192,
+        "position": {
+            "x": 1093,
+            "y": 795
+        }
+    },
+    "children": []
+}
+]

@@ -1,0 +1,242 @@
+[{
+    "type": "TEXT",
+    "data": {
+        "text": "Population: 1,000,000   Area: 100,000m^2 ",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 357,
+        "height": 28,
+        "position": {
+            "x": 146,
+            "y": 535
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 1440,
+        "height": 900,
+        "position": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 68,
+        "height": 68,
+        "position": {
+            "x": 1338,
+            "y": 640
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 360,
+        "height": 160,
+        "position": {
+            "x": 453,
+            "y": 238
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "M",
+                "text": "",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 0,
+                "height": null,
+                "position": {
+                    "x": 205,
+                    "y": 124
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "M",
+                "text": "",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 0,
+                "height": null,
+                "position": {
+                    "x": 217,
+                    "y": 21
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "L",
+                "text": "",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 0,
+                "height": null,
+                "position": {
+                    "x": 104.5,
+                    "y": 58
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "M",
+                "text": "",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 0,
+                "height": null,
+                "position": {
+                    "x": 0,
+                    "y": 57
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 453,
+        "height": 323,
+        "position": {
+            "x": 105,
+            "y": 450
+        },
+        "backgroundColor": {
+            "type": "CUSTOM"
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 68,
+        "height": 68,
+        "position": {
+            "x": 1338,
+            "y": 721
+        }
+    },
+    "children": []
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 357,
+        "height": 128,
+        "position": {
+            "x": 146,
+            "y": 610
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Ho Chi Minh",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 255,
+            "y": 476
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Detail",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 146,
+            "y": 573
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 66,
+        "height": 66,
+        "position": {
+            "x": 1340,
+            "y": 802
+        }
+    },
+    "children": []
+}
+]

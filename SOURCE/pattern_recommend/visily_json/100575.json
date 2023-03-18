@@ -1,0 +1,127 @@
+[{
+    "type": "CONTAINER",
+    "data": {
+        "width": 773,
+        "height": 344,
+        "position": {
+            "x": 333,
+            "y": 106
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 367,
+                "height": 344,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "L",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 731,
+                    "y": 14
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Welcome!",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 395,
+                    "y": 88
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Anim commodo occaecat commodo ut et velit enim sunt cillum nisi proident veniam. Nulla labore irure dolore excepteur laborum laborum enim irure amet. Nisi sit laborum amet cupidata",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 350,
+                "height": null,
+                "position": {
+                    "x": 395,
+                    "y": 144
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "L",
+                "text": "Go to home",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 126,
+                "height": null,
+                "position": {
+                    "x": 627,
+                    "y": 284
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 690,
+                    "y": 14
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 1440,
+        "height": 900,
+        "position": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    "children": []
+}
+]

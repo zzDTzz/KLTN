@@ -1,0 +1,433 @@
+[{
+    "type": "CONTAINER",
+    "data": {
+        "width": 244,
+        "height": 52,
+        "position": {
+            "x": 36,
+            "y": 213
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 36,
+                "height": 36,
+                "position": {
+                    "x": 11,
+                    "y": 8
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "*****123",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 59,
+                "height": 22,
+                "position": {
+                    "x": 56,
+                    "y": 17
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 244,
+        "height": 52,
+        "position": {
+            "x": 36,
+            "y": 278
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "*****123",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 59,
+                "height": 22,
+                "position": {
+                    "x": 56,
+                    "y": 17
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 36,
+                "height": 36,
+                "position": {
+                    "x": 11,
+                    "y": 8
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 244,
+        "height": 52,
+        "position": {
+            "x": 36,
+            "y": 148
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "*****123",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 56,
+                    "y": 15
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 36,
+                "height": 36,
+                "position": {
+                    "x": 11,
+                    "y": 8
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 320,
+        "height": 96,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "L",
+                "text": "",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 47,
+                "height": null,
+                "position": {
+                    "x": 0,
+                    "y": 46
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Payment",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 284,
+                "height": null,
+                "position": {
+                    "x": 16,
+                    "y": 53
+                },
+                "textAlign": "CENTER",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 320,
+                "height": 40,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 96,
+                        "height": 40,
+                        "position": {
+                            "x": 224,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 72,
+                        "height": 40,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+},
+{
+    "type": "RADIO",
+    "data": {
+        "size": "M",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "label": "Label",
+        "width": 20,
+        "height": null,
+        "position": {
+            "x": 246,
+            "y": 228
+        }
+    },
+    "children": [
+        {
+            "type": "RADIO_ITEM",
+            "data": {
+                "text": "",
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Select Provider",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 114,
+            "y": 109
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "RADIO",
+    "data": {
+        "size": "M",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "label": "Label",
+        "width": 20,
+        "height": null,
+        "position": {
+            "x": 246,
+            "y": 293
+        }
+    },
+    "children": [
+        {
+            "type": "RADIO_ITEM",
+            "data": {
+                "text": "",
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "RADIO",
+    "data": {
+        "size": "M",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "label": "Label",
+        "width": 20,
+        "height": null,
+        "position": {
+            "x": 246,
+            "y": 163
+        }
+    },
+    "children": [
+        {
+            "type": "RADIO_ITEM",
+            "data": {
+                "text": "",
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "RADIO",
+    "data": {
+        "size": "M",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "label": "Label",
+        "width": 20,
+        "height": null,
+        "position": {
+            "x": 246,
+            "y": 358
+        }
+    },
+    "children": [
+        {
+            "type": "RADIO_ITEM",
+            "data": {
+                "text": "",
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "icon": null,
+        "size": "L",
+        "text": "Pay Now",
+        "color": {
+            "type": "GRAY"
+        },
+        "width": 123,
+        "height": null,
+        "position": {
+            "x": 98,
+            "y": 423
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 244,
+        "height": 52,
+        "position": {
+            "x": 36,
+            "y": 343
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 36,
+                "height": 36,
+                "position": {
+                    "x": 11,
+                    "y": 8
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "*****123",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 59,
+                "height": 22,
+                "position": {
+                    "x": 56,
+                    "y": 15
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        }
+    ]
+}
+]

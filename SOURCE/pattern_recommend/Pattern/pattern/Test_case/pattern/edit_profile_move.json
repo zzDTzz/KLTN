@@ -1,0 +1,501 @@
+[
+    {
+        "id": 95767083,
+        "type": "CONTAINER",
+        "boardId": 345056,
+        "data": {
+            "name": "Container 1",
+            "width": 640,
+            "height": 805,
+            "layout": null,
+            "shadow": "XS",
+            "zIndex": 1,
+            "layoutId": "CONTAINERundefined_l9f1ylx4",
+            "position": {
+                "x": 525,
+                "y": 74
+            },
+            "patternId": "2725",
+            "borderDash": "Solid",
+            "borderColor": {
+                "type": "WHITE"
+            },
+            "borderWidth": "NONE",
+            "borderRadius": {
+                "topLeft": "M",
+                "topRight": "M",
+                "bottomLeft": "M",
+                "bottomRight": "M"
+            },
+            "patternFlatten": false,
+            "backgroundColor": {
+                "type": "WHITE"
+            },
+            "anchorPaddingTop": null,
+            "anchorPaddingLeft": null,
+            "anchorPaddingRight": null,
+            "anchorPaddingBottom": null,
+            "shadowUseElementColor": false
+        },
+        "parentId": 94655146,
+        "isDeleted": false,
+        "createdAt": "2022-10-19T03:06:18.444Z",
+        "createdBy": 7100,
+        "updatedAt": "2022-10-19T03:14:55.643Z",
+        "updatedBy": 7100,
+        "children": [
+            {
+                "id": 95767087,
+                "type": "TEXT",
+                "boardId": 345056,
+                "data": {
+                    "bold": true,
+                    "name": "Text 1",
+                    "size": "M",
+                    "text": "Edit profile",
+                    "color": {
+                        "type": "NEUTRAL",
+                        "shade": 900
+                    },
+                    "width": 584,
+                    "height": 48,
+                    "italic": false,
+                    "preset": "Heading",
+                    "zIndex": 1,
+                    "layoutId": "form_title",
+                    "position": {
+                        "x": 28,
+                        "y": 24
+                    },
+                    "textAlign": "LEFT",
+                    "underline": false,
+                    "uppercase": false,
+                    "lineStyles": {}
+                },
+                "parentId": 95767083,
+                "isDeleted": false,
+                "createdAt": "2022-10-19T03:06:18.463Z",
+                "createdBy": 7100,
+                "updatedAt": "2022-10-19T03:06:18.463Z",
+                "updatedBy": 7100,
+                "children": []
+            },
+            {
+                "id": 95767093,
+                "type": "BUTTON",
+                "boardId": 345056,
+                "data": {
+                    "name": "Button 1",
+                    "size": "S",
+                    "text": "Remove",
+                    "color": {
+                        "type": "GRAY"
+                    },
+                    "state": "DEFAULT",
+                    "style": "LINK",
+                    "width": null,
+                    "height": null,
+                    "shadow": "NONE",
+                    "zIndex": 9,
+                    "layoutId": "BUTTON15751",
+                    "position": {
+                        "x": 355,
+                        "y": 205
+                    },
+                    "textShade": null,
+                    "uppercase": false,
+                    "ignoreError": null,
+                    "borderRadius": {
+                        "topLeft": "S",
+                        "topRight": "S",
+                        "bottomLeft": "S",
+                        "bottomRight": "S"
+                    },
+                    "backgroundShade": null,
+                    "anchorPaddingTop": null,
+                    "anchorPaddingLeft": null,
+                    "anchorPaddingRight": null,
+                    "anchorPaddingBottom": null,
+                    "shadowUseElementColor": false
+                },
+                "parentId": 95767083,
+                "isDeleted": false,
+                "createdAt": "2022-10-19T03:06:18.476Z",
+                "createdBy": 7100,
+                "updatedAt": "2022-10-19T03:14:51.762Z",
+                "updatedBy": 7100,
+                "children": []
+            },
+            {
+                "id": 95767088,
+                "type": "TEXT",
+                "boardId": 345056,
+                "data": {
+                    "bold": true,
+                    "name": "Text 1",
+                    "size": "M",
+                    "text": "Profile photo",
+                    "color": {
+                        "type": "NEUTRAL",
+                        "shade": 700
+                    },
+                    "width": 584,
+                    "height": 22,
+                    "italic": false,
+                    "preset": "Body Text",
+                    "zIndex": 3,
+                    "layoutId": "TEXT15747",
+                    "position": {
+                        "x": 28,
+                        "y": 92
+                    },
+                    "textAlign": "LEFT",
+                    "underline": false,
+                    "uppercase": false,
+                    "lineStyles": {}
+                },
+                "parentId": 95767083,
+                "isDeleted": false,
+                "createdAt": "2022-10-19T03:06:18.464Z",
+                "createdBy": 7100,
+                "updatedAt": "2022-10-19T03:06:18.464Z",
+                "updatedBy": 7100,
+                "children": []
+            },
+            {
+                "id": 95767094,
+                "type": "TEXTBOX",
+                "boardId": 345056,
+                "data": {
+                    "name": "Textbox 1",
+                    "size": "M",
+                    "text": "Your email",
+                    "color": {
+                        "type": "GRAY"
+                    },
+                    "icons": [],
+                    "label": "Email",
+                    "state": "default",
+                    "style": "standard",
+                    "width": 584,
+                    "height": null,
+                    "zIndex": 10,
+                    "layoutId": "email_input",
+                    "position": {
+                        "x": 39,
+                        "y": 410
+                    },
+                    "textShade": null,
+                    "labelShade": 650,
+                    "borderShade": null,
+                    "enableLabel": true,
+                    "ignoreError": null,
+                    "borderRadius": {
+                        "topLeft": "M",
+                        "topRight": "M",
+                        "bottomLeft": "M",
+                        "bottomRight": "M"
+                    },
+                    "backgroundShade": null,
+                    "anchorPaddingTop": null,
+                    "anchorPaddingLeft": null,
+                    "enablePlaceholder": true,
+                    "anchorPaddingRight": null,
+                    "anchorPaddingBottom": null,
+                    "placeholderTextShade": null
+                },
+                "parentId": 95767083,
+                "isDeleted": false,
+                "createdAt": "2022-10-19T03:06:18.477Z",
+                "createdBy": 7100,
+                "updatedAt": "2022-10-19T03:14:47.384Z",
+                "updatedBy": 7100,
+                "children": []
+            },
+            {
+                "id": 95767096,
+                "type": "BUTTON",
+                "boardId": 345056,
+                "data": {
+                    "name": "Button 1",
+                    "size": "S",
+                    "text": "Choose image",
+                    "color": {
+                        "type": "PRIMARY"
+                    },
+                    "state": "DEFAULT",
+                    "style": "OUTLINED",
+                    "width": null,
+                    "height": 28,
+                    "shadow": "NONE",
+                    "zIndex": 8,
+                    "layoutId": "BUTTON15750",
+                    "position": {
+                        "x": 233,
+                        "y": 205
+                    },
+                    "textShade": null,
+                    "uppercase": false,
+                    "ignoreError": null,
+                    "borderRadius": {
+                        "topLeft": "S",
+                        "topRight": "S",
+                        "bottomLeft": "S",
+                        "bottomRight": "S"
+                    },
+                    "backgroundShade": null,
+                    "anchorPaddingTop": null,
+                    "anchorPaddingLeft": null,
+                    "anchorPaddingRight": null,
+                    "anchorPaddingBottom": null,
+                    "shadowUseElementColor": false
+                },
+                "parentId": 95767083,
+                "isDeleted": false,
+                "createdAt": "2022-10-19T03:06:18.479Z",
+                "createdBy": 7100,
+                "updatedAt": "2022-10-19T03:14:52.889Z",
+                "updatedBy": 7100,
+                "children": []
+            },
+            {
+                "id": 95767090,
+                "type": "TEXTBOX",
+                "boardId": 345056,
+                "data": {
+                    "name": "Textbox 1",
+                    "size": "M",
+                    "text": "Your full name",
+                    "color": {
+                        "type": "GRAY"
+                    },
+                    "icons": [],
+                    "label": "Full name",
+                    "state": "default",
+                    "style": "standard",
+                    "width": 584,
+                    "height": null,
+                    "zIndex": 2,
+                    "layoutId": "full_name_input",
+                    "position": {
+                        "x": 28,
+                        "y": 319
+                    },
+                    "textShade": null,
+                    "labelShade": 650,
+                    "borderShade": null,
+                    "enableLabel": true,
+                    "ignoreError": null,
+                    "borderRadius": {
+                        "topLeft": "M",
+                        "topRight": "M",
+                        "bottomLeft": "M",
+                        "bottomRight": "M"
+                    },
+                    "backgroundShade": null,
+                    "anchorPaddingTop": null,
+                    "anchorPaddingLeft": null,
+                    "enablePlaceholder": true,
+                    "anchorPaddingRight": null,
+                    "anchorPaddingBottom": null,
+                    "placeholderTextShade": null
+                },
+                "parentId": 95767083,
+                "isDeleted": false,
+                "createdAt": "2022-10-19T03:06:18.470Z",
+                "createdBy": 7100,
+                "updatedAt": "2022-10-19T03:14:49.075Z",
+                "updatedBy": 7100,
+                "children": []
+            },
+            {
+                "id": 95767095,
+                "type": "BUTTON",
+                "boardId": 345056,
+                "data": {
+                    "name": "Button 1",
+                    "size": "M",
+                    "text": "Save profile",
+                    "color": {
+                        "type": "PRIMARY"
+                    },
+                    "state": "DEFAULT",
+                    "style": "SOLID",
+                    "width": 117,
+                    "height": null,
+                    "shadow": "NONE",
+                    "zIndex": 13,
+                    "layoutId": "save_button",
+                    "position": {
+                        "x": 465,
+                        "y": 742
+                    },
+                    "textShade": null,
+                    "uppercase": false,
+                    "ignoreError": null,
+                    "borderRadius": {
+                        "topLeft": "M",
+                        "topRight": "M",
+                        "bottomLeft": "M",
+                        "bottomRight": "M"
+                    },
+                    "backgroundShade": null,
+                    "anchorPaddingTop": null,
+                    "anchorPaddingLeft": null,
+                    "anchorPaddingRight": null,
+                    "anchorPaddingBottom": null,
+                    "shadowUseElementColor": false
+                },
+                "parentId": 95767083,
+                "isDeleted": false,
+                "createdAt": "2022-10-19T03:06:18.475Z",
+                "createdBy": 7100,
+                "updatedAt": "2022-10-19T03:15:04.168Z",
+                "updatedBy": 7100,
+                "children": []
+            },
+            {
+                "id": 95767085,
+                "type": "TEXTAREA",
+                "boardId": 345056,
+                "data": {
+                    "icon": null,
+                    "name": "Textarea 1",
+                    "size": "M",
+                    "text": "Tell something about yourself",
+                    "color": {
+                        "type": "GRAY"
+                    },
+                    "label": "About me ",
+                    "state": "default",
+                    "style": "standard",
+                    "width": 584,
+                    "height": 95,
+                    "zIndex": 5,
+                    "layoutId": "about_input",
+                    "position": {
+                        "x": 28,
+                        "y": 579
+                    },
+                    "textShade": null,
+                    "labelShade": 650,
+                    "borderShade": null,
+                    "enableLabel": true,
+                    "ignoreError": null,
+                    "borderRadius": {
+                        "topLeft": "M",
+                        "topRight": "M",
+                        "bottomLeft": "M",
+                        "bottomRight": "M"
+                    },
+                    "backgroundShade": null,
+                    "anchorPaddingTop": null,
+                    "anchorPaddingLeft": null,
+                    "enablePlaceholder": true,
+                    "anchorPaddingRight": null,
+                    "anchorPaddingBottom": null,
+                    "placeholderTextShade": null
+                },
+                "parentId": 95767083,
+                "isDeleted": false,
+                "createdAt": "2022-10-19T03:06:18.465Z",
+                "createdBy": 7100,
+                "updatedAt": "2022-10-19T03:15:01.486Z",
+                "updatedBy": 7100,
+                "children": []
+            },
+            {
+                "id": 95767086,
+                "type": "IMAGE",
+                "boardId": 345056,
+                "data": {
+                    "name": "Image 1",
+                    "width": 160,
+                    "height": 160,
+                    "shadow": "NONE",
+                    "source": "https://uisprint-user-staging.s3.amazonaws.com/images/060ded63-9014-4ff6-b70d-0f8ce0c11991/232/987f7787-40dd-4448-bdd4-0745bb8a541c.png",
+                    "zIndex": 4,
+                    "layoutId": "IMAGE15745",
+                    "position": {
+                        "x": 44,
+                        "y": 114
+                    },
+                    "vertical": true,
+                    "cropWidth": 9524,
+                    "cropHeight": 9581,
+                    "borderColor": {
+                        "type": "PRIMARY"
+                    },
+                    "borderWidth": "NONE",
+                    "borderRadius": {
+                        "topLeft": "XL",
+                        "topRight": "XL",
+                        "bottomLeft": "XL",
+                        "bottomRight": "XL"
+                    },
+                    "cropPosition": {
+                        "x": 179,
+                        "y": 180
+                    },
+                    "originalWidth": 168,
+                    "originalHeight": 167,
+                    "anchorPaddingTop": null,
+                    "originalPosition": {
+                        "x": -3,
+                        "y": -3
+                    },
+                    "anchorPaddingLeft": null,
+                    "anchorPaddingRight": null,
+                    "anchorPaddingBottom": null
+                },
+                "parentId": 95767083,
+                "isDeleted": false,
+                "createdAt": "2022-10-19T03:06:18.465Z",
+                "createdBy": 7100,
+                "updatedAt": "2022-10-19T03:14:58.732Z",
+                "updatedBy": 7100,
+                "children": []
+            },
+            {
+                "id": 95767084,
+                "type": "TEXT",
+                "boardId": 345056,
+                "data": {
+                    "bold": false,
+                    "name": "Text 1",
+                    "size": "M",
+                    "text": "Upload your photo",
+                    "color": {
+                        "type": "NEUTRAL",
+                        "shade": 900
+                    },
+                    "width": 404,
+                    "height": 22,
+                    "italic": false,
+                    "preset": "Body Text",
+                    "zIndex": 6,
+                    "layoutId": "TEXT15748",
+                    "position": {
+                        "x": 213,
+                        "y": 128
+                    },
+                    "textAlign": "LEFT",
+                    "underline": false,
+                    "uppercase": false,
+                    "lineStyles": {},
+                    "anchorPaddingTop": null,
+                    "anchorPaddingLeft": null,
+                    "anchorPaddingRight": null,
+                    "anchorPaddingBottom": null
+                },
+                "parentId": 95767083,
+                "isDeleted": false,
+                "createdAt": "2022-10-19T03:06:18.465Z",
+                "createdBy": 7100,
+                "updatedAt": "2022-10-19T03:14:57.448Z",
+                "updatedBy": 7100,
+                "children": []
+            }
+        ]
+    }
+]

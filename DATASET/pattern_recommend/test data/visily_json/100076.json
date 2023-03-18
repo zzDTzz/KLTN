@@ -1,0 +1,601 @@
+[{
+    "type": "CONTAINER",
+    "data": {
+        "width": 768,
+        "height": 438,
+        "position": {
+            "x": 482,
+            "y": 176
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXTAREA",
+            "data": {
+                "icon": null,
+                "size": "M",
+                "text": "Input text",
+                "color": {
+                    "type": "GRAY"
+                },
+                "label": "Bio",
+                "width": 720,
+                "position": {
+                    "x": 24,
+                    "y": 311
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Diam, pelm eu vivamus donec erat.",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 720,
+                "height": 18,
+                "position": {
+                    "x": 24,
+                    "y": 70
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Profile",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 720,
+                "height": 34,
+                "position": {
+                    "x": 24,
+                    "y": 20
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Your full name",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "label": "Full name",
+                "width": 352,
+                "position": {
+                    "x": 24,
+                    "y": 104
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "DROPDOWN_BUTTON",
+            "data": {
+                "icon": null,
+                "size": "M",
+                "text": "-Select your title-",
+                "color": {
+                    "type": "GRAY"
+                },
+                "label": "Profession",
+                "width": 720,
+                "position": {
+                    "x": 24,
+                    "y": 173
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "DROPDOWN_BUTTON",
+            "data": {
+                "icon": null,
+                "size": "M",
+                "text": "Dropdown",
+                "color": {
+                    "type": "GRAY"
+                },
+                "label": "Location",
+                "width": 720,
+                "position": {
+                    "x": 24,
+                    "y": 242
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Your username",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "label": "Username",
+                "width": 352,
+                "position": {
+                    "x": 392,
+                    "y": 104
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 768,
+        "height": 200,
+        "position": {
+            "x": 482,
+            "y": 630
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Account",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 688,
+                "height": 34,
+                "position": {
+                    "x": 24,
+                    "y": 20
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Email ",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 720,
+                "height": 20,
+                "position": {
+                    "x": 24,
+                    "y": 88
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "************ ",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 720,
+                "height": 18,
+                "position": {
+                    "x": 24,
+                    "y": 162
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "S",
+                "text": "Activate!",
+                "color": {
+                    "type": "WARNING"
+                },
+                "width": 65,
+                "height": null,
+                "position": {
+                    "x": 664,
+                    "y": 86
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Password",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 720,
+                "height": 20,
+                "position": {
+                    "x": 24,
+                    "y": 142
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Diam, pelm eu vivamus donec erat.",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 688,
+                "height": 18,
+                "position": {
+                    "x": 24,
+                    "y": 54
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "example.email@gmail.com",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 720,
+                "height": 18,
+                "position": {
+                    "x": 24,
+                    "y": 108
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "S",
+                "text": "Change password",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 65,
+                "height": null,
+                "position": {
+                    "x": 624,
+                    "y": 138
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 768,
+        "height": 200,
+        "position": {
+            "x": 482,
+            "y": 854
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Receive montly product updates ",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 412,
+                "height": 20,
+                "position": {
+                    "x": 44,
+                    "y": 88
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequa",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 412,
+                "height": 18,
+                "position": {
+                    "x": 44,
+                    "y": 108
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequa",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 412,
+                "height": 18,
+                "position": {
+                    "x": 44,
+                    "y": 162
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "CHECKBOX",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "label": "Label",
+                "width": 20,
+                "height": 38,
+                "position": {
+                    "x": 24,
+                    "y": 142
+                }
+            },
+            "children": [
+                {
+                    "type": "CHECKBOX_ITEM",
+                    "data": {
+                        "text": "",
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "See info about people who view my profile ",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 412,
+                "height": 20,
+                "position": {
+                    "x": 44,
+                    "y": 142
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "CHECKBOX",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "label": "Label",
+                "width": 38,
+                "height": 38,
+                "position": {
+                    "x": 24,
+                    "y": 88
+                }
+            },
+            "children": [
+                {
+                    "type": "CHECKBOX_ITEM",
+                    "data": {
+                        "text": "",
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Diam, pelm eu vivamus donec erat.",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 720,
+                "position": {
+                    "x": 24,
+                    "y": 54
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Preferences",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 720,
+                "height": 34,
+                "position": {
+                    "x": 24,
+                    "y": 20
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "size": "M",
+        "text": "Settings",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 768,
+        "height": 42,
+        "position": {
+            "x": 482,
+            "y": 80
+        },
+        "textAlign": "LEFT"
+    },
+    "children": []
+},
+{
+    "type": "HEADER_MENU",
+    "data": {
+        "size": "M",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 768,
+        "height": 28,
+        "position": {
+            "x": 482,
+            "y": 128
+        }
+    },
+    "children": [
+        {
+            "type": "HEADER_MENU_ITEM",
+            "data": {
+                "text": "Notifications",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "HEADER_MENU_ITEM",
+            "data": {
+                "text": "General ",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "HEADER_MENU_ITEM",
+            "data": {
+                "text": "Language and Region",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "HEADER_MENU_ITEM",
+            "data": {
+                "text": "Security",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "HEADER_MENU_ITEM",
+            "data": {
+                "text": "Billings ",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "HEADER_MENU_ITEM",
+            "data": {
+                "text": "Members",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+}
+]

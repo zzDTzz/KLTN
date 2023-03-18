@@ -1,0 +1,682 @@
+[{
+    "type": "TEXTBOX",
+    "data": {
+        "size": "M",
+        "text": "Search",
+        "color": {
+            "type": "GRAY"
+        },
+        "icons": [
+            {
+                "alignment": "LEFT"
+            }
+        ],
+        "label": "Label",
+        "width": 394,
+        "height": 30,
+        "position": {
+            "x": 17,
+            "y": 42
+        },
+        "labelTextSize": null,
+        "backgroundColor": {
+            "type": "CUSTOM"
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "My Lists",
+        "color": {
+            "type": "WHITE"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 18,
+            "y": 279
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "600"
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "icon": {
+            "alignment": "LEFT"
+        },
+        "size": "M",
+        "text": "New Reminder",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 0,
+        "iconSize": null,
+        "position": {
+            "x": 0,
+            "y": 890
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "icon": null,
+        "size": "M",
+        "text": "Add List",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 0,
+        "iconSize": null,
+        "position": {
+            "x": 350,
+            "y": 890
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "GROUP",
+    "data": {
+        "width": 180,
+        "height": 82,
+        "position": {
+            "x": 30,
+            "y": 189
+        }
+    },
+    "children": [
+        {
+            "type": "RECTANGLE",
+            "data": {
+                "width": 180,
+                "height": 82,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": {
+                    "type": "CUSTOM"
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "6",
+                "color": {
+                    "type": "WHITE"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 148,
+                    "y": 1
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "GROUP",
+            "data": {
+                "width": 34,
+                "height": 34,
+                "position": {
+                    "x": 10,
+                    "y": 8
+                }
+            },
+            "children": [
+                {
+                    "type": "ICON",
+                    "data": {
+                        "color": {
+                            "type": "WHITE"
+                        },
+                        "position": {
+                            "x": 5,
+                            "y": 5
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "OVAL",
+                    "data": {
+                        "width": 34,
+                        "height": 34,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": {
+                            "type": "NEUTRAL"
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "All",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 10,
+                    "y": 50
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "600"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "icon": null,
+        "size": "M",
+        "text": "Edit",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 0,
+        "iconSize": null,
+        "position": {
+            "x": 379,
+            "y": 0
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "icon": {
+            "alignment": "RIGHT"
+        },
+        "size": "M",
+        "text": "2",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 0,
+        "iconSize": null,
+        "position": {
+            "x": 329,
+            "y": 334
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 383,
+            "y": 378
+        },
+        "from": {
+            "x": 44,
+            "y": 378
+        },
+        "position": {
+            "x": 44,
+            "y": 378
+        }
+    },
+    "children": []
+},
+{
+    "type": "GROUP",
+    "data": {
+        "width": 180,
+        "height": 82,
+        "position": {
+            "x": 28,
+            "y": 94
+        }
+    },
+    "children": [
+        {
+            "type": "GROUP",
+            "data": {
+                "width": 34,
+                "height": 34,
+                "position": {
+                    "x": 10,
+                    "y": 8
+                }
+            },
+            "children": [
+                {
+                    "type": "GROUP",
+                    "data": {
+                        "width": 24,
+                        "height": 24,
+                        "position": {
+                            "x": 5,
+                            "y": 5
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "text": "13",
+                                "color": {
+                                    "type": "WHITE"
+                                },
+                                "width": null,
+                                "height": null,
+                                "position": {
+                                    "x": 7,
+                                    "y": 8
+                                },
+                                "textAlign": "LEFT",
+                                "fontWeight": "700"
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "ICON",
+                            "data": {
+                                "color": {
+                                    "type": "WHITE"
+                                },
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "OVAL",
+                    "data": {
+                        "width": 34,
+                        "height": 34,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": {
+                            "type": "INFO"
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Today",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 10,
+                    "y": 50
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "600"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "2",
+                "color": {
+                    "type": "WHITE"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 148,
+                    "y": 1
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "RECTANGLE",
+            "data": {
+                "width": 180,
+                "height": 82,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": {
+                    "type": "CUSTOM"
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "daily stuff",
+        "color": {
+            "type": "WHITE"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 83,
+            "y": 341
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "GROUP",
+    "data": {
+        "width": 180,
+        "height": 82,
+        "position": {
+            "x": 28,
+            "y": 322
+        }
+    },
+    "children": [
+        {
+            "type": "RECTANGLE",
+            "data": {
+                "width": 370,
+                "height": 111,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": {
+                    "type": "CUSTOM"
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "GROUP",
+            "data": {
+                "width": 34,
+                "height": 30,
+                "position": {
+                    "x": 10,
+                    "y": 11
+                }
+            },
+            "children": [
+                {
+                    "type": "OVAL",
+                    "data": {
+                        "width": 34,
+                        "height": 34,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": {
+                            "type": "INFO"
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "color": {
+                            "type": "WHITE"
+                        },
+                        "position": {
+                            "x": 5,
+                            "y": 5
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+},
+{
+    "type": "GROUP",
+    "data": {
+        "width": 180,
+        "height": 82,
+        "position": {
+            "x": 220,
+            "y": 94
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "2",
+                "color": {
+                    "type": "WHITE"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 148,
+                    "y": 1
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Scheduled",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 10,
+                    "y": 50
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "600"
+            },
+            "children": []
+        },
+        {
+            "type": "GROUP",
+            "data": {
+                "width": 34,
+                "height": 34,
+                "position": {
+                    "x": 10,
+                    "y": 8
+                }
+            },
+            "children": [
+                {
+                    "type": "ICON",
+                    "data": {
+                        "color": {
+                            "type": "WHITE"
+                        },
+                        "position": {
+                            "x": 5,
+                            "y": 5
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "OVAL",
+                    "data": {
+                        "width": 34,
+                        "height": 34,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": {
+                            "type": "DANGER"
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "RECTANGLE",
+            "data": {
+                "width": 180,
+                "height": 82,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": {
+                    "type": "CUSTOM"
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "GROUP",
+    "data": {
+        "width": 180,
+        "height": 82,
+        "position": {
+            "x": 220,
+            "y": 189
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "0",
+                "color": {
+                    "type": "WHITE"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 148,
+                    "y": 1
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Flagged",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 10,
+                    "y": 50
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "600"
+            },
+            "children": []
+        },
+        {
+            "type": "GROUP",
+            "data": {
+                "width": 34,
+                "height": 34,
+                "position": {
+                    "x": 10,
+                    "y": 8
+                }
+            },
+            "children": [
+                {
+                    "type": "OVAL",
+                    "data": {
+                        "width": 34,
+                        "height": 34,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": {
+                            "type": "WARNING"
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "color": {
+                            "type": "WHITE"
+                        },
+                        "position": {
+                            "x": 5,
+                            "y": 5
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "RECTANGLE",
+            "data": {
+                "width": 180,
+                "height": 82,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": {
+                    "type": "CUSTOM"
+                }
+            },
+            "children": []
+        }
+    ]
+}
+]

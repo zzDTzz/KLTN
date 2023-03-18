@@ -1,0 +1,14 @@
+[
+    {
+        "type": "IMAGE",
+        "data": {
+            "width": 390,
+            "height": 844,
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "children": []
+    }
+]

@@ -1,0 +1,552 @@
+[{
+    "type": "TEXT",
+    "data": {
+        "text": "Balance: 2147000 USDT",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 260,
+        "height": 22,
+        "position": {
+            "x": 803,
+            "y": 609
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXTBOX",
+    "data": {
+        "size": "M",
+        "text": "10000",
+        "color": {
+            "type": "GRAY"
+        },
+        "icons": [],
+        "label": "Price",
+        "width": 470,
+        "height": 51,
+        "position": {
+            "x": 790,
+            "y": 550
+        },
+        "labelTextSize": null,
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": " 0 USDT",
+        "color": {
+            "type": "WHITE"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 1185,
+            "y": 752
+        },
+        "textAlign": "RIGHT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "SPACE X",
+        "color": {
+            "type": "WHITE"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 66,
+            "y": 20
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "800"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Welcome to",
+        "color": {
+            "type": "WHITE"
+        },
+        "width": 628,
+        "height": 260,
+        "position": {
+            "x": 389,
+            "y": 125
+        },
+        "textAlign": "CENTER",
+        "fontWeight": "600"
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 1440,
+        "height": 1178,
+        "position": {
+            "x": 0,
+            "y": 64
+        }
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "Buy Now",
+        "color": {
+            "type": "WHITE"
+        },
+        "width": 470,
+        "height": null,
+        "iconSize": null,
+        "position": {
+            "x": 790,
+            "y": 868
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 1260,
+            "y": 846
+        },
+        "from": {
+            "x": 790,
+            "y": 846
+        },
+        "position": {
+            "x": 790,
+            "y": 846
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "USDT",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 1193,
+            "y": 565
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 1260,
+            "y": 681
+        },
+        "from": {
+            "x": 790,
+            "y": 681
+        },
+        "position": {
+            "x": 790,
+            "y": 681
+        }
+    },
+    "children": []
+},
+{
+    "type": "GROUP",
+    "data": {
+        "width": 291,
+        "height": 194,
+        "position": {
+            "x": 224,
+            "y": 385
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Space X ",
+                "color": {
+                    "type": "WHITE"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 15,
+                    "y": 153
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 291,
+                "height": 194,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "color": {
+                    "type": "WHITE"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 251,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Balance: 1235 KAAY",
+                "color": {
+                    "type": "WHITE"
+                },
+                "width": 260,
+                "height": 22,
+                "position": {
+                    "x": 15,
+                    "y": 120
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Address: 0x724D ... 3DCE",
+                "color": {
+                    "type": "WHITE"
+                },
+                "width": 258,
+                "height": 22,
+                "position": {
+                    "x": 17,
+                    "y": 97
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "GROUP",
+            "data": {
+                "width": 62,
+                "height": 62,
+                "position": {
+                    "x": 7,
+                    "y": 9
+                }
+            },
+            "children": [
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 46,
+                        "height": 46,
+                        "position": {
+                            "x": 8,
+                            "y": 8
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "color": {
+                            "type": "WHITE"
+                        },
+                        "width": 62,
+                        "height": 62,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 548,
+        "height": 548,
+        "position": {
+            "x": 751,
+            "y": 394
+        },
+        "backgroundColor": {
+            "type": "CUSTOM"
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "SPACE X",
+        "color": {
+            "type": "WHITE"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 472,
+            "y": 207
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "800"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Total",
+        "color": {
+            "type": "WHITE"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 803,
+            "y": 752
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "KAAY",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 1193,
+            "y": 464
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "GROUP",
+    "data": {
+        "width": 430,
+        "height": 242,
+        "position": {
+            "x": 149,
+            "y": 609
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Exchange Rate",
+                "color": {
+                    "type": "WHITE"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 138,
+                    "y": 139
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 408,
+                    "y": 121
+                },
+                "from": {
+                    "x": 21,
+                    "y": 121
+                },
+                "position": {
+                    "x": 21,
+                    "y": 121
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Available / Total Supply",
+                "color": {
+                    "type": "WHITE"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 98,
+                    "y": 21
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "RECTANGLE",
+            "data": {
+                "width": 430,
+                "height": 242,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": {
+                    "type": "CUSTOM"
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "23765/25000",
+                "color": {
+                    "type": "WHITE"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 149,
+                    "y": 69
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "0.03",
+                "color": {
+                    "type": "WHITE"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 194,
+                    "y": 187
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXTBOX",
+    "data": {
+        "size": "M",
+        "text": "0",
+        "color": {
+            "type": "GRAY"
+        },
+        "icons": [],
+        "label": "Size",
+        "width": 470,
+        "height": 51,
+        "position": {
+            "x": 790,
+            "y": 449
+        },
+        "labelTextSize": null,
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "Connect Wallet",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 230,
+        "height": null,
+        "iconSize": null,
+        "position": {
+            "x": 1114,
+            "y": 20
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 1440,
+        "height": 75,
+        "position": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    "children": []
+}
+]

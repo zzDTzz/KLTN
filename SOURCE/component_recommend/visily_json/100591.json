@@ -1,0 +1,272 @@
+[{
+    "type": "SWITCH",
+    "data": {
+        "size": "S",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "position": {
+            "x": 289,
+            "y": 443
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "position": {
+            "x": 307,
+            "y": 309
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "position": {
+            "x": 307,
+            "y": 165
+        }
+    },
+    "children": []
+},
+{
+    "type": "SWITCH",
+    "data": {
+        "size": "S",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "position": {
+            "x": 294,
+            "y": 248
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "position": {
+            "x": 12,
+            "y": 16
+        }
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "XL",
+        "text": "Save",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 0,
+        "height": null,
+        "iconSize": null,
+        "position": {
+            "x": 147,
+            "y": 653
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Account",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 58,
+            "y": 120
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "SIDEBAR_MENU",
+    "data": {
+        "size": "L",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 273,
+        "height": 194,
+        "position": {
+            "x": 42,
+            "y": 425
+        }
+    },
+    "children": [
+        {
+            "type": "SIDEBAR_MENU_ITEM",
+            "data": {
+                "icon": null,
+                "size": null,
+                "text": "Show my followers  count",
+                "color": null,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "SIDEBAR_MENU_ITEM",
+            "data": {
+                "icon": null,
+                "size": null,
+                "text": "Blocked Groups",
+                "color": null,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Privacy",
+        "color": {
+            "type": "INFO"
+        },
+        "width": 175,
+        "height": 68,
+        "position": {
+            "x": 42,
+            "y": 28
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "position": {
+            "x": 303,
+            "y": 512
+        }
+    },
+    "children": []
+},
+{
+    "type": "SIDEBAR_MENU",
+    "data": {
+        "size": "L",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 273,
+        "height": 194,
+        "position": {
+            "x": 46,
+            "y": 157
+        }
+    },
+    "children": [
+        {
+            "type": "SIDEBAR_MENU_ITEM",
+            "data": {
+                "icon": null,
+                "size": null,
+                "text": "Show my account in search",
+                "color": null,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "SIDEBAR_MENU_ITEM",
+            "data": {
+                "icon": null,
+                "size": null,
+                "text": "Blocked Groups",
+                "color": null,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "SIDEBAR_MENU_ITEM",
+            "data": {
+                "icon": null,
+                "size": null,
+                "text": "Account Privacy",
+                "color": null,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 304,
+        "height": 481,
+        "position": {
+            "x": 36,
+            "y": 110
+        },
+        "backgroundColor": {
+            "type": "PRIMARY"
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Followers",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 58,
+            "y": 379
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+}
+]

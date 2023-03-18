@@ -1,0 +1,62 @@
+[{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 262,
+        "height": 200,
+        "position": {
+            "x": 54,
+            "y": 257
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Welcome",
+        "color": {
+            "type": "INFO"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 109,
+            "y": 286
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 837,
+        "height": 801,
+        "position": {
+            "x": -8,
+            "y": 0
+        }
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "Go to Home",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 0,
+        "position": {
+            "x": 136,
+            "y": 401
+        }
+    },
+    "children": []
+}
+]

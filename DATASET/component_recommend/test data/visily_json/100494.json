@@ -1,0 +1,737 @@
+[{
+    "type": "CONTAINER",
+    "data": {
+        "width": 256,
+        "height": 1302,
+        "position": {
+            "x": 0,
+            "y": 56
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": [
+        {
+            "type": "SIDEBAR_MENU",
+            "data": {
+                "size": "L",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 224,
+                "height": 1444,
+                "position": {
+                    "x": 16,
+                    "y": 8
+                }
+            },
+            "children": [
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Billing & Payment",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Notifications",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Security ",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "My profile",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "text": "Language & Region",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 816,
+        "height": 355,
+        "position": {
+            "x": 433,
+            "y": 581
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "GROUP",
+            "data": {
+                "width": 564,
+                "height": 314,
+                "position": {
+                    "x": 126,
+                    "y": 20.5
+                }
+            },
+            "children": [
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "text": "2-Step Authentication",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 508,
+                        "height": 75,
+                        "position": {
+                            "x": 28,
+                            "y": 0
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": "700"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Add extra security layer to your account with a second authentication step",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 508,
+                        "height": 22,
+                        "position": {
+                            "x": 28,
+                            "y": 77
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                },
+                {
+                    "type": "CONTAINER",
+                    "data": {
+                        "width": 564,
+                        "height": 199,
+                        "position": {
+                            "x": 0,
+                            "y": 115
+                        },
+                        "backgroundColor": {
+                            "type": "WHITE"
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "BUTTON",
+                            "data": {
+                                "size": "M",
+                                "text": "Activate authentication",
+                                "color": {
+                                    "type": "PRIMARY"
+                                },
+                                "width": 0,
+                                "height": null,
+                                "position": {
+                                    "x": 359,
+                                    "y": 139
+                                }
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "text": "2-Step authentication is off",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": 508,
+                                "height": 22,
+                                "position": {
+                                    "x": 28,
+                                    "y": 24
+                                },
+                                "textAlign": "LEFT",
+                                "fontWeight": "400"
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "DIVIDER",
+                            "data": {
+                                "to": {
+                                    "x": 536,
+                                    "y": 63
+                                },
+                                "from": {
+                                    "x": 28,
+                                    "y": 62
+                                },
+                                "position": {
+                                    "x": 28,
+                                    "y": 62
+                                }
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "M",
+                                "text": "If we detect a sign-in from an unknown device or browser, we’ll ask for password and a verification code.",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": 464,
+                                "height": 44,
+                                "position": {
+                                    "x": 72,
+                                    "y": 79
+                                },
+                                "textAlign": "LEFT"
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "ICON",
+                            "data": {
+                                "size": "L",
+                                "color": {
+                                    "type": "PRIMARY"
+                                },
+                                "width": null,
+                                "height": null,
+                                "position": {
+                                    "x": 28,
+                                    "y": 85
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1440,
+        "height": 56,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "HEADER_MENU",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 309,
+                "height": null,
+                "position": {
+                    "x": 140,
+                    "y": 2
+                }
+            },
+            "children": [
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Projects",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Settings",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "icon": null,
+                        "text": "Browse",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Home",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1344,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1264,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "M",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1384,
+                    "y": 10
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1304,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 96,
+                "height": 36,
+                "position": {
+                    "x": 20,
+                    "y": 10
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Search...",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [
+                    {
+                        "alignment": "LEFT",
+                        "useBorderColor": false
+                    }
+                ],
+                "width": 256,
+                "height": null,
+                "position": {
+                    "x": 992,
+                    "y": 10
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 816,
+        "height": 400,
+        "position": {
+            "x": 433,
+            "y": 134
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "GROUP",
+            "data": {
+                "width": 508,
+                "height": 360,
+                "position": {
+                    "x": 154,
+                    "y": 20
+                }
+            },
+            "children": [
+                {
+                    "type": "TEXTBOX",
+                    "data": {
+                        "size": "M",
+                        "text": "Confirm new password",
+                        "color": {
+                            "type": "GRAY"
+                        },
+                        "icons": [
+                            {
+                                "alignment": "RIGHT",
+                                "useBorderColor": true
+                            }
+                        ],
+                        "label": "Confirm new password",
+                        "width": 508,
+                        "position": {
+                            "x": 0,
+                            "y": 241
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "BUTTON",
+                    "data": {
+                        "size": "M",
+                        "text": "Change password",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": 0,
+                        "height": null,
+                        "position": {
+                            "x": 182.5,
+                            "y": 324
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXTBOX",
+                    "data": {
+                        "size": "M",
+                        "text": "Enter current password",
+                        "color": {
+                            "type": "GRAY"
+                        },
+                        "icons": [
+                            {
+                                "alignment": "RIGHT",
+                                "useBorderColor": true
+                            }
+                        ],
+                        "label": "Current password",
+                        "width": 508,
+                        "position": {
+                            "x": 0,
+                            "y": 75
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXTBOX",
+                    "data": {
+                        "size": "M",
+                        "text": "Enter new password",
+                        "color": {
+                            "type": "GRAY"
+                        },
+                        "icons": [
+                            {
+                                "alignment": "RIGHT",
+                                "useBorderColor": true
+                            }
+                        ],
+                        "label": "New password",
+                        "width": 508,
+                        "position": {
+                            "x": 0,
+                            "y": 158
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "text": "Password",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 508,
+                        "height": 48,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": "700"
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 816,
+        "height": 263,
+        "position": {
+            "x": 434,
+            "y": 1004
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "GROUP",
+            "data": {
+                "width": 508,
+                "height": 208,
+                "position": {
+                    "x": 154,
+                    "y": 27.5
+                }
+            },
+            "children": [
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "XS",
+                        "text": "Deactivate",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 508,
+                        "height": 30,
+                        "position": {
+                            "x": 0,
+                            "y": 76
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "text": "Danger Zone",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 508,
+                        "height": 75,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": "700"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "CONTAINER",
+                    "data": {
+                        "width": 508,
+                        "height": 84,
+                        "position": {
+                            "x": 0,
+                            "y": 124
+                        },
+                        "backgroundColor": {
+                            "type": "WHITE"
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "GROUP",
+                            "data": {
+                                "width": 461,
+                                "height": 36,
+                                "position": {
+                                    "x": 23.5,
+                                    "y": 24
+                                }
+                            },
+                            "children": [
+                                {
+                                    "type": "BUTTON",
+                                    "data": {
+                                        "size": "M",
+                                        "text": "Deactivate account",
+                                        "color": {
+                                            "type": "DANGER"
+                                        },
+                                        "width": 144,
+                                        "height": 36,
+                                        "position": {
+                                            "x": 309,
+                                            "y": 0
+                                        },
+                                        "backgroundColor": null
+                                    },
+                                    "children": []
+                                },
+                                {
+                                    "type": "TEXT",
+                                    "data": {
+                                        "size": "M",
+                                        "text": "You can reactivate whenever you want.",
+                                        "color": {
+                                            "type": "NEUTRAL"
+                                        },
+                                        "width": 276,
+                                        "height": 22,
+                                        "position": {
+                                            "x": 0,
+                                            "y": 7
+                                        },
+                                        "textAlign": "LEFT",
+                                        "fontWeight": null
+                                    },
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
+]

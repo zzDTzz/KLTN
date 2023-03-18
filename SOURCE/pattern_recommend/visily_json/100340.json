@@ -1,0 +1,211 @@
+[{
+    "type": "BUTTON",
+    "data": {
+        "icon": null,
+        "size": "XS",
+        "text": "MONTH",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 112,
+        "height": null,
+        "position": {
+            "x": 243,
+            "y": 158
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "icon": null,
+        "size": "XS",
+        "text": "DAY",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 112,
+        "height": null,
+        "position": {
+            "x": 22,
+            "y": 158
+        }
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "icon": null,
+        "size": "XS",
+        "text": "WEEK",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 112,
+        "height": null,
+        "position": {
+            "x": 132,
+            "y": 158
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 8,
+        "height": 8,
+        "position": {
+            "x": 130,
+            "y": 442
+        },
+        "backgroundColor": {
+            "type": "PRIMARY"
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 375,
+        "height": 119,
+        "position": {
+            "x": 0,
+            "y": -7
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 375,
+                "height": 40,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 96,
+                        "height": 40,
+                        "position": {
+                            "x": 279,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 72,
+                        "height": 40,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Expense chart",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 284,
+                "height": null,
+                "position": {
+                    "x": 49,
+                    "y": 55
+                },
+                "textAlign": "CENTER",
+                "fontWeight": "700"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "size": "XS",
+        "text": "Expense",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 144,
+            "y": 436
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "COLUMN_BAR_CHART",
+    "data": {
+        "width": 335,
+        "height": 218,
+        "position": {
+            "x": 20,
+            "y": 204
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "size": "XS",
+        "text": "Receipt",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 220,
+            "y": 436
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 8,
+        "height": 8,
+        "position": {
+            "x": 206,
+            "y": 442
+        },
+        "backgroundColor": {
+            "type": "PRIMARY"
+        }
+    },
+    "children": []
+}
+]

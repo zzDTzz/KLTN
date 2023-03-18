@@ -1,0 +1,68 @@
+[
+    {
+        "type": "TEXT" 
+    },
+    {
+        "type":"GROUP"
+    },
+    {
+        "type": "CONTAINER"
+    },
+    {
+        "type": "HEADER_MENU"
+    },
+    {
+        "type": "HEADER_MENU_ITEM"
+    },
+    {
+        "type": "TABBAR_MENU"
+    },
+    {
+        "type": "TABBAR_MENU_ITEM"
+    },
+    {
+        "type": "COLLAPSED_SIDEBAR_MENU"
+    },
+    {
+        "type": "COLLAPSED_SIDEBAR_MENU_ITEM"
+    },
+    {
+        "type": "SIDEBAR_MENU"
+    },
+    {
+        "type": "SIDEBAR_MENU_ITEM"
+    },
+    {
+        "type": "RADIO"
+
+    },
+    {
+        "type": "OVAL"
+
+    },
+    {
+        "type": "RATING"
+
+    },
+    {
+        "type":"SLIDER"
+    },
+    {
+        "type":"TAG"
+    },
+    {
+        "type":"TAG_ITEM"
+    },
+    {
+        "type":"COLUMN_BAR_CHART"
+    },
+    {
+        "type":"SWITCH"
+    },
+    {
+        "type":"CHECKBOX_ITEM"
+    },
+    {
+        "type":"RADIO_ITEM"
+    }
+]

@@ -1,0 +1,5 @@
+input,components_of_pattern,name_pattern
+"['AVATAR', 'TEXT', 'BUTTON']",B,U
+"['AVATAR', 'TEXT', 'BUTTON']",N,o
+"['CHECKBOX', 'TEXT', 'BUTTON']",B,U
+"['CHECKBOX', 'TEXT', 'BUTTON']",Sign in 1,['BUTTON' 'TEXTBOX' 'TEXT' 'DIVIDER' 'CHECKBOX']

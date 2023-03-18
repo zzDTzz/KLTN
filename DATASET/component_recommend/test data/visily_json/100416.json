@@ -1,0 +1,183 @@
+[{
+    "type": "OVAL",
+    "data": {
+        "width": 274,
+        "height": 274,
+        "position": {
+            "x": 185,
+            "y": 623
+        },
+        "backgroundColor": {
+            "type": "PRIMARY"
+        }
+    },
+    "children": []
+},
+{
+    "type": "OVAL",
+    "data": {
+        "width": 64,
+        "height": 64,
+        "position": {
+            "x": 98,
+            "y": 170
+        },
+        "backgroundColor": {
+            "type": "PRIMARY"
+        }
+    },
+    "children": []
+},
+{
+    "type": "GROUP",
+    "data": {
+        "width": 82,
+        "height": 12,
+        "position": {
+            "x": 33,
+            "y": 538
+        }
+    },
+    "children": [
+        {
+            "type": "ICON",
+            "data": {
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 12,
+                "height": 12,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 12,
+                "height": 12,
+                "position": {
+                    "x": 70,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 12,
+                "height": 12,
+                "position": {
+                    "x": 35,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "GROUP",
+    "data": {
+        "width": 304,
+        "height": 224,
+        "position": {
+            "x": 33,
+            "y": 295
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Plan your \nschedules easily",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "One click away to manage your schedule, say goodbye to your default calendar!",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 304,
+                "height": 98,
+                "position": {
+                    "x": 0,
+                    "y": 126
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 210,
+        "height": 210,
+        "position": {
+            "x": 225,
+            "y": 97
+        }
+    },
+    "children": []
+},
+{
+    "type": "OVAL",
+    "data": {
+        "width": 274,
+        "height": 274,
+        "position": {
+            "x": -165,
+            "y": -137
+        },
+        "backgroundColor": {
+            "type": "PRIMARY"
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "WHITE"
+        },
+        "width": 96,
+        "height": 96,
+        "position": {
+            "x": 250,
+            "y": 689
+        }
+    },
+    "children": []
+}
+]

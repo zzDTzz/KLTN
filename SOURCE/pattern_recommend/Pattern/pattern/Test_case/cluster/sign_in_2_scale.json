@@ -1,0 +1,572 @@
+[
+    {
+        "id": 95745648,
+        "type": "CONTAINER",
+        "boardId": 345056,
+        "data": {
+            "name": "Container 1",
+            "width": 557,
+            "height": 520,
+            "layout": null,
+            "shadow": "M",
+            "zIndex": 1,
+            "layoutId": "CONTAINER153364",
+            "position": {
+                "x": 512,
+                "y": 190
+            },
+            "patternId": "2098714",
+            "borderDash": "Solid",
+            "borderColor": {
+                "type": "WHITE"
+            },
+            "borderWidth": "NONE",
+            "ignoreError": null,
+            "borderRadius": {
+                "topLeft": "M",
+                "topRight": "M",
+                "bottomLeft": "M",
+                "bottomRight": "M"
+            },
+            "patternFlatten": false,
+            "backgroundColor": {
+                "type": "WHITE"
+            },
+            "anchorPaddingTop": null,
+            "anchorPaddingLeft": null,
+            "anchorPaddingRight": null,
+            "anchorPaddingBottom": null,
+            "shadowUseElementColor": false
+        },
+        "parentId": 94655146,
+        "isDeleted": false,
+        "createdAt": "2022-10-19T02:30:06.663Z",
+        "createdBy": 7100,
+        "updatedAt": "2022-10-19T02:30:25.147Z",
+        "updatedBy": 7100,
+        "children": [
+            {
+                "id": 95745661,
+                "type": "TEXT",
+                "boardId": 345056,
+                "data": {
+                    "bold": false,
+                    "name": "Text 1",
+                    "size": "M",
+                    "text": "Forgot password?",
+                    "color": {
+                        "type": "PRIMARY",
+                        "shade": 500
+                    },
+                    "width": null,
+                    "height": null,
+                    "italic": false,
+                    "preset": "Link",
+                    "zIndex": 7,
+                    "layoutId": "forgotpass",
+                    "position": {
+                        "x": 408,
+                        "y": 236
+                    },
+                    "textAlign": "LEFT",
+                    "underline": false,
+                    "uppercase": false,
+                    "lineStyles": {},
+                    "ignoreError": null,
+                    "anchorPaddingTop": null,
+                    "anchorPaddingLeft": null,
+                    "anchorPaddingRight": null,
+                    "anchorPaddingBottom": null
+                },
+                "parentId": 95745648,
+                "isDeleted": false,
+                "createdAt": "2022-10-19T02:30:06.701Z",
+                "createdBy": 7100,
+                "updatedAt": "2022-10-19T02:32:32.930Z",
+                "updatedBy": 7100,
+                "children": []
+            },
+            {
+                "id": 95745651,
+                "type": "BUTTON",
+                "boardId": 345056,
+                "data": {
+                    "name": "Button 1",
+                    "size": "L",
+                    "text": "Sign in",
+                    "color": {
+                        "type": "PRIMARY"
+                    },
+                    "state": "DEFAULT",
+                    "style": "SOLID",
+                    "width": 516,
+                    "height": 52,
+                    "shadow": "NONE",
+                    "zIndex": 3,
+                    "layoutId": "sign_up_button",
+                    "position": {
+                        "x": 15,
+                        "y": 291
+                    },
+                    "textShade": null,
+                    "uppercase": false,
+                    "ignoreError": null,
+                    "borderRadius": {
+                        "topLeft": "M",
+                        "topRight": "M",
+                        "bottomLeft": "M",
+                        "bottomRight": "M"
+                    },
+                    "backgroundShade": null,
+                    "anchorPaddingTop": null,
+                    "anchorPaddingLeft": null,
+                    "anchorPaddingRight": null,
+                    "anchorPaddingBottom": null,
+                    "shadowUseElementColor": false
+                },
+                "parentId": 95745648,
+                "isDeleted": false,
+                "createdAt": "2022-10-19T02:30:06.687Z",
+                "createdBy": 7100,
+                "updatedAt": "2022-10-19T02:34:26.136Z",
+                "updatedBy": 7100,
+                "children": []
+            },
+            {
+                "id": 95745652,
+                "type": "TEXT",
+                "boardId": 345056,
+                "data": {
+                    "bold": false,
+                    "name": "Text 1",
+                    "text": "Don't have an account? Sign up",
+                    "color": {
+                        "type": "NEUTRAL",
+                        "shade": 900
+                    },
+                    "width": null,
+                    "height": null,
+                    "italic": false,
+                    "preset": "Heading",
+                    "zIndex": 5,
+                    "layoutId": "txt 1",
+                    "position": {
+                        "x": 178,
+                        "y": 360
+                    },
+                    "textAlign": "LEFT",
+                    "underline": false,
+                    "uppercase": false,
+                    "fontFamily": null,
+                    "fontWeight": "",
+                    "lineStyles": {
+                        "0": {
+                            "23": {
+                                "color": {
+                                    "type": "PRIMARY",
+                                    "shade": 500
+                                }
+                            },
+                            "24": {
+                                "color": {
+                                    "type": "PRIMARY",
+                                    "shade": 500
+                                }
+                            },
+                            "25": {
+                                "color": {
+                                    "type": "PRIMARY",
+                                    "shade": 500
+                                }
+                            },
+                            "26": {
+                                "color": {
+                                    "type": "PRIMARY",
+                                    "shade": 500
+                                }
+                            },
+                            "27": {
+                                "color": {
+                                    "type": "PRIMARY",
+                                    "shade": 500
+                                }
+                            },
+                            "28": {
+                                "color": {
+                                    "type": "PRIMARY",
+                                    "shade": 500
+                                }
+                            },
+                            "29": {
+                                "color": {
+                                    "type": "PRIMARY",
+                                    "shade": 500
+                                }
+                            }
+                        }
+                    },
+                    "ignoreError": null,
+                    "fontSizeInfo": {
+                        "fontSize": 14,
+                        "textScale": "custom",
+                        "lineHeight": 22
+                    }
+                },
+                "parentId": 95745648,
+                "isDeleted": false,
+                "createdAt": "2022-10-19T02:30:06.685Z",
+                "createdBy": 7100,
+                "updatedAt": "2022-10-19T02:30:09.739Z",
+                "updatedBy": 7100,
+                "children": []
+            },
+            {
+                "id": 95745658,
+                "type": "DIVIDER",
+                "boardId": 345056,
+                "data": {
+                    "to": {
+                        "x": 270,
+                        "y": 417
+                    },
+                    "from": {
+                        "x": 49,
+                        "y": 417
+                    },
+                    "name": "Divider 1",
+                    "zIndex": 10,
+                    "layoutId": "divider 1",
+                    "lineDash": "Solid",
+                    "position": {
+                        "x": 49,
+                        "y": 417
+                    },
+                    "lineColor": {
+                        "type": "NEUTRAL",
+                        "shade": 300
+                    },
+                    "lineWidth": 1,
+                    "ignoreError": null
+                },
+                "parentId": 95745648,
+                "isDeleted": false,
+                "createdAt": "2022-10-19T02:30:06.697Z",
+                "createdBy": 7100,
+                "updatedAt": "2022-10-19T02:30:09.746Z",
+                "updatedBy": 7100,
+                "children": []
+            },
+            {
+                "id": 95745660,
+                "type": "DIVIDER",
+                "boardId": 345056,
+                "data": {
+                    "to": {
+                        "x": 533,
+                        "y": 417
+                    },
+                    "from": {
+                        "x": 314,
+                        "y": 417
+                    },
+                    "name": "Divider 1",
+                    "zIndex": 8,
+                    "layoutId": "divider 2",
+                    "lineDash": "Solid",
+                    "position": {
+                        "x": 314,
+                        "y": 417
+                    },
+                    "lineColor": {
+                        "type": "NEUTRAL",
+                        "shade": 300
+                    },
+                    "lineWidth": 1,
+                    "ignoreError": null
+                },
+                "parentId": 95745648,
+                "isDeleted": false,
+                "createdAt": "2022-10-19T02:30:06.700Z",
+                "createdBy": 7100,
+                "updatedAt": "2022-10-19T02:30:09.745Z",
+                "updatedBy": 7100,
+                "children": []
+            },
+            {
+                "id": 95745653,
+                "type": "CHECKBOX",
+                "boardId": 345056,
+                "data": {
+                    "name": "Checkbox 1",
+                    "size": "M",
+                    "color": {
+                        "type": "PRIMARY"
+                    },
+                    "label": "Label",
+                    "style": "SOLID",
+                    "width": 127,
+                    "height": 22,
+                    "zIndex": 6,
+                    "layoutId": "checkbox remember me",
+                    "position": {
+                        "x": 98,
+                        "y": 260
+                    },
+                    "direction": "VERTICAL_RIGHT",
+                    "enableLabel": false,
+                    "ignoreError": null,
+                    "anchorPaddingTop": null,
+                    "anchorPaddingLeft": null,
+                    "anchorPaddingRight": null,
+                    "anchorPaddingBottom": null
+                },
+                "parentId": 95745648,
+                "isDeleted": false,
+                "createdAt": "2022-10-19T02:30:06.689Z",
+                "createdBy": 7100,
+                "updatedAt": "2022-10-19T02:32:31.389Z",
+                "updatedBy": 7100,
+                "children": [
+                    {
+                        "id": 95745662,
+                        "type": "CHECKBOX_ITEM",
+                        "boardId": 345056,
+                        "data": {
+                            "name": "Checkbox item 0",
+                            "text": "Remember me",
+                            "order": 0,
+                            "state": "DEFAULT",
+                            "zIndex": 0,
+                            "layoutId": "CHECKBOX_ITEM2098723",
+                            "position": {
+                                "x": 0,
+                                "y": 0
+                            },
+                            "borderShade": 500,
+                            "selectionStatus": "SELECTED"
+                        },
+                        "parentId": 95745653,
+                        "isDeleted": false,
+                        "createdAt": "2022-10-19T02:30:06.722Z",
+                        "createdBy": 7100,
+                        "updatedAt": "2022-10-19T02:30:06.722Z",
+                        "updatedBy": 7100,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": 95745654,
+                "type": "TEXTBOX",
+                "boardId": 345056,
+                "data": {
+                    "name": "Textbox 1",
+                    "size": "M",
+                    "text": "Enter your email",
+                    "color": {
+                        "type": "GRAY"
+                    },
+                    "icons": [
+                        {
+                            "svg": "<svg class=\"w-6 h-6\" fill=\"#686583\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5l-8-5V6l8 5l8-5v2z\"/></svg>",
+                            "iconId": "id_email",
+                            "iconName": "email",
+                            "alignment": "LEFT",
+                            "iconStyle": "filled",
+                            "iconSetName": "Material",
+                            "useBorderColor": true
+                        }
+                    ],
+                    "label": "Email",
+                    "state": "default",
+                    "style": "standard",
+                    "width": 484,
+                    "height": 84,
+                    "zIndex": 1,
+                    "layoutId": "email_input",
+                    "position": {
+                        "x": 47,
+                        "y": 134
+                    },
+                    "vertical": true,
+                    "textShade": null,
+                    "labelShade": 650,
+                    "borderShade": null,
+                    "enableLabel": true,
+                    "ignoreError": null,
+                    "borderRadius": {
+                        "topLeft": "M",
+                        "topRight": "M",
+                        "bottomLeft": "M",
+                        "bottomRight": "M"
+                    },
+                    "resizingState": {
+                        "resizingTop": false,
+                        "resizingLeft": false,
+                        "resizingRight": false,
+                        "resizingBottom": true
+                    },
+                    "backgroundShade": null,
+                    "scaleFromCenter": false,
+                    "anchorPaddingTop": null,
+                    "anchorPaddingLeft": null,
+                    "enablePlaceholder": true,
+                    "anchorPaddingRight": null,
+                    "anchorPaddingBottom": null,
+                    "placeholderTextShade": null
+                },
+                "parentId": 95745648,
+                "isDeleted": false,
+                "createdAt": "2022-10-19T02:30:06.686Z",
+                "createdBy": 7100,
+                "updatedAt": "2022-10-19T02:34:21.636Z",
+                "updatedBy": 7100,
+                "children": []
+            },
+            {
+                "id": 95745659,
+                "type": "TEXT",
+                "boardId": 345056,
+                "data": {
+                    "bold": false,
+                    "name": "Text 1",
+                    "text": "OR",
+                    "color": {
+                        "type": "NEUTRAL",
+                        "shade": 600
+                    },
+                    "width": null,
+                    "height": null,
+                    "italic": false,
+                    "preset": "Heading",
+                    "zIndex": 9,
+                    "layoutId": "Or",
+                    "position": {
+                        "x": 282,
+                        "y": 406
+                    },
+                    "textAlign": "LEFT",
+                    "underline": false,
+                    "uppercase": false,
+                    "fontFamily": null,
+                    "fontWeight": "",
+                    "lineStyles": {},
+                    "ignoreError": null,
+                    "fontSizeInfo": {
+                        "fontSize": 14,
+                        "textScale": "custom",
+                        "lineHeight": 22
+                    }
+                },
+                "parentId": 95745648,
+                "isDeleted": false,
+                "createdAt": "2022-10-19T02:30:06.698Z",
+                "createdBy": 7100,
+                "updatedAt": "2022-10-19T02:30:09.746Z",
+                "updatedBy": 7100,
+                "children": []
+            },
+            {
+                "id": 95745649,
+                "type": "TEXT",
+                "boardId": 345056,
+                "data": {
+                    "bold": true,
+                    "name": "Text 1",
+                    "size": "M",
+                    "text": "Sign in",
+                    "color": {
+                        "type": "NEUTRAL",
+                        "shade": 900
+                    },
+                    "width": null,
+                    "height": null,
+                    "italic": false,
+                    "preset": "Heading",
+                    "zIndex": 4,
+                    "layoutId": "sign_up_header",
+                    "position": {
+                        "x": 236,
+                        "y": 24
+                    },
+                    "textAlign": "CENTER",
+                    "underline": false,
+                    "uppercase": false,
+                    "fontFamily": null,
+                    "fontWeight": "700",
+                    "lineStyles": {},
+                    "ignoreError": null,
+                    "fontSizeInfo": {
+                        "fontSize": 32,
+                        "textScale": "custom",
+                        "lineHeight": 48
+                    }
+                },
+                "parentId": 95745648,
+                "isDeleted": false,
+                "createdAt": "2022-10-19T02:30:06.687Z",
+                "createdBy": 7100,
+                "updatedAt": "2022-10-19T02:30:09.739Z",
+                "updatedBy": 7100,
+                "children": []
+            },
+            {
+                "id": 95745655,
+                "type": "BUTTON",
+                "boardId": 345056,
+                "data": {
+                    "svg": null,
+                    "icon": {
+                        "svg": "<svg class=\"w-6 h-6\" fill=\"#686583\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path d=\"M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z\"/></svg>",
+                        "iconId": "id_facebook",
+                        "iconName": "facebook",
+                        "alignment": "LEFT",
+                        "iconStyle": "filled",
+                        "iconSetName": "Material"
+                    },
+                    "name": "Button 1",
+                    "size": "L",
+                    "text": "",
+                    "color": {
+                        "type": "CUSTOM",
+                        "customColor": "#455EA9"
+                    },
+                    "state": "DEFAULT",
+                    "style": "SOLID",
+                    "width": 44,
+                    "height": null,
+                    "shadow": "NONE",
+                    "zIndex": 12,
+                    "layoutId": "sign_up_with_facebook_button",
+                    "position": {
+                        "x": 192,
+                        "y": 439
+                    },
+                    "textShade": null,
+                    "uppercase": false,
+                    "ignoreError": null,
+                    "borderRadius": {
+                        "topLeft": "ROUNDED",
+                        "topRight": "ROUNDED",
+                        "bottomLeft": "ROUNDED",
+                        "bottomRight": "ROUNDED"
+                    },
+                    "iconAlignment": null,
+                    "backgroundShade": null,
+                    "anchorPaddingTop": null,
+                    "anchorPaddingLeft": null,
+                    "anchorPaddingRight": null,
+                    "anchorPaddingBottom": null,
+                    "shadowUseElementColor": false
+                },
+                "parentId": 95745648,
+                "isDeleted": false,
+                "createdAt": "2022-10-19T02:30:06.693Z",
+                "createdBy": 7100,
+                "updatedAt": "2022-10-19T02:32:39.711Z",
+                "updatedBy": 7100,
+                "children": []
+            }
+        ]
+    }
+]

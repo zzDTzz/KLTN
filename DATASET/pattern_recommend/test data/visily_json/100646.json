@@ -1,0 +1,874 @@
+[{
+    "type": "TEXT",
+    "data": {
+        "text": "600.000",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 114,
+        "height": 28,
+        "position": {
+            "x": 1007,
+            "y": 526
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Tong cong",
+        "color": {
+            "type": "TERTIARY1"
+        },
+        "width": 139,
+        "height": 26,
+        "position": {
+            "x": 737,
+            "y": 562
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1440,
+        "height": 129,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "CUSTOM"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "About us",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 87,
+                "height": 28,
+                "position": {
+                    "x": 942,
+                    "y": 16
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Lien he",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 830,
+                    "y": 17
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "L",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 52,
+                "height": 52,
+                "position": {
+                    "x": 1313,
+                    "y": 68
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Ir1s",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 129,
+                "height": null,
+                "position": {
+                    "x": 1155,
+                    "y": 81
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "XS",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1274,
+                    "y": 84
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Hotline 1800 xxxx",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1080,
+                    "y": 17
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "He thong",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 701,
+                    "y": 17
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 319,
+                "height": 107,
+                "position": {
+                    "x": 24,
+                    "y": 10
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1440,
+        "height": 67,
+        "position": {
+            "x": 0,
+            "y": 126
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "HEADER_MENU",
+            "data": {
+                "size": "XL",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 372,
+                "position": {
+                    "x": 157,
+                    "y": 3
+                }
+            },
+            "children": [
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "size": null,
+                        "text": "Trang chu",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Tin tuc",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "size": null,
+                        "text": "Bac si tra loi",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "size": null,
+                        "text": "Goi kham suc khoe",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "size": null,
+                        "text": "Chuyen khoa",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "size": null,
+                        "text": "Dat lich",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 36,
+                "height": 36,
+                "position": {
+                    "x": 1289,
+                    "y": 17
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 1260,
+            "y": 600
+        },
+        "from": {
+            "x": 184,
+            "y": 600
+        },
+        "position": {
+            "x": 184,
+            "y": 600
+        }
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "XL",
+        "text": "Chon them",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 0,
+        "height": null,
+        "iconSize": null,
+        "position": {
+            "x": 890,
+            "y": 643
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Gio hang cua toi",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 572,
+            "y": 211
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "XL",
+        "text": "Mua ngay",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 219,
+        "height": 62,
+        "iconSize": null,
+        "position": {
+            "x": 1040,
+            "y": 638
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1078,
+        "height": 170,
+        "position": {
+            "x": 181,
+            "y": 346
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 1078,
+                "height": 61,
+                "position": {
+                    "x": 0,
+                    "y": 47
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "DIVIDER",
+                    "data": {
+                        "to": {
+                            "x": 1078,
+                            "y": 61
+                        },
+                        "from": {
+                            "x": 0,
+                            "y": 60
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 60
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "1",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 21,
+                        "height": 22,
+                        "position": {
+                            "x": 585,
+                            "y": 19
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "300.000",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 90,
+                        "height": 22,
+                        "position": {
+                            "x": 298,
+                            "y": 19
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Kham benh nhi so sinh",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 256,
+                        "height": 22,
+                        "position": {
+                            "x": 42,
+                            "y": 20
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": "400"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "BUTTON",
+                    "data": {
+                        "size": "L",
+                        "text": "Xoa",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": 0,
+                        "height": null,
+                        "iconSize": null,
+                        "position": {
+                            "x": 936,
+                            "y": 13
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "text": "300.000",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 90,
+                        "height": 22,
+                        "position": {
+                            "x": 826,
+                            "y": 19
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 1078,
+                "height": 61,
+                "position": {
+                    "x": 0,
+                    "y": 108
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "BUTTON",
+                    "data": {
+                        "size": "L",
+                        "text": "Xoa",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": 0,
+                        "height": null,
+                        "iconSize": null,
+                        "position": {
+                            "x": 936,
+                            "y": 6
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "DIVIDER",
+                    "data": {
+                        "to": {
+                            "x": 1078,
+                            "y": 61
+                        },
+                        "from": {
+                            "x": 0,
+                            "y": 60
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 60
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Xet nghiem Covid-19",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 256,
+                        "height": 22,
+                        "position": {
+                            "x": 42,
+                            "y": 19
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": "400"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "text": "300.000",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 90,
+                        "height": 22,
+                        "position": {
+                            "x": 826,
+                            "y": 13
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "150.000",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 107,
+                        "height": 22,
+                        "position": {
+                            "x": 298,
+                            "y": 19
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "2",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 21,
+                        "height": 22,
+                        "position": {
+                            "x": 585,
+                            "y": 19
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 1078,
+                "height": 47,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": {
+                    "type": "NEUTRAL"
+                }
+            },
+            "children": [
+                {
+                    "type": "DIVIDER",
+                    "data": {
+                        "to": {
+                            "x": 1078,
+                            "y": 47
+                        },
+                        "from": {
+                            "x": 0,
+                            "y": 46
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 46
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Ten goi kham",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 150,
+                        "height": 22,
+                        "position": {
+                            "x": 42,
+                            "y": 12
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": "700"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Tong cong",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 156,
+                        "height": 22,
+                        "position": {
+                            "x": 810,
+                            "y": 12
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": "700"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Don gia",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 239,
+                        "height": 22,
+                        "position": {
+                            "x": 298,
+                            "y": 12
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": "700"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "So luong",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 189,
+                        "height": 22,
+                        "position": {
+                            "x": 554,
+                            "y": 12
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": "700"
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "600.000",
+        "color": {
+            "type": "TERTIARY1"
+        },
+        "width": 84,
+        "height": 34,
+        "position": {
+            "x": 1006,
+            "y": 563
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 801,
+            "y": 282
+        },
+        "from": {
+            "x": 701,
+            "y": 282
+        },
+        "position": {
+            "x": 701,
+            "y": 282
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Tam tinh",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 116,
+        "height": 28,
+        "position": {
+            "x": 735,
+            "y": 526
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "GROUP",
+    "data": {
+        "width": 271,
+        "height": 36,
+        "position": {
+            "x": 184,
+            "y": 651
+        }
+    },
+    "children": [
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Nhap ma giam gia",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "label": "Label",
+                "width": 324,
+                "height": null,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Ap dung",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 134,
+                "position": {
+                    "x": 324,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+}
+]

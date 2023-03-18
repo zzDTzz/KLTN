@@ -1,0 +1,2113 @@
+[{
+    "type": "BUTTON",
+    "data": {
+        "icon": {
+            "alignment": "LEFT"
+        },
+        "size": "S",
+        "text": "",
+        "color": {
+            "type": "GRAY"
+        },
+        "width": 32,
+        "height": null,
+        "position": {
+            "x": 956,
+            "y": 659
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 265,
+        "height": 357,
+        "position": {
+            "x": 1021,
+            "y": 759
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "XL",
+                "text": "Spider-Man: No Way Home",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": 28,
+                "position": {
+                    "x": 16,
+                    "y": 201
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 236,
+                "height": 155,
+                "position": {
+                    "x": 16,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "2021",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": 22,
+                "position": {
+                    "x": 16,
+                    "y": 179
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "RATING",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "CUSTOM"
+                },
+                "shape": "REGULAR",
+                "position": {
+                    "x": 152,
+                    "y": 181
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 260,
+        "height": 377,
+        "position": {
+            "x": 1020,
+            "y": 1194
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "James Bond has left active service. His peace is short-lived when Felix Leiter, an old friend from the CIA, turns up asking for help, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": null,
+                "position": {
+                    "x": 16,
+                    "y": 237
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 236,
+                "height": 155,
+                "position": {
+                    "x": 16,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "2021",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": 22,
+                "position": {
+                    "x": 16,
+                    "y": 179
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "RATING",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "CUSTOM"
+                },
+                "shape": "REGULAR",
+                "position": {
+                    "x": 152,
+                    "y": 181
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "XL",
+                "text": "No Time To Die",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": 28,
+                "position": {
+                    "x": 16,
+                    "y": 201
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TAG",
+    "data": {
+        "size": "L",
+        "width": 41,
+        "height": 32,
+        "position": {
+            "x": 120,
+            "y": 655
+        }
+    },
+    "children": [
+        {
+            "type": "TAG_ITEM",
+            "data": {
+                "text": "All",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1440,
+        "height": 44,
+        "position": {
+            "x": 0,
+            "y": 56
+        },
+        "backgroundColor": {
+            "type": "CUSTOM"
+        }
+    },
+    "children": [
+        {
+            "type": "HEADER_MENU",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 1200,
+                "height": 44,
+                "position": {
+                    "x": 120,
+                    "y": 0
+                }
+            },
+            "children": [
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "More",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Home",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Support",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "New releases",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "icon": null,
+                        "text": "Best Sellers",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "size": "S",
+        "text": "When the Riddler, a sadistic serial killer, begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.\n\n\n",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 236,
+        "height": null,
+        "position": {
+            "x": 136,
+            "y": 996
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TAG",
+    "data": {
+        "size": "L",
+        "width": 99,
+        "height": 32,
+        "position": {
+            "x": 354,
+            "y": 655
+        }
+    },
+    "children": [
+        {
+            "type": "TAG_ITEM",
+            "data": {
+                "text": "Comedy",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TAG",
+    "data": {
+        "size": "L",
+        "width": 98,
+        "height": 32,
+        "position": {
+            "x": 542,
+            "y": 655
+        }
+    },
+    "children": [
+        {
+            "type": "TAG_ITEM",
+            "data": {
+                "text": "Family",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 268,
+        "height": 357,
+        "position": {
+            "x": 420,
+            "y": 759
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 236,
+                "height": 155,
+                "position": {
+                    "x": 16,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "XL",
+                "text": "The King's Man",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": 28,
+                "position": {
+                    "x": 16,
+                    "y": 201
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "RATING",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "CUSTOM"
+                },
+                "shape": "REGULAR",
+                "position": {
+                    "x": 152,
+                    "y": 180
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "2021",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": 22,
+                "position": {
+                    "x": 16,
+                    "y": 179
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "In the early years of the 20th century, the Kingsman agency is formed to stand against a cabal plotting a war to wipe out millions.\n\n",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": null,
+                "position": {
+                    "x": 16,
+                    "y": 237
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 273,
+        "height": 377,
+        "position": {
+            "x": 419,
+            "y": 1194
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "The Eternals, a race of immortal beings with superhuman powers who have secretly lived on Earth for thousands of years, reunite to battle the evil Deviants.\n",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": null,
+                "position": {
+                    "x": 16,
+                    "y": 237
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "RATING",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "CUSTOM"
+                },
+                "shape": "REGULAR",
+                "position": {
+                    "x": 152,
+                    "y": 180
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "XL",
+                "text": "Eternals",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": 28,
+                "position": {
+                    "x": 16,
+                    "y": 201
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "2021",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": 22,
+                "position": {
+                    "x": 16,
+                    "y": 179
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 236,
+                "height": 155,
+                "position": {
+                    "x": 16,
+                    "y": 16
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "size": "S",
+        "text": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means...\n\n",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 236,
+        "height": 160,
+        "position": {
+            "x": 1037,
+            "y": 996
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 268,
+        "height": 377,
+        "position": {
+            "x": 720,
+            "y": 1194
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "2021",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": 22,
+                "position": {
+                    "x": 16,
+                    "y": 179
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "XL",
+                "text": "Sing 2",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": 28,
+                "position": {
+                    "x": 16,
+                    "y": 201
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 236,
+                "height": 155,
+                "position": {
+                    "x": 16,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "RATING",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "CUSTOM"
+                },
+                "shape": "REGULAR",
+                "position": {
+                    "x": 152,
+                    "y": 181
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Buster Moon and his friends must persuade reclusive rock star Clay Calloway to join them for the opening of a new show.\n\n",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": null,
+                "position": {
+                    "x": 16,
+                    "y": 237
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Recommended for you",
+        "color": {
+            "type": "BLACK"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 120,
+            "y": 1158
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "size": "S",
+        "text": "Trending now",
+        "color": {
+            "type": "BLACK"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 120,
+            "y": 715
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TAG",
+    "data": {
+        "size": "L",
+        "width": 99,
+        "height": 32,
+        "position": {
+            "x": 620,
+            "y": 655
+        }
+    },
+    "children": [
+        {
+            "type": "TAG_ITEM",
+            "data": {
+                "text": "Cartoon",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TAG",
+    "data": {
+        "size": "L",
+        "width": 99,
+        "height": 32,
+        "position": {
+            "x": 445,
+            "y": 655
+        }
+    },
+    "children": [
+        {
+            "type": "TAG_ITEM",
+            "data": {
+                "text": "Romance",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1440,
+        "height": 318,
+        "position": {
+            "x": 0,
+            "y": 1599
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": [
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 1200,
+                "height": 262,
+                "position": {
+                    "x": 120,
+                    "y": 56
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "XS",
+                        "text": "•",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 7,
+                        "height": null,
+                        "position": {
+                            "x": 569,
+                            "y": 219
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Support",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 144,
+                        "height": 26,
+                        "position": {
+                            "x": 984,
+                            "y": 0
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": "700"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Developers",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 144,
+                        "height": 22,
+                        "position": {
+                            "x": 584,
+                            "y": 46
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "size": "M",
+                        "color": {
+                            "type": "BLACK"
+                        },
+                        "position": {
+                            "x": 1136,
+                            "y": 216
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXTBOX",
+                    "data": {
+                        "size": "M",
+                        "text": "English",
+                        "color": {
+                            "type": "GRAY"
+                        },
+                        "icons": [
+                            {
+                                "alignment": "RIGHT",
+                                "useBorderColor": false
+                            }
+                        ],
+                        "label": "Label",
+                        "width": 128,
+                        "position": {
+                            "x": 0,
+                            "y": 210
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "© 2021 Brand, Inc",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 120,
+                        "height": 22,
+                        "position": {
+                            "x": 445,
+                            "y": 217
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Resources",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 144,
+                        "height": 26,
+                        "position": {
+                            "x": 384,
+                            "y": 0
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": "700"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Pricing",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 144,
+                        "height": 22,
+                        "position": {
+                            "x": 184,
+                            "y": 80
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "User guides",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 144,
+                        "height": 22,
+                        "position": {
+                            "x": 384,
+                            "y": 80
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Help center",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 144,
+                        "height": 22,
+                        "position": {
+                            "x": 984,
+                            "y": 46
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Terms",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 41,
+                        "height": 22,
+                        "position": {
+                            "x": 644,
+                            "y": 217
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "About",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 144,
+                        "height": 22,
+                        "position": {
+                            "x": 784,
+                            "y": 46
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "size": "M",
+                        "color": {
+                            "type": "BLACK"
+                        },
+                        "position": {
+                            "x": 1176,
+                            "y": 216
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "L",
+                        "text": "Product",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 144,
+                        "height": 26,
+                        "position": {
+                            "x": 184,
+                            "y": 0
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 128,
+                        "height": 48,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "L",
+                        "text": "Community",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 144,
+                        "height": 26,
+                        "position": {
+                            "x": 584,
+                            "y": 0
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Join us",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 144,
+                        "height": 22,
+                        "position": {
+                            "x": 784,
+                            "y": 80
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "L",
+                        "text": "Company",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 144,
+                        "height": 26,
+                        "position": {
+                            "x": 784,
+                            "y": 0
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Blog",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 144,
+                        "height": 22,
+                        "position": {
+                            "x": 384,
+                            "y": 46
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Sitemap",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 55,
+                        "height": 22,
+                        "position": {
+                            "x": 700,
+                            "y": 217
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Privacy",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 49,
+                        "height": 22,
+                        "position": {
+                            "x": 580,
+                            "y": 217
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Users",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 144,
+                        "height": 22,
+                        "position": {
+                            "x": 584,
+                            "y": 80
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Features",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 144,
+                        "height": 22,
+                        "position": {
+                            "x": 184,
+                            "y": 46
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "XS",
+                        "text": "•",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 7,
+                        "height": null,
+                        "position": {
+                            "x": 689,
+                            "y": 219
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Chat support",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 144,
+                        "height": 22,
+                        "position": {
+                            "x": 984,
+                            "y": 80
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "DIVIDER",
+                    "data": {
+                        "to": {
+                            "x": 1200,
+                            "y": 194
+                        },
+                        "from": {
+                            "x": 0,
+                            "y": 192
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 192
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "size": "M",
+                        "color": {
+                            "type": "BLACK"
+                        },
+                        "position": {
+                            "x": 1096,
+                            "y": 216
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Webinars",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 144,
+                        "height": 22,
+                        "position": {
+                            "x": 384,
+                            "y": 114
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "XS",
+                        "text": "•",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 7,
+                        "height": null,
+                        "position": {
+                            "x": 633,
+                            "y": 219
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1440,
+        "height": 519,
+        "position": {
+            "x": 0,
+            "y": 100
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": [
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": null,
+                "size": "L",
+                "text": "Watch trailer",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 128,
+                "height": 48,
+                "position": {
+                    "x": 116,
+                    "y": 393
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 181,
+                "height": 181,
+                "position": {
+                    "x": 744,
+                    "y": 269
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Spider Man: No Way Home",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 538,
+                "height": null,
+                "position": {
+                    "x": 120,
+                    "y": 143
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 56,
+                "height": 48,
+                "position": {
+                    "x": 692,
+                    "y": 459
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "OVAL",
+                    "data": {
+                        "width": 6,
+                        "height": 6,
+                        "position": {
+                            "x": 38,
+                            "y": 41
+                        },
+                        "backgroundColor": {
+                            "type": "PRIMARY"
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "OVAL",
+                    "data": {
+                        "width": 6,
+                        "height": 6,
+                        "position": {
+                            "x": 50,
+                            "y": 41
+                        },
+                        "backgroundColor": {
+                            "type": "PRIMARY"
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "OVAL",
+                    "data": {
+                        "width": 6,
+                        "height": 6,
+                        "position": {
+                            "x": 26,
+                            "y": 41
+                        },
+                        "backgroundColor": {
+                            "type": "PRIMARY"
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "OVAL",
+                    "data": {
+                        "width": 6,
+                        "height": 6,
+                        "position": {
+                            "x": 14,
+                            "y": 41
+                        },
+                        "backgroundColor": {
+                            "type": "PRIMARY"
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "OVAL",
+                    "data": {
+                        "width": 8,
+                        "height": 8,
+                        "position": {
+                            "x": 0,
+                            "y": 40
+                        },
+                        "backgroundColor": {
+                            "type": "PRIMARY"
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 340,
+                "height": 340,
+                "position": {
+                    "x": 819,
+                    "y": 60
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man.",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 538,
+                "height": null,
+                "position": {
+                    "x": 120,
+                    "y": 282
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 242,
+                "height": 242,
+                "position": {
+                    "x": 1078,
+                    "y": 217
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": null,
+                "size": "L",
+                "text": "Learn more",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 118,
+                "height": 48,
+                "position": {
+                    "x": 256,
+                    "y": 393
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TAG",
+    "data": {
+        "size": "L",
+        "width": 96,
+        "height": 32,
+        "position": {
+            "x": 172,
+            "y": 655
+        }
+    },
+    "children": [
+        {
+            "type": "TAG_ITEM",
+            "data": {
+                "text": "Action",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 268,
+        "height": 377,
+        "position": {
+            "x": 119,
+            "y": 1194
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Feature adaptation of Frank Herbert's science fiction novel about the son of a noble family entrusted with the protection of the most valuable asset and most vital element in the galaxy.\n\n",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": null,
+                "position": {
+                    "x": 16,
+                    "y": 237
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "RATING",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "CUSTOM"
+                },
+                "shape": "REGULAR",
+                "position": {
+                    "x": 152,
+                    "y": 180
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 236,
+                "height": 155,
+                "position": {
+                    "x": 16,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "2021",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": 22,
+                "position": {
+                    "x": 16,
+                    "y": 179
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "XL",
+                "text": "Dune",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": 28,
+                "position": {
+                    "x": 16,
+                    "y": 201
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TAG",
+    "data": {
+        "size": "L",
+        "width": 98,
+        "height": 32,
+        "position": {
+            "x": 709,
+            "y": 655
+        }
+    },
+    "children": [
+        {
+            "type": "TAG_ITEM",
+            "data": {
+                "text": "Fantasy",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 266,
+        "height": 357,
+        "position": {
+            "x": 120,
+            "y": 759
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "RATING",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "CUSTOM"
+                },
+                "shape": "REGULAR",
+                "position": {
+                    "x": 143,
+                    "y": 181
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "XL",
+                "text": "The Batman",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": 28,
+                "position": {
+                    "x": 16,
+                    "y": 201
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "2022",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": 22,
+                "position": {
+                    "x": 16,
+                    "y": 179
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "When the Riddler, a sadistic serial killer, begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": null,
+                "position": {
+                    "x": 16,
+                    "y": 237
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 236,
+                "height": 155,
+                "position": {
+                    "x": 16,
+                    "y": 16
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TAG",
+    "data": {
+        "size": "L",
+        "width": 99,
+        "height": 32,
+        "position": {
+            "x": 875,
+            "y": 655
+        }
+    },
+    "children": [
+        {
+            "type": "TAG_ITEM",
+            "data": {
+                "text": "Thriller",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 269,
+        "height": 357,
+        "position": {
+            "x": 721,
+            "y": 759
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "A bank teller discovers that he's actually an NPC inside a brutal, open world video game.\n",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": null,
+                "position": {
+                    "x": 16,
+                    "y": 237
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "2021",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": 22,
+                "position": {
+                    "x": 16,
+                    "y": 179
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "XL",
+                "text": "Free Guy",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": 28,
+                "position": {
+                    "x": 16,
+                    "y": 201
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "RATING",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "CUSTOM"
+                },
+                "shape": "REGULAR",
+                "position": {
+                    "x": 152,
+                    "y": 181
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 236,
+                "height": 155,
+                "position": {
+                    "x": 16,
+                    "y": 16
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1440,
+        "height": 56,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "TERTIARY2"
+        }
+    },
+    "children": [
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 96,
+                "height": 36,
+                "position": {
+                    "x": 20,
+                    "y": 10
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Search...",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [
+                    {
+                        "alignment": "LEFT",
+                        "useBorderColor": false
+                    }
+                ],
+                "width": 640,
+                "height": null,
+                "position": {
+                    "x": 400,
+                    "y": 10
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "M",
+                "text": "A",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1384,
+                    "y": 10
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1344,
+                    "y": 16
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TAG",
+    "data": {
+        "size": "L",
+        "width": 98,
+        "height": 32,
+        "position": {
+            "x": 797,
+            "y": 655
+        }
+    },
+    "children": [
+        {
+            "type": "TAG_ITEM",
+            "data": {
+                "text": "Horror",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TAG",
+    "data": {
+        "size": "L",
+        "width": 98,
+        "height": 32,
+        "position": {
+            "x": 250,
+            "y": 655
+        }
+    },
+    "children": [
+        {
+            "type": "TAG_ITEM",
+            "data": {
+                "text": "Adventure",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+}
+]

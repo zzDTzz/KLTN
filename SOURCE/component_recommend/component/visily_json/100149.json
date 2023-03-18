@@ -1,0 +1,345 @@
+[{
+    "type": "CONTAINER",
+    "data": {
+        "width": 466,
+        "height": 638,
+        "position": {
+            "x": 829,
+            "y": 103
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Quên mật khẩu?",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 167,
+                "height": 31,
+                "position": {
+                    "x": 299,
+                    "y": 315
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "L",
+                "text": "Đăng nhập",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 388,
+                "height": 62,
+                "position": {
+                    "x": 38,
+                    "y": 379
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "M",
+                "text": "Google",
+                "color": {
+                    "type": "WHITE"
+                },
+                "width": 129,
+                "height": 51,
+                "iconSize": null,
+                "position": {
+                    "x": 38,
+                    "y": 556
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 426,
+                    "y": 518
+                },
+                "from": {
+                    "x": 299,
+                    "y": 518
+                },
+                "position": {
+                    "x": 299,
+                    "y": 518
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 188,
+                    "y": 518
+                },
+                "from": {
+                    "x": 39,
+                    "y": 518
+                },
+                "position": {
+                    "x": 39,
+                    "y": 518
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Đăng kí",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 66,
+                "height": 35,
+                "position": {
+                    "x": 258,
+                    "y": 450
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Mật khẩu",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [
+                    {
+                        "alignment": "RIGHT",
+                        "useBorderColor": true
+                    }
+                ],
+                "label": "",
+                "width": 388,
+                "height": 51,
+                "position": {
+                    "x": 39,
+                    "y": 257
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Email / Số điện thoại / Tên đăng nhập",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "label": "",
+                "width": 388,
+                "height": 51,
+                "position": {
+                    "x": 39,
+                    "y": 173
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "L",
+                "text": "QR code",
+                "color": {
+                    "type": "TERTIARY2"
+                },
+                "width": 117,
+                "height": 81,
+                "iconSize": null,
+                "position": {
+                    "x": 311,
+                    "y": 54
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "M",
+                "text": " Facebook",
+                "color": {
+                    "type": "WHITE"
+                },
+                "width": 138,
+                "height": 51,
+                "iconSize": null,
+                "position": {
+                    "x": 177,
+                    "y": 556
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "CHECKBOX",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "label": "Label",
+                "width": 132,
+                "height": 22,
+                "position": {
+                    "x": 39,
+                    "y": 328
+                }
+            },
+            "children": [
+                {
+                    "type": "CHECKBOX_ITEM",
+                    "data": {
+                        "text": "Nhớ mật khẩu",
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "M",
+                "text": "Apple",
+                "color": {
+                    "type": "WHITE"
+                },
+                "width": 101,
+                "height": 51,
+                "iconSize": null,
+                "position": {
+                    "x": 325,
+                    "y": 556
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Bạn chưa có tài khoản?",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 194,
+                "height": 35,
+                "position": {
+                    "x": 97,
+                    "y": 450
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Hoặc",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 42,
+                "height": 31,
+                "position": {
+                    "x": 220,
+                    "y": 502
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "size": "M",
+        "text": "Đăng nhập ",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 512,
+        "height": 36,
+        "position": {
+            "x": 859,
+            "y": 135
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 1922,
+        "height": 1202,
+        "position": {
+            "x": -102,
+            "y": -83
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 288,
+        "height": 109,
+        "position": {
+            "x": 180,
+            "y": 129
+        }
+    },
+    "children": []
+}
+]

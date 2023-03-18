@@ -1,0 +1,1539 @@
+[{
+    "type": "TEXT",
+    "data": {
+        "size": "M",
+        "text": "Dashboard",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 1010,
+        "position": {
+            "x": 284,
+            "y": 96
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1184,
+        "height": 56,
+        "position": {
+            "x": 256,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 988,
+                    "y": 17
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Me",
+                "color": {
+                    "type": "BLACK"
+                },
+                "width": 0,
+                "height": 22,
+                "iconSize": null,
+                "position": {
+                    "x": 880,
+                    "y": 9
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 957,
+                    "y": 17
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "M",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": null,
+                "height": null,
+                "iconSize": null,
+                "position": {
+                    "x": 837,
+                    "y": 9
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Shopee Uni",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 0,
+                "height": 22,
+                "iconSize": null,
+                "position": {
+                    "x": 1044,
+                    "y": 11
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 256,
+        "height": 846,
+        "position": {
+            "x": 1,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "CUSTOM"
+        }
+    },
+    "children": [
+        {
+            "type": "SIDEBAR_MENU",
+            "data": {
+                "size": "L",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 224,
+                "height": 1000,
+                "position": {
+                    "x": 16,
+                    "y": 83
+                }
+            },
+            "children": [
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "size": null,
+                            "alignment": "LEFT"
+                        },
+                        "size": null,
+                        "text": "Quản lý sản phẩm",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "size": null,
+                        "text": "Quản lý shop",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "size": null,
+                            "alignment": "LEFT"
+                        },
+                        "size": null,
+                        "text": "Tổng quan",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "size": null,
+                            "alignment": "LEFT"
+                        },
+                        "size": null,
+                        "text": "Quản lý đơn hàng",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "size": null,
+                            "alignment": "LEFT"
+                        },
+                        "size": null,
+                        "text": "Tài chính",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "size": null,
+                            "alignment": "LEFT"
+                        },
+                        "size": null,
+                        "text": "Thiết lập",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "size": null,
+                            "alignment": "LEFT"
+                        },
+                        "size": null,
+                        "text": "Kênh marketing",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SIDEBAR_MENU_ITEM",
+                    "data": {
+                        "icon": {
+                            "size": null,
+                            "alignment": "LEFT"
+                        },
+                        "size": null,
+                        "text": "Dữ liệu",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 165,
+                "height": 62,
+                "position": {
+                    "x": 16,
+                    "y": 10
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 352,
+        "height": 882,
+        "position": {
+            "x": 1048,
+            "y": 172
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "James Harrid",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 214,
+                "height": 23,
+                "position": {
+                    "x": 73,
+                    "y": 333
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "L",
+                "text": "Thông báo",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 320,
+                "height": null,
+                "position": {
+                    "x": 14,
+                    "y": 16
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "L",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 47,
+                "height": 47,
+                "position": {
+                    "x": 14,
+                    "y": 155
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Velit aute occaecat Lorem mollit consectetur cillum sit nisi consequat officia ea",
+                "color": {
+                    "type": "DANGER"
+                },
+                "width": 259,
+                "height": 60,
+                "position": {
+                    "x": 64,
+                    "y": 455
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Kathryn Murphy",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 212,
+                "height": 23,
+                "position": {
+                    "x": 69,
+                    "y": 67
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 318,
+                "height": 65,
+                "position": {
+                    "x": 16,
+                    "y": 443
+                },
+                "backgroundColor": {
+                    "type": "DANGER"
+                }
+            },
+            "children": [
+                {
+                    "type": "ICON",
+                    "data": {
+                        "size": "M",
+                        "color": {
+                            "type": "DANGER"
+                        },
+                        "position": {
+                            "x": 12,
+                            "y": 21
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "L",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 47,
+                "height": 47,
+                "position": {
+                    "x": 14,
+                    "y": 67
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "James Harrid",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 214,
+                "height": 23,
+                "position": {
+                    "x": 69,
+                    "y": 155
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "11:37 PM",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "height": 68,
+                "position": {
+                    "x": 283,
+                    "y": 155
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Deserunt minim indidunt cillum nostrudo voluptate excepteur.",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 214,
+                "height": 45,
+                "position": {
+                    "x": 73,
+                    "y": 356
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "11:37 PM",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "height": 68,
+                "position": {
+                    "x": 287,
+                    "y": 333
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "L",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 47,
+                "height": 47,
+                "position": {
+                    "x": 18,
+                    "y": 333
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Deserunt minim indidunt cillum nostrudo voluptate excepteur.",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 214,
+                "height": 45,
+                "position": {
+                    "x": 69,
+                    "y": 178
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Deserunt minim indidunt cillum nostrudo voluptate excepteur.",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 212,
+                "height": 45,
+                "position": {
+                    "x": 69,
+                    "y": 90
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "12:00 PM",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "height": 68,
+                "position": {
+                    "x": 281,
+                    "y": 67
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 360,
+        "height": 189,
+        "position": {
+            "x": 668,
+            "y": 172
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "L",
+                "text": "",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 0,
+                "height": null,
+                "position": {
+                    "x": 300,
+                    "y": 16
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "402",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 275,
+                "height": 48,
+                "position": {
+                    "x": 16,
+                    "y": 46
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "0.65%",
+                "color": {
+                    "type": "DANGER"
+                },
+                "width": 44,
+                "position": {
+                    "x": 32,
+                    "y": 102
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Chi tiết",
+                "color": {
+                    "type": "INFO"
+                },
+                "width": 0,
+                "height": null,
+                "position": {
+                    "x": 273,
+                    "y": 143
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "period of change",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 113,
+                "position": {
+                    "x": 80,
+                    "y": 102
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 360,
+                    "y": 137
+                },
+                "from": {
+                    "x": 0,
+                    "y": 136
+                },
+                "position": {
+                    "x": 0,
+                    "y": 136
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "XS",
+                "color": {
+                    "type": "DANGER"
+                },
+                "position": {
+                    "x": 16,
+                    "y": 107
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Lượt xem",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 275,
+                "height": 22,
+                "position": {
+                    "x": 16,
+                    "y": 16
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 752,
+        "height": 235,
+        "position": {
+            "x": 284,
+            "y": 821
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "ICON",
+            "data": {
+                "size": "S",
+                "color": {
+                    "type": "CUSTOM"
+                },
+                "position": {
+                    "x": 720,
+                    "y": 80
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "S",
+                "color": {
+                    "type": "CUSTOM"
+                },
+                "position": {
+                    "x": 720,
+                    "y": 21
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "S",
+                "color": {
+                    "type": "CUSTOM"
+                },
+                "position": {
+                    "x": 720,
+                    "y": 139
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 736,
+                    "y": 177
+                },
+                "from": {
+                    "x": 16,
+                    "y": 176
+                },
+                "width": 710,
+                "height": 1,
+                "position": {
+                    "x": 16,
+                    "y": 176
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 736,
+                    "y": 59
+                },
+                "from": {
+                    "x": 16,
+                    "y": 58
+                },
+                "width": 710,
+                "height": 1,
+                "position": {
+                    "x": 16,
+                    "y": 58
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 736,
+                    "y": 118
+                },
+                "from": {
+                    "x": 16,
+                    "y": 117
+                },
+                "width": 710,
+                "height": 1,
+                "position": {
+                    "x": 16,
+                    "y": 117
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "position": {
+                    "x": 16,
+                    "y": 76
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "position": {
+                    "x": 16,
+                    "y": 17
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "L",
+                "text": "20 orders on delivery",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 164,
+                "position": {
+                    "x": 52,
+                    "y": 193
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "S",
+                "color": {
+                    "type": "CUSTOM"
+                },
+                "position": {
+                    "x": 720,
+                    "y": 198
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "L",
+                "text": "1 chargeback to review",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 179,
+                "position": {
+                    "x": 52,
+                    "y": 134
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "L",
+                "text": "6 orders to fulfill",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 126,
+                "position": {
+                    "x": 52,
+                    "y": 16
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "L",
+                "text": "50+ payments to capture",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 196,
+                "position": {
+                    "x": 52,
+                    "y": 75
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "position": {
+                    "x": 16,
+                    "y": 194
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "position": {
+                    "x": 16,
+                    "y": 135
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 12,
+        "height": 384,
+        "position": {
+            "x": 1419,
+            "y": 181
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": [
+        {
+            "type": "RECTANGLE",
+            "data": {
+                "width": 12,
+                "height": 124,
+                "position": {
+                    "x": 0,
+                    "y": 130
+                },
+                "backgroundColor": {
+                    "type": "NEUTRAL"
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "size": "S",
+        "text": "$230,000",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 91,
+        "height": 60,
+        "position": {
+            "x": 884,
+            "y": 735
+        },
+        "textAlign": "RIGHT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 744,
+        "height": 404,
+        "position": {
+            "x": 284,
+            "y": 389
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "RIGHT"
+                },
+                "size": "S",
+                "text": "Monthly",
+                "color": {
+                    "type": "BLACK"
+                },
+                "width": 79,
+                "height": 28,
+                "position": {
+                    "x": 97,
+                    "y": 72
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "COLUMN_BAR_CHART",
+            "data": {
+                "width": 548,
+                "height": 218,
+                "position": {
+                    "x": 16,
+                    "y": 158
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Project 1",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 78,
+                "height": 44,
+                "position": {
+                    "x": 612,
+                    "y": 252
+                },
+                "textAlign": "CENTER",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "M",
+                "text": " Export",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 95,
+                "height": null,
+                "position": {
+                    "x": 633,
+                    "y": 20
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "XS",
+                "text": "MONTHLY SALES",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 419,
+                "height": 18,
+                "position": {
+                    "x": 16,
+                    "y": 132
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Project 2",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 71,
+                "height": 44,
+                "position": {
+                    "x": 619,
+                    "y": 320
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 126,
+                    "y": 72
+                },
+                "from": {
+                    "x": 126,
+                    "y": 100
+                },
+                "position": {
+                    "x": 126,
+                    "y": 72
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "S",
+                "text": "Start date",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 74,
+                "height": 28,
+                "position": {
+                    "x": 248,
+                    "y": 72
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "HEADER_MENU",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 793,
+                "height": 56,
+                "position": {
+                    "x": 16,
+                    "y": 0
+                }
+            },
+            "children": [
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "size": null,
+                        "text": "Total sales",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "size": null,
+                        "text": "Traffic",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "size": null,
+                        "text": "Revenue",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "S",
+                "text": " End date",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 70,
+                "height": 28,
+                "position": {
+                    "x": 330,
+                    "y": 72
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "RIGHT"
+                },
+                "size": "S",
+                "text": "Project",
+                "color": {
+                    "type": "BLACK"
+                },
+                "width": 73,
+                "height": 28,
+                "position": {
+                    "x": 16,
+                    "y": 72
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "$500,000",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 106,
+                "height": 60,
+                "position": {
+                    "x": 585,
+                    "y": 278
+                },
+                "textAlign": "RIGHT",
+                "fontWeight": "700"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "icon": {
+            "alignment": "LEFT"
+        },
+        "size": "M",
+        "text": " Share",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 70,
+        "height": null,
+        "position": {
+            "x": 1312,
+            "y": 102
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 360,
+        "height": 189,
+        "position": {
+            "x": 284,
+            "y": 172
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Số đơn hàng",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 272,
+                "height": 22,
+                "position": {
+                    "x": 16,
+                    "y": 16
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "52",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 272,
+                "height": 48,
+                "position": {
+                    "x": 16,
+                    "y": 46
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Chi tiết",
+                "color": {
+                    "type": "INFO"
+                },
+                "width": 0,
+                "height": null,
+                "position": {
+                    "x": 277,
+                    "y": 142
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "period of change",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 113,
+                "position": {
+                    "x": 80,
+                    "y": 102
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 360,
+                    "y": 137
+                },
+                "from": {
+                    "x": 0,
+                    "y": 136
+                },
+                "position": {
+                    "x": 0,
+                    "y": 136
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "XS",
+                "color": {
+                    "type": "SUCCESS"
+                },
+                "position": {
+                    "x": 16,
+                    "y": 107
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "L",
+                "text": "",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 0,
+                "height": null,
+                "position": {
+                    "x": 300,
+                    "y": 16
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "5.39%",
+                "color": {
+                    "type": "SUCCESS"
+                },
+                "width": 44,
+                "position": {
+                    "x": 32,
+                    "y": 102
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        }
+    ]
+}
+]

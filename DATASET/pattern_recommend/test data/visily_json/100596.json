@@ -1,0 +1,296 @@
+[{
+    "type": "TEXTBOX",
+    "data": {
+        "size": "L",
+        "text": "***********",
+        "color": {
+            "type": "GRAY"
+        },
+        "icons": [
+            {
+                "alignment": "RIGHT"
+            }
+        ],
+        "label": "Password",
+        "width": 335,
+        "height": 65,
+        "position": {
+            "x": 20,
+            "y": 520
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "TEXTBOX",
+    "data": {
+        "size": "L",
+        "text": "123-456-7890",
+        "color": {
+            "type": "GRAY"
+        },
+        "icons": [],
+        "label": "Phone",
+        "width": 335,
+        "height": 65,
+        "position": {
+            "x": 20,
+            "y": 350
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 100,
+        "height": 100,
+        "position": {
+            "x": 138,
+            "y": 115
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 88,
+                "height": 88,
+                "position": {
+                    "x": 6,
+                    "y": 6
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "S",
+                "text": "",
+                "color": {
+                    "type": "SUCCESS"
+                },
+                "width": 32,
+                "height": null,
+                "position": {
+                    "x": 62,
+                    "y": 0
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXTBOX",
+    "data": {
+        "size": "L",
+        "text": "James Harrid",
+        "color": {
+            "type": "GRAY"
+        },
+        "icons": [],
+        "label": "Name",
+        "width": 335,
+        "height": 65,
+        "position": {
+            "x": 20,
+            "y": 265
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "L",
+        "text": "Save changes",
+        "color": {
+            "type": "SUCCESS"
+        },
+        "width": 335,
+        "height": null,
+        "position": {
+            "x": 20,
+            "y": 748
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "RATING",
+    "data": {
+        "size": "S",
+        "color": {
+            "type": "CUSTOM"
+        },
+        "shape": "REGULAR",
+        "width": 80,
+        "position": {
+            "x": 148,
+            "y": 228
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXTBOX",
+    "data": {
+        "size": "L",
+        "text": "example@email.com",
+        "color": {
+            "type": "GRAY"
+        },
+        "icons": [],
+        "label": "Email",
+        "width": 335,
+        "height": 65,
+        "position": {
+            "x": 20,
+            "y": 435
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 375,
+        "height": 96,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 375,
+                "height": 40,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 72,
+                        "height": 40,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 96,
+                        "height": 40,
+                        "position": {
+                            "x": 279,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "S",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 20,
+                    "y": 60
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "My profile",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 136,
+                    "y": 53
+                },
+                "textAlign": "CENTER",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Log out",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 307,
+                    "y": 58
+                },
+                "textAlign": "RIGHT",
+                "fontWeight": "400"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXTBOX",
+    "data": {
+        "size": "L",
+        "text": "Set birthday",
+        "color": {
+            "type": "GRAY"
+        },
+        "icons": [],
+        "label": "Birthday",
+        "width": 335,
+        "height": 65,
+        "position": {
+            "x": 20,
+            "y": 605
+        },
+        "backgroundColor": null
+    },
+    "children": []
+}
+]

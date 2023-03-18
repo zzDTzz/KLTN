@@ -1,0 +1,245 @@
+[{
+    "type": "IMAGE",
+    "data": {
+        "width": 203,
+        "height": 118,
+        "position": {
+            "x": 172,
+            "y": 694
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 203,
+        "height": 239,
+        "position": {
+            "x": 172,
+            "y": 167
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 203,
+        "height": 274,
+        "position": {
+            "x": 172,
+            "y": 413
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 164,
+        "height": 261,
+        "position": {
+            "x": 0,
+            "y": 167
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 162,
+        "height": 59,
+        "position": {
+            "x": 0,
+            "y": 753
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 335,
+        "height": 32,
+        "position": {
+            "x": 20,
+            "y": 100
+        },
+        "backgroundColor": {
+            "type": "PRIMARY"
+        }
+    },
+    "children": [
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": null,
+                "size": "S",
+                "text": "Uploads",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 137,
+                "height": null,
+                "position": {
+                    "x": 108,
+                    "y": 0
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": null,
+                "size": "S",
+                "text": "Photos of you",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 108,
+                "height": null,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": null,
+                "size": "S",
+                "text": "Albums",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 90,
+                "height": null,
+                "position": {
+                    "x": 245,
+                    "y": 0
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 375,
+        "height": 100,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 375,
+                "height": 40,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "GROUP",
+                    "data": {
+                        "width": 327,
+                        "height": 22,
+                        "position": {
+                            "x": 24,
+                            "y": 298
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 96,
+                        "height": 40,
+                        "position": {
+                            "x": 279,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 72,
+                        "height": 40,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Tam Nguyen",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 64,
+                    "y": 54
+                },
+                "textAlign": "CENTER",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "position": {
+                    "x": 24,
+                    "y": 54
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 164,
+        "height": 307,
+        "position": {
+            "x": 0,
+            "y": 436
+        }
+    },
+    "children": []
+}
+]

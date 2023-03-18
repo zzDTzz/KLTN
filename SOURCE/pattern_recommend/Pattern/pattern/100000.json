@@ -1,0 +1,43 @@
+[
+    {
+        "type": "BUTTON",
+        "data": {
+            "size": "M",
+            "text": "Most popular",
+            "color": {
+                "type": "BLACK"
+            },
+            "width": 111,
+            "height": null,
+            "position": {
+                "x": 820,
+                "y": 92
+            }
+        },
+        "children": []
+    },
+    {
+        "type": "TEXTBOX",
+        "data": {
+            "size": "M",
+            "text": "Search",
+            "color": {
+                "type": "GRAY"
+            },
+            "icons": [
+                {
+                    "alignment": "LEFT",
+                    "useBorderColor": false
+                }
+            ],
+            "label": "Label",
+            "width": 348,
+            "height": null,
+            "position": {
+                "x": 443,
+                "y": 92
+            }
+        },
+        "children": []
+    }
+]

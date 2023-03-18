@@ -1,0 +1,125 @@
+[{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "Check grammar",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 0,
+        "position": {
+            "x": 640,
+            "y": 610
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Untitle document",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 71,
+        "height": 49,
+        "position": {
+            "x": 120,
+            "y": 13
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 231,
+        "height": 900,
+        "position": {
+            "x": 1209,
+            "y": 0
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXTAREA",
+    "data": {
+        "icon": null,
+        "size": "XL",
+        "text": "Type or paste (Ctrl + V) your text here or upload a document",
+        "color": {
+            "type": "GRAY"
+        },
+        "label": "Label",
+        "width": 656,
+        "height": 395,
+        "position": {
+            "x": 113,
+            "y": 202
+        },
+        "labelTextSize": null
+    },
+    "children": []
+},
+{
+    "type": "GROUP",
+    "data": {
+        "width": 268,
+        "height": 175,
+        "position": {
+            "x": 23,
+            "y": 9
+        }
+    },
+    "children": [
+        {
+            "type": "OVAL",
+            "data": {
+                "width": 14,
+                "height": 19,
+                "position": {
+                    "x": 11,
+                    "y": 19
+                },
+                "backgroundColor": {
+                    "type": "TERTIARY3"
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "OVAL",
+            "data": {
+                "width": 68,
+                "height": 58,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": {
+                    "type": "NEUTRAL"
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 14,
+                "height": 14,
+                "position": {
+                    "x": 36,
+                    "y": 21
+                }
+            },
+            "children": []
+        }
+    ]
+}
+]

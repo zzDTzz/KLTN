@@ -1,0 +1,233 @@
+[{
+    "type": "TEXT",
+    "data": {
+        "text": "4.1",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 40,
+        "height": 30,
+        "position": {
+            "x": 720,
+            "y": 207
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 564,
+            "y": 900
+        },
+        "from": {
+            "x": 564,
+            "y": 56
+        },
+        "position": {
+            "x": 564,
+            "y": 56
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 440,
+        "height": 635,
+        "position": {
+            "x": 44,
+            "y": 134
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "2.00$",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 90,
+        "height": 36,
+        "position": {
+            "x": 601,
+            "y": 272
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "XL",
+        "text": "Buy now",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 0,
+        "height": null,
+        "iconSize": null,
+        "position": {
+            "x": 597,
+            "y": 368
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "<Book Title>",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 260,
+        "height": 56,
+        "position": {
+            "x": 601,
+            "y": 133
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "RATING",
+    "data": {
+        "size": "M",
+        "color": {
+            "type": "CUSTOM"
+        },
+        "shape": "REGULAR",
+        "position": {
+            "x": 601,
+            "y": 212
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1440,
+        "height": 56,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "CUSTOM"
+        }
+    },
+    "children": [
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1210,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 1250,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 96,
+                "height": 36,
+                "position": {
+                    "x": 24,
+                    "y": 10
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Search...",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [
+                    {
+                        "alignment": "LEFT",
+                        "useBorderColor": false
+                    }
+                ],
+                "width": 256,
+                "position": {
+                    "x": 938,
+                    "y": 10
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Author: *****",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 196,
+        "height": 30,
+        "position": {
+            "x": 601,
+            "y": 96
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "On sale",
+        "color": {
+            "type": "TERTIARY3"
+        },
+        "width": 86,
+        "height": 30,
+        "position": {
+            "x": 601,
+            "y": 331
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+}
+]

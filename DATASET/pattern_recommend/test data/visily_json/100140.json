@@ -1,0 +1,194 @@
+[{
+    "type": "TEXT",
+    "data": {
+        "text": "All rights reserved",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 131,
+        "height": 24,
+        "position": {
+            "x": 654,
+            "y": 827
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "XL",
+        "text": "EXPERIENCES IN APPs",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 524,
+        "height": 100,
+        "iconSize": null,
+        "position": {
+            "x": 873,
+            "y": 634
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "XL",
+        "text": "Account Status",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 524,
+        "height": 100,
+        "iconSize": null,
+        "position": {
+            "x": 43,
+            "y": 292
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "XL",
+        "text": "All you need to know as beginner",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 524,
+        "height": 100,
+        "iconSize": null,
+        "position": {
+            "x": 873,
+            "y": 292
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "XL",
+        "text": "KEEP THE COMMUNITY CLEAN",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 524,
+        "height": 100,
+        "iconSize": null,
+        "position": {
+            "x": 873,
+            "y": 463
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "XL",
+        "text": "PRIVACY & STATUs",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 524,
+        "height": 100,
+        "iconSize": null,
+        "position": {
+            "x": 48,
+            "y": 463
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "XL",
+        "text": "OUR POLICIEs",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 524,
+        "height": 100,
+        "iconSize": null,
+        "position": {
+            "x": 43,
+            "y": 634
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 1392,
+            "y": 805
+        },
+        "from": {
+            "x": 48,
+            "y": 805
+        },
+        "position": {
+            "x": 48,
+            "y": 805
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXTBOX",
+    "data": {
+        "size": "XL",
+        "text": "Search...",
+        "color": {
+            "type": "GRAY"
+        },
+        "icons": [
+            {
+                "size": null,
+                "alignment": "LEFT",
+                "useBorderColor": false
+            }
+        ],
+        "width": 548,
+        "height": null,
+        "position": {
+            "x": 446,
+            "y": 169
+        },
+        "labelTextSize": null
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Help Services",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 279,
+        "height": 61,
+        "position": {
+            "x": 580,
+            "y": 86
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+}
+]

@@ -1,0 +1,1160 @@
+[{
+    "type": "IMAGE",
+    "data": {
+        "width": 116,
+        "height": 93,
+        "position": {
+            "x": 455,
+            "y": 788
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 116,
+        "height": 93,
+        "position": {
+            "x": 704,
+            "y": 788
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 116,
+        "height": 93,
+        "position": {
+            "x": 579,
+            "y": 788
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 116,
+        "height": 93,
+        "position": {
+            "x": 828,
+            "y": 686
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 116,
+        "height": 93,
+        "position": {
+            "x": 828,
+            "y": 788
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 116,
+        "height": 93,
+        "position": {
+            "x": 704,
+            "y": 583
+        }
+    },
+    "children": []
+},
+{
+    "type": "OVAL",
+    "data": {
+        "width": 74,
+        "height": 91,
+        "position": {
+            "x": 455,
+            "y": 243
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 292,
+        "height": 823,
+        "position": {
+            "x": 10,
+            "y": 78
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 292,
+                "height": 102,
+                "position": {
+                    "x": 0,
+                    "y": 309
+                },
+                "backgroundColor": {
+                    "type": "CUSTOM"
+                }
+            },
+            "children": [
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Selina Rutherford",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": null,
+                        "height": 22,
+                        "position": {
+                            "x": 72,
+                            "y": 20
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Fri",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 261,
+                            "y": 21
+                        },
+                        "textAlign": "RIGHT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                },
+                {
+                    "type": "AVATAR",
+                    "data": {
+                        "size": "L",
+                        "text": "A",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 16,
+                            "y": 20
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "You: Ullamco exercitation magna sint ",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 204,
+                        "height": 40,
+                        "position": {
+                            "x": 72,
+                            "y": 42
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 292,
+                "height": 102,
+                "position": {
+                    "x": 0,
+                    "y": 721
+                },
+                "backgroundColor": {
+                    "type": "CUSTOM"
+                }
+            },
+            "children": [
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Wardell",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": null,
+                        "height": 22,
+                        "position": {
+                            "x": 72,
+                            "y": 20
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "AVATAR",
+                    "data": {
+                        "size": "L",
+                        "text": "A",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 16,
+                            "y": 20
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Oct 10",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 243,
+                            "y": 21
+                        },
+                        "textAlign": "RIGHT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "You: Ullamco exercitation magna sint",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 204,
+                        "height": 40,
+                        "position": {
+                            "x": 72,
+                            "y": 42
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 292,
+                "height": 102,
+                "position": {
+                    "x": 0,
+                    "y": 103
+                },
+                "backgroundColor": {
+                    "type": "CUSTOM"
+                }
+            },
+            "children": [
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Mon",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 251,
+                            "y": 21
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Annie Haley",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": null,
+                        "height": 22,
+                        "position": {
+                            "x": 72,
+                            "y": 20
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "AVATAR",
+                    "data": {
+                        "size": "L",
+                        "text": "A",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 16,
+                            "y": 20
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "You: Ullamco exercitation magna sint ",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 204,
+                        "height": 40,
+                        "position": {
+                            "x": 72,
+                            "y": 42
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 292,
+                    "y": 103
+                },
+                "from": {
+                    "x": 0,
+                    "y": 102
+                },
+                "position": {
+                    "x": 0,
+                    "y": 102
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 292,
+                    "y": 412
+                },
+                "from": {
+                    "x": 0,
+                    "y": 411
+                },
+                "position": {
+                    "x": 0,
+                    "y": 411
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 292,
+                    "y": 206
+                },
+                "from": {
+                    "x": 0,
+                    "y": 205
+                },
+                "position": {
+                    "x": 0,
+                    "y": 205
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 292,
+                    "y": 515
+                },
+                "from": {
+                    "x": 0,
+                    "y": 514
+                },
+                "position": {
+                    "x": 0,
+                    "y": 514
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 292,
+                "height": 102,
+                "position": {
+                    "x": 0,
+                    "y": 412
+                },
+                "backgroundColor": {
+                    "type": "CUSTOM"
+                }
+            },
+            "children": [
+                {
+                    "type": "AVATAR",
+                    "data": {
+                        "size": "L",
+                        "text": "E",
+                        "color": {
+                            "type": "GRAY"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 16,
+                            "y": 20
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "You: Ullamco exercitation magna sint",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 204,
+                        "height": 40,
+                        "position": {
+                            "x": 72,
+                            "y": 42
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Emelia Rowe",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": null,
+                        "height": 22,
+                        "position": {
+                            "x": 72,
+                            "y": 20
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Nov 4",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 246,
+                            "y": 21
+                        },
+                        "textAlign": "RIGHT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 292,
+                    "y": 309
+                },
+                "from": {
+                    "x": 0,
+                    "y": 308
+                },
+                "position": {
+                    "x": 0,
+                    "y": 308
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 292,
+                "height": 102,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": {
+                    "type": "INFO"
+                }
+            },
+            "children": [
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "1:19pm",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 239,
+                            "y": 21
+                        },
+                        "textAlign": "RIGHT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                },
+                {
+                    "type": "AVATAR",
+                    "data": {
+                        "size": "L",
+                        "text": "A",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 16,
+                            "y": 20
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "You: Ullamco exercitation magna sint ",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 204,
+                        "height": 40,
+                        "position": {
+                            "x": 72,
+                            "y": 42
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Diana Ross",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": null,
+                        "height": 22,
+                        "position": {
+                            "x": 72,
+                            "y": 20
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 292,
+                    "y": 618
+                },
+                "from": {
+                    "x": 0,
+                    "y": 617
+                },
+                "position": {
+                    "x": 0,
+                    "y": 617
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 292,
+                "height": 102,
+                "position": {
+                    "x": 0,
+                    "y": 206
+                },
+                "backgroundColor": {
+                    "type": "CUSTOM"
+                }
+            },
+            "children": [
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Jevon Raynor",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": null,
+                        "height": 22,
+                        "position": {
+                            "x": 72,
+                            "y": 20
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "You: Ullamco exercitation magna sint ",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 204,
+                        "height": 40,
+                        "position": {
+                            "x": 72,
+                            "y": 42
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Sun",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 257,
+                            "y": 21
+                        },
+                        "textAlign": "RIGHT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                },
+                {
+                    "type": "AVATAR",
+                    "data": {
+                        "size": "L",
+                        "text": "A",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 16,
+                            "y": 20
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 292,
+                    "y": 721
+                },
+                "from": {
+                    "x": 0,
+                    "y": 720
+                },
+                "position": {
+                    "x": 0,
+                    "y": 720
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 292,
+                "height": 102,
+                "position": {
+                    "x": 0,
+                    "y": 515
+                },
+                "backgroundColor": {
+                    "type": "CUSTOM"
+                }
+            },
+            "children": [
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Frank Sinatra",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": null,
+                        "height": 22,
+                        "position": {
+                            "x": 72,
+                            "y": 20
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Nov 1",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 246,
+                            "y": 21
+                        },
+                        "textAlign": "RIGHT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "You: Ullamco exercitation magna sint",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 204,
+                        "height": 40,
+                        "position": {
+                            "x": 72,
+                            "y": 42
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "AVATAR",
+                    "data": {
+                        "size": "L",
+                        "text": "  ",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 16,
+                            "y": 20
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 292,
+                "height": 102,
+                "position": {
+                    "x": 0,
+                    "y": 618
+                },
+                "backgroundColor": {
+                    "type": "CUSTOM"
+                }
+            },
+            "children": [
+                {
+                    "type": "AVATAR",
+                    "data": {
+                        "size": "L",
+                        "text": "A",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 16,
+                            "y": 20
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "You: Ullamco exercitation magna sint",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 204,
+                        "height": 40,
+                        "position": {
+                            "x": 72,
+                            "y": 42
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Oct 27",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 243,
+                            "y": 21
+                        },
+                        "textAlign": "RIGHT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "Selena Kye",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": null,
+                        "height": 22,
+                        "position": {
+                            "x": 72,
+                            "y": 20
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "What do you want to share?",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 535,
+            "y": 249
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 116,
+        "height": 93,
+        "position": {
+            "x": 704,
+            "y": 686
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 116,
+        "height": 93,
+        "position": {
+            "x": 828,
+            "y": 583
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "John sharing his victory",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 556,
+            "y": 481
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXTAREA",
+    "data": {
+        "icon": null,
+        "size": "M",
+        "text": "Input text",
+        "color": {
+            "type": "GRAY"
+        },
+        "label": "Label",
+        "width": 415,
+        "position": {
+            "x": 529,
+            "y": 271
+        }
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "share",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 0,
+        "position": {
+            "x": 883,
+            "y": 366
+        }
+    },
+    "children": []
+},
+{
+    "type": "OVAL",
+    "data": {
+        "width": 74,
+        "height": 91,
+        "position": {
+            "x": 455,
+            "y": 472
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 240,
+        "height": 195,
+        "position": {
+            "x": 455,
+            "y": 583
+        }
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "Find match",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 230,
+        "height": 44,
+        "position": {
+            "x": 1196,
+            "y": 841
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 195,
+        "height": 210,
+        "position": {
+            "x": 1231,
+            "y": 622
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "CHECKBOX",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "label": "Label",
+                "width": 163,
+                "height": 178,
+                "position": {
+                    "x": 16,
+                    "y": 16
+                }
+            },
+            "children": [
+                {
+                    "type": "CHECKBOX_ITEM",
+                    "data": {
+                        "text": "game mode 1",
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "CHECKBOX_ITEM",
+                    "data": {
+                        "text": "game mode 4",
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "CHECKBOX_ITEM",
+                    "data": {
+                        "text": "game mode 2",
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "CHECKBOX_ITEM",
+                    "data": {
+                        "text": "game mode 3",
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "CHECKBOX_ITEM",
+                    "data": {
+                        "text": "game mode 5",
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+}
+]

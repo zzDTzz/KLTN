@@ -1,0 +1,199 @@
+[{
+    "type": "CONTAINER",
+    "data": {
+        "width": 375,
+        "height": 802,
+        "position": {
+            "x": 5,
+            "y": 5
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "L",
+                "text": "Save changes",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 339,
+                "height": null,
+                "position": {
+                    "x": 14,
+                    "y": 604
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "L",
+                "text": "***********",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [
+                    {
+                        "alignment": "RIGHT"
+                    }
+                ],
+                "label": "Password",
+                "width": 339,
+                "height": null,
+                "position": {
+                    "x": 18,
+                    "y": 508
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 333,
+                    "y": 21
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "L",
+                "text": "E-Ro Nguyen",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "label": "Name",
+                "width": 339,
+                "height": null,
+                "position": {
+                    "x": 18,
+                    "y": 220
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 104,
+                "height": 104,
+                "position": {
+                    "x": 136,
+                    "y": 84
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "IMAGE",
+                    "data": {
+                        "width": 88,
+                        "height": 88,
+                        "position": {
+                            "x": 8,
+                            "y": 8
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "L",
+                "text": "nlp@hcmus.edu.vn",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "label": "Email",
+                "width": 339,
+                "height": null,
+                "position": {
+                    "x": 18,
+                    "y": 412
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "L",
+                "text": "123-456-7890",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "label": "Phone",
+                "width": 339,
+                "height": null,
+                "position": {
+                    "x": 18,
+                    "y": 316
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "S",
+                "text": "",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 32,
+                "height": null,
+                "position": {
+                    "x": 208,
+                    "y": 80
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Profile settings",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 111,
+                    "y": 18
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        }
+    ]
+}
+]

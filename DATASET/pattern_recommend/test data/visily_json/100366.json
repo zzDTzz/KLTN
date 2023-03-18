@@ -1,0 +1,263 @@
+[{
+    "type": "CONTAINER",
+    "data": {
+        "width": 512,
+        "height": 726,
+        "position": {
+            "x": 494,
+            "y": 99
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Confirm",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 68,
+                "height": null,
+                "position": {
+                    "x": 416,
+                    "y": 666
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Health Declaration",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 456,
+                "height": 48,
+                "position": {
+                    "x": 28,
+                    "y": 24
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Input text",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "label": "Last Name",
+                "width": 218,
+                "position": {
+                    "x": 28,
+                    "y": 122
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Input text",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [
+                    {
+                        "alignment": "RIGHT",
+                        "useBorderColor": false
+                    }
+                ],
+                "label": "Sex",
+                "width": 218,
+                "position": {
+                    "x": 28,
+                    "y": 385
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Cancle",
+                "color": {
+                    "type": "GRAY"
+                },
+                "width": 68,
+                "height": null,
+                "position": {
+                    "x": 342,
+                    "y": 666
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Input text",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "label": "Year of Birth",
+                "width": 456,
+                "position": {
+                    "x": 28,
+                    "y": 201
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Input text",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [],
+                "label": "First Name",
+                "width": 218,
+                "position": {
+                    "x": 266,
+                    "y": 122
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTAREA",
+            "data": {
+                "icon": null,
+                "size": "M",
+                "text": "Input text",
+                "color": {
+                    "type": "GRAY"
+                },
+                "label": "Places visited in 14 days",
+                "width": 456,
+                "height": 94,
+                "position": {
+                    "x": 28,
+                    "y": 464
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Input text",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [
+                    {
+                        "alignment": "RIGHT",
+                        "useBorderColor": false
+                    }
+                ],
+                "label": "Address",
+                "width": 456,
+                "position": {
+                    "x": 28,
+                    "y": 283
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TABBAR_MENU",
+    "data": {
+        "size": "M",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "position": {
+            "x": 1229,
+            "y": 10
+        }
+    },
+    "children": [
+        {
+            "type": "TABBAR_MENU_ITEM",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "text": "Home",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TABBAR_MENU_ITEM",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "text": "Message",
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TABBAR_MENU_ITEM",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "text": "Account",
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TABBAR_MENU_ITEM",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "text": "Search",
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+}
+]

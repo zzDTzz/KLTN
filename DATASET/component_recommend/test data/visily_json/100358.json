@@ -1,0 +1,234 @@
+[{
+    "type": "TEXT",
+    "data": {
+        "size": "M",
+        "text": "Sign In",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 138,
+            "y": 130
+        },
+        "textAlign": "CENTER",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "icon": {
+            "alignment": "LEFT"
+        },
+        "size": "L",
+        "text": "Continue with Google",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 335,
+        "height": null,
+        "position": {
+            "x": 20,
+            "y": 558
+        },
+        "backgroundColor": {
+            "type": "CUSTOM"
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "size": "M",
+        "text": "Welcome back",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 122,
+            "y": 178
+        },
+        "textAlign": "CENTER",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "size": "M",
+        "text": "Sign up",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 241,
+            "y": 724
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXTBOX",
+    "data": {
+        "size": "L",
+        "text": "tam.ngocbang.nguyen@gmail.com",
+        "color": {
+            "type": "GRAY"
+        },
+        "icons": [
+            {
+                "size": null,
+                "alignment": "LEFT",
+                "useBorderColor": true
+            }
+        ],
+        "label": "Email",
+        "width": 335,
+        "height": null,
+        "position": {
+            "x": 20,
+            "y": 240
+        },
+        "labelTextSize": null,
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "OR",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 179,
+            "y": 514
+        },
+        "textAlign": "CENTER",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "size": "M",
+        "text": "Don't have an account?",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 83,
+            "y": 724
+        },
+        "textAlign": "RIGHT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "icon": {
+            "alignment": "LEFT"
+        },
+        "size": "L",
+        "text": "Continue with Facebook",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 335,
+        "height": null,
+        "position": {
+            "x": 20,
+            "y": 616
+        },
+        "backgroundColor": {
+            "type": "CUSTOM"
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXTBOX",
+    "data": {
+        "size": "L",
+        "text": "Enter password",
+        "color": {
+            "type": "GRAY"
+        },
+        "icons": [
+            {
+                "alignment": "RIGHT",
+                "useBorderColor": true
+            },
+            {
+                "alignment": "LEFT",
+                "useBorderColor": true
+            }
+        ],
+        "label": "Password",
+        "width": 335,
+        "height": null,
+        "position": {
+            "x": 20,
+            "y": 320
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "size": "M",
+        "text": "Forgot password?",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 235,
+            "y": 400
+        },
+        "textAlign": "RIGHT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "L",
+        "text": "Sign In",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 335,
+        "height": null,
+        "position": {
+            "x": 20,
+            "y": 446
+        },
+        "backgroundColor": null
+    },
+    "children": []
+}
+]

@@ -1,0 +1,438 @@
+[{
+    "type": "TEXT",
+    "data": {
+        "text": "Eiusmod eiusmod aliqua nostrud non commodo do laborum pariatur deserunt ipsum consectetur cupidatat. Nisi non laborum eiusmod comm",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 478,
+        "height": 44,
+        "position": {
+            "x": 94,
+            "y": 804
+        },
+        "textAlign": "LEFT"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Friend",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 72,
+        "height": 36,
+        "position": {
+            "x": 94,
+            "y": 356
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Friend",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 72,
+        "height": 36,
+        "position": {
+            "x": 94,
+            "y": 459
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 72,
+        "height": 72,
+        "position": {
+            "x": 9,
+            "y": 665
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 72,
+        "height": 72,
+        "position": {
+            "x": 9,
+            "y": 768
+        }
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "Group",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 248,
+        "iconSize": null,
+        "position": {
+            "x": 311,
+            "y": 99
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Friend",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 72,
+        "height": 36,
+        "position": {
+            "x": 94,
+            "y": 158
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Eiusmod eiusmod aliqua nostrud non commodo do laborum pariatur deserunt ipsum consectetur cupidatat. Nisi non laborum eiusmod comm",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 478,
+        "height": 44,
+        "position": {
+            "x": 94,
+            "y": 194
+        },
+        "textAlign": "LEFT"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Eiusmod eiusmod aliqua nostrud non commodo do laborum pariatur deserunt ipsum consectetur cupidatat. Nisi non laborum eiusmod comm",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 478,
+        "height": 44,
+        "position": {
+            "x": 94,
+            "y": 495
+        },
+        "textAlign": "LEFT"
+    },
+    "children": []
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 572,
+        "height": 765,
+        "position": {
+            "x": 0,
+            "y": 148
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Eiusmod eiusmod aliqua nostrud non commodo do laborum pariatur deserunt ipsum consectetur cupidatat. Nisi non laborum eiusmod comm",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 478,
+        "height": 44,
+        "position": {
+            "x": 94,
+            "y": 598
+        },
+        "textAlign": "LEFT"
+    },
+    "children": []
+},
+{
+    "type": "BUTTON",
+    "data": {
+        "size": "M",
+        "text": "All",
+        "color": {
+            "type": "PRIMARY"
+        },
+        "width": 248,
+        "iconSize": null,
+        "position": {
+            "x": 9,
+            "y": 99
+        },
+        "backgroundColor": null
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Eiusmod eiusmod aliqua nostrud non commodo do laborum pariatur deserunt ipsum consectetur cupidatat. Nisi non laborum eiusmod comm",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 478,
+        "height": 44,
+        "position": {
+            "x": 94,
+            "y": 701
+        },
+        "textAlign": "LEFT"
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 72,
+        "height": 72,
+        "position": {
+            "x": 9,
+            "y": 562
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "99+ unread messages",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 20,
+            "y": 54
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Friend",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 72,
+        "height": 36,
+        "position": {
+            "x": 94,
+            "y": 253
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 72,
+        "height": 72,
+        "position": {
+            "x": 9,
+            "y": 253
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Friend",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 72,
+        "height": 36,
+        "position": {
+            "x": 94,
+            "y": 665
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Eiusmod eiusmod aliqua nostrud non commodo do laborum pariatur deserunt ipsum consectetur cupidatat. Nisi non laborum eiusmod comm",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 478,
+        "height": 44,
+        "position": {
+            "x": 94,
+            "y": 289
+        },
+        "textAlign": "LEFT"
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 72,
+        "height": 72,
+        "position": {
+            "x": 9,
+            "y": 356
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Eiusmod eiusmod aliqua nostrud non commodo do laborum pariatur deserunt ipsum consectetur cupidatat. Nisi non laborum eiusmod comm",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 478,
+        "height": 44,
+        "position": {
+            "x": 94,
+            "y": 392
+        },
+        "textAlign": "LEFT"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Friend",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 72,
+        "height": 36,
+        "position": {
+            "x": 94,
+            "y": 562
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Message",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 20,
+            "y": 18
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 72,
+        "height": 72,
+        "position": {
+            "x": 9,
+            "y": 158
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 72,
+        "height": 72,
+        "position": {
+            "x": 9,
+            "y": 459
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Friend",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 72,
+        "height": 36,
+        "position": {
+            "x": 94,
+            "y": 768
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+}
+]

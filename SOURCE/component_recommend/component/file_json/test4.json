@@ -1,0 +1,233 @@
+{
+    "children": [
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 284,
+                    "y": 400
+                },
+                "from": {
+                    "x": 28,
+                    "y": 399
+                },
+                "position": {
+                    "x": 28,
+                    "y": 399
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 284,
+                    "y": 519
+                },
+                "from": {
+                    "x": 28,
+                    "y": 518
+                },
+                "position": {
+                    "x": 28,
+                    "y": 518
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Send Message",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 256,
+                "height": null,
+                "position": {
+                    "x": 28,
+                    "y": 80
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "L",
+                "text": "Availability",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 256,
+                "height": 26,
+                "position": {
+                    "x": 28,
+                    "y": 301
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "L",
+                "text": "Languages",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 256,
+                "height": 26,
+                "position": {
+                    "x": 28,
+                    "y": 420
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "S",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 88,
+                    "y": 242
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "size": "M",
+                "text": "Save",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 256,
+                "height": null,
+                "position": {
+                    "x": 28,
+                    "y": 184
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Available\nAs Needed - Open to Offers",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 256,
+                "height": 44,
+                "position": {
+                    "x": 28,
+                    "y": 335
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Post Job To Invite",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 256,
+                "height": null,
+                "position": {
+                    "x": 28,
+                    "y": 28
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "English: Native\nGerman: Proficient",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 256,
+                "height": 44,
+                "position": {
+                    "x": 28,
+                    "y": 454
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Hire Now",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 256,
+                "height": null,
+                "position": {
+                    "x": 28,
+                    "y": 132
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "Flag as inappropriate",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 120,
+                "height": null,
+                "position": {
+                    "x": 104,
+                    "y": 240
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "DIVIDER",
+            "data": {
+                "to": {
+                    "x": 284,
+                    "y": 281
+                },
+                "from": {
+                    "x": 28,
+                    "y": 280
+                },
+                "position": {
+                    "x": 28,
+                    "y": 280
+                }
+            },
+            "children": []
+        }
+    ]
+}

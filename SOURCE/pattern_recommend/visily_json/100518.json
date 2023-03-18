@@ -1,0 +1,1219 @@
+[{
+    "type": "CONTAINER",
+    "data": {
+        "width": 273,
+        "height": 386,
+        "position": {
+            "x": 1149,
+            "y": 125
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 236,
+                "height": 246,
+                "position": {
+                    "x": 18,
+                    "y": 18
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Confirm",
+                "color": {
+                    "type": "SECONDARY"
+                },
+                "width": 0,
+                "position": {
+                    "x": 50,
+                    "y": 334
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Delete",
+                "color": {
+                    "type": "CUSTOM"
+                },
+                "width": 0,
+                "position": {
+                    "x": 156,
+                    "y": 334
+                },
+                "backgroundColor": {
+                    "type": "NEUTRAL"
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "32 mutual friends",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 110,
+                "height": 24,
+                "position": {
+                    "x": 18,
+                    "y": 305
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "400"
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "XL",
+                "text": "Fanny Tran",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": 28,
+                "position": {
+                    "x": 18,
+                    "y": 272
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 234,
+        "height": 934,
+        "position": {
+            "x": 0,
+            "y": 56
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 177,
+            "y": 81
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1440,
+        "height": 56,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "OVAL",
+            "data": {
+                "width": 35,
+                "height": 35,
+                "position": {
+                    "x": 1251,
+                    "y": 10
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "HEADER_MENU",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "SECONDARY"
+                },
+                "width": 552,
+                "height": null,
+                "position": {
+                    "x": 160,
+                    "y": 2
+                }
+            },
+            "children": [
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "icon": null,
+                        "text": "Trending",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "News",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Sports",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Home",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Gaming",
+                        "color": {
+                            "type": "SECONDARY"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Live",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Music",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1169,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1211,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 96,
+                "height": 36,
+                "position": {
+                    "x": 24,
+                    "y": 10
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 35,
+                "height": 35,
+                "position": {
+                    "x": 1250,
+                    "y": 10
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Garfield Cat",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 95,
+                "position": {
+                    "x": 1297,
+                    "y": 17
+                },
+                "textAlign": "LEFT",
+                "fontWeight": ""
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "XS",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 12,
+                "position": {
+                    "x": 1400,
+                    "y": 22
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 273,
+        "height": 386,
+        "position": {
+            "x": 252,
+            "y": 125
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Delete",
+                "color": {
+                    "type": "CUSTOM"
+                },
+                "width": 0,
+                "position": {
+                    "x": 156,
+                    "y": 334
+                },
+                "backgroundColor": {
+                    "type": "NEUTRAL"
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "S",
+                "text": "2 mutual friends",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 110,
+                "height": 24,
+                "position": {
+                    "x": 18,
+                    "y": 305
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "400"
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 236,
+                "height": 246,
+                "position": {
+                    "x": 18,
+                    "y": 18
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Confirm",
+                "color": {
+                    "type": "SECONDARY"
+                },
+                "width": 0,
+                "position": {
+                    "x": 50,
+                    "y": 334
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "XL",
+                "text": "Shelly White",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": 28,
+                "position": {
+                    "x": 18,
+                    "y": 272
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Friend Requests",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 252,
+            "y": 77
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 273,
+        "height": 386,
+        "position": {
+            "x": 551,
+            "y": 125
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Confirm",
+                "color": {
+                    "type": "SECONDARY"
+                },
+                "width": 0,
+                "position": {
+                    "x": 50,
+                    "y": 334
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "62 mutual friends",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 110,
+                "height": 24,
+                "position": {
+                    "x": 18,
+                    "y": 305
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "400"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Delete",
+                "color": {
+                    "type": "CUSTOM"
+                },
+                "width": 0,
+                "position": {
+                    "x": 156,
+                    "y": 334
+                },
+                "backgroundColor": {
+                    "type": "NEUTRAL"
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "XL",
+                "text": "Andy Ho",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": 28,
+                "position": {
+                    "x": 18,
+                    "y": 272
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 236,
+                "height": 246,
+                "position": {
+                    "x": 18,
+                    "y": 18
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 184,
+            "y": 88
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 273,
+        "height": 386,
+        "position": {
+            "x": 551,
+            "y": 582
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Remove",
+                "color": {
+                    "type": "CUSTOM"
+                },
+                "width": 0,
+                "position": {
+                    "x": 150,
+                    "y": 334
+                },
+                "backgroundColor": {
+                    "type": "NEUTRAL"
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 236,
+                "height": 246,
+                "position": {
+                    "x": 18,
+                    "y": 18
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Add friend",
+                "color": {
+                    "type": "SECONDARY"
+                },
+                "width": 0,
+                "position": {
+                    "x": 44,
+                    "y": 334
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Taylor Eren",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": 28,
+                "position": {
+                    "x": 18,
+                    "y": 272
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 273,
+        "height": 386,
+        "position": {
+            "x": 1149,
+            "y": 582
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Add friend",
+                "color": {
+                    "type": "SECONDARY"
+                },
+                "width": 0,
+                "position": {
+                    "x": 42,
+                    "y": 334
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Remove",
+                "color": {
+                    "type": "CUSTOM"
+                },
+                "width": 0,
+                "position": {
+                    "x": 148,
+                    "y": 334
+                },
+                "backgroundColor": {
+                    "type": "NEUTRAL"
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Natsu Dragneel",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": 28,
+                "position": {
+                    "x": 18,
+                    "y": 272
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 236,
+                "height": 246,
+                "position": {
+                    "x": 18,
+                    "y": 18
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 273,
+        "height": 386,
+        "position": {
+            "x": 850,
+            "y": 582
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "22 mutual friends",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 110,
+                "height": 24,
+                "position": {
+                    "x": 18,
+                    "y": 305
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "400"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Remove",
+                "color": {
+                    "type": "CUSTOM"
+                },
+                "width": 0,
+                "position": {
+                    "x": 151,
+                    "y": 334
+                },
+                "backgroundColor": {
+                    "type": "NEUTRAL"
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Lucy Heartfilia",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": 28,
+                "position": {
+                    "x": 18,
+                    "y": 272
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Add friend",
+                "color": {
+                    "type": "SECONDARY"
+                },
+                "width": 0,
+                "position": {
+                    "x": 45,
+                    "y": 334
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 236,
+                "height": 246,
+                "position": {
+                    "x": 18,
+                    "y": 18
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Friends",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 26,
+            "y": 77
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "People You May Know",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 273,
+        "height": 38,
+        "position": {
+            "x": 252,
+            "y": 532
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "SIDEBAR_MENU",
+    "data": {
+        "size": "M",
+        "color": {
+            "type": "SECONDARY"
+        },
+        "width": 188,
+        "height": 80,
+        "position": {
+            "x": 26,
+            "y": 146
+        }
+    },
+    "children": [
+        {
+            "type": "SIDEBAR_MENU_ITEM",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "text": "Custom Lists",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "SIDEBAR_MENU_ITEM",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "text": "Birthdays",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "SIDEBAR_MENU_ITEM",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "text": "Suggestions",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "SIDEBAR_MENU_ITEM",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "text": "Home",
+                "color": null,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "SIDEBAR_MENU_ITEM",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "text": "Friend Requests",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "SIDEBAR_MENU_ITEM",
+            "data": {
+                "icon": {
+                    "alignment": "LEFT"
+                },
+                "text": "All friends",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 273,
+        "height": 386,
+        "position": {
+            "x": 252,
+            "y": 582
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 236,
+                "height": 246,
+                "position": {
+                    "x": 18,
+                    "y": 18
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "`2 mutual friends",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 110,
+                "height": 24,
+                "position": {
+                    "x": 18,
+                    "y": 305
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "400"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Remove",
+                "color": {
+                    "type": "CUSTOM"
+                },
+                "width": 0,
+                "position": {
+                    "x": 151,
+                    "y": 334
+                },
+                "backgroundColor": {
+                    "type": "NEUTRAL"
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Adam White",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": 28,
+                "position": {
+                    "x": 18,
+                    "y": 272
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Add friend",
+                "color": {
+                    "type": "SECONDARY"
+                },
+                "width": 0,
+                "position": {
+                    "x": 45,
+                    "y": 334
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 273,
+        "height": 386,
+        "position": {
+            "x": 850,
+            "y": 125
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "XL",
+                "text": "Tommy Cat",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 236,
+                "height": 28,
+                "position": {
+                    "x": 18,
+                    "y": 272
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Confirm",
+                "color": {
+                    "type": "SECONDARY"
+                },
+                "width": 0,
+                "position": {
+                    "x": 50,
+                    "y": 334
+                },
+                "backgroundColor": null
+            },
+            "children": []
+        },
+        {
+            "type": "BUTTON",
+            "data": {
+                "size": "M",
+                "text": "Delete",
+                "color": {
+                    "type": "CUSTOM"
+                },
+                "width": 0,
+                "position": {
+                    "x": 156,
+                    "y": 334
+                },
+                "backgroundColor": {
+                    "type": "NEUTRAL"
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 236,
+                "height": 246,
+                "position": {
+                    "x": 18,
+                    "y": 18
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "22 mutual friends",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 110,
+                "height": 24,
+                "position": {
+                    "x": 18,
+                    "y": 305
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "400"
+            },
+            "children": []
+        }
+    ]
+}
+]

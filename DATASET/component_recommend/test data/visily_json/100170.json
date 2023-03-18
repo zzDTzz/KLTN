@@ -1,0 +1,1280 @@
+[{
+    "type": "GROUP",
+    "data": {
+        "width": 312,
+        "height": 742,
+        "position": {
+            "x": 0,
+            "y": 56
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Blogs read:       2022",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 44,
+                    "y": 297
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 249,
+                "height": 156,
+                "position": {
+                    "x": 23,
+                    "y": 66
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "RECTANGLE",
+            "data": {
+                "width": 330,
+                "height": 844,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": {
+                    "type": "SECONDARY"
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1440,
+        "height": 56,
+        "position": {
+            "x": 3509,
+            "y": 1122
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": [
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1219,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "XS",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 12,
+                "position": {
+                    "x": 1404,
+                    "y": 22
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1440,
+        "height": 56,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": [
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "M",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1259,
+                    "y": 10
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1219,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Amanda Smith",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 97,
+                "position": {
+                    "x": 1301,
+                    "y": 17
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "HEADER_MENU",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 372,
+                "position": {
+                    "x": 56,
+                    "y": 4
+                }
+            },
+            "children": [
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Home",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "icon": null,
+                        "text": "Groups",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Blog",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Requests",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "TEXTBOX",
+            "data": {
+                "size": "M",
+                "text": "Search...",
+                "color": {
+                    "type": "GRAY"
+                },
+                "icons": [
+                    {
+                        "alignment": "LEFT",
+                        "useBorderColor": false
+                    }
+                ],
+                "width": 256,
+                "position": {
+                    "x": 947,
+                    "y": 10
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "XS",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 12,
+                "position": {
+                    "x": 1404,
+                    "y": 22
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "GROUP",
+    "data": {
+        "width": 958,
+        "height": 763,
+        "position": {
+            "x": 417,
+            "y": 96
+        }
+    },
+    "children": [
+        {
+            "type": "GROUP",
+            "data": {
+                "width": 958,
+                "height": 682,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": [
+                {
+                    "type": "CONTAINER",
+                    "data": {
+                        "width": 268,
+                        "height": 326,
+                        "position": {
+                            "x": 0,
+                            "y": 356
+                        },
+                        "backgroundColor": {
+                            "type": "WHITE"
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "S",
+                                "text": "Description about the product: quis nostrud exercitation ullamco ",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": 236,
+                                "height": 41,
+                                "position": {
+                                    "x": 16,
+                                    "y": 237
+                                },
+                                "textAlign": "LEFT"
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "XL",
+                                "text": "How does machine learn?",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": 236,
+                                "height": 28,
+                                "position": {
+                                    "x": 16,
+                                    "y": 201
+                                },
+                                "textAlign": "LEFT",
+                                "fontWeight": "700"
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "M",
+                                "text": "Subtitle",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": 236,
+                                "height": 22,
+                                "position": {
+                                    "x": 16,
+                                    "y": 179
+                                },
+                                "textAlign": "LEFT"
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "IMAGE",
+                            "data": {
+                                "width": 236,
+                                "height": 155,
+                                "position": {
+                                    "x": 16,
+                                    "y": 16
+                                }
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TAG",
+                            "data": {
+                                "size": "S",
+                                "width": 236,
+                                "height": null,
+                                "position": {
+                                    "x": 16,
+                                    "y": 286
+                                }
+                            },
+                            "children": [
+                                {
+                                    "type": "TAG_ITEM",
+                                    "data": {
+                                        "text": "Label 1",
+                                        "color": {
+                                            "type": "PRIMARY"
+                                        },
+                                        "icons": [],
+                                        "position": {
+                                            "x": 0,
+                                            "y": 0
+                                        }
+                                    },
+                                    "children": []
+                                },
+                                {
+                                    "type": "TAG_ITEM",
+                                    "data": {
+                                        "text": "Label 2",
+                                        "color": {
+                                            "type": "SECONDARY"
+                                        },
+                                        "icons": [],
+                                        "position": {
+                                            "x": 0,
+                                            "y": 0
+                                        }
+                                    },
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "CONTAINER",
+                    "data": {
+                        "width": 268,
+                        "height": 326,
+                        "position": {
+                            "x": 690,
+                            "y": 356
+                        },
+                        "backgroundColor": {
+                            "type": "WHITE"
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "XL",
+                                "text": "Math for Data Geek",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": 236,
+                                "height": 28,
+                                "position": {
+                                    "x": 16,
+                                    "y": 201
+                                },
+                                "textAlign": "LEFT",
+                                "fontWeight": "700"
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TAG",
+                            "data": {
+                                "size": "S",
+                                "width": 236,
+                                "height": null,
+                                "position": {
+                                    "x": 16,
+                                    "y": 286
+                                }
+                            },
+                            "children": [
+                                {
+                                    "type": "TAG_ITEM",
+                                    "data": {
+                                        "text": "Label 2",
+                                        "color": {
+                                            "type": "SECONDARY"
+                                        },
+                                        "icons": [],
+                                        "position": {
+                                            "x": 0,
+                                            "y": 0
+                                        }
+                                    },
+                                    "children": []
+                                },
+                                {
+                                    "type": "TAG_ITEM",
+                                    "data": {
+                                        "text": "Label 1",
+                                        "color": {
+                                            "type": "PRIMARY"
+                                        },
+                                        "icons": [],
+                                        "position": {
+                                            "x": 0,
+                                            "y": 0
+                                        }
+                                    },
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "IMAGE",
+                            "data": {
+                                "width": 236,
+                                "height": 155,
+                                "position": {
+                                    "x": 16,
+                                    "y": 16
+                                }
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "M",
+                                "text": "Subtitle",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": 236,
+                                "height": 22,
+                                "position": {
+                                    "x": 16,
+                                    "y": 179
+                                },
+                                "textAlign": "LEFT"
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "S",
+                                "text": "Description about the product: quis nostrud exercitation ullamco ",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": 236,
+                                "height": 41,
+                                "position": {
+                                    "x": 16,
+                                    "y": 237
+                                },
+                                "textAlign": "LEFT"
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "CONTAINER",
+                    "data": {
+                        "width": 268,
+                        "height": 326,
+                        "position": {
+                            "x": 345,
+                            "y": 356
+                        },
+                        "backgroundColor": {
+                            "type": "WHITE"
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "TAG",
+                            "data": {
+                                "size": "S",
+                                "width": 236,
+                                "height": null,
+                                "position": {
+                                    "x": 16,
+                                    "y": 286
+                                }
+                            },
+                            "children": [
+                                {
+                                    "type": "TAG_ITEM",
+                                    "data": {
+                                        "text": "Label 1",
+                                        "color": {
+                                            "type": "PRIMARY"
+                                        },
+                                        "icons": [],
+                                        "position": {
+                                            "x": 0,
+                                            "y": 0
+                                        }
+                                    },
+                                    "children": []
+                                },
+                                {
+                                    "type": "TAG_ITEM",
+                                    "data": {
+                                        "text": "Label 2",
+                                        "color": {
+                                            "type": "SECONDARY"
+                                        },
+                                        "icons": [],
+                                        "position": {
+                                            "x": 0,
+                                            "y": 0
+                                        }
+                                    },
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "M",
+                                "text": "Subtitle",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": 236,
+                                "height": 22,
+                                "position": {
+                                    "x": 16,
+                                    "y": 179
+                                },
+                                "textAlign": "LEFT"
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "XL",
+                                "text": "Neuron networks",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": 236,
+                                "height": 28,
+                                "position": {
+                                    "x": 16,
+                                    "y": 201
+                                },
+                                "textAlign": "LEFT",
+                                "fontWeight": "700"
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "S",
+                                "text": "Description about the product: quis nostrud exercitation ullamco ",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": 236,
+                                "height": 41,
+                                "position": {
+                                    "x": 16,
+                                    "y": 237
+                                },
+                                "textAlign": "LEFT"
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "IMAGE",
+                            "data": {
+                                "width": 236,
+                                "height": 155,
+                                "position": {
+                                    "x": 16,
+                                    "y": 16
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "CONTAINER",
+                    "data": {
+                        "width": 268,
+                        "height": 326,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": {
+                            "type": "WHITE"
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "XL",
+                                "text": "NLP crash course",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": 236,
+                                "height": 28,
+                                "position": {
+                                    "x": 16,
+                                    "y": 201
+                                },
+                                "textAlign": "LEFT",
+                                "fontWeight": "700"
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "S",
+                                "text": "Description about the product: quis nostrud exercitation ullamco ",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": 236,
+                                "height": 41,
+                                "position": {
+                                    "x": 16,
+                                    "y": 237
+                                },
+                                "textAlign": "LEFT"
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TAG",
+                            "data": {
+                                "size": "S",
+                                "width": 236,
+                                "height": null,
+                                "position": {
+                                    "x": 16,
+                                    "y": 286
+                                }
+                            },
+                            "children": [
+                                {
+                                    "type": "TAG_ITEM",
+                                    "data": {
+                                        "text": "Label 1",
+                                        "color": {
+                                            "type": "PRIMARY"
+                                        },
+                                        "icons": [],
+                                        "position": {
+                                            "x": 0,
+                                            "y": 0
+                                        }
+                                    },
+                                    "children": []
+                                },
+                                {
+                                    "type": "TAG_ITEM",
+                                    "data": {
+                                        "text": "Label 2",
+                                        "color": {
+                                            "type": "SECONDARY"
+                                        },
+                                        "icons": [],
+                                        "position": {
+                                            "x": 0,
+                                            "y": 0
+                                        }
+                                    },
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "IMAGE",
+                            "data": {
+                                "width": 236,
+                                "height": 155,
+                                "position": {
+                                    "x": 16,
+                                    "y": 16
+                                }
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "M",
+                                "text": "Subtitle",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": 236,
+                                "height": 22,
+                                "position": {
+                                    "x": 16,
+                                    "y": 179
+                                },
+                                "textAlign": "LEFT"
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "CONTAINER",
+                    "data": {
+                        "width": 268,
+                        "height": 326,
+                        "position": {
+                            "x": 345,
+                            "y": 0
+                        },
+                        "backgroundColor": {
+                            "type": "WHITE"
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "IMAGE",
+                            "data": {
+                                "width": 236,
+                                "height": 155,
+                                "position": {
+                                    "x": 16,
+                                    "y": 16
+                                }
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TAG",
+                            "data": {
+                                "size": "S",
+                                "width": 236,
+                                "height": null,
+                                "position": {
+                                    "x": 16,
+                                    "y": 286
+                                }
+                            },
+                            "children": [
+                                {
+                                    "type": "TAG_ITEM",
+                                    "data": {
+                                        "text": "Label 2",
+                                        "color": {
+                                            "type": "SECONDARY"
+                                        },
+                                        "icons": [],
+                                        "position": {
+                                            "x": 0,
+                                            "y": 0
+                                        }
+                                    },
+                                    "children": []
+                                },
+                                {
+                                    "type": "TAG_ITEM",
+                                    "data": {
+                                        "text": "Label 1",
+                                        "color": {
+                                            "type": "PRIMARY"
+                                        },
+                                        "icons": [],
+                                        "position": {
+                                            "x": 0,
+                                            "y": 0
+                                        }
+                                    },
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "M",
+                                "text": "Subtitle",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": 236,
+                                "height": 22,
+                                "position": {
+                                    "x": 16,
+                                    "y": 179
+                                },
+                                "textAlign": "LEFT"
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "S",
+                                "text": "Description about the product: quis nostrud exercitation ullamco ",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": 236,
+                                "height": 41,
+                                "position": {
+                                    "x": 16,
+                                    "y": 237
+                                },
+                                "textAlign": "LEFT"
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "XL",
+                                "text": "Master CV in one min",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": 236,
+                                "height": 28,
+                                "position": {
+                                    "x": 16,
+                                    "y": 201
+                                },
+                                "textAlign": "LEFT",
+                                "fontWeight": "700"
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "CONTAINER",
+                    "data": {
+                        "width": 268,
+                        "height": 326,
+                        "position": {
+                            "x": 690,
+                            "y": 0
+                        },
+                        "backgroundColor": {
+                            "type": "WHITE"
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "IMAGE",
+                            "data": {
+                                "width": 236,
+                                "height": 155,
+                                "position": {
+                                    "x": 16,
+                                    "y": 16
+                                }
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "M",
+                                "text": "Subtitle",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": 236,
+                                "height": 22,
+                                "position": {
+                                    "x": 16,
+                                    "y": 179
+                                },
+                                "textAlign": "LEFT"
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "S",
+                                "text": "Description about the product: quis nostrud exercitation ullamco ",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": 236,
+                                "height": 41,
+                                "position": {
+                                    "x": 16,
+                                    "y": 237
+                                },
+                                "textAlign": "LEFT"
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TAG",
+                            "data": {
+                                "size": "S",
+                                "width": 236,
+                                "height": null,
+                                "position": {
+                                    "x": 16,
+                                    "y": 286
+                                }
+                            },
+                            "children": [
+                                {
+                                    "type": "TAG_ITEM",
+                                    "data": {
+                                        "text": "Label 2",
+                                        "color": {
+                                            "type": "SECONDARY"
+                                        },
+                                        "icons": [],
+                                        "position": {
+                                            "x": 0,
+                                            "y": 0
+                                        }
+                                    },
+                                    "children": []
+                                },
+                                {
+                                    "type": "TAG_ITEM",
+                                    "data": {
+                                        "text": "Label 1",
+                                        "color": {
+                                            "type": "PRIMARY"
+                                        },
+                                        "icons": [],
+                                        "position": {
+                                            "x": 0,
+                                            "y": 0
+                                        }
+                                    },
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "XL",
+                                "text": "What is AI?",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": 236,
+                                "height": 28,
+                                "position": {
+                                    "x": 16,
+                                    "y": 201
+                                },
+                                "textAlign": "LEFT",
+                                "fontWeight": "700"
+                            },
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "GROUP",
+            "data": {
+                "width": 345,
+                "height": 36,
+                "position": {
+                    "x": 290,
+                    "y": 727
+                }
+            },
+            "children": [
+                {
+                    "type": "BUTTON",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "size": "M",
+                        "text": "",
+                        "color": {
+                            "type": "GRAY"
+                        },
+                        "width": 36,
+                        "height": null,
+                        "position": {
+                            "x": 309,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "BUTTON",
+                    "data": {
+                        "icon": null,
+                        "size": "M",
+                        "text": "4",
+                        "color": {
+                            "type": "GRAY"
+                        },
+                        "width": 33,
+                        "height": null,
+                        "position": {
+                            "x": 148,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "BUTTON",
+                    "data": {
+                        "icon": null,
+                        "size": "M",
+                        "text": "10",
+                        "color": {
+                            "type": "GRAY"
+                        },
+                        "width": 39,
+                        "height": null,
+                        "position": {
+                            "x": 225,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "BUTTON",
+                    "data": {
+                        "icon": null,
+                        "size": "M",
+                        "text": "2",
+                        "color": {
+                            "type": "GRAY"
+                        },
+                        "width": 32,
+                        "height": null,
+                        "position": {
+                            "x": 75,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "BUTTON",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "size": "M",
+                        "text": "",
+                        "color": {
+                            "type": "GRAY"
+                        },
+                        "width": 36,
+                        "height": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "BUTTON",
+                    "data": {
+                        "size": "M",
+                        "text": "1",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": 31,
+                        "height": null,
+                        "position": {
+                            "x": 40,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "BUTTON",
+                    "data": {
+                        "icon": null,
+                        "size": "M",
+                        "text": "11",
+                        "color": {
+                            "type": "GRAY"
+                        },
+                        "width": 37,
+                        "height": null,
+                        "position": {
+                            "x": 268,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "BUTTON",
+                    "data": {
+                        "icon": null,
+                        "size": "M",
+                        "text": "3",
+                        "color": {
+                            "type": "GRAY"
+                        },
+                        "width": 33,
+                        "height": null,
+                        "position": {
+                            "x": 111,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                },
+                {
+                    "type": "BUTTON",
+                    "data": {
+                        "icon": {
+                            "alignment": "LEFT"
+                        },
+                        "size": "M",
+                        "text": "",
+                        "color": {
+                            "type": "GRAY"
+                        },
+                        "width": 36,
+                        "height": null,
+                        "position": {
+                            "x": 185,
+                            "y": 0
+                        },
+                        "backgroundColor": null
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Blogs written:    418",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 44,
+            "y": 394
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+}
+]

@@ -1,0 +1,286 @@
+[{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1920,
+        "height": 1080,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": [
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 648,
+                "height": 560,
+                "position": {
+                    "x": 589,
+                    "y": 295
+                },
+                "backgroundColor": {
+                    "type": "WHITE"
+                }
+            },
+            "children": [
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "text": "Loading...",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 197,
+                            "y": 530
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 64,
+                            "y": 491
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "ICON",
+                    "data": {
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 64,
+                            "y": 491
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "S",
+                        "text": "Upload files",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 592,
+                        "height": 40,
+                        "position": {
+                            "x": 28,
+                            "y": 28
+                        },
+                        "textAlign": "LEFT"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "OVAL",
+                    "data": {
+                        "width": 81,
+                        "height": 81,
+                        "position": {
+                            "x": 37,
+                            "y": 464
+                        },
+                        "backgroundColor": {
+                            "type": "NEUTRAL"
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "BUTTON",
+                    "data": {
+                        "size": "M",
+                        "text": "Cancel",
+                        "color": {
+                            "type": "GRAY"
+                        },
+                        "width": 81,
+                        "height": 36,
+                        "position": {
+                            "x": 447,
+                            "y": 428
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "BUTTON",
+                    "data": {
+                        "size": "M",
+                        "text": "Upload",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": 82,
+                        "height": 36,
+                        "position": {
+                            "x": 538,
+                            "y": 428
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "SLIDER",
+                    "data": {
+                        "size": "M",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "value": {
+                            "to": 70.31,
+                            "from": 0
+                        },
+                        "width": 192,
+                        "height": 28,
+                        "position": {
+                            "x": 136,
+                            "y": 498
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "text": "Image.png",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 136,
+                            "y": 478
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                },
+                {
+                    "type": "CONTAINER",
+                    "data": {
+                        "width": 592,
+                        "height": 324,
+                        "position": {
+                            "x": 28,
+                            "y": 86
+                        },
+                        "backgroundColor": {
+                            "type": "NEUTRAL"
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "BUTTON",
+                            "data": {
+                                "icon": null,
+                                "size": "L",
+                                "text": "Browse files",
+                                "color": {
+                                    "type": "PRIMARY"
+                                },
+                                "width": 0,
+                                "height": 44,
+                                "position": {
+                                    "x": 228,
+                                    "y": 252
+                                }
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "L",
+                                "text": "OR",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": null,
+                                "height": 28,
+                                "position": {
+                                    "x": 283,
+                                    "y": 216
+                                },
+                                "textAlign": "LEFT"
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "S",
+                                "text": "Drop files here",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": null,
+                                "height": 40,
+                                "position": {
+                                    "x": 203,
+                                    "y": 124
+                                },
+                                "textAlign": "LEFT"
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "ICON",
+                            "data": {
+                                "size": "XL",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": 80,
+                                "height": 80,
+                                "position": {
+                                    "x": 256,
+                                    "y": 36
+                                }
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "TEXT",
+                            "data": {
+                                "size": "L",
+                                "text": "Supported formats: PNG, JPG",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": null,
+                                "height": 28,
+                                "position": {
+                                    "x": 174,
+                                    "y": 172
+                                },
+                                "textAlign": "LEFT"
+                            },
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
+]

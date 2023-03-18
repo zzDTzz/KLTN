@@ -1,0 +1,100 @@
+[{
+    "type": "TEXT",
+    "data": {
+        "text": "Short Trips",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": 133,
+        "height": 30,
+        "position": {
+            "x": 141,
+            "y": 745
+        },
+        "textAlign": "CENTER",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Google",
+        "color": {
+            "type": "WHITE"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 20,
+            "y": 16
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "500"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "nearme",
+        "color": {
+            "type": "WHITE"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 20,
+            "y": 44
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "500"
+    },
+    "children": []
+},
+{
+    "type": "RECTANGLE",
+    "data": {
+        "width": 505,
+        "height": 265,
+        "position": {
+            "x": -39,
+            "y": 722
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": []
+},
+{
+    "type": "IMAGE",
+    "data": {
+        "width": 454,
+        "height": 926,
+        "position": {
+            "x": -19,
+            "y": 0
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "You can join your neighbours events or you \ncan create an events easily",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 30,
+            "y": 799
+        },
+        "textAlign": "CENTER",
+        "fontWeight": ""
+    },
+    "children": []
+}
+]

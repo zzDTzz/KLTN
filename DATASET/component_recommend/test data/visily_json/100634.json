@@ -1,0 +1,1455 @@
+[{
+    "type": "GROUP",
+    "data": {
+        "width": 1061,
+        "height": 822,
+        "position": {
+            "x": 437,
+            "y": 151
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Text",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 233,
+                    "y": 208
+                },
+                "textAlign": "LEFT"
+            },
+            "children": []
+        },
+        {
+            "type": "GROUP",
+            "data": {
+                "width": 1061,
+                "height": 822,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "children": [
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "text": "Friend request",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": "700"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "GROUP",
+                    "data": {
+                        "width": 370,
+                        "height": 730,
+                        "position": {
+                            "x": 0,
+                            "y": 76
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "CONTAINER",
+                            "data": {
+                                "width": 370,
+                                "height": 110,
+                                "position": {
+                                    "x": 0,
+                                    "y": 620
+                                },
+                                "backgroundColor": {
+                                    "type": "WHITE"
+                                }
+                            },
+                            "children": [
+                                {
+                                    "type": "TEXT",
+                                    "data": {
+                                        "text": "Mary sends you an ivitation",
+                                        "color": {
+                                            "type": "NEUTRAL"
+                                        },
+                                        "width": 276,
+                                        "height": 40,
+                                        "position": {
+                                            "x": 60,
+                                            "y": 16
+                                        },
+                                        "textAlign": "LEFT",
+                                        "fontWeight": ""
+                                    },
+                                    "children": []
+                                },
+                                {
+                                    "type": "GROUP",
+                                    "data": {
+                                        "width": 162,
+                                        "height": 36,
+                                        "position": {
+                                            "x": 198,
+                                            "y": 60
+                                        }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "BUTTON",
+                                            "data": {
+                                                "size": "M",
+                                                "text": "Cancel",
+                                                "color": {
+                                                    "type": "GRAY"
+                                                },
+                                                "width": 74,
+                                                "height": null,
+                                                "position": {
+                                                    "x": 0,
+                                                    "y": 0
+                                                },
+                                                "backgroundColor": null
+                                            },
+                                            "children": []
+                                        },
+                                        {
+                                            "type": "BUTTON",
+                                            "data": {
+                                                "size": "M",
+                                                "text": "Confirm",
+                                                "color": {
+                                                    "type": "PRIMARY"
+                                                },
+                                                "width": 80,
+                                                "height": null,
+                                                "position": {
+                                                    "x": 82,
+                                                    "y": 0
+                                                }
+                                            },
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "ICON",
+                                    "data": {
+                                        "size": "M",
+                                        "color": {
+                                            "type": "NEUTRAL"
+                                        },
+                                        "width": null,
+                                        "height": null,
+                                        "position": {
+                                            "x": 336,
+                                            "y": 8
+                                        }
+                                    },
+                                    "children": []
+                                },
+                                {
+                                    "type": "AVATAR",
+                                    "data": {
+                                        "size": "M",
+                                        "text": "A",
+                                        "color": {
+                                            "type": "PRIMARY"
+                                        },
+                                        "width": 32,
+                                        "height": 32,
+                                        "position": {
+                                            "x": 16,
+                                            "y": 20
+                                        }
+                                    },
+                                    "children": []
+                                },
+                                {
+                                    "type": "TEXT",
+                                    "data": {
+                                        "size": "XS",
+                                        "text": "A few seconds ago",
+                                        "color": {
+                                            "type": "NEUTRAL"
+                                        },
+                                        "width": 276,
+                                        "height": 18,
+                                        "position": {
+                                            "x": 60,
+                                            "y": 60
+                                        },
+                                        "textAlign": "LEFT"
+                                    },
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "CONTAINER",
+                            "data": {
+                                "width": 370,
+                                "height": 110,
+                                "position": {
+                                    "x": 0,
+                                    "y": 124
+                                },
+                                "backgroundColor": {
+                                    "type": "WHITE"
+                                }
+                            },
+                            "children": [
+                                {
+                                    "type": "ICON",
+                                    "data": {
+                                        "size": "M",
+                                        "color": {
+                                            "type": "NEUTRAL"
+                                        },
+                                        "width": null,
+                                        "height": null,
+                                        "position": {
+                                            "x": 336,
+                                            "y": 8
+                                        }
+                                    },
+                                    "children": []
+                                },
+                                {
+                                    "type": "TEXT",
+                                    "data": {
+                                        "text": "Bob sends you an ivitation",
+                                        "color": {
+                                            "type": "NEUTRAL"
+                                        },
+                                        "width": 276,
+                                        "height": 40,
+                                        "position": {
+                                            "x": 60,
+                                            "y": 16
+                                        },
+                                        "textAlign": "LEFT",
+                                        "fontWeight": ""
+                                    },
+                                    "children": []
+                                },
+                                {
+                                    "type": "GROUP",
+                                    "data": {
+                                        "width": 162,
+                                        "height": 36,
+                                        "position": {
+                                            "x": 198,
+                                            "y": 60
+                                        }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "BUTTON",
+                                            "data": {
+                                                "size": "M",
+                                                "text": "Cancel",
+                                                "color": {
+                                                    "type": "GRAY"
+                                                },
+                                                "width": 74,
+                                                "height": null,
+                                                "position": {
+                                                    "x": 0,
+                                                    "y": 0
+                                                },
+                                                "backgroundColor": null
+                                            },
+                                            "children": []
+                                        },
+                                        {
+                                            "type": "BUTTON",
+                                            "data": {
+                                                "size": "M",
+                                                "text": "Confirm",
+                                                "color": {
+                                                    "type": "PRIMARY"
+                                                },
+                                                "width": 80,
+                                                "height": null,
+                                                "position": {
+                                                    "x": 82,
+                                                    "y": 0
+                                                }
+                                            },
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "TEXT",
+                                    "data": {
+                                        "size": "XS",
+                                        "text": "A few seconds ago",
+                                        "color": {
+                                            "type": "NEUTRAL"
+                                        },
+                                        "width": 276,
+                                        "height": 18,
+                                        "position": {
+                                            "x": 60,
+                                            "y": 60
+                                        },
+                                        "textAlign": "LEFT"
+                                    },
+                                    "children": []
+                                },
+                                {
+                                    "type": "AVATAR",
+                                    "data": {
+                                        "size": "M",
+                                        "text": "A",
+                                        "color": {
+                                            "type": "PRIMARY"
+                                        },
+                                        "width": 32,
+                                        "height": 32,
+                                        "position": {
+                                            "x": 16,
+                                            "y": 20
+                                        }
+                                    },
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "CONTAINER",
+                            "data": {
+                                "width": 370,
+                                "height": 110,
+                                "position": {
+                                    "x": 0,
+                                    "y": 496
+                                },
+                                "backgroundColor": {
+                                    "type": "WHITE"
+                                }
+                            },
+                            "children": [
+                                {
+                                    "type": "AVATAR",
+                                    "data": {
+                                        "size": "M",
+                                        "text": "A",
+                                        "color": {
+                                            "type": "PRIMARY"
+                                        },
+                                        "width": 32,
+                                        "height": 32,
+                                        "position": {
+                                            "x": 16,
+                                            "y": 20
+                                        }
+                                    },
+                                    "children": []
+                                },
+                                {
+                                    "type": "ICON",
+                                    "data": {
+                                        "size": "M",
+                                        "color": {
+                                            "type": "NEUTRAL"
+                                        },
+                                        "width": null,
+                                        "height": null,
+                                        "position": {
+                                            "x": 336,
+                                            "y": 8
+                                        }
+                                    },
+                                    "children": []
+                                },
+                                {
+                                    "type": "GROUP",
+                                    "data": {
+                                        "width": 162,
+                                        "height": 36,
+                                        "position": {
+                                            "x": 198,
+                                            "y": 60
+                                        }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "BUTTON",
+                                            "data": {
+                                                "size": "M",
+                                                "text": "Confirm",
+                                                "color": {
+                                                    "type": "PRIMARY"
+                                                },
+                                                "width": 80,
+                                                "height": null,
+                                                "position": {
+                                                    "x": 82,
+                                                    "y": 0
+                                                }
+                                            },
+                                            "children": []
+                                        },
+                                        {
+                                            "type": "BUTTON",
+                                            "data": {
+                                                "size": "M",
+                                                "text": "Cancel",
+                                                "color": {
+                                                    "type": "GRAY"
+                                                },
+                                                "width": 74,
+                                                "height": null,
+                                                "position": {
+                                                    "x": 0,
+                                                    "y": 0
+                                                },
+                                                "backgroundColor": null
+                                            },
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "TEXT",
+                                    "data": {
+                                        "text": "Jessica sends you an ivitation",
+                                        "color": {
+                                            "type": "NEUTRAL"
+                                        },
+                                        "width": 276,
+                                        "height": 40,
+                                        "position": {
+                                            "x": 60,
+                                            "y": 16
+                                        },
+                                        "textAlign": "LEFT",
+                                        "fontWeight": ""
+                                    },
+                                    "children": []
+                                },
+                                {
+                                    "type": "TEXT",
+                                    "data": {
+                                        "size": "XS",
+                                        "text": "A few seconds ago",
+                                        "color": {
+                                            "type": "NEUTRAL"
+                                        },
+                                        "width": 276,
+                                        "height": 18,
+                                        "position": {
+                                            "x": 60,
+                                            "y": 60
+                                        },
+                                        "textAlign": "LEFT"
+                                    },
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "CONTAINER",
+                            "data": {
+                                "width": 370,
+                                "height": 110,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "backgroundColor": {
+                                    "type": "NEUTRAL"
+                                }
+                            },
+                            "children": [
+                                {
+                                    "type": "TEXT",
+                                    "data": {
+                                        "text": "Anna sends you an ivitation",
+                                        "color": {
+                                            "type": "NEUTRAL"
+                                        },
+                                        "width": 276,
+                                        "height": 40,
+                                        "position": {
+                                            "x": 60,
+                                            "y": 16
+                                        },
+                                        "textAlign": "LEFT",
+                                        "fontWeight": ""
+                                    },
+                                    "children": []
+                                },
+                                {
+                                    "type": "TEXT",
+                                    "data": {
+                                        "size": "XS",
+                                        "text": "A few seconds ago",
+                                        "color": {
+                                            "type": "NEUTRAL"
+                                        },
+                                        "width": 276,
+                                        "height": 18,
+                                        "position": {
+                                            "x": 60,
+                                            "y": 60
+                                        },
+                                        "textAlign": "LEFT"
+                                    },
+                                    "children": []
+                                },
+                                {
+                                    "type": "ICON",
+                                    "data": {
+                                        "size": "M",
+                                        "color": {
+                                            "type": "NEUTRAL"
+                                        },
+                                        "width": null,
+                                        "height": null,
+                                        "position": {
+                                            "x": 336,
+                                            "y": 8
+                                        }
+                                    },
+                                    "children": []
+                                },
+                                {
+                                    "type": "AVATAR",
+                                    "data": {
+                                        "size": "M",
+                                        "text": "A",
+                                        "color": {
+                                            "type": "PRIMARY"
+                                        },
+                                        "width": 32,
+                                        "height": 32,
+                                        "position": {
+                                            "x": 16,
+                                            "y": 20
+                                        }
+                                    },
+                                    "children": []
+                                },
+                                {
+                                    "type": "GROUP",
+                                    "data": {
+                                        "width": 162,
+                                        "height": 36,
+                                        "position": {
+                                            "x": 198,
+                                            "y": 60
+                                        }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "BUTTON",
+                                            "data": {
+                                                "size": "M",
+                                                "text": "Confirm",
+                                                "color": {
+                                                    "type": "PRIMARY"
+                                                },
+                                                "width": 80,
+                                                "height": null,
+                                                "position": {
+                                                    "x": 82,
+                                                    "y": 0
+                                                }
+                                            },
+                                            "children": []
+                                        },
+                                        {
+                                            "type": "BUTTON",
+                                            "data": {
+                                                "size": "M",
+                                                "text": "Cancel",
+                                                "color": {
+                                                    "type": "GRAY"
+                                                },
+                                                "width": 74,
+                                                "height": null,
+                                                "position": {
+                                                    "x": 0,
+                                                    "y": 0
+                                                },
+                                                "backgroundColor": null
+                                            },
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "CONTAINER",
+                            "data": {
+                                "width": 370,
+                                "height": 110,
+                                "position": {
+                                    "x": 0,
+                                    "y": 248
+                                },
+                                "backgroundColor": {
+                                    "type": "WHITE"
+                                }
+                            },
+                            "children": [
+                                {
+                                    "type": "TEXT",
+                                    "data": {
+                                        "size": "XS",
+                                        "text": "A few seconds ago",
+                                        "color": {
+                                            "type": "NEUTRAL"
+                                        },
+                                        "width": 276,
+                                        "height": 18,
+                                        "position": {
+                                            "x": 60,
+                                            "y": 60
+                                        },
+                                        "textAlign": "LEFT"
+                                    },
+                                    "children": []
+                                },
+                                {
+                                    "type": "ICON",
+                                    "data": {
+                                        "size": "M",
+                                        "color": {
+                                            "type": "NEUTRAL"
+                                        },
+                                        "width": null,
+                                        "height": null,
+                                        "position": {
+                                            "x": 336,
+                                            "y": 8
+                                        }
+                                    },
+                                    "children": []
+                                },
+                                {
+                                    "type": "GROUP",
+                                    "data": {
+                                        "width": 162,
+                                        "height": 36,
+                                        "position": {
+                                            "x": 198,
+                                            "y": 60
+                                        }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "BUTTON",
+                                            "data": {
+                                                "size": "M",
+                                                "text": "Cancel",
+                                                "color": {
+                                                    "type": "GRAY"
+                                                },
+                                                "width": 74,
+                                                "height": null,
+                                                "position": {
+                                                    "x": 0,
+                                                    "y": 0
+                                                },
+                                                "backgroundColor": null
+                                            },
+                                            "children": []
+                                        },
+                                        {
+                                            "type": "BUTTON",
+                                            "data": {
+                                                "size": "M",
+                                                "text": "Confirm",
+                                                "color": {
+                                                    "type": "PRIMARY"
+                                                },
+                                                "width": 80,
+                                                "height": null,
+                                                "position": {
+                                                    "x": 82,
+                                                    "y": 0
+                                                }
+                                            },
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "TEXT",
+                                    "data": {
+                                        "text": "Catherine sends you an ivitation",
+                                        "color": {
+                                            "type": "NEUTRAL"
+                                        },
+                                        "width": 276,
+                                        "height": 40,
+                                        "position": {
+                                            "x": 60,
+                                            "y": 16
+                                        },
+                                        "textAlign": "LEFT",
+                                        "fontWeight": ""
+                                    },
+                                    "children": []
+                                },
+                                {
+                                    "type": "AVATAR",
+                                    "data": {
+                                        "size": "M",
+                                        "text": "A",
+                                        "color": {
+                                            "type": "PRIMARY"
+                                        },
+                                        "width": 32,
+                                        "height": 32,
+                                        "position": {
+                                            "x": 16,
+                                            "y": 20
+                                        }
+                                    },
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "CONTAINER",
+                            "data": {
+                                "width": 370,
+                                "height": 110,
+                                "position": {
+                                    "x": 0,
+                                    "y": 372
+                                },
+                                "backgroundColor": {
+                                    "type": "WHITE"
+                                }
+                            },
+                            "children": [
+                                {
+                                    "type": "TEXT",
+                                    "data": {
+                                        "size": "XS",
+                                        "text": "A few seconds ago",
+                                        "color": {
+                                            "type": "NEUTRAL"
+                                        },
+                                        "width": 276,
+                                        "height": 18,
+                                        "position": {
+                                            "x": 60,
+                                            "y": 60
+                                        },
+                                        "textAlign": "LEFT"
+                                    },
+                                    "children": []
+                                },
+                                {
+                                    "type": "TEXT",
+                                    "data": {
+                                        "text": "Jack sends you an ivitation",
+                                        "color": {
+                                            "type": "NEUTRAL"
+                                        },
+                                        "width": 276,
+                                        "height": 40,
+                                        "position": {
+                                            "x": 60,
+                                            "y": 16
+                                        },
+                                        "textAlign": "LEFT",
+                                        "fontWeight": ""
+                                    },
+                                    "children": []
+                                },
+                                {
+                                    "type": "GROUP",
+                                    "data": {
+                                        "width": 162,
+                                        "height": 36,
+                                        "position": {
+                                            "x": 198,
+                                            "y": 60
+                                        }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "BUTTON",
+                                            "data": {
+                                                "size": "M",
+                                                "text": "Cancel",
+                                                "color": {
+                                                    "type": "GRAY"
+                                                },
+                                                "width": 74,
+                                                "height": null,
+                                                "position": {
+                                                    "x": 0,
+                                                    "y": 0
+                                                },
+                                                "backgroundColor": null
+                                            },
+                                            "children": []
+                                        },
+                                        {
+                                            "type": "BUTTON",
+                                            "data": {
+                                                "size": "M",
+                                                "text": "Confirm",
+                                                "color": {
+                                                    "type": "PRIMARY"
+                                                },
+                                                "width": 80,
+                                                "height": null,
+                                                "position": {
+                                                    "x": 82,
+                                                    "y": 0
+                                                }
+                                            },
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "ICON",
+                                    "data": {
+                                        "size": "M",
+                                        "color": {
+                                            "type": "NEUTRAL"
+                                        },
+                                        "width": null,
+                                        "height": null,
+                                        "position": {
+                                            "x": 336,
+                                            "y": 8
+                                        }
+                                    },
+                                    "children": []
+                                },
+                                {
+                                    "type": "AVATAR",
+                                    "data": {
+                                        "size": "M",
+                                        "text": "A",
+                                        "color": {
+                                            "type": "PRIMARY"
+                                        },
+                                        "width": 32,
+                                        "height": 32,
+                                        "position": {
+                                            "x": 16,
+                                            "y": 20
+                                        }
+                                    },
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "size": "M",
+                        "text": "It's empty here",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 609,
+                            "y": 576
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": "700"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "CONTAINER",
+                    "data": {
+                        "width": 128,
+                        "height": 128,
+                        "position": {
+                            "x": 694,
+                            "y": 424
+                        },
+                        "backgroundColor": {
+                            "type": "NEUTRAL"
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "ICON",
+                            "data": {
+                                "size": "XL",
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "width": null,
+                                "height": null,
+                                "position": {
+                                    "x": 40,
+                                    "y": 40
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "text": "Looks like this user hasn't had any activities yet",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": 516,
+                        "height": null,
+                        "position": {
+                            "x": 500,
+                            "y": 644
+                        },
+                        "textAlign": "CENTER",
+                        "fontWeight": ""
+                    },
+                    "children": []
+                },
+                {
+                    "type": "CONTAINER",
+                    "data": {
+                        "width": 640,
+                        "height": 805,
+                        "position": {
+                            "x": 421,
+                            "y": 17
+                        },
+                        "backgroundColor": {
+                            "type": "WHITE"
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "GROUP",
+                            "data": {
+                                "width": 575,
+                                "height": 182,
+                                "position": {
+                                    "x": 33,
+                                    "y": 175
+                                }
+                            },
+                            "children": [
+                                {
+                                    "type": "TEXT",
+                                    "data": {
+                                        "text": "Anna",
+                                        "color": {
+                                            "type": "NEUTRAL"
+                                        },
+                                        "width": null,
+                                        "height": null,
+                                        "position": {
+                                            "x": 147,
+                                            "y": 22
+                                        },
+                                        "textAlign": "LEFT",
+                                        "fontWeight": "700"
+                                    },
+                                    "children": []
+                                },
+                                {
+                                    "type": "BUTTON",
+                                    "data": {
+                                        "icon": {
+                                            "alignment": "LEFT"
+                                        },
+                                        "size": "M",
+                                        "text": "Reply",
+                                        "color": {
+                                            "type": "PRIMARY"
+                                        },
+                                        "width": 88,
+                                        "position": {
+                                            "x": 356,
+                                            "y": 46
+                                        }
+                                    },
+                                    "children": []
+                                },
+                                {
+                                    "type": "TEXT",
+                                    "data": {
+                                        "text": "90 Friends",
+                                        "color": {
+                                            "type": "NEUTRAL"
+                                        },
+                                        "width": null,
+                                        "height": null,
+                                        "position": {
+                                            "x": 153,
+                                            "y": 71
+                                        },
+                                        "textAlign": "LEFT",
+                                        "fontWeight": ""
+                                    },
+                                    "children": []
+                                },
+                                {
+                                    "type": "BUTTON",
+                                    "data": {
+                                        "icon": {
+                                            "alignment": "LEFT"
+                                        },
+                                        "size": "M",
+                                        "text": "Message",
+                                        "color": {
+                                            "type": "GRAY"
+                                        },
+                                        "width": 0,
+                                        "iconSize": null,
+                                        "position": {
+                                            "x": 456,
+                                            "y": 46
+                                        },
+                                        "backgroundColor": null
+                                    },
+                                    "children": []
+                                },
+                                {
+                                    "type": "AVATAR",
+                                    "data": {
+                                        "size": "XL",
+                                        "text": "A",
+                                        "color": {
+                                            "type": "PRIMARY"
+                                        },
+                                        "width": 100,
+                                        "height": 100,
+                                        "iconSize": null,
+                                        "position": {
+                                            "x": 11,
+                                            "y": 0
+                                        }
+                                    },
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "IMAGE",
+                            "data": {
+                                "width": 640,
+                                "height": 200,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            },
+                            "children": []
+                        },
+                        {
+                            "type": "GROUP",
+                            "data": {
+                                "width": 516,
+                                "height": 250,
+                                "position": {
+                                    "x": 44,
+                                    "y": 434
+                                }
+                            },
+                            "children": [
+                                {
+                                    "type": "CONTAINER",
+                                    "data": {
+                                        "width": 128,
+                                        "height": 128,
+                                        "position": {
+                                            "x": 194,
+                                            "y": 0
+                                        },
+                                        "backgroundColor": {
+                                            "type": "NEUTRAL"
+                                        }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ICON",
+                                            "data": {
+                                                "size": "XL",
+                                                "color": {
+                                                    "type": "NEUTRAL"
+                                                },
+                                                "width": null,
+                                                "height": null,
+                                                "position": {
+                                                    "x": 40,
+                                                    "y": 40
+                                                }
+                                            },
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "TEXT",
+                                    "data": {
+                                        "text": "It looks like this user hasn't had any activities yet",
+                                        "color": {
+                                            "type": "NEUTRAL"
+                                        },
+                                        "width": 516,
+                                        "height": null,
+                                        "position": {
+                                            "x": 0,
+                                            "y": 220
+                                        },
+                                        "textAlign": "CENTER",
+                                        "fontWeight": ""
+                                    },
+                                    "children": []
+                                },
+                                {
+                                    "type": "TEXT",
+                                    "data": {
+                                        "size": "M",
+                                        "text": "It's empty here",
+                                        "color": {
+                                            "type": "NEUTRAL"
+                                        },
+                                        "width": null,
+                                        "height": null,
+                                        "position": {
+                                            "x": 109,
+                                            "y": 152
+                                        },
+                                        "textAlign": "LEFT",
+                                        "fontWeight": "700"
+                                    },
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "GROUP",
+                            "data": {
+                                "width": 466,
+                                "height": 36,
+                                "position": {
+                                    "x": 79,
+                                    "y": 314
+                                }
+                            },
+                            "children": [
+                                {
+                                    "type": "GROUP",
+                                    "data": {
+                                        "width": 152,
+                                        "height": 36,
+                                        "position": {
+                                            "x": 314,
+                                            "y": 0
+                                        }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "BUTTON",
+                                            "data": {
+                                                "size": "M",
+                                                "text": "Accept",
+                                                "color": {
+                                                    "type": "PRIMARY"
+                                                },
+                                                "width": 71,
+                                                "height": null,
+                                                "position": {
+                                                    "x": 81,
+                                                    "y": 0
+                                                }
+                                            },
+                                            "children": []
+                                        },
+                                        {
+                                            "type": "BUTTON",
+                                            "data": {
+                                                "size": "M",
+                                                "text": "Decline",
+                                                "color": {
+                                                    "type": "GRAY"
+                                                },
+                                                "width": 73,
+                                                "height": null,
+                                                "position": {
+                                                    "x": 0,
+                                                    "y": 0
+                                                }
+                                            },
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "TEXT",
+                                    "data": {
+                                        "text": "Anna sends you a friend request",
+                                        "color": {
+                                            "type": "NEUTRAL"
+                                        },
+                                        "width": null,
+                                        "height": null,
+                                        "position": {
+                                            "x": 0,
+                                            "y": 4
+                                        },
+                                        "textAlign": "LEFT",
+                                        "fontWeight": ""
+                                    },
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 1920,
+        "height": 56,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "backgroundColor": {
+            "type": "WHITE"
+        }
+    },
+    "children": [
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1699,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "AVATAR",
+            "data": {
+                "size": "M",
+                "text": "A",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1739,
+                    "y": 10
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "XS",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 12,
+                "position": {
+                    "x": 1884,
+                    "y": 22
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "IMAGE",
+            "data": {
+                "width": 96,
+                "height": 36,
+                "position": {
+                    "x": 24,
+                    "y": 10
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "size": "M",
+                "text": "Amanda Smith",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": 97,
+                "position": {
+                    "x": 1781,
+                    "y": 17
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 1659,
+                    "y": 16
+                }
+            },
+            "children": []
+        },
+        {
+            "type": "HEADER_MENU",
+            "data": {
+                "size": "M",
+                "color": {
+                    "type": "PRIMARY"
+                },
+                "width": 553,
+                "height": null,
+                "position": {
+                    "x": 160,
+                    "y": 2
+                }
+            },
+            "children": [
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Home",
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Support",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Find a Gift",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "New releases",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "text": "Promotions",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                },
+                {
+                    "type": "HEADER_MENU_ITEM",
+                    "data": {
+                        "icon": null,
+                        "text": "Best-sellers",
+                        "color": null,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 1141,
+            "y": 1052
+        },
+        "from": {
+            "x": 501,
+            "y": 1051
+        },
+        "position": {
+            "x": 501,
+            "y": 1051
+        }
+    },
+    "children": []
+}
+]

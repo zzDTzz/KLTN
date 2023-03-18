@@ -1,0 +1,539 @@
+[{
+    "type": "TEXT",
+    "data": {
+        "text": "David",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 38,
+            "y": 239
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Clerisseau",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 38,
+            "y": 289
+        },
+        "textAlign": "LEFT",
+        "fontWeight": ""
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "Joined",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 270,
+            "y": 121
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "OVAL",
+    "data": {
+        "width": 95,
+        "height": 95,
+        "position": {
+            "x": 54,
+            "y": 94
+        },
+        "backgroundColor": {
+            "type": "SECONDARY"
+        }
+    },
+    "children": []
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "6",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 270,
+            "y": 141
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "700"
+    },
+    "children": []
+},
+{
+    "type": "GROUP",
+    "data": {
+        "width": 300,
+        "height": 66,
+        "position": {
+            "x": 37.875,
+            "y": 492
+        }
+    },
+    "children": [
+        {
+            "type": "GROUP",
+            "data": {
+                "width": 300,
+                "height": 66,
+                "position": {
+                    "x": 91,
+                    "y": 9
+                }
+            },
+            "children": [
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "text": "My Body",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 0,
+                            "y": 10
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": "700"
+                    },
+                    "children": []
+                },
+                {
+                    "type": "CONTAINER",
+                    "data": {
+                        "width": 48,
+                        "height": 48,
+                        "position": {
+                            "x": 161,
+                            "y": 0
+                        },
+                        "backgroundColor": {
+                            "type": "NEUTRAL"
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "ICON",
+                            "data": {
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "position": {
+                                    "x": 10,
+                                    "y": 10
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 66,
+                "height": 66,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": {
+                    "type": "CUSTOM"
+                }
+            },
+            "children": [
+                {
+                    "type": "ICON",
+                    "data": {
+                        "color": {
+                            "type": "CUSTOM"
+                        },
+                        "width": 40,
+                        "height": 40,
+                        "position": {
+                            "x": 13,
+                            "y": 13
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+},
+{
+    "type": "DIVIDER",
+    "data": {
+        "to": {
+            "x": 229,
+            "y": 96
+        },
+        "from": {
+            "x": 229,
+            "y": 179
+        },
+        "position": {
+            "x": 229,
+            "y": 96
+        }
+    },
+    "children": []
+},
+{
+    "type": "CONTAINER",
+    "data": {
+        "width": 150,
+        "height": 61,
+        "position": {
+            "x": 38,
+            "y": 715
+        },
+        "backgroundColor": {
+            "type": "NEUTRAL"
+        }
+    },
+    "children": [
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Sign Out",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 66,
+                    "y": 18
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        },
+        {
+            "type": "ICON",
+            "data": {
+                "color": {
+                    "type": "CUSTOM"
+                },
+                "position": {
+                    "x": 19,
+                    "y": 17
+                }
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "TEXT",
+    "data": {
+        "text": "mon ago",
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 284,
+            "y": 141
+        },
+        "textAlign": "LEFT",
+        "fontWeight": "400"
+    },
+    "children": []
+},
+{
+    "type": "GROUP",
+    "data": {
+        "width": 300,
+        "height": 66,
+        "position": {
+            "x": 37.875,
+            "y": 390
+        }
+    },
+    "children": [
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 48,
+                "height": 48,
+                "position": {
+                    "x": 252,
+                    "y": 9
+                },
+                "backgroundColor": {
+                    "type": "NEUTRAL"
+                }
+            },
+            "children": [
+                {
+                    "type": "ICON",
+                    "data": {
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "position": {
+                            "x": 10,
+                            "y": 10
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 66,
+                "height": 66,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": {
+                    "type": "PRIMARY"
+                }
+            },
+            "children": [
+                {
+                    "type": "ICON",
+                    "data": {
+                        "color": {
+                            "type": "PRIMARY"
+                        },
+                        "width": 66,
+                        "height": 66,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "TEXT",
+            "data": {
+                "text": "Goal",
+                "color": {
+                    "type": "NEUTRAL"
+                },
+                "width": null,
+                "height": null,
+                "position": {
+                    "x": 91,
+                    "y": 19
+                },
+                "textAlign": "LEFT",
+                "fontWeight": "700"
+            },
+            "children": []
+        }
+    ]
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 331,
+            "y": 22
+        }
+    },
+    "children": []
+},
+{
+    "type": "ICON",
+    "data": {
+        "color": {
+            "type": "NEUTRAL"
+        },
+        "width": null,
+        "height": null,
+        "position": {
+            "x": 24,
+            "y": 22
+        }
+    },
+    "children": []
+},
+{
+    "type": "SLIDER",
+    "data": {
+        "size": "XS",
+        "color": {
+            "type": "SECONDARY"
+        },
+        "value": {
+            "to": 33,
+            "from": 0
+        },
+        "width": 174,
+        "height": 28,
+        "position": {
+            "x": 38,
+            "y": 207
+        }
+    },
+    "children": []
+},
+{
+    "type": "GROUP",
+    "data": {
+        "width": 299.75,
+        "height": 66,
+        "position": {
+            "x": 38,
+            "y": 594
+        }
+    },
+    "children": [
+        {
+            "type": "GROUP",
+            "data": {
+                "width": 300,
+                "height": 66,
+                "position": {
+                    "x": 90.75,
+                    "y": 9
+                }
+            },
+            "children": [
+                {
+                    "type": "CONTAINER",
+                    "data": {
+                        "width": 48,
+                        "height": 48,
+                        "position": {
+                            "x": 161,
+                            "y": 0
+                        },
+                        "backgroundColor": {
+                            "type": "NEUTRAL"
+                        }
+                    },
+                    "children": [
+                        {
+                            "type": "ICON",
+                            "data": {
+                                "color": {
+                                    "type": "NEUTRAL"
+                                },
+                                "position": {
+                                    "x": 10,
+                                    "y": 10
+                                }
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "type": "TEXT",
+                    "data": {
+                        "text": "Settings",
+                        "color": {
+                            "type": "NEUTRAL"
+                        },
+                        "width": null,
+                        "height": null,
+                        "position": {
+                            "x": 0,
+                            "y": 10
+                        },
+                        "textAlign": "LEFT",
+                        "fontWeight": "700"
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "type": "CONTAINER",
+            "data": {
+                "width": 66,
+                "height": 66,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": {
+                    "type": "TERTIARY1"
+                }
+            },
+            "children": [
+                {
+                    "type": "ICON",
+                    "data": {
+                        "color": {
+                            "type": "SECONDARY"
+                        },
+                        "width": 38,
+                        "height": 38,
+                        "position": {
+                            "x": 14,
+                            "y": 14
+                        }
+                    },
+                    "children": []
+                }
+            ]
+        }
+    ]
+},
+{
+    "type": "AVATAR",
+    "data": {
+        "size": "XL",
+        "text": "A",
+        "color": {
+            "type": "TERTIARY1"
+        },
+        "width": 88,
+        "height": 88,
+        "iconSize": null,
+        "position": {
+            "x": 57,
+            "y": 97
+        },
+        "backgroundColor": null
+    },
+    "children": []
+}
+]
